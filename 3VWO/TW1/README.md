@@ -6,11 +6,11 @@ Hallo meneer van de Born. Dit is mijn planning. Nu f*ck off.
 
 | Dag  | Vak |
 | ------------- | ------------- |
-| WO  | **[[Scheikunde]]**, **[[Geschiedenis]]**  |
-| DO  | **[[Natuurkunde]]**, **[[Aardrijkskunde]]**  |
-| VR  | **Wiskunde**, **[[Duits]]** |
+| WO  | **[Scheikunde](Scheikunde)**, **[Geschiedenis](Geschiedenis)**  |
+| DO  | **[Natuurkunde](Natuurkunde)**, **[Aardrijkskunde](Aardrijkskunde)**  |
+| VR  | **Wiskunde**, **[Duits](Duits)** |
 |  | WEEKEND!! |
-| MA | **[[Rekenen]]**, **[[Economie]]** en **[[Biologie]]**  |
+| MA | **[Rekenen](Rekenen)**, **[Economie](Economie)** en **[Biologie](Biologie)**  |
 | DI  | Nederlands, **Frans**  |
 | WO  | Engels, BV  |
 

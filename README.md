@@ -4,38 +4,36 @@ Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaat
 
 ## 2VWO
 
-- [[School/2VWO/TW3/README | toetsweek 3]]
-- [[School/2VWO/TW4/README | toetsweek 4]]
+- [toetsweek 3](2VWO/TW3)
+- [toetsweek 4](2VWO/TW4)
 
------
 
-- [[BIO - eetdagboek]]
-- [[NL - betoog (4 juni)]]
-- [[NL - hoofd- en bijzaken]]
-- [[NL - argumenten (14 juni)]]
-- [[GES - PO Franse Revolutie]]
+- [BIO - eetdagboek](2VWO/Misc/BIO - eetdagboek)
+- [NL - betoog (4 juni)](2VWO/Misc/NL - betoog (4 juni))
+- [NL - hoofd- en bijzaken](2VWO/Misc/NL - hoofd- en bijzaken)
+- [NL - argumenten (14 juni)](2VWO/Misc/NL - argumenten (14 juni))
+- [GES - PO Franse Revolutie](2VWO/Misc/GES - PO Franse Revolutie)
 
 ## 3VWO
 
-- [[School/3VWO/TW1/README | toetsweek 1]]
-- [[School/3VWO/TW2/README | toetsweek 2]]
-- [[School/3VWO/TW3/README | toetsweek 3]]
-- [[School/3VWO/TW4/README | toetsweek 4]]
+- [toetsweek 1](3VWO/TW1)
+- [toetsweek 2](3VWO/TW2)
+- [toetsweek 3](3VWO/TW3)
+- [toetsweek 4](3VWO/TW4)
 
------
 
-- [[FA - gram H?]]
-- [[FA - gram H1]]
-- [[GES - PO 50s-70s]]
-- [[GES - PO notes]]
-- [[DU - naamvallen]]
-- [[DU - lidwoorden]]
-- [[DU - werkwoorden]]
-- [[ECO - samenvatting H1]]
-- [[SCHEI - scheidingsmethodes]]
-- [[EN - script boekverslag video]]
-- [[NL - reactie op "Kom naar huis"]]
-- [[NL - boekrecensie]]
-- [[NL - En what about the ~~bitches~~ vrouwen?]]
+- [FA - gram H?](3VWO/Misc/FA - gram H%3F)
+- [FA - gram H1](3VWO/Misc/FA - gram H1)
+- [GES - PO 50s-70s](3VWO/Misc/GES - PO 50s-70s)
+- [GES - PO notes](3VWO/Misc/GES - PO notes)
+- [DU - naamvallen](3VWO/Misc/DU - naamvallen)
+- [DU - lidwoorden](3VWO/Misc/DU - lidwoorden)
+- [DU - werkwoorden](3VWO/Misc/DU - werkwoorden)
+- [ECO - samenvatting H1](3VWO/Misc/ECO - samenvatting H1)
+- [SCHEI - scheidingsmethodes](3VWO/Misc/SCHEI - scheidingsmethodes)
+- [EN - script boekverslag video](3VWO/Misc/EN - script boekverslag video)
+- [NL - reactie op "Kom naar huis"](3VWO/Misc/NL - reactie op %22Kom naar huis%22)
+- [NL - boekrecensie](3VWO/Misc/NL - boekrecensie)
+- [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL - En what about the ~~bitches~~ vrouwen%3F)
 
 Success met leren!

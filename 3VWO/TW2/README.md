@@ -6,13 +6,13 @@ Dit is een 'living document'. Latere versies zal ik niet uploaden.
 
 | Dag | Vak |
 | ------------- | ------------- |
-| WO  | ~~Engels~~, ~~[[Beeldende vormgeving]]~~              |
-| DO  | ~~[[Nederlands]]~~, ~~Frans~~       |
-| VR  | [[Economie]], ~~[[Biologie]]~~, ~~Rekenen~~ |
+| WO  | ~~Engels~~, ~~[Beeldende vormgeving](Beeldende vormgeving)~~              |
+| DO  | ~~[Nederlands](Nederlands)~~, ~~Frans~~       |
+| VR  | [Economie](Economie), ~~[Biologie](Biologie)~~, ~~Rekenen~~ |
 |  | WEEKEND!! |
 | MA  | Wiskunde, Duits  |
-| DI  | [[Natuurkunde (v2) | Natuurkunde]], ~~[[Aardrijkskunde]]~~  |
-| WO  | [[Scheikunde]], [[Geschiedenis]]  |
+| DI  | [Natuurkunde](Natuurkunde (v2)), ~~[Aardrijkskunde](Aardrijkskunde)~~  |
+| WO  | [Scheikunde](Scheikunde), [Geschiedenis](Geschiedenis)  |
 
 ## Prioriteiten
 

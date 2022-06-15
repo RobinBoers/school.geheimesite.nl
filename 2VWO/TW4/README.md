@@ -4,11 +4,11 @@
 
 | Dag  | Vak |
 | ------------- | ------------- |
-| WO  | [[Wiskunde]], Duits  |
-| DO  | [[Rekenen]], [[Muziek]]  |
-| VR  | [[NST]], [[Geschiedenis]]  |
+| WO  | [Wiskunde](Wiskunde), Duits  |
+| DO  | [Rekenen](Rekenen), [Muziek](Muziek)  |
+| VR  | [NST](NST), [Geschiedenis](Geschiedenis)  |
 | ------------- | ------------- |
-| MA | [[Biologie]], [[Aardrijkskunde]]  |
+| MA | [Biologie](Biologie), [Aardrijkskunde](Aardrijkskunde)  |
 | DI  | Nederlands, Frans  |
 | WO  | Engels  |
 
