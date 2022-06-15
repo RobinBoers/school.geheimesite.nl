@@ -4,36 +4,38 @@ Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaat
 
 ## 2VWO
 
-- [toetsweek 3](2VWO/TW3)
-- [toetsweek 4](2VWO/TW4)
+- [toetsweek 3](2VWO/TW3/README)
+- [toetsweek 4](2VWO/TW4/README)
 
+ ⠀
 
-- [BIO - eetdagboek](2VWO/Misc/BIO - eetdagboek)
-- [NL - betoog (4 juni)](2VWO/Misc/NL - betoog (4 juni))
-- [NL - hoofd- en bijzaken](2VWO/Misc/NL - hoofd- en bijzaken)
-- [NL - argumenten (14 juni)](2VWO/Misc/NL - argumenten (14 juni))
-- [GES - PO Franse Revolutie](2VWO/Misc/GES - PO Franse Revolutie)
+- [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek)
+- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog (4 juni))
+- [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
+- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten (14 juni))
+- [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
 
 ## 3VWO
 
-- [toetsweek 1](3VWO/TW1)
-- [toetsweek 2](3VWO/TW2)
-- [toetsweek 3](3VWO/TW3)
-- [toetsweek 4](3VWO/TW4)
+- [toetsweek 1](3VWO/TW1/README)
+- [toetsweek 2](3VWO/TW2/README)
+- [toetsweek 3](3VWO/TW3/README)
+- [toetsweek 4](3VWO/TW4/README)
 
+ ⠀
 
-- [FA - gram H?](3VWO/Misc/FA - gram H%3F)
-- [FA - gram H1](3VWO/Misc/FA - gram H1)
-- [GES - PO 50s-70s](3VWO/Misc/GES - PO 50s-70s)
-- [GES - PO notes](3VWO/Misc/GES - PO notes)
-- [DU - naamvallen](3VWO/Misc/DU - naamvallen)
-- [DU - lidwoorden](3VWO/Misc/DU - lidwoorden)
-- [DU - werkwoorden](3VWO/Misc/DU - werkwoorden)
-- [ECO - samenvatting H1](3VWO/Misc/ECO - samenvatting H1)
-- [SCHEI - scheidingsmethodes](3VWO/Misc/SCHEI - scheidingsmethodes)
-- [EN - script boekverslag video](3VWO/Misc/EN - script boekverslag video)
-- [NL - reactie op "Kom naar huis"](3VWO/Misc/NL - reactie op %22Kom naar huis%22)
-- [NL - boekrecensie](3VWO/Misc/NL - boekrecensie)
-- [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL - En what about the ~~bitches~~ vrouwen%3F)
+- [FA - gram H?](3VWO/Misc/FA%20-%20gram%20Hx)
+- [FA - gram H1](3VWO/Misc/FA%20-%20gram%20H1)
+- [GES - PO 50s-70s](3VWO/Misc/GES%20-%20PO%2050s-70s)
+- [GES - PO notes](3VWO/Misc/GES%20-%20PO%20notes)
+- [DU - naamvallen](3VWO/Misc/DU%20-%20naamvallen)
+- [DU - lidwoorden](3VWO/Misc/DU%20-%20lidwoorden)
+- [DU - werkwoorden](3VWO/Misc/DU%20-%20werkwoorden)
+- [ECO - samenvatting H1](3VWO/Misc/ECO%20-%20samenvatting%20H1)
+- [SCHEI - scheidingsmethodes](3VWO/Misc/SCHEI%20-%20scheidingsmethodes)
+- [EN - script boekverslag video](3VWO/Misc/EN%20-%20script%20boekverslag%20video)
+- [NL - reactie op "Kom naar huis"](3VWO/Misc/NL%20-%20reactie%20op%20%22Kom%20naar%20huis%22)
+- [NL - boekrecensie](3VWO/Misc/NL%20-%20boekrecensie)
+- [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL%20-%20En%20what%20about%20the%20~~bitches~~%20vrouwen)
 
 Success met leren!

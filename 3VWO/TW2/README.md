@@ -11,7 +11,7 @@ Dit is een 'living document'. Latere versies zal ik niet uploaden.
 | VR  | [Economie](Economie), ~~[Biologie](Biologie)~~, ~~Rekenen~~ |
 |  | WEEKEND!! |
 | MA  | Wiskunde, Duits  |
-| DI  | [Natuurkunde](Natuurkunde (v2)), ~~[Aardrijkskunde](Aardrijkskunde)~~  |
+| DI  | [Natuurkunde](Natuurkunde%20%28v2%29), ~~[Aardrijkskunde](Aardrijkskunde)~~  |
 | WO  | [Scheikunde](Scheikunde), [Geschiedenis](Geschiedenis)  |
 
 ## Prioriteiten
