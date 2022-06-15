@@ -1,5 +1,7 @@
 # Nederland na 1945
 
+Dit is een samenvatting van geschiedenis geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
+
 ## Handen uit de mouwen
 
 Na de Tweede Wereldoorlog was een groot deel van Nederland verwoest, en meer dan de helft van de bevolking had zijn huis verloren. Nederland kreeg Marshallhulp om de wederopbouw the financieren. Er werden ook ineens heel veel kinderen geboren door een babyboom. Hierdoor moest er ook meer eten geproduceerd worden. Het doel was veel voedsel tegen een lage prijs verbouwen, waardoor schaalvergroting en specialisatie ontstond.

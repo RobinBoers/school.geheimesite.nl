@@ -1,5 +1,5 @@
-Frans grammatica
-------
+# Frans grammatica (H?)
+
 Vaste vorm onregelmatige werkwoorden in de _futur simple_ en werkwoorden die met être vervoegd worden in de _passé composé_.
 
 ## Onregelmatige ww futur simple

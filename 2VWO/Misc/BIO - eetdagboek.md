@@ -1,4 +1,4 @@
-## Eten
+# Eetdagboek
 
 Dit is ongeveer wat ik per dag eet. Gemeten voor een eet-dagboek van Biologie in 2020.
 

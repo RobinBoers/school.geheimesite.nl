@@ -1,4 +1,4 @@
-## Scheidingsmethodes
+# Scheidingsmethodes
 
 Alle scheidingsmethoden die geleerd moeten worden voor het practicum SO scheikunde. Leerjaar 3VWO (2021).
 

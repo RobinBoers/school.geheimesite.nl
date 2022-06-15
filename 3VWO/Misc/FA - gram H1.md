@@ -1,5 +1,5 @@
-Frans grammatica
-------
+# Frans grammatica (H1)
+
 Bezittelijk voornaamwoord en onregelmatige werkwoorden op -ir
 
 ## Bezittelijk voornaamwoord

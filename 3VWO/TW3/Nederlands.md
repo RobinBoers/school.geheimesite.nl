@@ -1,6 +1,6 @@
-Leeroverzich lezen voor Nederlands. Geschreven door Robin Boers, 2 uur voor de toets van toetsweek 3 leerjaar 3VWO.
+# Tekstverbanden
 
-## Tekstverbanden
+Leeroverzich lezen voor Nederlands. Geschreven door Robin Boers, 2 uur voor de toets van toetsweek 3 leerjaar 3VWO.
 
 - **Chronologisch**: later, daarna, toen
 - **Concluderend**: dus, dat betekent

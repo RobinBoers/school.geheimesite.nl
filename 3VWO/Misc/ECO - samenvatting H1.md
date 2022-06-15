@@ -1,3 +1,5 @@
+# Samenvatting economie (H1)
+
 Samenvatting economie. Hoofdstuk 1 van Pincode 3VWO.
 
 ### Behoeften, uitgaven en inkomen

@@ -1,6 +1,5 @@
 Boekrecensie: 
-De Gave – Sprong in het Duister
------
+# De Gave – Sprong in het Duister
 
 Dit is een recensie over het boek “De Gave – Sprong in het duister” van Bies van Ede. Let op dat er in deze review misschien spoilers staan!
 
