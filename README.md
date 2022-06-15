@@ -2,27 +2,14 @@
 
 Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaats hier mijn samenvatting zodat ik ze niet iedere keer als PDF in de groepsapp hoef te sturen 😅. Je kan de site zelf navigeren met onderstaande navigatie:
 
-## 2VWO
-
-- [toetsweek 3](2VWO/TW3/README)
-- [toetsweek 4](2VWO/TW4/README)
-
- ⠀
-
-- [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek)
-- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog%20%284%20juni%29)
-- [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
-- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29)
-- [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
-
 ## 3VWO
 
-- [toetsweek 1](3VWO/TW1/README)
-- [toetsweek 2](3VWO/TW2/README)
-- [toetsweek 3](3VWO/TW3/README)
-- [toetsweek 4](3VWO/TW4/README)
+- [toetsweek 1](3VWO/TW1/README.md)
+- [toetsweek 2](3VWO/TW2/README.md)
+- [toetsweek 3](3VWO/TW3/README.md)
+- [toetsweek 4](3VWO/TW4/README.md)
 
- ⠀
+#### Misc
 
 - [FA - gram H?](3VWO/Misc/FA%20-%20gram%20Hx)
 - [FA - gram H1](3VWO/Misc/FA%20-%20gram%20H1)
@@ -37,5 +24,23 @@ Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaat
 - [NL - reactie op "Kom naar huis"](3VWO/Misc/NL%20-%20reactie%20op%20%22Kom%20naar%20huis%22)
 - [NL - boekrecensie](3VWO/Misc/NL%20-%20boekrecensie)
 - [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL%20-%20En%20what%20about%20the%20~~bitches~~%20vrouwen)
+
+
+
+
+## 2VWO
+
+- [toetsweek 3](2VWO/TW3/README.md)
+- [toetsweek 4](2VWO/TW4/README.md)
+
+#### Misc
+
+- [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek)
+- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog%20%284%20juni%29)
+- [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
+- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29)
+- [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
+
+
 
 Success met leren!
