@@ -1,6 +1,6 @@
 ## Vermogen en financiele situatie
 
-Tijdens je leven maak je veel financiele beslissingen die impact hebben op je vermogen.
+Tijdens je leven maak je veel financiele beslissingen die impact hebben op je vermogen. 
 
 Het uitstellen of vervroegen van consumptie noemen we ruilen over de tijd. Je geeft dan nu geld uit wat je nog niet hebt, wat je later terugverdient. Of je invensteert geld in de hoop dat je het later weer terugkrijgt. Bij ruilen over de tijd maak je vaak kosten, vaak in de vorm van rente.
 
