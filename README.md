@@ -10,9 +10,9 @@ Dit is een website die ik even snel heb gemaakt voor mijn school stuff. Ik plaat
  ⠀
 
 - [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek)
-- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog (4 juni))
+- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog%20%284%20juni%29)
 - [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
-- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten (14 juni))
+- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29)
 - [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
 
 ## 3VWO
