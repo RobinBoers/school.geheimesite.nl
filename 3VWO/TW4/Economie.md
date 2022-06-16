@@ -1,6 +1,6 @@
 # TW4: Economie
 
-Dit is een samenvatting van H? van economie. Geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
+Dit is een samenvatting van H7 van economie. Geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
 
 ## Vermogen en financiele situatie
 

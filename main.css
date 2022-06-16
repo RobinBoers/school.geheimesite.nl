@@ -1,213 +1,242 @@
 @import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fira+Sans+Condensed:ital,wght@1,200&family=Merriweather&family=Poppins:wght@600&display=swap");
 
 body {
-  padding-bottom: 30px;
-  min-height: fit-content;
+    padding-bottom: 30px;
+    min-height: fit-content;
 }
 
 @media screen and (min-width: 900px) {
-  html,
-        .root {
-    font-size: 21px;
-    line-height: 33px;
-  }
+    html,
+    .root {
+        font-size: 21px;
+        line-height: 33px;
+    }
 
-  body {
-    max-width: 40%;
-    margin: 0 auto;
+    body {
+        max-width: 40%;
+        margin: 0 auto;
 
-    font-size: 21px;
-    line-height: 33px;
-    font-family: Merriweather, Georgia, serif;
-  }
+        font-size: 21px;
+        line-height: 33px;
+        font-family: Merriweather, Georgia, serif;
+    }
 
-  h1,
-        .h1 {
-    font-size: 42px;
-    line-height: 66px;
-    margin-top: 33px;
-    margin-bottom: 33px;
-    font-family: Poppins, sans-serif;
-  }
+    h1,
+    .h1 {
+        font-size: 42px;
+        line-height: 66px;
+        margin-top: 33px;
+        margin-bottom: 33px;
+        font-family: Poppins, sans-serif;
+    }
 
-  h2,
-        .h2 {
-    font-size: 30px;
-    line-height: 33px;
-    margin-top: 33px;
-    margin-bottom: 33px;
-    font-family: Fira Sans Condensed, sans-serif;
-  }
+    h2,
+    .h2 {
+        font-size: 30px;
+        line-height: 33px;
+        margin-top: 33px;
+        margin-bottom: 33px;
+        font-family: "Fira Sans Condensed", sans-serif;
+    }
 
-  h3,
-        .h3 {
-    font-size: 25px;
-    line-height: 66px;
-    /* 33px */
-    margin-top: 33px;
-    margin-bottom: 0;
-  }
+    h3,
+    .h3 {
+        font-size: 25px;
+        line-height: 66px;
+        /* 33px */
+        margin-top: 33px;
+        margin-bottom: 0;
+    }
 
-  h4,
-        .h4 {
-    font-size: 21px;
-    line-height: 33px;
-    margin-top: 33px;
-    margin-bottom: 0;
-  }
+    h4,
+    .h4 {
+        font-size: 21px;
+        line-height: 33px;
+        margin-top: 33px;
+        margin-bottom: 0;
+    }
 
-  h5,
-        .h5 {
-    font-size: 21px;
-    line-height: 33px;
-    margin-top: 33px;
-    margin-bottom: 0;
-  }
+    h5,
+    .h5 {
+        font-size: 21px;
+        line-height: 33px;
+        margin-top: 33px;
+        margin-bottom: 0;
+    }
 
-  p,
-        ul,
-        ol,
-        pre,
-        table,
-        blockquote {
-    margin-top: 0;
-    margin-bottom: 33px;
-  }
+    p,
+    ul,
+    ol,
+    pre,
+    table,
+    blockquote {
+        margin-top: 0;
+        margin-bottom: 33px;
+    }
 
-  ul ul,
-        ol ol,
-        ul ol,
-        ol ul {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
+    ul ul,
+    ol ol,
+    ul ol,
+    ol ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
 
 /** Smaller screens **/
 
 @media screen and (max-width: 900px) {
-  html,
-        .root {
-    font-size: 18px;
-    line-height: 28px;
-  }
+    html,
+    .root {
+        font-size: 18px;
+        line-height: 28px;
+    }
 
-  body {
-    font-size: 18px;
-    line-height: 28px;
-    font-family: Merriweather, Georgia, serif;
-  }
+    body {
+        font-size: 18px;
+        line-height: 28px;
+        font-family: Merriweather, Georgia, serif;
+    }
 
-  h1,
-        .h1 {
-    font-size: 36px;
-    line-height: 56px;
-    margin-top: 28px;
-    margin-bottom: 28px;
-    font-family: Poppins, sans-serif;
-  }
+    h1,
+    .h1 {
+        font-size: 36px;
+        line-height: 56px;
+        margin-top: 28px;
+        margin-bottom: 28px;
+        font-family: Poppins, sans-serif;
+    }
 
-  h2,
-        .h2 {
-    font-size: 29px;
-    line-height: 28px;
-    margin-top: 28px;
-    margin-bottom: 28px;
-    font-family: Fira Sans Condensed, sans-serif;
-  }
+    h2,
+    .h2 {
+        font-size: 29px;
+        line-height: 28px;
+        margin-top: 28px;
+        margin-bottom: 28px;
+        font-family: "Fira Sans Condensed", sans-serif;
+    }
 
-  h3,
-        .h3 {
-    font-size: 23px;
-    line-height: 56px;
-    margin-top: 28px;
-    margin-bottom: 0px;
-  }
+    h3,
+    .h3 {
+        font-size: 23px;
+        line-height: 56px;
+        margin-top: 28px;
+        margin-bottom: 0;
+    }
 
-  h4,
-        .h4 {
-    font-size: 18px;
-    line-height: 28px;
-    margin-top: 28px;
-    margin-bottom: 0px;
-  }
+    h4,
+    .h4 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 28px;
+        margin-bottom: 0;
+    }
 
-  h5,
-        .h5 {
-    font-size: 18px;
-    line-height: 28px;
-    margin-top: 28px;
-    margin-bottom: 0px;
-  }
+    h5,
+    .h5 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 28px;
+        margin-bottom: 0;
+    }
 
-  p,
-        ul,
-        ol,
-        pre,
-        table,
-        blockquote {
-    margin-top: 0px;
-    margin-bottom: 28px;
-  }
+    p,
+    ul,
+    ol,
+    pre,
+    table,
+    blockquote {
+        margin-top: 0;
+        margin-bottom: 28px;
+    }
 
-  ul ul,
-        ol ol,
-        ul ol,
-        ol ul {
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
+    ul ul,
+    ol ol,
+    ul ol,
+    ol ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
 
-/** Let's make sure all's aligned **/
+/* Let's make sure all's aligned */
 
 hr,
-    .hr {
-  margin: -1px 0;
+.hr {
+    margin: -1px 0;
 }
 
 a,
-    b,
-    i,
-    strong,
-    em,
-    small,
-    code {
-  line-height: 0;
+b,
+i,
+strong,
+em,
+small,
+code {
+    line-height: 0;
 }
 
 sub,
-    sup {
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
+sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
 }
 
 sup {
-  top: -0.5em;
+    top: -0.5em;
 }
 
 sub {
-  bottom: -0.25em;
+    bottom: -0.25em;
 }
 
-figure{
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+figure {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
-figcaption{
-  text-align: center;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-style: italic;
-  --tw-brightness: brightness(1.25);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+figcaption {
+    text-align: center;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-style: italic;
 }
 
-@media (prefers-color-scheme: dark){
-  figcaption{
-    --tw-brightness: brightness(.75);
-    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  }
+/* Footer */
+
+footer {
+    color: rgb(87, 87, 87);
+    font-size: 80%;
+    font-family: sans-serif;
+    margin-top: 80px;
+}
+
+footer {
+    line-height: 23px;
+}
+
+footer a {
+    color: rgb(69, 69, 69);
+}
+
+footer svg {
+    height: 1em;
+    vertical-align: middle;
+}
+
+footer .author {
+    line-height: 40px;
+}
+
+footer .license-icon {
+    float: right;
+}
+
+.footnotes {
+    font-size: 70%;
+    color: gray;
+    border-top: 1px solid rgb(174, 174, 174);
+    padding: 5px;
+    margin-top: 50px;
 }
