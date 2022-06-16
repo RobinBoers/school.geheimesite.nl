@@ -6,7 +6,7 @@ Dit is een 'living document'. Latere versies zal ik niet uploaden.
 
 | Dag | Vak |
 | ------------- | ------------- |
-| WO  | ~~Engels~~, ~~[Beeldende vormgeving](Beeldende vormgeving)~~              |
+| WO  | ~~Engels~~, ~~[Beeldende vormgeving](Beeldende%20vormgeving)~~              |
 | DO  | ~~[Nederlands](Nederlands)~~, ~~Frans~~       |
 | VR  | [Economie](Economie), ~~[Biologie](Biologie)~~, ~~Rekenen~~ |
 |  | WEEKEND!! |
