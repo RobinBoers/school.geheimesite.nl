@@ -236,7 +236,17 @@ footer .license-icon {
 .footnotes {
     font-size: 70%;
     color: gray;
-    border-top: 1px solid rgb(174, 174, 174);
+    border-top: 2px solid #ddd;
     padding: 5px;
     margin-top: 50px;
+    padding-top: 20px;
+}
+
+.footnotes li {
+    line-height: 22px;
+    font-family: sans-serif;
+}
+
+.footnotes li:not(:last-child) {
+    margin-bottom: 30px;
 }
