@@ -17,13 +17,20 @@ Je hebt verschillende schaalniveau's binnen de ecologie:
 - **Biosfeer**: het deel van de aarde die leven bevat (_van 10km hoog tot 10km in de grond_)
 
 
-Een voedselketen bestaat uit organismes die elkaar eten. De eerste schakel is **altijd** een plant (een producent), want die zet zonlicht om in energie (=fotosynthese met de bladgroenkorrels). De tweede schakel (een consument van de 1e orde) is altijd een planteneter en vanaf daar zijn het canivoren en alleseters (consumenten van de 2e+ orde).
+Een voedselketen bestaat uit organismes die elkaar eten. De eerste schakel is **altijd** een plant, want die zet zonlicht om in energie. De tweede schakel is altijd een planteneter en vanaf daar zijn het canivoren en alleseters.
+
+De plaats in de voedselketen noemen we het trofische niveau. De planten zijn producenten en ze zijn autoroof, want ze kunnen zelf energierijke stoffen maken dmv. fotosynthese (bladgroenkorrels). Consumenten zijn heteroroof, want ze moeten andere organismes eten om energie te vergaren. Je hebt dus:
+
+- Een producent, eerste trofisch niveau
+- Consument van de 1e orde, tweede trofisch niveau
+- Consument van de 2e orde, derde trofisch niveau
+enz.
+
+Met elk trofisch niveau neemt de biomassa van het organisme af.
 
 Als dieren doodgaan zonder opgegeten te worden worden ze vaak opgeruimd door afvaleters (ook consumenten). De resten worden vervolgens afgebroken door reducenten (schimmels en bacteriën) en omgezet in voedingsstoffen in de bodem. Hierdoor ontstaat er een kringloop (want de producenten gebruiken de voedingsstoffen weer). Dingen die reducenten kunnen afbreken zijn biologisch afbreekbaar. Dingen die ze niet kunnen afbreken (zoals plastic, glas of metaal) zijn niet-biologisch afbreekbaar.
 
 Meerdere voedselketens gemixt noemen we een voedselweb/voedselnet.
-
-Producenten zijn autoroof, want ze produceren zelf energie. Consumenten zijn heteroroof, want ze moeten zich voeden met andere organismes om energie te verwerven.
 
 Als je een piramide van biomassa tekent is het altijd een piramide (onder groot, boven klein), want je kan nooit meer massa hebben dan de dingen die je eet, want massa kan niet uit het niks ontstaan.
 
@@ -162,6 +169,14 @@ Om gewassen te beschermen tegen ongedierte heb je twee technieken:
 Het nadeel van chemische gewasbescherming is dat er altijd wel een paar insecten overleven, en vaak zijn dat de insecten die geen last hadden van de biociden. Daardoor kan de insectensoort steeds beter tegen een biociden. Dit noemen we resistentie.
 
 Biociden kunnen ook in de voedselketen terechtkomen, waardoor er accumulatie kan plaatsvinden.
+
+## Energiestroom
+
+Als energie in een voedselketen wordt doorgegeven aan het volgende trofisch niveau noemen we dat een energiestroom. Glucose is een energierijke stof: als je het verbrandt komt er energie vrij.
+
+Alle energie die verbrand wordt voor bijvoorbeeld groeien of bewegen gaat verloren als warmte. Dit verklaart ook waarom een hoger trofisch niveau nooit meer biomassa kan hebben dan het vorige trofische niveau: je kan simpelweg geen massa groeien als je de energie niet hebt, en het vorige niveau heeft altijd meer energie ter beschikking.
+
+Als een dier dood gaat zonder opgegeten te worden verdwijnen die energierijke stoffen uit de voedselketen. Ze worden vervolgens door reducenten afgebroken waarna ze als water en CO<sub>2</sub> weer in de voedselketen komen (via planten ofc).
 
 
 [^1]: Eigenlijk gek dat we daarbij geen rekening mee houden dat er ook nog ruimte moet zijn voor andere soorten. Als we de aarde precies verdelen en iedereen een stukje geven, waar moeten al die bedreigde diersoorten dan leven. Ik denk dat precies deze mindset het probleem is. De aarde is niet alleen van de mens.
