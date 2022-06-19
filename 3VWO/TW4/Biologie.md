@@ -81,4 +81,91 @@ _Dit is ook een bedreiging voor ons, want we hebben de natuur nodig om te overle
 
 Herintroductie is het terugbrengen van een soort in een gebied. Dit is een vorm van natuurbeheer: alle maatregelen om de natuur (gebieden niet gebruikt voor wonen, werken, landbouw of verkeer) te behouden, beschermen en herstellen. 
 
-**LET OP: NOG NIET AF. IK HEB BS5 TM 8 NOG NIET SAMENGEVAT.**
+## Mens en milieu
+
+De mens tast het mileu aan (milieuproblemen) op 2 manieren:
+
+- **Uitputting**: we maken eindige grondstoffen zoals fossiele brandstoffen op. We gebruiken ook monoculturen, waardoor de bodem uitgeput raakt en de kans op plagen groter wordt.
+
+- **Vervuiling**: door bijv. het gebruik van kunstmest komt er veel stikstof in de lucht. Dit is een vorm van luchtvervuiling (andere vormen van luchtvervuiling zijn fijnstof en smog). Ook het dumpen van giftige stoffen uit de chemische industrie is een vorm van vervuiling: bodemvervuiling. We gebruiken ook chemische gewasbeschermingsmiddelen, die in bijv. het slootwater terecht kunnen komen (watervervuiling). Door deze vervuiling worden organismes die normaal in een schoon leefgebied leven bedreigd. Daarnaast is het ook gevaarlijk voor de mens: wij gebruiken ook water om te drinken en ons voedsel te verbouwen.
+
+_Ik heb geen zin om het versterkt broeikaseffect uit te leggen, iedereen weet t al. Je weet wel, broeikasgassen houden warmte in de atmosfeer vast, meer broeikassen is grote kut want meer warmte blah blah blah._
+
+Het versterkt broeikaseffect leid tot klimaatverandering (een verandering in het gemiddelde weer over een langere periode), want de gemiddelde temperatuur stijgt. Dit is niet fijn, want:
+
+- Zeespiegel stijgt -> overstromingen
+	- Landbouwgrond gaat verloren
+	- Klimaatvluchtelingen
+- Biodiversiteit neemt af
+	- Door bosbranden
+	- Omdat koraal verdwijnt	
+	- Ecosystemen verdwijnen
+- Extremer weer
+	- Verwoestijning
+	- Orkanen
+	- Grote stormen (-> groter overstromingsgevaar)
+	- Droogte (zee stroomt in rivieren -> verzilting)
+- Verzuring oceanen
+
+
+## Duurzaamheid
+
+Je ecologische voetafdruk is de ruimte die nodig is voor jou om te leven. Dit omvat je uiteraard je woonruimte, school etc., maar ook de ruimte die nodig is om al de producten en voedsel die je gebruikt te produceren. Er is voor ieder mens 1.7 ha beschikbaar[^1] als we de aarde eerlijk verdelen. We gebruiken nu gemiddeld 2.6 ha[^2] per mens.
+
+Duurzaamheid is:
+
+- Niet meer uit het milieu halen dan het kan aanvullen (geen uitputting)
+- Niet meer in het milieu stoppen dan het kan verwerken (geen vervuiling)
+
+Bioindustrie is intensieve veeteelt waarbij een zo hoog mogelijke opbrengst met zo laag mogelijke kosten centraal staat. Er is geen aandacht voor duurzaamheid of dierwelzijn.
+
+Om de milieuproblemen op te lossen hebben we duurzame ontwikkeling nodig: gebruiken wat we nodig hebben voor ons leven, maar de planeet in dezelfde staat (of beter 😉) door te geven aan de volgende generatie. Voorbeelden hiervan zijn: 
+
+1. **Duurzame energie**: windmolens, zonne-energie, aardwarmte, biomassa en waterkracht zijn goede alternatieven voor fossiele brandstoffen[^3].
+
+2. **Efficiënter gebruik van grondstoffen**: we moeten producten hergebruiken, dmv. bijv. kringloopwinkels. We moeten ook producten recyclen zodat we de grondstoffen opnieuw kunnen gebruiken. We moeten van fast-fashion af (elk jaar een nieuwe kleur/stijl for no reason). Ook moeten we producten langer gebruiken en laten repareren als het kapot is.
+
+3. **Duurzame landbouw**: alternatieven voor bioindustrie zijn stadslandbouw, verticale landbouw (gestapelde bakken met planten erin), precisielandbouw waarbij elke plant precies zoveel water en voeding krijgt als ie nodig heeft om verspilling/verlies te voorkomen, kringlooplandbouw waarbij niet de grote goedkope hoeveelheid voedsel als doel, maar duurzame omgang met het milieu en tot slot biologische landbouw waarbij geen kunstmest, gewasbescherming, monoculturen of onnodige medicijnen worden gebruikt. Er is hier wel meer grond voor nodig, dus zijn biologische producten duurder.
+
+4. **Minder vervuiling**: moet ik dit echt uitleggen? gooi gewoon je fucking troep in de prullenbak en lever die statiegeldflesjes in. please. hoe moeilijk kan het zijn. andere manieren om bijv. luchtvervuiling te verminderen:
+	- Minder scooter- en autorijden
+	- Geen vuurwerk afsteken
+	- Geen hout stoken
+	
+	(Succes om mensen zo ver te krijgen haha)
+
+
+5. **Minder broeikasgassen**: 
+	- Minder energie gebruiken
+	- Gebouwen isoleren
+	- Aanpassingen aan de veeteelt
+
+## Landbouw
+
+Je hebt 3 soorten landbouw:
+
+- Veeteelt
+- Akkerbouw
+- Tuinbouw
+
+We geven landbouw dingen speciale namen, want boeren willen ook cool lijken. Dus noemen we planten _voedingsgewassen_ en dieren _landbouwhuisdieren_.
+
+Een monocultuur is als er maar één gewas op een stuk grond wordt verbouwd. Dit heeft een aantal voordelen: goedkoop (oh, dat is het enige). Het heeft ook nadelen: grote kans op plagen, bodem wordt uitgeput, ziektes kunnen makkelijker worden verspreid. Een oplossing hiervoor is elk jaar van gewas wisselen. Dit noemen we vruchtwisseling. Hierdoor kunnen plagen niet ontstaan.
+
+Als je landbouwgewassen oogst, doorbreek je de kringloop en komen de voedingsstoffen uit die planten niet terug in de bodem. Daarom moeten we die aanvullen met kunstmest of organische mest. Er is één belangrijk verschil tussen die twee: organische mest is dierenpoep en kunstmest niet.
+
+Om gewassen te beschermen tegen ongedierte heb je twee technieken:
+
+- **Chemische gewasbescherming** (biociden), die levende organismes doden.
+- **Biologische gewasbescherming**, waarbij je natuurlijke vijanden inzet.
+
+Het nadeel van chemische gewasbescherming is dat er altijd wel een paar insecten overleven, en vaak zijn dat de insecten die geen last hadden van de biociden. Daardoor kan de insectensoort steeds beter tegen een biociden. Dit noemen we resistentie.
+
+Biociden kunnen ook in de voedselketen terechtkomen, waardoor er accumulatie kan plaatsvinden.
+
+
+[^1]: Eigenlijk gek dat we daarbij geen rekening mee houden dat er ook nog ruimte moet zijn voor andere soorten. Als we de aarde precies verdelen en iedereen een stukje geven, waar moeten al die bedreigde diersoorten dan leven. Ik denk dat precies deze mindset het probleem is. De aarde is niet alleen van de mens.
+
+[^2]: Het kan erger: Nederlanders gebruiken gemiddeld 6.3 ha!
+
+[^3]: Waarom heeft niemand het over kernenergie? Het is volledig CO2 neutraal en ook nog eens super veilig. We zullen toch wel moeten, want op een bepaald punt is de steenkool op, en mensen gaan niet accepteren dat ze niet kunnen tiktokken als de zon niet schijnt en het niet waait.
