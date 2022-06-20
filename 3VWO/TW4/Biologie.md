@@ -178,9 +178,39 @@ Alle energie die verbrand wordt voor bijvoorbeeld groeien of bewegen gaat verlor
 
 Als een dier dood gaat zonder opgegeten te worden verdwijnen die energierijke stoffen uit de voedselketen. Ze worden vervolgens door reducenten afgebroken waarna ze als water en CO<sub>2</sub> weer in de voedselketen komen (via planten ofc).
 
+## Afval scheiden
+
+Als je afval scheid bespaar je daarmee _grondstoffen en energie_. Oud frituurvet kan bijv. worden gebruikt als biobrandstof.
+
+Zo moet dat:
+
+- Oud behang: rest
+- Overdatum medicijnen: kca
+- Plastic wasteiltje: rest (PMD is alleen voor verpakkingen)
+- Oude houten kast: kringloop/verkopen
+- Lege chipszak: PMD
+- Cartridge: milieustraat/verzamelpunt
+- Pot met (vloeibare) verf: kca
+- Opgegroogde verf: restafval
+
+Producten die bij kca[^4] horen:
+
+- Spaarlampen
+	- hierin zit kwik, een gevaarlijke stof
+- Batterijen
+- Gootsteenontstopper
+- Verf (vloeibaar)
+- Medicijnen
+- Benzine
+- Zoutzuur
+- Lampolie
+- Bestrijdingsmiddelen
+- Terpentine
 
 [^1]: Eigenlijk gek dat we daarbij geen rekening mee houden dat er ook nog ruimte moet zijn voor andere soorten. Als we de aarde precies verdelen en iedereen een stukje geven, waar moeten al die bedreigde diersoorten dan leven. Ik denk dat precies deze mindset het probleem is. De aarde is niet alleen van de mens.
 
 [^2]: Het kan erger: Nederlanders gebruiken gemiddeld 6.3 ha!
 
 [^3]: Waarom heeft niemand het over kernenergie? Het is volledig CO2 neutraal en ook nog eens super veilig. We zullen toch wel moeten, want op een bepaald punt is de steenkool op, en mensen gaan niet accepteren dat ze niet kunnen tiktokken als de zon niet schijnt en het niet waait.
+
+[^4]: klein chemisch afval
