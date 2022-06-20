@@ -48,7 +48,7 @@ Vaak schommelt de populatiegrootte van een populatie om een evenwichtspunt. Dit 
 
 De optimumkromme is een grafiek waarin de overlevingskansen van een soort bij bepaalde factoren staan.
 
-![Optimumkromme](optimumkromme.png)
+![Optimumkromme](/Assets/optimumkromme.png)
 
 Vaak is er geen sprake van concurrentie tussen soorten omdat ze zich specialiseren. Ze hebben hun eigen rol, hun niche, binnen het ecosysteem.
 

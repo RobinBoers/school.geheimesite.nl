@@ -16,7 +16,7 @@ _Als je rekent met de lichtsnelheid gebruik je `s = c * t` ipv `s = v * t`._
 
 Het elektromagnethisch spectrum ziet er zo uit:
 
-![EM-spectrum](em-spectrum.jpg)
+![EM-spectrum](/Assets/em-spectrum.jpg)
 
 Hoe rechtser in het spectrum, hoe meer energie de straling meedraagt. Hoe meer energie, hoe schadelijker. Ioniserende straling is schadelijk, en begint ergens bij UV-straling. 
 
@@ -168,7 +168,7 @@ De radioactieve stof wordt bij het uitzenden van straling omgezet in een andere 
 
 Je kan de halveringstijd uit een grafiek bepalen door op de de as met hoeveelheid straling te kijken en daar 50% te pakken.
 
-![Voorbeeld aflezen grafiek halveringstijd](halveringstijd-grafiek.jpg)
+![Voorbeeld aflezen grafiek halveringstijd](/Assets/halveringstijd-grafiek.jpg)
 
 ### Dracht
 
@@ -229,7 +229,7 @@ Om het makkelijker te maken:
 - **Stroomsterkte**: hoeveelheid vrachtwages die langskomen
 - **Spanning**: de hoeveelheid energie de vrachtwages meedragen
 
-![Analogie voor spanning, stroomsterkte en lading](autootjes-elektriciteit.gif)
+![Analogie voor spanning, stroomsterkte en lading](/Assets/autootjes-elektriciteit.gif)
 
 ## Weerstand
 
@@ -282,7 +282,7 @@ R<sub>tot</sub> is in parallel altijd kleiner dan de kleinste weerstand.
 
 Een diode laat de stroom maar in één richting door. Een diode heeft een doorlaatrichting (de driehoek) en een sperrichting (de muur). 
 
-![Fig 1: Diode](diode.webp)
+![Fig 1: Diode](/Assets/diode.webp)
 
 In de doorlaatrichting heeft de diode (bijna) geen weerstand. In de sperrichting is deze enorm groot. 
 
@@ -294,5 +294,5 @@ _In een parallel schakeling hoef je de weerstand van een diode niet mee te reken
 2. Een LED (light emitting diode) als gebruikt voor licht.
 3. Een gelijkrichter om wisselspanning in gelijkspanning om te zetten (bijv. in telefoon of laptopoplader).
 
-![Gelijkrichter diagram](gelijkrichter.jpg)
+![Gelijkrichter diagram](/Assets/gelijkrichter.jpg)
 _Energiestroomdiagram van een gelijkrichter_
