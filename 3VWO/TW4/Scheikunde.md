@@ -14,7 +14,7 @@ Een mengsel heeft een smelttraject, een zuivere stof een smeltpunt (te herkennen
 
 | Mengsel | Zuivere stof |
 | ------- | ------------ |
-| ![Smelt- en kooktraject](/Assets/smelttraject.jpg) | ![Smelt- en kookpunt](/Assets/smeltpunt.jpg) |
+| ![Smelt- en kooktraject](smelttraject.jpg) | ![Smelt- en kookpunt](smeltpunt.jpg) |
 
 ### Mengsels
 
@@ -28,7 +28,7 @@ Een mengsel heeft een smelttraject, een zuivere stof een smeltpunt (te herkennen
 
 ### Fase overgangen
 
-![Faseovergangen](/Assets/faseovergangen.jpg)
+![Faseovergangen](faseovergangen.jpg)
 
 ### Rekenen
 
