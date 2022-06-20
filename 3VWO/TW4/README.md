@@ -12,6 +12,6 @@ Dit zijn de samenvattingen:
 | DO  | Wiskunde, [Economie](Economie)       |
 | VR  | [Natuurkunde](Natuurkunde), [Aardrijkskunde](Aardrijkskunde) |
 |  | WEEKEND!! |
-| MA  | [Biologie](Biologie), Engels  |
+| MA  | [Biologie](Biologie), [Engels](Engels)  |
 | DI  | [Geschiedenis](Geschiedenis), Frans  |
 | WO  | [Beeldende vormgeving](Beeldende%20vormgeving), Duits  |
