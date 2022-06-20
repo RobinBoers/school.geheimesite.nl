@@ -186,14 +186,14 @@ Zo moet dat:
 
 - Oud behang: rest
 - Overdatum medicijnen: kca
-- Plastic wasteiltje: rest (PMD is alleen voor verpakkingen)
+- Plastic wasteiltje: rest[^4]
 - Oude houten kast: kringloop/verkopen
 - Lege chipszak: PMD
 - Cartridge: milieustraat/verzamelpunt
 - Pot met (vloeibare) verf: kca
 - Opgegroogde verf: restafval
 
-Producten die bij kca[^4] horen:
+Producten die bij kca[^5] horen:
 
 - Spaarlampen
 	- hierin zit kwik, een gevaarlijke stof
@@ -213,4 +213,6 @@ Producten die bij kca[^4] horen:
 
 [^3]: Waarom heeft niemand het over kernenergie? Het is volledig CO2 neutraal en ook nog eens super veilig. We zullen toch wel moeten, want op een bepaald punt is de steenkool op, en mensen gaan niet accepteren dat ze niet kunnen tiktokken als de zon niet schijnt en het niet waait.
 
-[^4]: klein chemisch afval
+[^4]: PMD is alleen voor verpakkingen
+
+[^5]: klein chemisch afval
