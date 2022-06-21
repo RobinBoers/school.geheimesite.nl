@@ -90,3 +90,11 @@ De jeugd stelde in de jaren 60 het gezag van hun ouders, overheid en kerk steeds
 - **Provo's**: hadden kritiek op het overheid en waren tegen de consumptiemaatschappij. (Amsterdam)
 
 De vrouwen emancipeerde, want ze voelde er niks voor huisvrouw te worden. Ze eiste een even goede opleiding als jongens, zodat ze een gelijke kans hadden op een goede baan. Ze wilde dat mannen ook meewerkte in het huishouden. Er waren veel arbeidskrachten nodig door de economische groei, dus waren vrouwen welkom op de arbeidsmarkt. De invoer van de pil zorgde ervoor dat seks buiten het huwelijk normaler werd (en vaker voorkwam), omdat het niet gelijk tot zwangerschap meer leidde. Ook koppels konden kiezen het krijgen van kinderen te skippen of uit te stellen.
+
+## Overzicht
+
+| Periode | Economie                       | Politiek                                       | Cultureel                                           |
+|---------|--------------------------------|------------------------------------------------|-----------------------------------------------------|
+| 50s     | wederopbouw emigratie          | geleide loonpolitiek Willem Drees samenwerking | spruitjeslucht verzuild                             |
+| 60s     | economische groei gas          | verzorgingsstaat maakbare samenleving          | ontzuiling + alles bij 70s                          |
+| 70s     | oliecrisis industrie verdwijnt | bezuinigingen zelfredzaamheid werkloosheid     | jeugdculturen seksuele revolutie vrouwenemancipatie |
