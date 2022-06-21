@@ -1,6 +1,6 @@
 # Nederland na 1945
 
-Dit is een samenvatting van geschiedenis geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
+Dit is een samenvatting van geschiedenis geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO. Zie hier [en kortere versie met betere tijdsvolgorde](Geschiedenis%20%28v2%29).
 
 ## Handen uit de mouwen
 
@@ -26,7 +26,7 @@ De industrie en landbouw in Nederland namen af. Dit kwam door 2 dingen:
 De economie raakte steeds meer geconcentreerd rond:
 
 - **Handel en transport**: Schiphol en de Rotterdamse havens.
-- **Kennisdiensten**: banken, verzekering, zakelijke dienstverlening.
+- **Kennisdiensten**: .
 
 ## Nederland als multiculturele samenleving
 
@@ -93,8 +93,8 @@ De vrouwen emancipeerde, want ze voelde er niks voor huisvrouw te worden. Ze eis
 
 ## Overzicht
 
-| Periode | Economie                       | Politiek                                       | Cultureel                                           |
-|---------|--------------------------------|------------------------------------------------|-----------------------------------------------------|
-| 50s     | wederopbouw emigratie          | geleide loonpolitiek Willem Drees samenwerking | spruitjeslucht verzuild                             |
-| 60s     | economische groei gas          | verzorgingsstaat maakbare samenleving          | ontzuiling + alles bij 70s                          |
-| 70s     | oliecrisis industrie verdwijnt | bezuinigingen zelfredzaamheid werkloosheid     | jeugdculturen seksuele revolutie vrouwenemancipatie |
+| Periode | Economie                          | Politiek                                             | Cultureel                                                 |
+|---------|-----------------------------------|------------------------------------------------------|-----------------------------------------------------------|
+| 50s     | wederopbouw<br>emigratie          | geleide loonpolitiek<br>willem Drees<br>samenwerking | spruitjeslucht<br>verzuild                                |
+| 60s     | economische groei<br>gas          | verzorgingsstaat<br>maakbare samenleving             | ontzuiling<br>+ alles bij 70s                             |
+| 70s     | oliecrisis<br>industrie verdwijnt | bezuinigingen<br>zelfredzaamheid<br>werkloosheid     | jeugdculturen<br>seksuele revolutie<br>vrouwenemancipatie |
