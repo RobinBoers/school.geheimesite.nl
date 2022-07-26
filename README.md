@@ -1,6 +1,6 @@
 # 👋 Hallo klasgenoot
 
-Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik plaats hier mijn samenvatting zodat ik ze niet iedere keer als PDF in de groepsapp hoef te sturen 😅. Je kan de site zelf navigeren met onderstaande navigatie:
+Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik plaats hier mijn samenvattingen zodat ik ze niet iedere keer als PDF in de groepsapp hoef te sturen 😅. Je kan de site zelf navigeren met onderstaande navigatie:
 
 ## 3VWO
 
