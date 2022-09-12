@@ -8,7 +8,7 @@ The first Mr. Bean series was released on January 1st, 1990. It featured a total
 
 ## Summary
 
-PLEASE HELP SEAN, I HAVE NO INSPIRATION LEFT!!
+Mr Bean is a comedy show and film series in which the main character, called Mr bean, does normal, everyday tasks and activities in his own, unconventional and silly ways.
 
 ## Examples
 
