@@ -6,6 +6,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
+- [BIO - samenvatting H1: Gedrag](4VWO/Misc/BIO - samenvatting H1 gedrag)
 - [ENG - mr bean presentation](4VWO/Misc/ENG - mr bean presentation)
 
 ## 3VWO
