@@ -1,3 +1,5 @@
+# Basis (lezen)
+
 Het onderwerp van de tekst geeft aan waar hij over gaat, de hoofdgedachte van de tekst is het belangrijkste wat er over dat onderwerp gezegd wordt. Dit is
 
 - Een mededelende zin
