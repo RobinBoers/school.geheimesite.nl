@@ -1,4 +1,4 @@
-Paleo is a diet where you basically boyscott all processed/massproduced foods, as well as all grains and added sugars. This can make you feel better since that’s what our bodies are “made” for. We have evolved to live from vegetables, meat and fruits. Grains have only been introduced very late in our evolution, and we can’t actually really get much nutrition from them. Apart from that you also don’t drink diary: it’s quite weird to drink babymilk from cows if you think about it.
+The Paleo diet is a diet where you basically boycot all processed/massproduced foods, as well as all grains and added sugars. This can make you feel better since that’s what our bodies are “made” for. We have evolved to live from vegetables, meat and fruits. Grains have only been introduced very late in our evolution, and we can’t actually really get much nutrition from them. Apart from that you also don’t drink diary: it’s quite weird to drink babymilk from cows if you think about it.
 
 From my own experiences I can say eating more vegetables and less grains and dairy made me feel better. It improved my concentration and I also noticed that when I eat healthy I also have less pimples.
 
