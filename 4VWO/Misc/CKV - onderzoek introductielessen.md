@@ -1,7 +1,7 @@
 ## Introductielessen
 
-
-
+Deze page bevat onderzoeksopdrachten en bijbehorende resultaten van de [introductielessen](https://ckvzan.wixsite.com/dossier/kopie-van-blok-1-1). Als vorm voor de opdracht heb ik een blogpost gekozen. 
+ 
 ## Fotografie
 
 | vorm                                                                                    | inhoud                               | materiaal       |
@@ -19,7 +19,7 @@ Als je met een andere lens of camera fotografeert krijg je ook andere (kleur)con
 
 ### Hoe verschilt het materiaal en de vorm tussen de foto's?
 
-Beide foto's maken gebruik van eten om seksualiteit te suggereren. Wel is de eerste foto met de appels zwart-wit en de foto met de wortels in kleur gemaakt. Ook is de foto van de wortels in landscape gemaakt en is de foto van de appels in portrait. Daardoor voelt de foto van de appels "krapper" aan dan die met de wortels, die is namelijk wat opener.
+Beide foto's maken gebruik van eten om seksualiteit te suggereren. Wel is de eerste foto, die met de appels, zwart-wit en de foto met de wortels in kleur gemaakt. Ook is de foto van de wortels in landscape gemaakt en is de foto van de appels in portrait. Daardoor voelt de foto van de appels "krapper" aan dan die met de wortels, die is namelijk wat opener.
 
 Het effect is wel dat ik de foto van de appels meer ervaar als een symbolisch ding dan de foto van de wortels.
 
@@ -57,15 +57,22 @@ Verder is de vorm natuurlijk verschillend omdat de performances een ander aspect
 
 Bij beide disciplines stond de inhoud redelijk vast: een aspect van de liefde. Het materiaal daarentegen was bij performance altijd je eigen lichaam, en bij fotografie was het vaker apparatuur zoals lichten, lenzen en camera's. Bij fotografie kan je ook werken met wat er wel/niet in frame is (vorm), bij performance heb je dat aspect niet. Je kan bijvoorbeeld daarmee nadruk leggen op dingen, zoals de handen in de volgende foto:
 
+![Twee mensen houden handen vast op het strand](https://images0.persgroep.net/rcs/XzMhwVhGkE5QLW2ixUVX4Y23VIM/diocontent/200948312/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8)
+_Bron: [Libelle](https://www.libelle.nl/lifestyle/waarom-het-belangrijk-is-regelmatig-met-je-partner-hand-in-hand-te-lopen~b033e2a1/)_
+
+Je kan ook werken met de manier van afdrukken en verschillen in belichting en lens. Met belichting kan je de focus op het onderwerp van de foto leggen, zoals de zombie/man in de volgende foto:
+
 ![Belichting kan nadruk leggen op het onderwerp van de foto](https://citrinitas.com/wp-content/uploads/2019/11/Belichting-bij-films-Citrinitas.com_.jpg)
 _Bron: [Citrinitas](https://citrinitas.com)_
 
-Je kan ook werken met de manier van afdrukken en verschillen in belichting en lens. Met belichting kan je de focus op het onderwerp van de foto leggen. Je kan ook met effecten/filters bepaalde kleurcontrasten versterken zodat de emotie die een foto oproept veranderd:
+Je kan ook met effecten/filters bepaalde kleurcontrasten versterken zodat de emotie die een foto oproept veranderd:
 
 ![Filters kunnen de emotie die een foto opwekt versterken](https://mihoci.com/2020/wp-content/uploads/2020/04/LOG3.jpg)
 _Bron: [MihociStudios](https://mihoci.com)_
 
 Bij performance kan je echter dingen als beweging beter benutten. Door bepaalde bewegingen/lichaamshoudingen te gebruiken kan je de inhoud overbrengen. Denk bijvoorbeeld aan het imiteren van een handeling (iets naspelen, zoals bijvoorbeeld autorijden of koken).
+
+Beide disciplines werken wel met door iets uit te beelden, in tegenstelling tot bijvoorbeeld muziek. Bij performance werk je altijd met mensen, en bij fotografie vaak ook (al kan je ook voorwerpen of locaties fotograferen natuurlijk).
 
 ## Eigen voorbeelden
 
