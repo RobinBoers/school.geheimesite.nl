@@ -1,4 +1,6 @@
-## Toetsweekplanning (TW1)
+# Toetsweekplanning (TW1)
+
+Ben te lui om de planning hier over te typen LOL.
 
 ## Rooster
 
@@ -7,5 +9,6 @@
 | MA  | Informatica         |
 | DI  | Duits, Wiskunde B      |
 | WO  | NLT |
-| DO  | Biologie, Engels  |
+| DO  | [Biologie](Biologie), Engels  |
 | VR  | Natuurkunde, [Nederlands](Nederlands)  |
+

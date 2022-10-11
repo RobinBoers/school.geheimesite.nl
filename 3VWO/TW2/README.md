@@ -8,7 +8,7 @@ Dit is een 'living document'. Latere versies zal ik niet uploaden.
 | ------------- | ------------- |
 | WO  | ~~Engels~~, ~~[Beeldende vormgeving](Beeldende%20vormgeving)~~              |
 | DO  | ~~[Nederlands](Nederlands)~~, ~~Frans~~       |
-| VR  | [Economie](Economie), ~~[Biologie](Biologie)~~, ~~Rekenen~~ |
+| VR  | [Economie](Economie), ~~[Biologie](School/3VWO/TW2/Biologie.md)~~, ~~Rekenen~~ |
 |  | WEEKEND!! |
 | MA  | Wiskunde, Duits  |
 | DI  | [Natuurkunde](Natuurkunde%20%28v2%29), ~~[Aardrijkskunde](Aardrijkskunde)~~  |

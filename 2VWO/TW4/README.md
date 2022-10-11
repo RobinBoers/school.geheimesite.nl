@@ -8,7 +8,7 @@
 | DO  | [Rekenen](Rekenen), [Muziek](Muziek)  |
 | VR  | [NST](NST), [Geschiedenis](Geschiedenis)  |
 | ------------- | ------------- |
-| MA | [Biologie](Biologie), [Aardrijkskunde](Aardrijkskunde)  |
+| MA | [Biologie](School/2VWO/TW4/Biologie.md), [Aardrijkskunde](Aardrijkskunde)  |
 | DI  | Nederlands, Frans  |
 | WO  | Engels  |
 

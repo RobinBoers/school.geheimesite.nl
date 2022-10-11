@@ -10,7 +10,7 @@ Hallo meneer van de Born. Dit is mijn planning. Nu f*ck off.
 | DO  | **[Natuurkunde](Natuurkunde)**, **[Aardrijkskunde](Aardrijkskunde)**  |
 | VR  | **Wiskunde**, **[Duits](Duits)** |
 |  | WEEKEND!! |
-| MA | **[Rekenen](Rekenen)**, **[Economie](Economie)** en **[Biologie](Biologie)**  |
+| MA | **[Rekenen](Rekenen)**, **[Economie](Economie)** en **[Biologie](School/3VWO/TW1/Biologie.md)**  |
 | DI  | Nederlands, **Frans**  |
 | WO  | Engels, BV  |
 
