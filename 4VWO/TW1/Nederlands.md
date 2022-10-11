@@ -31,3 +31,33 @@ De *setting* van een verhaal zegt iets over de *plaats*, *tijd* en *omstandighed
 - **Sfeertekening:** de ruimte wordt gebruikt om gevoelens of de sfeer te bepalen / bevestigen.
 - **Symbolisch:** de ruimte staat symbool voor iets.
 
+Spanning (≠ spannend) zorgt ervoor dat je verder wil lezen. Dit kan door: 
+
+- Informatie weglaten
+- Informatie wel aan de lezer maar niet aan de hoofdpersoon geven
+- Wisseling perspectief of onbetrouwbaar perspectief
+- Chronologie door elkaar halen
+- Open plekken (vragen die de lezer krijgt)
+
+Je kan als schrijver met de chronologie van een verhaal spelen. Je hebt 2 soorten tijd:
+
+- **De vertelde tijd:** hoe lang het echt heeft geduurd
+- **De verteltijd is:** hoe lang het duurt om te lezen (1 zin, 2 zinnen)
+
+Je kan de vertelde tijd laten afwijken van de verteltijd. Dit kan door:
+
+- Tijdverdichting
+- Tijdvertraging
+- Tijdsprong (vaak aangegeven door een witregel)
+
+De volgorde van het verhaal wordt met 2 begrippen aangeduid:
+
+- **Sujet:** Vertelde volgorde
+- **Fabel:** Gebeurde volgorde
+
+Als suject ≠ fabel spreek je van a-chronologie. Voorbeelden daarvan zijn:
+
+- **Flashbacks:** je beleeft een deel van het verleden.
+- **Terugverwijzing:** er wordt alleen naar het verleden verwezen.
+- **Flashforward:** een verwijzing naar de toekomst.
+
