@@ -14,7 +14,7 @@ De biologie is opgedeeld in verschillende organisatieniveau's:
 | Organenstelsel     | bijv. voedsel verteren (verteringsstelsel) |
 | Organisme          | bijv. rennen                               |
 | Populatie          | bijv. voortbestaan                         |
-| Lenvensgemeenschap | ??                                         |
+| Lenvensgemeenschap | bijv. symbiose                             |
 | Ecosysteem         | ??                                         |
 | systeem Aarde      | ??                                         |
 
@@ -136,7 +136,32 @@ Bij een hypotonische ow is er sprake van *plasmolyse*: de celmembraan laat los v
 
 ## DNA
 
-DNA is de stof waarvan chromosomen gemaakt zijn.
+DNA is de stof waarvan chromosomen gemaakt zijn. DNA bestaat uit nucleotiden. Dat zijn moleculen met een fosfaatgroep, suikergroep en stikstofbase. Het aantal waterstofbruggen bepaalt de vaste combinaties: A-T, C-G, A-U.
+
+DNA bestaat uit een dubbele streng met daartussen basen. We noemen het dus dubbelstrengs. DNA bevat genen. Een gen is informatie voor het maken van één eiwit.
+
+Hiervoor moet de informatie uit het DNA naar de ribosomen gebracht worden. De chromosomen kunnen de kern niet uit, dus wordt er een kopietje gemaakt: mRNA. Dat kopiëren noemen we transcriptie. Het mRNA gaat dan naar de ribosomen waar het wordt gebruikt om amonizuren in de juiste volgorde te leggen (translatie).
+
+3 basen coderen voor 1 aminozuur. 3 basen in DNA noemen we een triplet. 3 basen in mRNA noemen we een codon.
+
+## Celdeling
+
+Een cel heeft een kringloop:
+
+- **Deling** (meiose):
+	- **profase:** membraan verdwijnt
+	- **metafase:** orderning in het midden van de cel
+	- **anafase:** chromatide uit elkaar getrokken
+	- **telofase:** rest van de cel vormt
+
+- **Interfase:**
+	- **G1:** de cel groeit en doet zijn taak
+	- **S:** DNA wordt gerepliceerd
+	- **G2:** cel groeit en synthese van organellen en membraan
+
+In de S fase vind er DNA-replicatie plaats. De strengen vormen dan een lange rits (de helix verdwijnt), die open gaat. Aan beide kanten komt er een DNA-replicatieenzym dat de halve strengen aanvult.
+
+Er onstaat daardoor een chromosoom met 2 chromatiden ipv. 1.
 
 # Vragen
 
