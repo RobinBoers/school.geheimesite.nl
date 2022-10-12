@@ -144,6 +144,8 @@ Hiervoor moet de informatie uit het DNA naar de ribosomen gebracht worden. De ch
 
 3 basen coderen voor 1 aminozuur. 3 basen in DNA noemen we een triplet. 3 basen in mRNA noemen we een codon.
 
+Bij het vormen van mRNA wordt de DNA helix opengerists. De matrijsstreng wordt dan gekopieerd, maar dan andersom (transcriptie). Het mRNA bevat dus hetzelfde als de andere streng, die we daarom de coderende streng noemen (met uitzondering van T, want dat wordt U in mRNA).
+
 ## Celdeling
 
 Een cel heeft een kringloop:
