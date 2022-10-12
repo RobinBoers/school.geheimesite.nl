@@ -8,7 +8,7 @@ Ben te lui om de planning hier over te typen LOL.
 | ------------- | ------------- |
 | MA  | Informatica         |
 | DI  | Duits, Wiskunde B      |
-| WO  | NLT |
+| WO  | [NLT](NLT) |
 | DO  | [Biologie](Biologie), Engels  |
 | VR  | Natuurkunde, [Nederlands](Nederlands)  |
 
