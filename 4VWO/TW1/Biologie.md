@@ -84,6 +84,8 @@ Cellen bestaan uit een celmembraan met daarin cytoplasma of grondplasma. In het 
 
 - **Motoreiwitten:** vervoeren transportblaasjes
 
+_Ribosomen die los in het grondplasma liggen maken eiwitten voor de cel. Die op het ER maken eiwitten voor de export._
+
 ### Verschil tussen dierlijke en plantencel
 
 | Dierlijke cel          | Plantencel            |
