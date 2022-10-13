@@ -100,6 +100,22 @@ Cellen bestaan uit een celmembraan met daarin cytoplasma of grondplasma. In het 
 - **Autoroof:** kan zelf organisch materiaal maken van niet-organisch materiaal
 - **Heteroroof:** heeft andere organismes nodig om organisch materiaal te maken
 
+#### Schimmelcellen
+
+Schimmels zijn heteroroof en eukaryoot. Ze kunnen eencellig (zoals gisten) of meercellig (paddestoelen) zijn. Bij meercellige schimmels is de scheiding tussen cellen vaak onvolledig zodat ze stoffen kunnen uitwisselen. 
+
+Schimmels hebben een ER, Golgi-apparaat, ribosomen, lysosomen en mitochondriën. Hun celwand is gemaakt van chitine.
+
+#### Bacteriën
+
+Bacteriën zijn eencellige prokaryote organismes. Hun DNA ligt los in de cel. Daarnaast hebben ze ook plasmiden (kleine cirkelvormige DNA bolletjes) die ze met soortgenoten kunnen uitwisselen. 
+
+Ze hebben alleen ribosomen en blaasjes, geen andere organellen. Hun membraan is opgebouwd uit aminozuren en suikers. 
+
+Sommige bacteriën hebben een kapsel (extra beschermende laag rond membraan) of flagellen (lange eiwitdraden waarmee ze zich kunnen voortbewegen). 
+
+De meeste bacteriën zijn heteroroof, maar sommige kunnen autoroof zijn.
+
 ## Celmembraan
 
 Een celmembraan is opgebouwd uit fosolipiden. Ze liggen met hun (hydrofiele) koppen en (hydrofobe) staarten naar elkaar. Dit gaat automatisch zodra je ze in een vloeistof legt.
