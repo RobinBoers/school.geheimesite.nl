@@ -13,7 +13,8 @@ De biologie is opgedeeld in verschillende organisatieniveau's:
 | Orgaan             | bijv. bloed rondpompen (hart)              |
 | Organenstelsel     | bijv. voedsel verteren (verteringsstelsel) |
 | Organisme          | bijv. rennen                               |
-| Populatie          | bijv. voortbestaan                         |
+| Populatie          | bijv. groeien / krimpen                    |
+| Soort              | bijv. voortbestaan                         |
 | Lenvensgemeenschap | bijv. symbiose                             |
 | Ecosysteem         | ??                                         |
 | systeem Aarde      | ??                                         |
