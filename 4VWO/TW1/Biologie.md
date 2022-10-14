@@ -184,18 +184,8 @@ In de S fase vind er DNA-replicatie plaats. De strengen vormen dan een lange rit
 
 Er onstaat daardoor een chromosoom met 2 chromatiden ipv. 1.
 
-## Fouten
+## Mutaties
 
 Op verschillende punten in de celcyclus zijn controles of er geen fouten in het DNA zitten. Als die er zijn en de het DNA-herstelenzym het niet kan repareren treed apotose op: de cel dood zichzelf.
 
 Als dit fout gaat kan een tumorcel ontstaan, die zich ongeremd gaat delen. Hiervoor is een opeenstapeling van mutaties nodig (in het apotose gen, de het DNA-herstelenzym en gen dat celdeling regelt). Als een tumor andere weefsels verstoord noem je het een kwaadaardige tumor (kanker). Tumorcellen kunnen in de bloedbanen en lyfmevaten terechtkomen. Dat noem je uitzaaien of metataseren.
-
-# Vragen
-
-Dit is vooral voor mezelf, negeer dit als je geen Robin heet.
-
-- emergente eigenschappen voor niveaus met vraagteken?
-- functie kern?
-    - u zei ribosomen OF centrosoom maken. welke is het?
-- ER transporteert eiwitten hoe?
-- receptoreiwitten voor transport door membraan of signalen?
