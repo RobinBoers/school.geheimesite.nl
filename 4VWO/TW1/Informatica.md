@@ -1,5 +1,6 @@
 # Informatie & Usability
 
+Let op! Ik moet F nog samenvatten! 
 Leren voor de toetsweek: C1-2 en F1
 
 ## Informatie
@@ -58,7 +59,7 @@ Je kan met een database praten mbv SQL. Dat is een taal om data uit databases op
 
 Dit is een real-life voorbeeld uit van de staging database van mijn werk:
 
-![[sharefox-db.png]]
+![](sharefox-db.png)
 
 Er zijn verschillende _keys_ zoals `name`, `email` en `subscribed`. Je ziet ze bovenin. Aan de linkerkant zie je genummerde rijen. Elke rij is een _record_ of _entry_.
 
