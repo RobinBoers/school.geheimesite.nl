@@ -6,7 +6,7 @@ Ben te lui om de planning hier over te typen LOL.
 
 | Dag | Vak |
 | ------------- | ------------- |
-| MA  | Informatica         |
+| MA  | [Informatica](Informatica)         |
 | DI  | Duits, [Wiskunde B](Wiskunde)      |
 | WO  | [NLT](NLT) |
 | DO  | [Biologie](Biologie), Engels  |
