@@ -65,7 +65,9 @@ Er zijn verschillende _keys_ zoals `name`, `email` en `subscribed`. Je ziet ze b
 
 Je kan zien dat er een gebruiker is met de naam (`name`) _Robin_ en het emailadres (`email`) _robin@example.com_. Hij is klant, want er staat een vinkje in de `subscribed` column. 
 
-Er is ook een andere gebruiker genaamd _Foo_ die wel eerder betaald heeft voor het product (hij heeft namelijk een `customer_id` die wordt aangemaakt bij betaling), maar terug is geschakeld naar het "Free" abonnement (je kan dit zien omdat er geen vinkje meer bij de `subscribed` column staat).
+Er is ook een andere gebruiker genaamd Foo die wel eerder betaald heeft voor het product (hij heeft namelijk een `customer_id` die wordt aangemaakt bij betaling), maar terug is geschakeld naar het “Free” abonnement (je kan dit zien omdat er geen vinkje meer bij de `subscribed` column staat. Ook staat er een vinkje bij `action_required`, hij moet zijn betaalmethode nog instellen).
+
+Daarnaast is ook een andere gebruiker genaamd _Bar_ die wel een account heeft aangemaakt, maar nog nooit ingelogd is geweest; het veld `confirmed_at` is leeg.
 
 
 ## Webservice
