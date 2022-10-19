@@ -65,7 +65,7 @@ Cellen bestaan uit een celmembraan met daarin cytoplasma of grondplasma. In het 
 
 - **Ribosomen:** produceren eiwitten
 
-- **Golgieapparaat:** vouwt en sorteer eiwitten
+- **Golgi-apparaat:** vouwt en sorteer eiwitten
 	- Lijkt op ER, maar is los van de kern en kleiner
 	- Geen ribosomen
 
