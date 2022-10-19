@@ -186,6 +186,6 @@ Er onstaat daardoor een chromosoom met 2 chromatiden ipv. 1.
 
 ## Mutaties
 
-Op verschillende punten in de celcyclus zijn controles of er geen fouten in het DNA zitten. Als die er zijn en de het DNA-herstelenzym het niet kan repareren treed apotose op: de cel dood zichzelf.
+Op verschillende punten in de celcyclus zijn controles of er geen fouten in het DNA zitten. Als die er zijn en de het DNA-herstelenzym het niet kan repareren treed apoptose op: de cel dood zichzelf.
 
 Als dit fout gaat kan een tumorcel ontstaan, die zich ongeremd gaat delen. Hiervoor is een opeenstapeling van mutaties nodig (in het apotose gen, de het DNA-herstelenzym en gen dat celdeling regelt). Als een tumor andere weefsels verstoord noem je het een kwaadaardige tumor (kanker). Tumorcellen kunnen in de bloedbanen en lyfmevaten terechtkomen. Dat noem je uitzaaien of metataseren.
