@@ -25,10 +25,10 @@ $$
 
 Een variabele weerstand kan gebruikt worden als variabele weerstand (waarbij de stroom maar door een deel van de weerstand gaat). Je gebruikt dan maar 2 inputs. Je kan hem ook gebruiken als spanningsdeler. Je gebruikt dan alle (3 de) inputs. De stroom gaat dan door de hele weerstand maar de helft van de weerstand staat in parallel met het onderdeel en de andere helft in serie:
 
-![[variabele-weerstand-spanningsdeler.png]]
+![](variabele-weerstand-spanningsdeler.png)
 _Variabele weerstand als spanningsdeler_
 
-![[variabele-weerstand.png]]
+![](variabele-weerstand.png)
 _Variabele weerstand als variabele weerstand_
 
 
