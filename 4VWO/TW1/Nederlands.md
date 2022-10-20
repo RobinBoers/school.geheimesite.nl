@@ -27,7 +27,7 @@ Een perspectief kan niet betrouwbaar zijn. Denk bijvoorbeeld aan een personage d
 
 De *setting* van een verhaal zegt iets over de *plaats*, *tijd* en *omstandigheden* waarin een verhaal zich afspeelt. De functie van de ruimte waarin een verhaal zich afspeelt kan zijn:
 
-- **Karakterisering:** als een personage voorkeur af afkeer van een ruimte heeft zegt dat iets over hem.
+- **Karakterisering:** als een personage voorkeur of afkeer van een ruimte heeft zegt dat iets over hem.
 - **Sfeertekening:** de ruimte wordt gebruikt om gevoelens of de sfeer te bepalen / bevestigen.
 - **Symbolisch:** de ruimte staat symbool voor iets.
 
