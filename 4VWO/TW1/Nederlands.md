@@ -61,3 +61,20 @@ Als suject ≠ fabel spreek je van a-chronologie. Voorbeelden daarvan zijn:
 - **Terugverwijzing:** er wordt alleen naar het verleden verwezen.
 - **Flashforward:** een verwijzing naar de toekomst.
 
+Een verhaal kan op meerdere manieren beginnen:
+
+- **Informatieve opening:** begin met introductie van het de situatie, in het oude evenwicht van het conflictmodel.
+- **Opening-in-the-handeling:** je wordt midden in het conflict gedropped zonder enige context.
+
+Een verhaal kan ook op meerdere manieren eindigen:
+
+- **Open einde:** niet alle vragen/open plekken worden opgelost. De lezer blijft na het verhaal met vragen zitten. In het conflictmodel zijn nog niet alle sub-conflicten opgelost.
+- **Geloste einde:** alle verhaallijnen zijn afgelopen en de lezer blijft niet met vragen zitten.
+
+Verhaalmotieven zijn dingen die in het verhaal verwoven zitten die steeds weer opduiken (herhaling in een verhaal dus):
+
+- **Concreet:** komt letterlijk voor in het verhaal
+- **Abstract:** moet je zelf afleiden, vaak uit de concrete motieven
+- **Klassiek:** verwijzingen naar literaire werken (er was eens... is hier een goed voorbeeld van).
+
+Het thema van een verhaal is de onderliggende boodschap: waar de schrijver de lezer over aan het denken wil zetten. Een thema is eigenlijk waar het verhaal 'echt' om gaat.
