@@ -169,7 +169,7 @@ Bij het vormen van mRNA wordt de DNA helix opengerists. De matrijsstreng wordt d
 
 Een cel heeft een kringloop:
 
-- **Deling** (meiose):
+- **Deling** (mitose):
 	- **profase:** membraan verdwijnt
 	- **metafase:** orderning in het midden van de cel
 	- **anafase:** chromatide uit elkaar getrokken
