@@ -21,6 +21,25 @@ $$
 R = ρ * {l \over A}
 $$
 
+## Veiligheid
+
+Als de stroom in een groep groter dan `16A` wordt noemen we dat overbelasting. Overbelasting kan zo ontstaan:
+
+- Kortsluiting
+- Teveel apparaten op één groep
+
+Een gevolg van overbelasting kan zijn dat de isolatie om de koperdraden smelt.
+
+De zekering zet dan automatisch de groep uit.
+
+Als er stroom lekt (`Iin - Uuit > 30mA`) zet de aardlekschakelaar automatisch de stroom uit.
+
+## Soorten weerstanden
+
+- **NTC:** hoge temperatuur => lage weerstand
+- **PTC:** hoge temperatuur => hoge weerstand
+- **LDR:** meer licht => lage weerstand
+
 ## Variabele weerstand
 
 Een variabele weerstand kan gebruikt worden als variabele weerstand (waarbij de stroom maar door een deel van de weerstand gaat). Je gebruikt dan maar 2 inputs. Je kan hem ook gebruiken als spanningsdeler. Je gebruikt dan alle (3 de) inputs. De stroom gaat dan door de hele weerstand maar de helft van de weerstand staat in parallel met het onderdeel en de andere helft in serie:
