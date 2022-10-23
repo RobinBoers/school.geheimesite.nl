@@ -14,6 +14,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 - [BIO - samenvatting H1: Gedrag](4VWO/Misc/BIO%20-%20samenvatting%20H1%20gedrag)
 - [ENG - mr bean presentation](4VWO/Misc/ENG%20-%20mr%20bean%20presentation)
 
+
 ## 3VWO
 
 - [toetsweek 1](3VWO/TW1/README.md)
@@ -38,8 +39,6 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 - [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL%20-%20En%20what%20about%20the%20~~bitches~~%20vrouwen)
 
 
-
-
 ## 2VWO
 
 - [toetsweek 3](2VWO/TW3/README.md)
@@ -52,6 +51,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 - [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
 - [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29)
 - [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
+- [NL - tekst vriendschap](2VWO/Misc/NL%20-%20tekst%20vriendschap)
 
 
 
