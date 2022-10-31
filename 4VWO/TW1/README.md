@@ -12,3 +12,4 @@ Ben te lui om de planning hier over te typen LOL.
 | DO  | [Biologie](Biologie), Engels  |
 | VR  | Natuurkunde, [Nederlands](Nederlands)  |
 
+Na de vakantie: [Scheikunde](Scheikunde)
