@@ -75,7 +75,7 @@
         Meerdere dezelfde atomen in een rooster<br /><br />
 
         Beide soorten roosters worden bij elkaar gehouden<br />
-        door atoombindingen (tussen de atomen in een<br />
+        door atoombindingen of covalente bindingen (tussen de atomen in een<br />
         molecuul).<br /><br />
 
         Tussen de moleculen bevinden zich ook nog bindingen:<br />
@@ -88,9 +88,9 @@
   </tbody>
 </table>
 
-Als de vanderwaalsverbinding wordt verbroken spreek je van een faseovergang. Als de atoombinding in een molecuul wordt verbroken onstaan er nieuwe atomen en spreek je van een chemische reactie.
+Als de *vanderwaalsverbinding* wordt verbroken spreek je van een faseovergang. Als de *atoombinding* in een molecuul wordt verbroken onstaan er nieuwe atomen en spreek je van een chemische reactie.
 
-Alleen Au, Ag en Pt komen normaal in de natuur voor, de andere metalen reageren (roest).
+Alleen `Au`, `Ag` en `Pt` komen normaal in de natuur voor, de andere metalen reageren (roest).
 
 Een stof die wel gebruikt maar niet verbruikt wordt in een reactie (een soort hulpmiddel) noem je een katalysator.
 
@@ -117,11 +117,25 @@ Stoffen in het periodieksysteem die in een kolom staan lijken chemisch op elkaar
 - Te weinig neutronen => de protonen drukken elkaar weg
 - Teveel neutronen => kern te zwaar
 
-In beide gevallen zal het atoom uit elkaar vallen.
+In beide gevallen zal het atoom uit elkaar vallen. Je kan de stabiele isotopen in Binas 25A vinden.
 
-## Toetsopbouw
+### Speciale groepen in het periodiek systeem
+
+- **Halogenen** (groep 17):
+	- hebben een dubbele binding met zichzelf (2 eronder zegmaar)
+	- erg reactief
+	- schadelijk voor het milieu
+- **Edelgassen** (groep 18):
+	- reageren nooit, buitenste schillen zijn vol
+- **Edelmetalen**: `Au`, `Ag` en `Pt`
+- **Akalimetalen** (groep 1):
+	- reageren heftig met water
+
+### Toetsopbouw
 
 Als er geen witregel tussen vragen zit heb je het antwoord of de oplossing van de vorige vraag nodig.
 
-Alleen K,L,M-schillen tekenen als er naar gevraagd wordt (model van Bohr ofzo).
+Alleen K,L,M-schillen tekenen als er naar gevraagd wordt (model van Bohr ofzo). Gebruik de 2,8,8,18 elektronenconfiguratie voor de schillen.
+
+
 
