@@ -41,7 +41,7 @@ Bij wetenschappelijk onderzoek heb je verschillende variabele:
 
 ## Diagrammen
 
-Bij het maken van een diagram is er vaak sprake van spreiding en standaarddeviatie. De spreiding gaat over het verschil tussen verschillende meetpunten (als het onderzoek meerdere keren is herhaald). De standaarddeviatie is een berekening (hoeven we niet te kunnen) die de invloed van uitschieters op de meetresultaten verzacht.
+Bij het maken van een diagram is er vaak sprake van spreiding en standaarddeviatie. De spreiding gaat over het verschil tussen verschillende meetpunten (als het onderzoek meerdere keren is herhaald). De standaarddeviatie is een berekening (hoeven we niet te kunnen) die de invloed van uitschieters op de meetresultaten verzacht. Je gebruikt alleen een standaarddeviatie bij grote aantallen gegevens.
 
 Vaak heb je in een diagram spreidingsstreepjes. Spreidingsstreepjes geven de twee uiterlijke waarden aan en het gemiddelde.
 
@@ -83,4 +83,6 @@ Op de universiteit leer je theorie en onderzoek doen. Als je daarmee klaar bent 
 Om ervoor te zorgen dat de artikelen van goede kwaliteit zijn wordt gebruik gemaakt door collegiale toetsing: het onderzoek wordt nagekeken door mede-wetenschappers. Zij herhalen vaak het onderzoek, als ze dan op dezelfde resultaten uitkomen is het onderzoek betrouwbaar. Ook checken ze of het onderzoek goed is uitgevoerd en je je aan alle regels houdt.
 
 Soms worden onderzoeken achteraf teruggetrokken omdat blijkt dat het onderzoek niet klopt omdat er bijvoorbeeld fraude is gepleegd.
+
+Bronnenonderzoek is onderzoek waarbij eerdere onderzoeken worden opgezocht en er verbanden worden gelegd om tot nieuwe inzichten te komen (ofzo).
 
