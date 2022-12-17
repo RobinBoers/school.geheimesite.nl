@@ -5,6 +5,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 ## 4VWO
 
 - [toetsweek 1](4VWO/TW1/README.md)
+- [toetsweek 2](4VWO/TW2/README)
 
 #### Misc
 
