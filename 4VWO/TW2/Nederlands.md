@@ -4,11 +4,11 @@
 
 ### Stadstaten
 
-Er bestonden nog geen landen, wel steden met ieder een eigen koning. Bijvoorbeeld Rome, Venetië, Athene, Troje.
+Er bestonden nog geen landen, wel steden met ieder een eigen koning. Bijvoorbeeld Rome, Venetië, Athene, Troje. In het Midden-Oosten: Babylon, Jeruzalem.
 
 ### Goden
 
-De Grieken en Romeinen waren polytheïstisch: ze hadden een heleboel goden. Ze dachten dat die op de berg Olympus woonde. De oppergod was Zeus, zijn vrouw heette Hera en de godin van de liefde heette Aphrodite.
+De Grieken en Romeinen waren polytheïstisch: ze hadden een heleboel goden (een pantheon). Ze dachten dat die op de berg Olympus woonde. De oppergod was Zeus, zijn vrouw heette Hera en de godin van de liefde heette Aphrodite.
 
 De Romeinen namen de griekse goden over, maar veranderde hun namen: Jupiter, Juno en Venus.
 
