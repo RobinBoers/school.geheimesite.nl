@@ -14,10 +14,10 @@ De Romeinen namen de griekse goden over, maar veranderde hun namen: Jupiter, Jun
 
 De Romeinen lieten mensen met andere geloofsovertuigingen gewoon hun gang gaan: ze lieten bijv. de joden in Palestina gewoon hun geloof uitoefenen (tolerantie).
 
-De Grieken en Romeinen hadden geen hemel, maar een onderwereld waar je heen ging na je dood. De poort van de onderwereld werd bewaakt door een driekoppige hond (Cerberus), die alleen mensen binnenliet (en niet naar buiten). Daarna moest je tegen betaling van 1 obool de rivier de Stynx oversteken.
+De Grieken en Romeinen hadden geen hemel, maar een onderwereld waar je heen ging na je dood. De poort van de onderwereld werd bewaakt door een driekoppige hond (Cerberus), die alleen mensen binnenliet (en niet naar buiten). Daarna moest je tegen betaling van 1 obool de rivier de Stynx oversteken, de veerman Charon (noors) hielp je hierbij.
 
 -- Mythologie ----
-Mythen zijn (bovennatuurlijke) verklaringen voor natuurverschijnselen.
+Mythen zijn (bovennatuurlijke) verklaringen voor natuurverschijnselen. Elke cultuur heeft eigen mythen. Vaak zijn er bovennatuurlijke wezens met menselijke eigenschappen en is er sprake van liefde, wraakzucht en jaloezie.
 
 ### Christendom
 
@@ -27,6 +27,26 @@ Op een bepaald punt kwam er onenigheid tussen de Romeinen en christenen/joden. D
 
 In 312 werd het Christendom weer legaal en in 394 werd het de officiele staatsgodsdienst, omdat keizer Constantijn een oorlog had gewonnen na een gebed aan God.
 
+### Griekse schrijvers
+
+#### Homerus
+
+- Griekse dichter
+- Blinde zanger
+- Vertelde verhalen op rijm
+- Verzamelde verhalen en liet ze door een ander opschrijven (want blind)
+- Schreef de Ilias en Odysee
+	- Ilias = de Trojaanse Oorlog
+	- Odysee = het vervolg op Ilias, de terugreis
+
+#### Sophocles
+
+- Griekse toneelschrijver
+- 120 stukken, vooral tragedies
+- Vader was een wapenfabrikant die een goede opvoeding wilde geven
+- Zat in hoogste kringen van Athene (politiek, militair en relegieus)
+- Schreef Oedipus Rex
+
 ### Literatuur in de oudheid
 
 - **Epiek**: verhalende kunst
@@ -34,6 +54,10 @@ In 312 werd het Christendom weer legaal en in 394 werd het de officiele staatsgo
 - **Dramatiek**: toneelteksten
 	- **Komedie**: actuele zaken (vergelijkbaar met cabaret)
 	- **Tragedie**: bestaande mythen. Er ging altijd iets fout en de hoofdpersoon moest uitzoeken waarom (= leerzaam).
+		- 5 bedrijven
+		- mag niet meer dan 24 uur zijn
+		- de plaats moet hetzelfde blijven
+		- er moet een koor zijn (om de verhaallijn uit te leggen)
 
 ## Middeleeuwen
 
@@ -42,6 +66,8 @@ De middeleeuwen is de periode van ca. 500-1500. We noemen dit de middeleeuwen om
 In het begin van de middeleeuwen vinden een paar grote veranderingen plaats: het Romeinse rijk valt en er zijn grote volksverhuizingen.
 
 ### Vroege middeleeuwen (500-1000)
+
+Theocentrisch en ridderlijk.
 
 #### Geloof
 
@@ -88,6 +114,8 @@ De literatuurgeschiedenis is nog niet begonnen. Alle teksten die er zijn zijn ge
 Verhalen in de volkstaal werden mondeling overgedragen in de vorm van poëzie (rijm maakt het makkelijker om te onthouden). De verhalen werden bedacht en opgevoerd door troubadeurs (jongleurs schreven niks, zij voerde het alleen op). De verhalen bevatte veel herhalingen en vaste combinaties.
 
 ### Hoge middeleeuwen (1000-1300)
+
+Burgerij komt op en de literatuurgeschiedenis start.
 
 #### Arthur- en Karelromans
 
