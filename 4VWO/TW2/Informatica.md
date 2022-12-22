@@ -249,3 +249,7 @@ Maar bovenop deze toepassingenlaag zit nog een toepassingenlaag: de website zelf
 
 _De voordelen van commerciële hierboven zijn echt totale bullshit. De open-source alternatieven voor mainstream software zoals Word of Photoshop zijn even goed al dan niet beter dan de commerciële variant. Commerciële software heeft ook veel nadelen: de ontwikkelaar kan stoppen met de software te updaten (geen support) of je licentie ongeldig maken. De enige reden om commerciële software te gebruiken is vanwege backwards-compatibility in bedrijven en meer addons/hulpmiddelen online._
 
+## Binair en hexadecimaal rekenen
+
+- [Zie Sems uitleg](https://docs.google.com/document/d/1X0n9lCgYCvWuAd3YSxMmhIzJ3OFWf6QRrA-HolVF0pY/edit)
+- [Meer uitleg](https://www.beterrekenen.nl/website/mob.php?pag=259)
