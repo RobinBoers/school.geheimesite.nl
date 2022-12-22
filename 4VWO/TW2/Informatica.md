@@ -85,7 +85,14 @@ Manieren om een CPU sneller te maken:
 
 - **Kernapparatuur**:
 	- Processor
-	- Intern geheugen (RAM)
+	- Intern geheugen
+		- ROM (read-only memory)
+			- EPROM: geprogrammeerd met UV
+			- EEPROM: elektrisch geprogrammeerd
+			(niet voor software, alleen settings, want het is relatief duur)
+		- RAM (random access memory)
+			- leeg als de stroom uitvalt
+			- werkt samen met processor
 
 - **Randapparatuur**:
 	- **Moederbord**: verbind alle onderdelen met elkaar via een grote printplaat (is dus een hardware-interface)
@@ -103,7 +110,7 @@ Bij een system-on-a-chip (SOC) zitten alle onderdelen (CPU, RAM, GPU, wifi, blue
 
 ## Connectoren
 
-Belangrijke connectoren die je moet kennen:
+Connectoren zijn de bedraade verbindingen tussen apparaten. Belangrijke connectoren die je moet kennen:
 
 - USB
 - HDMI
