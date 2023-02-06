@@ -1,6 +1,8 @@
-From: 4410@schravenlant.nl
-To: frederico@holy-paso.org
-Subject: Wanna try Sharefox?
+```text
+From: 4410@schravenlant.nl  
+To: frederico@holy-paso.org  
+Subject: Wanna try Sharefox?  
+```
 
 Hi Frederico,
 
