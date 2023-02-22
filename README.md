@@ -9,9 +9,13 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
+- [CKV - Cool Jazz :)](CKV%20-520cool%20jazz%3A%0A%29)
+- [ENG - letter](4VWO/Misc/ENG%20-%20letter)
 - [ENG - tekst gezond leven](4VWO/Misc/ENG%20-%20tekst%20gezond%20leven)
+- [ENG - toekomst](4VWO/Misc/ENG%20-%20tekst%20toekomst)
 - [ENG - signaalwoorden](4VWO/Misc/ENG%20-%20signaalwoorden)
 - [NL - basis theorie](4VWO/Misc/NL%20-%20basis%20theorie)
+- [BIO - samenvatting H3: Wetenschappelijk onderzoek](BIO%20-%20samenvatting%20H3%20wetenschappelijk%20onderzoek)
 - [BIO - samenvatting H1: Gedrag](4VWO/Misc/BIO%20-%20samenvatting%20H1%20gedrag)
 - [ENG - mr bean presentation](4VWO/Misc/ENG%20-%20mr%20bean%20presentation)
 
