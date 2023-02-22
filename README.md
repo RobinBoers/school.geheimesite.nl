@@ -9,7 +9,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
-- [CKV - Cool Jazz :)](CKV%20-%20cool%20jazz)
+- [CKV - Cool Jazz :)](4VWO/Misc/CKV%20-%20cooljazz)
 - [ENG - letter](4VWO/Misc/ENG%20-%20letter)
 - [ENG - tekst gezond leven](4VWO/Misc/ENG%20-%20tekst%20gezond%20leven)
 - [ENG - toekomst](4VWO/Misc/ENG%20-%20tekst%20toekomst)
