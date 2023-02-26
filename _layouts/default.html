@@ -1,22 +1,17 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="nl">
-
   {% include head.html %}
 
   <body>
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-      </header>
+    <header class="page-header">
+      <p class="h3 page-header-title">
+        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        <small>{{ site.tagline }}</small>
+      </p>
+    </header>
 
-      <main>
-        {{ content }}
-      </main>
+    <main>{{ content }}</main>
 
-      <footer class="footer">
-        {% include footer.html %}
-      </footer>
+    <footer class="footer">{% include footer.html %}</footer>
   </body>
 </html>
