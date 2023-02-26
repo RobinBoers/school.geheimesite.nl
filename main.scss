@@ -4,9 +4,21 @@
 @import "ghme";
 @import "typography";
 
+:root {
+  --background: 221, 221, 221;
+  --foreground: 0, 0, 0;
+  --primary: 50, 194, 136;
+}
+
 body {
   padding-bottom: 30px;
   min-height: fit-content;
+}
+
+/* Header */
+
+header {
+  text-align: center;
 }
 
 /* Footer */
