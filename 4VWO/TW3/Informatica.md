@@ -57,7 +57,7 @@ Vaak maken aanvallers gebruik van zwakheden in het ontwerp van software. Dit kun
 - in communicatie
 - bij gebruikers (ookwel social engineering genoemd)
 
-## Architectuur
+### Architectuur
 
 In het drielagen model van vorig hoofdstuk ging het over de fysieke, logische en toepassingenlaag. Als er bugs in de software zitten waardoor twee lagen onbevoegd met elkaar kunnen communiceren is dat een zwakheid in de architectuur.
 
@@ -65,4 +65,69 @@ Een voorbeeld is als de toepassingenlaag door een fout in de logische laag met d
 
 Een ander voorbeeld is het incorrect checken van data die door gebruikers wordt ingevoerd. Daardoor kan de computer de dingen die door de gebruikers zijn ingevoerd zien als instructies en ze uitvoeren. Dit noemen we code injection. Veel voorkomende voorbeelden zijn SQL injection, waarbij data in de database kan worden uitgelezen en aangepast, en Cross-Site scripting (XSS), waarbij JavaScript in HTML wordt geinjecteerd om instructies op de computer van een gebruiker uit te voeren.
 
+### Communicatie
 
+Verschillende computers zijn met elkaar verbonden. Die verbindingen kunnen afgeluisterd worden. Dit noem je een man-in-the-middle attack. Dit wordt vaak gedaan met openbare wifi netwerken.
+
+Om dit te voorkomen gebruiken we HTTPS in plaats van HTTP. Daarbij wordt je internetverkeer naar websites versleuteld met asymetrische encryptie. Hiervoor heeft de website een SSL-certificaat nodig. Deze worden uitgegeven door centrale organisaties. Let's encrypt is het populairst omdat zij het gratis en voor iedereen doen.
+
+Bij een HTTPS verbinding worden de gegevens ontsleuteld op de server. Bij end-to-end encryption kan de server de gegevens ook niet zien. De gegevens worden versleuteld op het apparaat van de sender en worden pas ontsleuteld op het apparaat van de ontvanger. End-to-end encryption betekent dus dat tussenpersonen zoals een man-in-the-middle en de server de gegevens niet kunnen zien.
+
+*Opmerking: soms wordt HTTPS ook end-to-end encryption genoemd. Daarmee bedoelen mensen dat de server de ontvanger is, en in ons geval is de server de tussenpersoon.*
+
+### Gebruikers
+
+Gebruikers zijn meestal de zwakste schakel in een systeem, omdat ze makkelijk te manipuleren en misleiden zijn.
+
+Een manier waarop gebruikers een systeem onveilig maken is door makkelijk te raden wachtwoorden te gebruiken. Om wachtwoorden veiliger te maken:
+
+- Meer tekens
+- Meer sorten tekens
+- Geen woorden, namen of geboortedatums
+- Iedere website een ander wachtwoord
+- Wachtwoorden vaak veranderen
+
+Omdat moeilijke wachtwoorden moeilijk te onthouden zijn laten we dat doen door de computer. Hiervoor gebruik je een password manager.
+
+Vaak gebruiken hackers social engineering. Dat betekent dat ze je manipuleren en zo toegang proberen te krijgen tot het systeem. 
+Phishing is een andere manier waarop gebruikers worden misleid. Hackers sturen dan een neppe email die heel erg lijkt op die van een bedrijf zoals Google of Microsoft. Ze lokken je naar een neppe website en proberen dan je inloggegevens te stelen.
+
+## Malware
+
+Malware is software met slechte intenties:
+
+- **Trojan horse**: software dat zich voordoet als iets anders en dat je dus zonder het te weten installeert.
+
+- **Virus**: een virus is kwaadaardige code die een ander computrprogramma nodig heeft om schade aan te richten en zichzelf te verspreiden.
+
+- **Worm**: ongeveer hetzelfde als een virus, behalve dat een worm een zelfstandig programma is dat geen andere programma's nodig heeft om te runnen en schade aan te richten/zich te verpreiden.
+
+- **Spyware**: software die informatie/gegevens van de computer van het slachtoffer steelt.
+
+- **Adware**: software die advertenties op de computer van de gebruiker laat zien. Kan ook legaal zijn.
+
+- **Ransomware**: ransomware versleuteld de bestanden op je computer (hij "gijzeld" ze), en vraagt vervolgens geld om ze te laten ontsleutelen. Je kan beter geen geld betalen omdat je vaak je bestanden toch niet terugkrijgt en het ook niet slim is internetcriminelen verder te financieren.
+
+Vaak maakt malware gebruik van zero days[^1]. Dat zijn bugs/fouten in architectuur die de maker van de software nog niet kent, waardoor je ze kan gebruiken zonder opgemerkt te worden.
+
+## Hacken
+
+Hacken (computervredebreuk) is illegaal. Vaak wordt hacken gebruikt voor de volgende doeleindes:
+
+- Diefstal: persoons- of bedrijfsgegevens stiekem stelen.
+- Fraude: oplichting; bijvoorbeeld phishing.
+- Afpersing: door met ransomware gegevens te versleutelen of te dreigen gevoelige informatie online te publiceren.
+
+Een poging tot hacken is illegaal. Hacken en vervolgens niks doen is ook illegaal.
+
+Ethisch hacken mag wel. Je rapporteert dan het lek bij het bedrijf, en na een aantal weken mag je het openbaar maken. Dit noem je responsible disclosure.
+
+## Zero days
+
+Zero days zijn fouten in software die nog niet bekend zijn bij de maker. Ze zijn veel geld waard.
+
+Overheden en cybercriminelen kopen deze zero days op platforms zoals Zerodium om ze te gebruiken om bedrijven en andere overheden te hacken.
+
+Hacktivisten hacken systemen voor een politiek doeleinde. Vaak is dit media aandacht of afpersing.
+
+[^1]: Zero days heten zo omdat de "good guys" minder dan een dag de tijd hebben om het lek op te lossen.
