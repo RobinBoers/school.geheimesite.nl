@@ -146,9 +146,9 @@ Vaak maakt malware gebruik van zero days[^1]. Dat zijn bugs/fouten in architectu
 
 Hacken (computervredebreuk) is illegaal. Vaak wordt hacken gebruikt voor de volgende doeleindes:
 
-- Diefstal: persoons- of bedrijfsgegevens stiekem stelen.
-- Fraude: oplichting; bijvoorbeeld phishing.
-- Afpersing: door met ransomware gegevens te versleutelen of te dreigen gevoelige informatie online te publiceren.
+- **Diefstal:** persoons- of bedrijfsgegevens stiekem stelen.
+- **Fraude:** oplichting; bijvoorbeeld phishing.
+- **Afpersing:** door met ransomware gegevens te versleutelen of te dreigen gevoelige informatie online te publiceren.
 
 Een poging tot hacken is illegaal. Hacken en vervolgens niks doen is ook illegaal.
 
@@ -173,10 +173,10 @@ Om ervoor te zorgen dat computersystemen goed beveiligd worden heb je verschille
 
 Je hebt 4 soorten maatregelen in het beveiligen van je netwerk:
 
-- preventie: voorkom een aanval
-- detectie: op tijd doorhebben dat je gehackt wordt
-- repressie: de aanval tegengaan
-- correctie: schade oplossen (door bijvoorbeeld backups te gebruiken) en herhaling voorkomen
+- **Preventie**: voorkom een aanval
+- **Detectie**: op tijd doorhebben dat je gehackt wordt
+- **Repressie**: de aanval tegengaan
+- **Correctie**: schade oplossen (door bijvoorbeeld backups te gebruiken) en herhaling voorkomen
 
 
 ### Preventie
@@ -233,10 +233,10 @@ Beide partijen hebben een public en private key. De public key kent iedereen. De
 
 Laten we zeggen dat er twee personen zijn:
 
-- Bob:
+- **Bob**:
     - Bob's public key
     - Bob's private key
-- Alice:
+- **Alice**:
     - Alice's public key
     - Alice's private key
 
