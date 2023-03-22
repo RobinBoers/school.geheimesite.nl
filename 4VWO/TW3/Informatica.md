@@ -219,13 +219,13 @@ Om herhaling te voorkomen is het natuurlijk ook wel slim het lek te dichten.
 
 Je hebt verschillende soorten encryptie.
 
-## Symetrische encryptie (ookwel secretbox)
+### Symetrische encryptie (ookwel secretbox)
 
 Bij symetrische encryptie is er één key. De verstuurder versleuteld het bericht met de key, en de ontvanger ontsleuteld het bericht weer met de key.
 
 Het voordeel van symetrische encryptie is dat het veilig en snel is. Het nadeel is wel dat de keys op een veilige manier (DUS NIET EMAIL) met elkaar moeten worden uitgewisseld, zodat alleen de verstuurder en ontvanger de key hebben.
 
-## Asymetrische encryptie (ookwel sealedbox)
+### Asymetrische encryptie (ookwel sealedbox)
 
 Bij asymetrische encryptie is er sprake van een public key en een private key. Daarom wordt het ook wel public-privatekey encryption genoemd.
 
@@ -234,11 +234,11 @@ Beide partijen hebben een public en private key. De public key kent iedereen. De
 Laten we zeggen dat er twee personen zijn:
 
 - Bob:
-    - bob-public-key
-    - bob-private-key
+    - Bob's public key
+    - Bob's private key
 - Alice:
-    - alice-public-key
-    - alice-private-key
+    - Alice's public key
+    - Alice's private key
 
 Bij asymetrische encryptie is een bericht dat is versleuteld met de public key van Bob alleen te ontsleutelen met de public **en private key** van Bob.
 
