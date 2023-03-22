@@ -1,6 +1,8 @@
+```text
 From: 4410@schravenlant.nl
 To: freddiemercury@gmail.com
 Subject: RE: Plans for the future?
+```
 
 Hey Freddie,
 
