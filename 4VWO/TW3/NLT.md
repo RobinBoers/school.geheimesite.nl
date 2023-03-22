@@ -25,7 +25,7 @@ De **Rf-waarde** is de verhouding tussen de afstand die de stof heeft afgelegd v
 
 De Rf-waarde bereken je zo:
 
-\text{Rf} = \frac{\text{afgelegde weg stof}}{\text{vloeistoffront}}
+\\[\text{Rf} = \frac{\text{afgelegde weg stof}}{\text{vloeistoffront}}\\]
 
 
 ## Ballistiek vergelijken
@@ -45,7 +45,7 @@ De plekken waar deze herhalingen voorkomen noem je loci (mv. van locus). Als je 
 
 De kans dat dit voorkomt is:
 
-P = 2 \cdot frequentie_{8} \cdot frequentie_{11}
+\\[P = 2 \cdot frequentie_{8} \cdot frequentie_{11}\\]
 
 Je doet het x2 omdat de chromosomen ook andersom kunnen voorkomen. Dit doe je dus alleen als de twee DNA-kenmerken (de getallen 8 en 11) niet gelijk zijn.
 
