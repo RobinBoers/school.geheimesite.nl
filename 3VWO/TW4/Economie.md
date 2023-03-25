@@ -4,7 +4,7 @@ Dit is een samenvatting van H7 van economie. Geschreven door Robin Boers voor to
 
 ## Vermogen en financiele situatie
 
-Tijdens je leven maak je veel financiele beslissingen die impact hebben op je vermogen. 
+Tijdens je leven maak je veel financiele beslissingen die impact hebben op je vermogen.
 
 Het uitstellen of vervroegen van consumptie noemen we ruilen over de tijd. Je geeft dan nu geld uit wat je nog niet hebt, wat je later terugverdient. Of je invensteert geld in de hoop dat je het later weer terugkrijgt. Bij ruilen over de tijd maak je vaak kosten, vaak in de vorm van rente.
 
@@ -41,6 +41,6 @@ Of het slim is om te investeren hangt van deze factoren af:
 
 Als je geld leent en er vind daarna inflatie plaats (= geld wordt minder waard), dan wordt de rente ook minder waard. Voor een lener is inflatie dus juist fijn. Het geld dat je in euro's moet betalen noemen we nominale rente. Als je de rente corrigeert voor de inflatie krijg je de reële rente, en die kan je zo uitrekenen:
 
-```
+```text
 indexcijfer nominale rente / indexcijfer inflatie * 100 = indexcijfer reële rente
 ```

@@ -30,7 +30,7 @@ Je hebt de volgende functiewoorden:
 - Aanbeveling
 - Probleemstelling
 - Tegenwerping
-- **Uitwerking**: schrijver geeft meer info over hetzelfde (deel)onderwerp. 
+- **Uitwerking**: schrijver geeft meer info over hetzelfde (deel)onderwerp.
 - **Verklaring**: uitleg over iets, waarom is iets zo?
 - Weerlegging
 - **Aanleiding**: actuele gebeurtenis.

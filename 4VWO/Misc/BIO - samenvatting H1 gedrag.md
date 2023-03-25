@@ -2,7 +2,7 @@
 
 ## §1: Gedrag en dierenwelzijn
 
-Gedrag is alles wat mensen en dieren doen en laten. Het is reageren op veranderende leefomstandigheden. De functie van gedrag is het overleven van het individu, en daarmee ook het voorbestaan van de soort. 
+Gedrag is alles wat mensen en dieren doen en laten. Het is reageren op veranderende leefomstandigheden. De functie van gedrag is het overleven van het individu, en daarmee ook het voorbestaan van de soort.
 
 Het welzijn van dieren is hoger als ze natuurlijk gedrag kunnen uitoefenen. Varkens moeten bijv. kunnen foerageren (= zoeken naar eten) in hun stal.
 
@@ -24,6 +24,7 @@ gedrag -> gedragssysteem (-> gedragsketen) -> gedragselementen
 Balts is gedrag waarbij, vaak overdreven, (soortspecifieke) signalen worden uitgewisseld. Het verminderd agressie en vergroot de bereidheid tot paring.
 
 #### Functies van balts:
+
 - Gelijktijdig bereid voor paring
 - Laten zien dat je een geschikte partner bent
 - Angst en agressie verminderen
@@ -49,7 +50,7 @@ Het kindschema bestaat uit een aantal kenmerken (uiterlijk). Als een mens/dier/c
 
 Signalen zijn prikkels die dieren uitzenden om met hun soortgenoten te communiceren. Het is een soortspecifieke manier om informatie over te dragen dmv. houding, kleuren, geur etc.
 
-Vaak hebben dieren ook een rangorde. Vaak betekent een hogere plaats in de rangorde grotere  invloed bij de paring. In veel situaties betekent een grotere hoeveelheid testosteron een hogere plaats in de rangorde. Om een hogere plaats in de rangorde te krijgen vertonen dieren dit gedrag:
+Vaak hebben dieren ook een rangorde. Vaak betekent een hogere plaats in de rangorde grotere invloed bij de paring. In veel situaties betekent een grotere hoeveelheid testosteron een hogere plaats in de rangorde. Om een hogere plaats in de rangorde te krijgen vertonen dieren dit gedrag:
 
 - Dreiggedrag
 - Imponeergedrag
@@ -67,6 +68,7 @@ Als dieren tegenstrijdige prikkels binnenkrijgen vertonen zij conflictgedrag. Er
 ## §4: Leren
 
 Je hebt 2 soorten gedrag:
+
 - Aangeboren
 - Aangeleerd
 
@@ -80,11 +82,11 @@ Er zijn zes manieren van leren:
 - **Inzicht** (en spelen)
   Bij spelen ontwikkelen dieren sociaal gedrag.
 
-- **Conditioneren** (ookwel *associatief leren* genoemd)
-	- **Klassiek**: dmv. reflexen (Pavlov)  
-	meerdere prikkels worden gecombineerd
-	- **Operatief**: dmv. trial-and-error (Skinnerbox)
-	meerdere handelingen worden gecombineerd
+- **Conditioneren** (ookwel _associatief leren_ genoemd)
+  - **Klassiek**: dmv. reflexen (Pavlov)  
+    meerdere prikkels worden gecombineerd
+  - **Operatief**: dmv. trial-and-error (Skinnerbox)
+    meerdere handelingen worden gecombineerd
 
 ## §4: Omgaan met elkaar
 
@@ -93,6 +95,7 @@ Cultuur is het verschijnsel dat verschillende individuen in een groep vergelijkb
 Dieren hebben ook cultuur (denk aan regionale zang bij apen).
 
 Unieke kenmerken van mensen:
+
 - Nadenken over (eigen) gedrag
 - (Gedrag) beoordelen
 - Inlevingsvermogen

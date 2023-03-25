@@ -9,25 +9,25 @@ Samenvatting Natuurkunde voor H2 en H3 van Nova leerjaar 3VWO. Geschreven voor t
 - Verandering grootte van de snelheid
 - Verandering richting van de snelheid
 - Verandering vorm
-	- **Elastisch:** als je de kracht weghaalt krijg het voorwerp zijn oorspronkelijke vorm terug
-	- **Plastisch:** permanente vervorming
-	
+  - **Elastisch:** als je de kracht weghaalt krijg het voorwerp zijn oorspronkelijke vorm terug
+  - **Plastisch:** permanente vervorming
+
 _Evenwicht: als 2 krachten elkaar opheffen_
-	
+
 ### Soorten
 
 - **Spierkracht** (F<sub>spier</sub>)
 - **Zwaartekracht** (F<sub>z</sub>)
-	- `Fz = m*g`
-	- g van aarde = 9,81 N/kg
+  - `Fz = m*g`
+  - g van aarde = 9,81 N/kg
 - **Spankracht** (F<sub>span</span>)
 - **Veerkracht** (F<sub>v</sub>)
-	- `Fv = C * u`
-	- u = uitrekking in cm
-	- C = veerconstante in N/cm (krijg je of `C = Fv/u`)
+  - `Fv = C * u`
+  - u = uitrekking in cm
+  - C = veerconstante in N/cm (krijg je of `C = Fv/u`)
 - **Magnetische kracht** (F<sub>mag</sub>)
 - **Normaalkracht** (F<sub>n</sub>)
-	- loodrecht op grond
+  - loodrecht op grond
 
 ### Eigenschappen
 
@@ -38,20 +38,18 @@ _Evenwicht: als 2 krachten elkaar opheffen_
 ### Weerstand
 
 - **Luchtweerstandskracht - F<sub>w, l</sub>**
-	- Snelheid in m/s (v)
-	- Vorm (gemeten met weerstandscoefficient (Cw))
-	- Dichtheid lucht in kg/m<sup>3</sup> (ρ)
-	- Frontaal oppervlak in m<sup>2</sup> (A)
-	- `Fw,l = 0,5 * Cw * A * ρ * v2` 
-	
+  - Snelheid in m/s (v)
+  - Vorm (gemeten met weerstandscoefficient (Cw))
+  - Dichtheid lucht in kg/m<sup>3</sup> (ρ)
+  - Frontaal oppervlak in m<sup>2</sup> (A)
+  - `Fw,l = 0,5 * Cw * A * ρ * v2`
 - **Schuifweerstandskracht - F<sub>w, s</sub>**
-	- Gladheid voorwerp
-	- Druk tussen voorwerpen
-	
+  - Gladheid voorwerp
+  - Druk tussen voorwerpen
 - **Rolweerstandskracht - F<sub>w, r</sub>**
-	- Hardheid voorwerp en ondergrond
-	- Gladheid ondergrond
-	- Druk tussen voorwerpen
+  - Hardheid voorwerp en ondergrond
+  - Gladheid ondergrond
+  - Druk tussen voorwerpen
 
 ### Krachtmeter
 
@@ -101,16 +99,16 @@ Snelheid-tijd. Een eenparige beweging is een beweging die constant is. Dat kan e
 8 planeten:
 
 - Aardse planeten:
-	- Mercurius
-	- Venus
-	- Aarde
-	- Mars
+  - Mercurius
+  - Venus
+  - Aarde
+  - Mars
 - Gasreuzen:
-	- Jupiter
-	- Saturnus
-	- Uranus
-	- Neptunes
-	
+  - Jupiter
+  - Saturnus
+  - Uranus
+  - Neptunes
+
 Aardse planeten hebben allemaal een atmosfeer (behalve mercurius) en vaste grond. Gasreuzen bestaat uit gas (duh).
 
 - 200 manen in ons zonnestelsel
@@ -136,13 +134,13 @@ Een energiecentrale zet energie om van chemische energie naar elektrische energi
 
 ### Energiebronnen
 
-Fossiele brandstoffen of biomassa (chemische energie) ⟶ warmte + licht  
+Fossiele brandstoffen of biomassa (chemische energie) ⟶ warmte + licht
 
-Wind (bewegingsenergie) ⟶ elektrische energie  
+Wind (bewegingsenergie) ⟶ elektrische energie
 
-Kernenenergie (in atomen) ⟶ ??  
+Kernenenergie (in atomen) ⟶ ??
 
-Zon (stralingsenergie) ⟶ warmte (via zonnecollector<sup>2</sup>)  
+Zon (stralingsenergie) ⟶ warmte (via zonnecollector<sup>2</sup>)
 
 Zon (stralingsenergie) ⟶ elektrische energie (via zonnecel, ookwel zonnepaneel)
 
@@ -166,9 +164,7 @@ Windmolens zetten beweginsenergie om in elektrische energie met behulp van een g
 
 Je kan het vermogen van een windmolen met de volgende formule uitrekenen:
 
-```
-P = k * v³
-```
+\\[P = k \cdot v^{3}\\]
 
 P = het vermogen in Watt
 k = constante (verschilt p. windmolen, geen eenheid)
@@ -192,14 +188,12 @@ Om de temperatuur van een voorwerp te verhogen moet je warmte toevoegen. Warmte 
 
 Dat kan je ook zien in de formule:
 
-```
-Q = c * m * ΔT
-```
+\\[Q = c \cdot m \cdot \Delta T\\]
 
 Q = warmte (energie) in J  
-c = soortelijke warmte in J/(g * °C)  
+c = soortelijke warmte in J/(g \* °C)  
 m = massa in g  
-ΔT = temperatuursverschil in °C  
+ΔT = temperatuursverschil in °C
 
 De soortelijke warmte is hoeveel energie er nodig is om 1g 1°C op te warmen.
 
@@ -226,12 +220,10 @@ Warmtestroom is het warmteverlies per seconde door middel van geleiding en hangt
 
 De formule hiervoor is:
 
-```
-P = (λ * A * ΔT)/d
-```
+\\[P = \frac{\lambda \cdot A \cdot \Delta T}{d}\\]
 
 P = warmte verlies per seconde (energie per seconde dus) in W  
-λ = warmtegeleidingscoëfficiënt in W/(m * °C)  
+λ = warmtegeleidingscoëfficiënt in W/(m \* °C)  
 A = oppervlakte in m²  
 ΔT = temperatuursverschil in °C  
 d = dikte in m
@@ -247,19 +239,14 @@ Tijd verkorten kan maar tot een zeker punt, dus is vermogen beperken het beste p
 
 Het rendement bereken je zo:
 
-```
-ŋ = Enut/Etot * 100
-```
-
-```
-ŋ = Pnut/Ptot * 100
-```
+\\[\eta = \frac{E_{\text{nut}}}{E_{\text{tot}}} \cdot 100\\]  
+\\[\eta = \frac{P_{\text{nut}}}{P_{\text{tot}}} \cdot 100\\]
 
 Waarbij ŋ het rendement in % is.
 
 De stookwaarde van een stof is hoeveel energie er vrijkomt bij het verbranden van een bepaalde massa van die stof.
 
-----
+---
 
 _<sup>1</sup>Massa uitstoten leid tot positieve snelheid in tegengestelde richting_
 

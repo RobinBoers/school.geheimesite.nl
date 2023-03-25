@@ -42,7 +42,7 @@ Ihr -tet
 Sie/Sie -ten
 
 **Type 3:**  
-Plak er een e voor :)  
+Plak er een e voor :)
 
 Ich -ete  
 Du -etest  

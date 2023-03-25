@@ -39,17 +39,16 @@ Het (electrisch) vermogen is hoeveel energie er per seconde kan worden omgezet. 
 
 Je kan het vermogen op 2 manieren berekenen:
 
-```
-P = U * I
-E = P * t
-```
+\\[P = U \cdot I\\]
 
 > P = vermogen (W)  
 > U = spanning (V)  
-> I = stroomsterkte (A)  
+> I = stroomsterkte (A)
+
+\\[E = P \cdot T\\]
 
 > E = energie (J)  
-> t = tijd (sec)  
+> t = tijd (sec)
 
 ### Energie transporteren
 
@@ -60,9 +59,7 @@ Dit kan je niet in huis gebruiken, dus moet het omlaag getransformeerd worden. D
 - Transformatorstation (380kV -> 10kV)
 - Transformatorhuisje (10kV -> 230V)
 
-```
-frequentie = aantal trillingen/sec
-```
+\\[\text{frequentie} = \frac{\text{aantal trillingen}}{\text{seconde}}\\]
 
 ### Transformators
 
@@ -83,38 +80,30 @@ We zetten dus eerst de spanning om in een magneetveld, waarna we het weer terugo
 
 Zo reken je met transformators:
 
-```
-Up / Us = Np / Ns
-```
+\\[U_{p} / U_{s} = N_{p} / N_{s}\\]
 
-```
-Up * Ns = Us * Np
-```
+\\[U_{p} \cdot N_{s} = U_{s} \cdot N_{p\\]
 
 > U<sub>p</sub> = Spanning primaire spoel  
 > U<sub>s</sub> = Spanning secondaire spoel  
 > N<sub>p</sub> = Aantal windingen primaire spoel  
-> N<sub>s</sub> = Aantal windingen secondaire spoel  
+> N<sub>s</sub> = Aantal windingen secondaire spoel
 
 Bij een **ideale transformator** is er helemaal geen energieverlies => alle energie in de primaire spoel gaat naar de secondaire spoel. Dat betekent
 
-```
-Pp = Ps
-```
+\\[P_{p} = P_{s}\\]
 
 > P<sub>p</sub> = Vermogen primaire spoel  
-> P<sub>s</sub> = Vermogen secondaire spoel  
+> P<sub>s</sub> = Vermogen secondaire spoel
 
 `P = U * I`, dus:
 
-```
-Up* Ip = Us * Is
-```
+\\[U_{p} \cdot I_{p} = U_{s} \cdot I_{s}\\]
 
 > U<sub>p</sub> = Spanning primaire spoel  
 > I<sub>p</sub> = Stroomsterkte primaire spoel  
 > U<sub>s</sub> = Spanning secondaire spoel  
-> I<sub>s</sub> = Stroomsterkte secondaire spoel  
+> I<sub>s</sub> = Stroomsterkte secondaire spoel
 
 Bij een niet-ideale transformator is het vermogen van de primaire spoel (P<sub>p</sub>) groter.
 
@@ -122,13 +111,11 @@ Bij een niet-ideale transformator is het vermogen van de primaire spoel (P<sub>p
 
 Je kan energieverbruik meten met een kilowattuurmeter (kWh-meter). Je kan rekenen met kilowattuur op deze manier:
 
-```
-E = P * t
-```
+\\[E = P \cdot t\\]
 
 > P = vermogen (kW)  
 > E = energie (kWh)  
-> t = tijd (uur)  
+> t = tijd (uur)
 
 1 kWh = 3.600.000 J
 
@@ -146,28 +133,21 @@ In de meterkast zit dus onder andere:
 
 De spanning is voor elk apparaat in iedere groep hetzelfde, namelijk de netspanning van 230V.
 
-```
-U = U1 = U2 = U3 ... = 230V
-```
+\\[U_{tot} = U_{1} = U_{2} = U_{3} ... = \text{230V}\\]
 
 Als je alle stroomsterktes bij elkaar optelt krijg je de totale stroomsterkte:
 
-```
-Itot = I1 + I2 + I3 ...
-```
+\\[I_{tot} = I_{1} + I_{2} + I_{3} ...\\]
 
 Je kan het totale vermogen (totale hoeveelheid energie omgezet per seconde) zo berekenen:
 
-```
-Ptot = P1 + P2 + P3 ...
-Ptot = U1 * I1 + U2 * I2 ...
-```
+\\[P_{tot} = P_{1} + P_{2} + P_{3} ...\\]
+
+\\[P_{tot} = U_{1} \cdot I_{1} + U_{2} \cdot I_{2} ...\\]
 
 Maar `U` is overal hetzelfde, dus je kan het ook zo berekenen:
 
-```
-Ptot = U * Itot
-```
+\\[P_{tot} = U \cdot I_{tot}\\]
 
 ### Veiligheid
 
@@ -175,7 +155,7 @@ Dingen die goed stroom geleiden (zoals metalen) hebben een lage weerstand en dus
 
 Als de stroomsterkte in een groep hoger dan 16A (`Itot > 16A`) wordt kunnen de koperdraden te warm worden. Dit noemen we overbelasting. Er zijn verschillende redenen waardoor overbelasting kan onstaan:
 
-- Teveel apparaten op één groep 
+- Teveel apparaten op één groep
 - Kortsluiting
 
 Een gevolg van overbelasting kan zijn dat de isolatie om de koperdraden smelt.
@@ -193,7 +173,7 @@ Als je onder stroom staat en de stroom is niet te groot, kan je het voorwerp dat
 
 Een aardlek is wanneer er stroom "lekt", door een kortere weg naar de aarde te vinden. `Ilek = Iin-Iuit` zou nul moeten zijn. Er lekt dan geen stroom, en alles gaat terug naar de meterkast. Is dat niet zo, dan is er een aardlek.
 
-Als het verschil tussen `Iin` en `Iuit` groter dan 30mA is schakelt de aardlekschakelaar alle stroom in huis uit. 
+Als het verschil tussen `Iin` en `Iuit` groter dan 30mA is schakelt de aardlekschakelaar alle stroom in huis uit.
 
 Om dit soort situaties te voorkomen kunnen we apparaten dubbel isoleren. Voorbeelden daarvan zijn bijvoorbeeld:
 
@@ -201,11 +181,11 @@ Om dit soort situaties te voorkomen kunnen we apparaten dubbel isoleren. Voorbee
 - omhulsel van plastic
 - verven van de buitenkant
 
-We kunnen ook apparaten aarden. Dat betekent dat er al een draadje tegen de buitenkant van het apparaat zit, dat via het stopcontact met de aarde is verbonden. Daardoor gaat de stroom bij een aardlek via de aarddraad naar het stopcontact en dan naar de aarde, en niet via jou naar de aarde. 
+We kunnen ook apparaten aarden. Dat betekent dat er al een draadje tegen de buitenkant van het apparaat zit, dat via het stopcontact met de aarde is verbonden. Daardoor gaat de stroom bij een aardlek via de aarddraad naar het stopcontact en dan naar de aarde, en niet via jou naar de aarde.
 
 De aardedraad is geel/groen en is vaak dunner dan de rest (omdat ie toch niet zoveel gebruikt wordt).
 
-Je kan een geaard stopcontact herkennen aan de pinnen (en een geaard apparaat aan de pinnen op de stekker). 
+Je kan een geaard stopcontact herkennen aan de pinnen (en een geaard apparaat aan de pinnen op de stekker).
 
 ## Hoofdstuk 2
 
@@ -218,9 +198,9 @@ De effecten van krachten:
 - Verandering grootte snelheid
 - Verandering richting snelheid
 - Verandering vorm
-	- **Elastisch:** tijdelijk (vormt terug als de kracht verdwijnt)
-	- **Plastisch:** permanent
-	
+  - **Elastisch:** tijdelijk (vormt terug als de kracht verdwijnt)
+  - **Plastisch:** permanent
+
 Het symbool voor een kracht is een F. Een aantal krachten zijn:
 
 - Spierkracht (F<sub>spier</sub>)
@@ -237,22 +217,18 @@ Eigenschappen van een kracht:
 
 Dit is hoe je de zwaartekracht uitrekent:
 
-```
-Fz = m * g
-```
+\\[F_{z} = m \cdot g\\]
 
 > F<sub>z</sub> = zwaartekracht  
 > m = massa  
-> g = sterkte van de zwaartekracht (9,81 op aarde)  
+> g = sterkte van de zwaartekracht (9,81 op aarde)
 
 Je kan een kracht tekenen als pijl. Hoe langer de pijl, hoe groter de kracht. Je doet dit met een schaalverdeling (de krachtenschaal). Daarbij staat bijvoorbeeld 10N gelijk aan 1cm. Een pijl van 2cm is dan een kracht van 20N.
 
-```
-1cm ≜ 10N
-```
+\\[1\text{cm} ≜ 10\text{N}\\]
 
-Als je op de grond staat voel je de grond drukken onder je voeten. Als dit niet zou gebeuren zou je door de grond zakken (letterlijk). De normaalkracht (F<sub>n</sub>) is die kracht die onder je voeten drukt. 
+Als je op de grond staat voel je de grond drukken onder je voeten. Als dit niet zou gebeuren zou je door de grond zakken (letterlijk). De normaalkracht (F<sub>n</sub>) is die kracht die onder je voeten drukt.
 
-De normaalkracht is even groot als de zwaartekracht. De krachten zijn dus in evenwicht. Als twee krachten in evenwicht zijn zie je geen effecten van die krachten: geen vervorming of verandering van richting/grootte van snelheid. 
+De normaalkracht is even groot als de zwaartekracht. De krachten zijn dus in evenwicht. Als twee krachten in evenwicht zijn zie je geen effecten van die krachten: geen vervorming of verandering van richting/grootte van snelheid.
 
 Als er meerdere krachten op een voorwerpen inwerken kan je de resultante of nettokracht uitrekenen. Als ik bijv. ruzie heb met een vriend en we trekken allebij aan een pen, maar ik met een kracht van 10N en hij met een kracht van 11N beweegt de pen dus naar hem toe. Als iemand mij wil helpen met trekken om de pen in evenwicht krijgen moet hij dus bij mij meetrekken met 1N.

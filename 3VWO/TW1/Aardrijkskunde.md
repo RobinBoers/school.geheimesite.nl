@@ -13,7 +13,7 @@ De wereldhandel is hierdoor toegenomen:
 
 - Productieketen opgedeeld. Elk onderdeel komt uit het land waar het het goedkoopst kan worden geproduceerd.
 - Snellere en goedkopere transport en comminucatie. Vooral door de komst van de container. Dankzij **just-in-time** zijn er geen voorraad magazijnen nodig. De producten worden geproduceerd vlak voordat ze verkocht worden.
-- Handelsgrenzen verdwijnen. Hierdoor is meer handel mogelijk. 
+- Handelsgrenzen verdwijnen. Hierdoor is meer handel mogelijk.
 
 Sommige landen proberen echter nog steeds de hun eigen maakindustrie te beschermen door importheffingen op producten uit China te verhogen. Als beide partijen dit doen onstaat een **handelsoorlog**.
 
@@ -41,7 +41,7 @@ Er ontstonden drie blokken:
 2. **Het communistische blok**: de Sovjet-Unie
 3. **De ontwikkelingslanden**: Azië, Zuid-Amerika, Afrika
 
-Elk blok probeert meer macht in de wereldeconomie te vergaren. Dit proberen ze met name in het derde blok (de ontwikkelingslanden). 
+Elk blok probeert meer macht in de wereldeconomie te vergaren. Dit proberen ze met name in het derde blok (de ontwikkelingslanden).
 
 De blokken drijven vooral handel binnen hun eigen machtsblok. Hierdoor is de wereldeconomie van toen erg overzichtelijk.
 
@@ -61,34 +61,33 @@ Of een land arm of rijk is wordt bepaald door verschillende factoren. Je hebt in
 De interne factoren die maken dat een land arm of rijk is kunnen in vier catogoriën verdeeld worden:
 
 1. Natuurlijke oorzaken
-	- **Ligging**.  
-	Landen die aan zee liggen hebben een grotere kans op welvaart dan landen die **landlocked** zijn.
-	- **Ontwikkelingskansen**.  
-	Als het land vruchtbaar is, voldoende natuurlijke hulpbronnen heeft, niet te bergachtig en er voldoende neerslag is is de kans op welvaart ook groter.
-	
+   - **Ligging**.  
+     Landen die aan zee liggen hebben een grotere kans op welvaart dan landen die **landlocked** zijn.
+   - **Ontwikkelingskansen**.  
+     Als het land vruchtbaar is, voldoende natuurlijke hulpbronnen heeft, niet te bergachtig en er voldoende neerslag is is de kans op welvaart ook groter.
 2. Menselijke oorzaken
-	- **Politiek systeem**.  
-	Arme landen worden over het algemeen slecht bestuurd met veel vriendjespolitiek en corruptie. In de meeste gevallen geld dat met een democratisch land de ontwikkeling het snelst gaat. China is daarop een uitzondering. China bewijst dat ook een ondemocratisch land met een sterke overheid een economische groei kan doorbrengen.
-	- **Bevolkingsgroei en leeftijdsopbouw**.  
-	Landen met een grote beroepsbevolking en genoeg banen groeien het snelst. Een te grote bevolking is niet voordelig omdat het bbp dan moet worden gedeeld door meer mensen. Een vergrijsde bevolking is ook niet wenselijk aangezien dan een kleine jongen beroepsbevolking voor een grote groep ouderen moet zorgen.
-	- **Mate van ongelijkheid**.  
-	Als een land economisch groeit onstaat er ongelijkheid. Ongelijkheid wordt gemeten met het **Gini-coëfficiënt**. In landen met een jonge werkloze bevolking en grote ongelijkheid onstaat onrust. Hierdoor blijven toeristen en invensteerders weg.
+   - **Politiek systeem**.  
+     Arme landen worden over het algemeen slecht bestuurd met veel vriendjespolitiek en corruptie. In de meeste gevallen geld dat met een democratisch land de ontwikkeling het snelst gaat. China is daarop een uitzondering. China bewijst dat ook een ondemocratisch land met een sterke overheid een economische groei kan doorbrengen.
+   - **Bevolkingsgroei en leeftijdsopbouw**.  
+     Landen met een grote beroepsbevolking en genoeg banen groeien het snelst. Een te grote bevolking is niet voordelig omdat het bbp dan moet worden gedeeld door meer mensen. Een vergrijsde bevolking is ook niet wenselijk aangezien dan een kleine jongen beroepsbevolking voor een grote groep ouderen moet zorgen.
+   - **Mate van ongelijkheid**.  
+     Als een land economisch groeit onstaat er ongelijkheid. Ongelijkheid wordt gemeten met het **Gini-coëfficiënt**. In landen met een jonge werkloze bevolking en grote ongelijkheid onstaat onrust. Hierdoor blijven toeristen en invensteerders weg.
 
 ### Externe factoren
 
 Er zijn twee externe oorzaken die de welvaart in een land bepalen:
 
-1. **Koloniaal verleden**  
-Landen die eerder bezet zijn geweest en als expoitatiekolonie zijn gebruikt zijn vaak arm. Dit komt omdat de landen als het ware zijn 'leeggetrokken'. De moederlanden hebben alle grondstoffen uit de landen meegenomen en niet geïnvensteerd in de economie en industrie van de kolonie. Wordt dat wel gedaan, zoals in de VS of Australië, zijn dit vestegingskoloniën. Vaak zijn dat nu welvarenden landen.
+1.  **Koloniaal verleden**  
+    Landen die eerder bezet zijn geweest en als expoitatiekolonie zijn gebruikt zijn vaak arm. Dit komt omdat de landen als het ware zijn 'leeggetrokken'. De moederlanden hebben alle grondstoffen uit de landen meegenomen en niet geïnvensteerd in de economie en industrie van de kolonie. Wordt dat wel gedaan, zoals in de VS of Australië, zijn dit vestegingskoloniën. Vaak zijn dat nu welvarenden landen.
 
-2. **Rol in de wereldeconomie**  
-Door globalisering kunnen MNO's overal invensteren. Of ze dat doe hangt af van:
+2.  **Rol in de wereldeconomie**  
+    Door globalisering kunnen MNO's overal invensteren. Of ze dat doe hangt af van:
 
-	- Ligging: bereikbaarheid
-	- Ecomomische factoren: loon, opleidingsniveau
-	- Politieke factoren: betrouwbare overheid, stabiel land
-	
-	Landen in de (semi)pereferie vallen hierdoor af en moeten op eigen kracht ontwikkelen.
+        - Ligging: bereikbaarheid
+        - Ecomomische factoren: loon, opleidingsniveau
+        - Politieke factoren: betrouwbare overheid, stabiel land
+
+        Landen in de (semi)pereferie vallen hierdoor af en moeten op eigen kracht ontwikkelen.
 
 ## In het kort
 
@@ -109,21 +108,22 @@ Meer wereldhandel omdat:
 **Explotatiekoloniën:** werden leeggeplukt en zijn nu vaak arm
 **Vestigingskoloniën:** werd een zelfstandige economie en industrie opgezet en werden ontwikkeld en zijn vaak nu welvarend (bijv. VS en Autraliën)
 
-Het economisch zwaartepunt verschuift. Dit noemen we global shift. 
+Het economisch zwaartepunt verschuift. Dit noemen we global shift.
 
 Na WO2 konden landen het bezetten van andere landen niet meer goedkeuren en werden veel koloniën onafhankelijk. Dit noemen we dekolonisatie.
 
-Er onstonden 3 **(machts)blokken**:  
+Er onstonden 3 **(machts)blokken**:
 
 - het westen
 - de Sovjet-Unie
 - ontwikkelingslanden
 
-Het westen en Sovjet-Unie wilde allebei meer macht en probeerde die te vergaren in de ontwikkelingslanden. Alle handel vond nog plaats binnen de blokken en de wereldeconomie was daardoor erg overzichtelijk. 
+Het westen en Sovjet-Unie wilde allebei meer macht en probeerde die te vergaren in de ontwikkelingslanden. Alle handel vond nog plaats binnen de blokken en de wereldeconomie was daardoor erg overzichtelijk.
 
 Na het vallen van de Sovjet-Unie werd **vrijemarkteconomie** de standaard. Daar bepaalt het volk wat er wordt geproduceerd en hoeveel het kost door de wetten van vraag en aanbod. Dit sys werkt het best als er geen handelsgrenzen zijn: **vrijhandel**.
 
 Het voordeel hiervan is:
+
 1. Dat landen zich kunnen specialiseren
 2. Dat ondernemers toegang hebben tot de buitenlandse afzetmarkt
 
@@ -138,10 +138,9 @@ De ontwikkeling van een land wordt bepaald door verschillenden factoren.
 
 - Koloniaal verleden
 - Rol in wereldeconomie
-	- Bereikbaarheid
-	- Overheid
-	- Loon, opleidingsniveau
-
+  - Bereikbaarheid
+  - Overheid
+  - Loon, opleidingsniveau
 
 ## §1.4: Europa: winnaars en verliezers
 
@@ -166,7 +165,7 @@ Er zijn ook nog uitdagingen voor deze gebieden:
 
 ## §1.5: Nederland: winnaars en verliezers
 
-Nederland staat dankzij de vele export vrij hoog in de globaliseringsindex. Dat is een ranglijst waarin je kan zien hoe goed je internationaal bent op bepaalde terreinen (bijv. economisch, politiek en sociaal). Veel van onze industrie is al vertrokken naar lagelonenlanden en wordt gevolgd door de hoogwaardige arbeid en diensten (bijv. callcenters in India). Dit noemen we outsourcing. 
+Nederland staat dankzij de vele export vrij hoog in de globaliseringsindex. Dat is een ranglijst waarin je kan zien hoe goed je internationaal bent op bepaalde terreinen (bijv. economisch, politiek en sociaal). Veel van onze industrie is al vertrokken naar lagelonenlanden en wordt gevolgd door de hoogwaardige arbeid en diensten (bijv. callcenters in India). Dit noemen we outsourcing.
 
 Veel techbedrijven gaan in de Brainport van Eindhoven zitten. Dat komt dankzij deze vestegingsplaatsfactoren:
 
@@ -193,18 +192,16 @@ Het grootste deel (80%) van de migratie is binnenlands. De rest is buitenlands. 
 Er zijn verschillende redenen om te migreren:
 
 - **Arbeidsmigratie:**  
-je migreert omdat je beter werk/economische kansen zoekt.
+  je migreert omdat je beter werk/economische kansen zoekt.
 
 - **Studie (internationale studenten):**  
-je studeert in het buitenland. Vaak blijven studenten daar omdat ze er werk vinden.
+  je studeert in het buitenland. Vaak blijven studenten daar omdat ze er werk vinden.
 
 - **Vluchtelingen:**  
-mensen die vluchten voor een oorlog, natuurramp, vervolging (geloof, sexualiteit etc.) of andere reden waarom hun thuisland onveilig is.
+  mensen die vluchten voor een oorlog, natuurramp, vervolging (geloof, sexualiteit etc.) of andere reden waarom hun thuisland onveilig is.
 
 - **Gezinsmigranten:**  
-mensen die migreren voor of gezinsvorming of gezinshereniging:
-	- **Gezinsvorming:** je maakt een gezin door bijvoorbeeld te trouwen met een buitenlander.
-	- **Gezinshereniging:** bijv. je partner is geemigreerd en je komt weer bij hem/haar wonen.
+  mensen die migreren voor of gezinsvorming of gezinshereniging: - **Gezinsvorming:** je maakt een gezin door bijvoorbeeld te trouwen met een buitenlander. - **Gezinshereniging:** bijv. je partner is geemigreerd en je komt weer bij hem/haar wonen.
 
 Vaak zijn het de jonge hoogopgeleide mensen uit semi-pereferielanden die emigreren. Zij hebben de aspiraties (wens) om naar een ander land te migreren vanwege de betere banen en leefomstandigheden en ze hebben ook de middelen om het te doen: geld.
 
@@ -215,25 +212,25 @@ Kettingmigratie komt voor als migratie leid tot nog meer migratie. Vaak hebben m
 Dit zijn de gevolgen van migratie:
 
 - **Bevolkingsopbouw:**  
-Doordat vooral jonge (mannen) vertrekken veranderd de bevolkingsopbouw van het herkomstgebied. Vooral de ouderen, partners en kinderen blijven over.
+  Doordat vooral jonge (mannen) vertrekken veranderd de bevolkingsopbouw van het herkomstgebied. Vooral de ouderen, partners en kinderen blijven over.
 
-- **Inkomensverschillen:** 
-Armen emigreren niet (geen middelen) en er onstaan daardoor inkomensverschillen.
+- **Inkomensverschillen:**
+  Armen emigreren niet (geen middelen) en er onstaan daardoor inkomensverschillen.
 
-- **Geldzendingen:** 
-Als emigranten geld terugsturen naar hun familie in het arme land. Hierdoor groeit de koopkracht van de families, die het geld ook weer kunnen invensteren in de opbouw van het land (lees: scholen, huisvesting, bedrijven).
+- **Geldzendingen:**
+  Als emigranten geld terugsturen naar hun familie in het arme land. Hierdoor groeit de koopkracht van de families, die het geld ook weer kunnen invensteren in de opbouw van het land (lees: scholen, huisvesting, bedrijven).
 
 - **Tekort arbeiders:**  
-Arbeiders emigreren, dus er is niemand om te werken in het herkomstgebied.
+  Arbeiders emigreren, dus er is niemand om te werken in het herkomstgebied.
 
 - **Modernisering:**  
-Als de thuisblijvers horen van de situatie in het bestemmingsland krijgen zij ook steeds meer aspiraties. Ze willen bijv. ook internet en smartphones. 
+  Als de thuisblijvers horen van de situatie in het bestemmingsland krijgen zij ook steeds meer aspiraties. Ze willen bijv. ook internet en smartphones.
 
 - **Sociale stratificatie:**  
-Vaak veranderd ook de sociale rangorde (sociale stratificatie). Je aanzien is gebaseerd op hoeveel geld je krijgt van de migranten, en niet meer van onder andere je afkomst. 
+  Vaak veranderd ook de sociale rangorde (sociale stratificatie). Je aanzien is gebaseerd op hoeveel geld je krijgt van de migranten, en niet meer van onder andere je afkomst.
 
-- **Braindrain of braingain:** 
-Als alle hoogopgeleide mensen (die dus genoeg verdienen) emigreren kan het zijn dat de kennis uit een land verdwijnt. Het kan ook andersom werken: de hoogopgeleide migranten sturen juist kennis en innovatie terug naar het thuisland.
+- **Braindrain of braingain:**
+  Als alle hoogopgeleide mensen (die dus genoeg verdienen) emigreren kan het zijn dat de kennis uit een land verdwijnt. Het kan ook andersom werken: de hoogopgeleide migranten sturen juist kennis en innovatie terug naar het thuisland.
 
 Je kan aan de aspiraties en mogelijkheden van mensen zien of er migraties zullen plaatvinden:
 

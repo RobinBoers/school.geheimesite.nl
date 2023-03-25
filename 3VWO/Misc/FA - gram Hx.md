@@ -10,7 +10,7 @@ Vouloir: voudr-
 Aller: ir-  
 Avoir: aur-  
 Faire: fer-  
-Prendre: prendr-  
+Prendre: prendr-
 
 ## Met être in passé composé
 

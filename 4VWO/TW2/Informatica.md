@@ -13,20 +13,21 @@ De lagen kunnen alleen met hun directe "buren" praten. Apps kunnen dus alleen vi
 De onderdelen waaruit de lagen zijn opgebouwd en waarmee ze met elkaar verbonden zijn noemen we interfaces. Soorten interfaces:
 
 - **Hardware-interfaces** (fysieke laag):
-	- Printplaten, chips en intergrated circuits (voor heel snelle verbindingen).
-	- Connectoren (zoals USB, HDMI en RJ45 (= ethernetkabel))
+
+  - Printplaten, chips en intergrated circuits (voor heel snelle verbindingen).
+  - Connectoren (zoals USB, HDMI en RJ45 (= ethernetkabel))
 
 - **Drivers** (verbindingen tussen logische en fysieke laag)
 
 - **Software-interfaces** (logische en toepassingen laag):
-	- **APIs** (application programmer interfaces): verbinden verschillende stukken code aan elkaar.
-		- Dienen als verbinding tussen verschillende apps  (voorbeeld: web API)
-		- Dienen als verbinding tussen code in de logische laag (worden ookwel interne APIs genoemd)
-		- Dienen als verbinding tussen de logische en toepassingen laag (voorbeeld: Android API)
-	- **User interfaces**: bieden een makkelijke manier om de software aan te sturen
-		- GUI (grafisch)
-		- TUI en CLI (text-based)
-		- VUI (voice-based)
+  - **APIs** (application programmer interfaces): verbinden verschillende stukken code aan elkaar.
+    - Dienen als verbinding tussen verschillende apps (voorbeeld: web API)
+    - Dienen als verbinding tussen code in de logische laag (worden ookwel interne APIs genoemd)
+    - Dienen als verbinding tussen de logische en toepassingen laag (voorbeeld: Android API)
+  - **User interfaces**: bieden een makkelijke manier om de software aan te sturen
+    - GUI (grafisch)
+    - TUI en CLI (text-based)
+    - VUI (voice-based)
 
 ### Voorbeeld: internet
 
@@ -36,13 +37,15 @@ De onderdelen waaruit de lagen zijn opgebouwd en waarmee ze met elkaar verbonden
 
 ### Voorbeeld: websites
 
-- Fysieke laag: 
-	- Server: de computer waarop de site staat 
-	- Client: computer die je gebruikt om de website te bezoeken
+- Fysieke laag:
 
-- Logische laag: 
-	- Server: de DBMS, de server software (vaak Apache)
-	- Client: het OS en de webbrowser
+  - Server: de computer waarop de site staat
+  - Client: computer die je gebruikt om de website te bezoeken
+
+- Logische laag:
+
+  - Server: de DBMS, de server software (vaak Apache)
+  - Client: het OS en de webbrowser
 
 - Toepassingen laag: de userinterface die jij ziet
 
@@ -59,10 +62,10 @@ _Mainframes en supercomputers doen MPP: massive parallel processing._
 - **PC**: een computer voor persoonlijk gebruik. Denk aan je laptop, tablet, smartphone en smartwatch. De term PC verwijst vaak naar desktops.
 
 - **Embedded system**: als apparaten under-the-hood een computer bevatten. Bijvoorbeeld een pinautomaat, slimme wasmachine of slimme termostaat.
-	- Betrouwbaar
-	- Onopvallend
-	- Veilig
-	- Tijdig
+  - Betrouwbaar
+  - Onopvallend
+  - Veilig
+  - Tijdig
 
 ## Von Neumann architectuur
 
@@ -76,35 +79,36 @@ Manieren om een CPU sneller te maken:
 
 - **Hogere klokfrequentie**
 - **Multitasking**
-	- Meerdere cores (multicore)
-	- Snel afwisselen door het OS
+  - Meerdere cores (multicore)
+  - Snel afwisselen door het OS
 - **Pipelining**: instructies efficienter uitvoeren
 - **Cache geheugen**: super snel geheugen op de chip
 
 ## Computeronderdelen
 
 - **Kernapparatuur**:
-	- Processor
-	- Intern geheugen
-		- ROM (read-only memory)
-			- EPROM: geprogrammeerd met UV
-			- EEPROM: elektrisch geprogrammeerd
-			(niet voor software, alleen settings, want het is relatief duur)
-		- RAM (random access memory)
-			- leeg als de stroom uitvalt
-			- werkt samen met processor
+
+  - Processor
+  - Intern geheugen
+    - ROM (read-only memory)
+      - EPROM: geprogrammeerd met UV
+      - EEPROM: elektrisch geprogrammeerd
+        (niet voor software, alleen settings, want het is relatief duur)
+    - RAM (random access memory)
+      - leeg als de stroom uitvalt
+      - werkt samen met processor
 
 - **Randapparatuur**:
-	- **Moederbord**: verbind alle onderdelen met elkaar via een grote printplaat (is dus een hardware-interface)
-	- **Opslag**: SSD, USB stick of SD-kaart (bijna altijd flashgeheugen)
-	- **GPU** (grafische kaart): bied extra rekenkracht voor ingewikkelde berekeningen in bijv. games. 
-	- **Voeding**: 
-		- Bij desktops: kastje bovenin
-		- Bij laptops: accu + adapter
-			- Lithium-ion accu's:
-			- Een hoge energiedichtheid
-			- Milieuvriendelijk
-			- Lange levensduur
+  - **Moederbord**: verbind alle onderdelen met elkaar via een grote printplaat (is dus een hardware-interface)
+  - **Opslag**: SSD, USB stick of SD-kaart (bijna altijd flashgeheugen)
+  - **GPU** (grafische kaart): bied extra rekenkracht voor ingewikkelde berekeningen in bijv. games.
+  - **Voeding**:
+    - Bij desktops: kastje bovenin
+    - Bij laptops: accu + adapter
+      - Lithium-ion accu's:
+      - Een hoge energiedichtheid
+      - Milieuvriendelijk
+      - Lange levensduur
 
 Bij een system-on-a-chip (SOC) zitten alle onderdelen (CPU, RAM, GPU, wifi, bluethoot, IO) op één chip. Dit is veel compacter (en wordt dus veel in embedded systems en smartphones/smartwatches gebruikt), maar je kan ook minder makkelijk onderdelen vervangen/upgraden, dan moet je een hele nieuwe chip (en meestal een heel nieuw device) kopen.
 
@@ -128,6 +132,7 @@ Fysieke kabels zijn in sommige opzichten beter dan draadloze verbindingen:
 Sensoren registreren data en zetten die om in een digitaal signaal. Sensoren bieden input.
 
 Voorbeelden:
+
 - Warmtesensor
 - Microfoon
 - Camera
@@ -136,6 +141,7 @@ Voorbeelden:
 Actuatoren ontvangen een digitaal signaal en doen daar dan iets mee. Actuatoren geven output.
 
 Voorbeelden:
+
 - Verwarmingselement
 - Speaker
 - Motortje
@@ -146,19 +152,21 @@ Voorbeelden:
 ### Soorten software
 
 - Maatsoftware
-	- Heeft een hele specifieke taak, wordt meestal voor één bedrijf ontwikkelt
-	- Is daarom erg duur
-	- Voorbeelden: Hema fotoalbum maker
+
+  - Heeft een hele specifieke taak, wordt meestal voor één bedrijf ontwikkelt
+  - Is daarom erg duur
+  - Voorbeelden: Hema fotoalbum maker
 
 - Specialistische software
-	- Heeft nog steeds een specifieke taak, maar wordt door veel meer mensen gebruikt.
-	- Is redelijk duur
-	- Voorbeelden: Adobe AfterEffects
+
+  - Heeft nog steeds een specifieke taak, maar wordt door veel meer mensen gebruikt.
+  - Is redelijk duur
+  - Voorbeelden: Adobe AfterEffects
 
 - Standaardsoftware
-	- Wordt door heel veel mensen gebruikt
-	- Is redelijk goedkoop
-	- Voorbeelden: Word, Firefox, Spotify, iCloud
+  - Wordt door heel veel mensen gebruikt
+  - Is redelijk goedkoop
+  - Voorbeelden: Word, Firefox, Spotify, iCloud
 
 ### Besturingssystemen
 
@@ -171,24 +179,26 @@ Een besturingssysteem heeft drie belangrijke taken:
 Je hebt verschillende besturingssystemen voor verschillende doeleindes:
 
 - **PCs**:
-	- Linux
-	- Windows
-	- MacOS
-	- ChromeOS (variant van Linux)
+
+  - Linux
+  - Windows
+  - MacOS
+  - ChromeOS (variant van Linux)
 
 - **Servers**:
-	- Linux
-	- Windows Server (met of zonder GUI)
+
+  - Linux
+  - Windows Server (met of zonder GUI)
 
 - **Smartphones**:
-	- iOS
-	- Android (maakt gebruik van de Linux kernel)
-	- Linux-based (heel weinig gebruikt)
 
-- **IoT**: 
-	- Minimale versie van Linux
-	- Windows IoT Core
+  - iOS
+  - Android (maakt gebruik van de Linux kernel)
+  - Linux-based (heel weinig gebruikt)
 
+- **IoT**:
+  - Minimale versie van Linux
+  - Windows IoT Core
 
 ### Emuleren
 
@@ -196,7 +206,7 @@ Met een emulator kan je een ander apparaat na doen. Emulators worden veel gebrui
 
 ### Virtual machines
 
-Je kan ook je computer in meerdere computers opsplitsen met virtual machines. Het verschil met emulators is dat virtual machines ook echt toegang hebben tot (een stukje van) de fysieke hardware. 
+Je kan ook je computer in meerdere computers opsplitsen met virtual machines. Het verschil met emulators is dat virtual machines ook echt toegang hebben tot (een stukje van) de fysieke hardware.
 
 Virtual machines worden veel gebruikt als je servers in de cloud wil huren. Er staan dan meerdere virtual machines op één server.
 
@@ -215,37 +225,41 @@ Maar bovenop deze toepassingenlaag zit nog een toepassingenlaag: de website zelf
 ### Licenties
 
 - **Freeware**:
-	- gratis
-	- je mag geen wijzigingen maken
-	- meestal verdient de ontwikkelaar er geen geld mee
+
+  - gratis
+  - je mag geen wijzigingen maken
+  - meestal verdient de ontwikkelaar er geen geld mee
 
 - **Shareware**:
-	- gratis, maar de ontwikkelaar verdient wel iets
-	- je mag geen wijzigingen maken
-	- verschillende soorten:
-		- **adware**: de ontwikkelaar verdient geld met reclames.
-		- **demoware**: de eerste x dagen zijn gratis, daarna moet je de software kopen.
-		- **freemium**: de software is gratis, maar voor upgrades of extra features moet je betalen.
+
+  - gratis, maar de ontwikkelaar verdient wel iets
+  - je mag geen wijzigingen maken
+  - verschillende soorten:
+    - **adware**: de ontwikkelaar verdient geld met reclames.
+    - **demoware**: de eerste x dagen zijn gratis, daarna moet je de software kopen.
+    - **freemium**: de software is gratis, maar voor upgrades of extra features moet je betalen.
 
 - **Open-source**:
-	- meestal gratis, maar je kan betalen voor support of doneren
-	- broncode is openbaar
-	- je mag meestal wijzingingen maken
-	- de licentie bepaald wat je met de code mag doen
 
-- **Creative Commons**: 
-	- open-source voor dingen die niet code zijn (bijv. plaatjes, tekst of videos)
-	- 4 "smaken" die gecombineerd kunnen worden:
-		- **Attribution**: als iemand je werk gebruikt moeten ze je naam vermelden.
-		- **Non-commercial**: je werk mag alleen gebruikt worden voor niet-commerciële doeleinden.
-		- **No-derivatives**: mensen mogen niet iets nieuw maken met je werk.
-		- **Share-alike**: als mensen iets maken met je werk moet dat nieuwe werk ook een creative commons licentie hebben.
+  - meestal gratis, maar je kan betalen voor support of doneren
+  - broncode is openbaar
+  - je mag meestal wijzingingen maken
+  - de licentie bepaald wat je met de code mag doen
+
+- **Creative Commons**:
+
+  - open-source voor dingen die niet code zijn (bijv. plaatjes, tekst of videos)
+  - 4 "smaken" die gecombineerd kunnen worden:
+    - **Attribution**: als iemand je werk gebruikt moeten ze je naam vermelden.
+    - **Non-commercial**: je werk mag alleen gebruikt worden voor niet-commerciële doeleinden.
+    - **No-derivatives**: mensen mogen niet iets nieuw maken met je werk.
+    - **Share-alike**: als mensen iets maken met je werk moet dat nieuwe werk ook een creative commons licentie hebben.
 
 - **Commercieël**:
-	- er moet altijd worden betaald (dmv. eenmalige aankoop of subscription)
-	- voordelen tenopzichte van andere software:
-		- betere kwaliteit
-		- onmisbaar in bedrijven
+  - er moet altijd worden betaald (dmv. eenmalige aankoop of subscription)
+  - voordelen tenopzichte van andere software:
+    - betere kwaliteit
+    - onmisbaar in bedrijven
 
 _De voordelen van commerciële hierboven zijn echt totale bullshit. De open-source alternatieven voor mainstream software zoals Word of Photoshop zijn even goed al dan niet beter dan de commerciële variant. Commerciële software heeft ook veel nadelen: de ontwikkelaar kan stoppen met de software te updaten (geen support) of je licentie ongeldig maken. De enige reden om commerciële software te gebruiken is vanwege backwards-compatibility in bedrijven en meer addons/hulpmiddelen online._
 

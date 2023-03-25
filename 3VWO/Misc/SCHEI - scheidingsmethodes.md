@@ -4,39 +4,39 @@ Alle scheidingsmethoden die geleerd moeten worden voor het practicum SO scheikun
 
 Filtreren  
 Deeltjesgrootte  
-Suspensie  
+Suspensie
 
 Adsorberen  
 Aanhechtingsvermogen  
-Oplossing, gasmengsel  
+Oplossing, gasmengsel
 
 Indampen  
 Kookpunt  
-Oplossing, suspensie  
+Oplossing, suspensie
 
 Extraheren  
 Oplosbaarheid  
-Mengsel vaste stoffen  
+Mengsel vaste stoffen
 
 Zeven  
 Deeltjesgrootte  
-Suspensie, mengsel vaste stoffen  
+Suspensie, mengsel vaste stoffen
 
 Chromatografie  
 Aanhechtingsvermogen, oplosbaarheid  
-Mengsel vaste stoffen  
+Mengsel vaste stoffen
 
 Destilleren  
 Kookpunt  
-Oplossing, suspensie  
+Oplossing, suspensie
 
 Centrifugeren  
 Dichtheid  
-Suspensie, emulsie  
+Suspensie, emulsie
 
 Bezinken en afschenken  
 Dichtheid  
-Suspensie, emulsie  
+Suspensie, emulsie
 
 ## Mengsels
 

@@ -5,18 +5,23 @@
 $$
 P = U*I
 $$
+
 $$
 R = {U \over I}
 $$
+
 $$
 E = P*t
 $$
+
 $$
 I = {Q \over Δt}
 $$
+
 $$
 U = {J \over Q}
 $$
+
 $$
 R = ρ * {l \over A}
 $$
@@ -50,7 +55,6 @@ _Variabele weerstand als spanningsdeler_
 ![](variabele-weerstand.png)
 _Variabele weerstand als variabele weerstand_
 
-
 ## Significantie
 
 Bij vermenigvuldigen of delen: eindantwoord heeft evenveel significante cijfers als de meetwaarde met de minst significante cijfers.
@@ -62,5 +66,4 @@ Let op:
 - Tussenuitkomsten niet (veel) afronden!
 - Getallen zonder meetonzekerheid (bijvoorbeeld het aantal lampjes of een symbool zoals π) tellen niet mee voor significantie.
 
-*Als je 1 significant cijfer moet gebruiken en op $0.x$ uitkomt wordt het natuurlijk $x*10^{-1}$*
-
+_Als je 1 significant cijfer moet gebruiken en op $0.x$ uitkomt wordt het natuurlijk $x*10^{-1}$\_

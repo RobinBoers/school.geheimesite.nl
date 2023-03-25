@@ -13,7 +13,7 @@ Een verhaal bestaat uit personages. Die zijn:
 - **Round characters:** je weet veel informatie over ze, en je weet wat ze denken. Ze ontwikkelen in de loop van het verhaal.
 - **Flat characters:** minder belangrijk, weet je minder over (side characters).
 - **Typen:** spelen een bijrol. Ze hebben maar 1 functie.
-	-  **Katikatuur of stereotype:** een type waarbij karaktereigenschappen sterk overdreven zijn.
+  - **Katikatuur of stereotype:** een type waarbij karaktereigenschappen sterk overdreven zijn.
 
 In een verhaal spreek je vaak van het conflictmodel. Het verhaal begint met een evenwicht. Dat wordt verstoord door een conflict waarmee het hoofdpersonage wat moet. Daarna volgt een nieuw evenwicht. Vaak bevat het conflict ook sub-conflicten.
 
@@ -25,13 +25,13 @@ Het perspectief van een verhaal is het oogpunt van een karakter waarvanuit het v
 
 Een perspectief kan niet betrouwbaar zijn. Denk bijvoorbeeld aan een personage dat dronken, high, stoned, te jong of in een psychose is. Dan is de informatie die je krijgt onvolledig, vertekend of onjuist.
 
-De *setting* van een verhaal zegt iets over de *plaats*, *tijd* en *omstandigheden* waarin een verhaal zich afspeelt. De functie van de ruimte waarin een verhaal zich afspeelt kan zijn:
+De _setting_ van een verhaal zegt iets over de _plaats_, _tijd_ en _omstandigheden_ waarin een verhaal zich afspeelt. De functie van de ruimte waarin een verhaal zich afspeelt kan zijn:
 
 - **Karakterisering:** als een personage voorkeur of afkeer van een ruimte heeft zegt dat iets over hem.
 - **Sfeertekening:** de ruimte wordt gebruikt om gevoelens of de sfeer te bepalen / bevestigen.
 - **Symbolisch:** de ruimte staat symbool voor iets.
 
-Spanning (≠ spannend) zorgt ervoor dat je verder wil lezen. Dit kan door: 
+Spanning (≠ spannend) zorgt ervoor dat je verder wil lezen. Dit kan door:
 
 - Informatie weglaten
 - Informatie wel aan de lezer maar niet aan de hoofdpersoon geven

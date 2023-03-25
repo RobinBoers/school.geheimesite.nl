@@ -16,7 +16,6 @@ Je hebt verschillende schaalniveau's binnen de ecologie:
 - **Bioom**: deel van de biosfeer met een kenmerkend klimaat (_bijv. toendra of woestijn_)
 - **Biosfeer**: het deel van de aarde die leven bevat (_van 10km hoog tot 10km in de grond_)
 
-
 Een voedselketen bestaat uit organismes die elkaar eten. De eerste schakel is **altijd** een plant, want die zet zonlicht om in energie. De tweede schakel is altijd een planteneter en vanaf daar zijn het canivoren en alleseters.
 
 De plaats in de voedselketen noemen we het trofische niveau. De planten zijn producenten en ze zijn autoroof, want ze kunnen zelf energierijke stoffen maken dmv. fotosynthese (bladgroenkorrels). Consumenten zijn heteroroof, want ze moeten andere organismes eten om energie te vergaren. Je hebt dus:
@@ -24,7 +23,7 @@ De plaats in de voedselketen noemen we het trofische niveau. De planten zijn pro
 - Een producent, eerste trofisch niveau
 - Consument van de 1e orde, tweede trofisch niveau
 - Consument van de 2e orde, derde trofisch niveau
-enz.
+  enz.
 
 Met elk trofisch niveau neemt de biomassa van het organisme af.
 
@@ -57,9 +56,9 @@ Je hebt verschillende soorten van samenleven:
 - **Samenwerking**: soorten werken samen om een gemeenschappelijk doel te bereiken.
 - **Concurrentie**: soorten strijden om hetzelfde doel te bereiken.
 - **Symbiose**: een langdurige relatie tussen twee soorten
-	- Mutualisme: beide soorten hebben voordeel van de relatie
-	- Commensalisme: één van de soorten heeft maar voordeel van de relatie, maar de andere heeft geen nadeel
-	- Parasitisme: een soort (de parasiet) heeft voordeel, maar de andere soort (de gastheer) heeft er een nadeel aan.
+  - Mutualisme: beide soorten hebben voordeel van de relatie
+  - Commensalisme: één van de soorten heeft maar voordeel van de relatie, maar de andere heeft geen nadeel
+  - Parasitisme: een soort (de parasiet) heeft voordeel, maar de andere soort (de gastheer) heeft er een nadeel aan.
 
 _Een parasiet leeft in/op zijn gastheer en kan vaak zonder niet overleven._
 
@@ -82,11 +81,11 @@ Er is in Nederland praktisch geen wilde natuur meer. Heel Nederland is een cultu
 
 De bossen die we nog hebben zijn vrijwel allemaal aangeplant voor bosbouw: het gebruiken van een bos voor houtproductie als bouwmateriaal of brandstof.
 
-De mens gebruikt 75% van het landoppervlak van de aarde. Hierdoor worden de leefgebieden van dieren verkleind of verdwijnen gewoon volledig. Hierdoor nemen ecosystemen af en worden dieren bedreigd (met uitsterven tot gevolg). Hierdoor neemt de biodiversiteit, de variatie in soorten binnen een gebied, af. 
+De mens gebruikt 75% van het landoppervlak van de aarde. Hierdoor worden de leefgebieden van dieren verkleind of verdwijnen gewoon volledig. Hierdoor nemen ecosystemen af en worden dieren bedreigd (met uitsterven tot gevolg). Hierdoor neemt de biodiversiteit, de variatie in soorten binnen een gebied, af.
 
 _Dit is ook een bedreiging voor ons, want we hebben de natuur nodig om te overleven._
 
-Herintroductie is het terugbrengen van een soort in een gebied. Dit is een vorm van natuurbeheer: alle maatregelen om de natuur (gebieden niet gebruikt voor wonen, werken, landbouw of verkeer) te behouden, beschermen en herstellen. 
+Herintroductie is het terugbrengen van een soort in een gebied. Dit is een vorm van natuurbeheer: alle maatregelen om de natuur (gebieden niet gebruikt voor wonen, werken, landbouw of verkeer) te behouden, beschermen en herstellen.
 
 ## Mens en milieu
 
@@ -101,19 +100,18 @@ _Ik heb geen zin om het versterkt broeikaseffect uit te leggen, iedereen weet t 
 Het versterkt broeikaseffect leid tot klimaatverandering (een verandering in het gemiddelde weer over een langere periode), want de gemiddelde temperatuur stijgt. Dit is niet fijn, want:
 
 - Zeespiegel stijgt -> overstromingen
-	- Landbouwgrond gaat verloren
-	- Klimaatvluchtelingen
+  - Landbouwgrond gaat verloren
+  - Klimaatvluchtelingen
 - Biodiversiteit neemt af
-	- Door bosbranden
-	- Omdat koraal verdwijnt	
-	- Ecosystemen verdwijnen
+  - Door bosbranden
+  - Omdat koraal verdwijnt
+  - Ecosystemen verdwijnen
 - Extremer weer
-	- Verwoestijning
-	- Orkanen
-	- Grote stormen (-> groter overstromingsgevaar)
-	- Droogte (zee stroomt in rivieren -> verzilting)
+  - Verwoestijning
+  - Orkanen
+  - Grote stormen (-> groter overstromingsgevaar)
+  - Droogte (zee stroomt in rivieren -> verzilting)
 - Verzuring oceanen
-
 
 ## Duurzaamheid
 
@@ -126,7 +124,7 @@ Duurzaamheid is:
 
 Bioindustrie is intensieve veeteelt waarbij een zo hoog mogelijke opbrengst met zo laag mogelijke kosten centraal staat. Er is geen aandacht voor duurzaamheid of dierwelzijn.
 
-Om de milieuproblemen op te lossen hebben we duurzame ontwikkeling nodig: gebruiken wat we nodig hebben voor ons leven, maar de planeet in dezelfde staat (of beter 😉) door te geven aan de volgende generatie. Voorbeelden hiervan zijn: 
+Om de milieuproblemen op te lossen hebben we duurzame ontwikkeling nodig: gebruiken wat we nodig hebben voor ons leven, maar de planeet in dezelfde staat (of beter 😉) door te geven aan de volgende generatie. Voorbeelden hiervan zijn:
 
 1. **Duurzame energie**: windmolens, zonne-energie, aardwarmte, biomassa en waterkracht zijn goede alternatieven voor fossiele brandstoffen[^3].
 
@@ -135,17 +133,17 @@ Om de milieuproblemen op te lossen hebben we duurzame ontwikkeling nodig: gebrui
 3. **Duurzame landbouw**: alternatieven voor bioindustrie zijn stadslandbouw, verticale landbouw (gestapelde bakken met planten erin), precisielandbouw waarbij elke plant precies zoveel water en voeding krijgt als ie nodig heeft om verspilling/verlies te voorkomen, kringlooplandbouw waarbij niet de grote goedkope hoeveelheid voedsel als doel, maar duurzame omgang met het milieu en tot slot biologische landbouw waarbij geen kunstmest, gewasbescherming, monoculturen of onnodige medicijnen worden gebruikt. Er is hier wel meer grond voor nodig, dus zijn biologische producten duurder.
 
 4. **Minder vervuiling**: moet ik dit echt uitleggen? gooi gewoon je fucking troep in de prullenbak en lever die statiegeldflesjes in. please. hoe moeilijk kan het zijn. andere manieren om bijv. luchtvervuiling te verminderen:
-	- Minder scooter- en autorijden
-	- Geen vuurwerk afsteken
-	- Geen hout stoken
-	
-	(Succes om mensen zo ver te krijgen haha)
 
+   - Minder scooter- en autorijden
+   - Geen vuurwerk afsteken
+   - Geen hout stoken
 
-5. **Minder broeikasgassen**: 
-	- Minder energie gebruiken
-	- Gebouwen isoleren
-	- Aanpassingen aan de veeteelt
+   (Succes om mensen zo ver te krijgen haha)
+
+5. **Minder broeikasgassen**:
+   - Minder energie gebruiken
+   - Gebouwen isoleren
+   - Aanpassingen aan de veeteelt
 
 ## Landbouw
 
@@ -196,7 +194,7 @@ Zo moet dat:
 Producten die bij kca[^5] horen:
 
 - Spaarlampen
-	- hierin zit kwik, een gevaarlijke stof
+  - hierin zit kwik, een gevaarlijke stof
 - Batterijen
 - Gootsteenontstopper
 - Verf (vloeibaar)
@@ -208,11 +206,7 @@ Producten die bij kca[^5] horen:
 - Terpentine
 
 [^1]: Eigenlijk gek dat we daarbij geen rekening mee houden dat er ook nog ruimte moet zijn voor andere soorten. Als we de aarde precies verdelen en iedereen een stukje geven, waar moeten al die bedreigde diersoorten dan leven. Ik denk dat precies deze mindset het probleem is. De aarde is niet alleen van de mens.
-
 [^2]: Het kan erger: Nederlanders gebruiken gemiddeld 6.3 ha!
-
 [^3]: Waarom heeft niemand het over kernenergie? Het is volledig CO2 neutraal en ook nog eens super veilig. We zullen toch wel moeten, want op een bepaald punt is de steenkool op, en mensen gaan niet accepteren dat ze niet kunnen tiktokken als de zon niet schijnt en het niet waait.
-
 [^4]: PMD is alleen voor verpakkingen
-
 [^5]: klein chemisch afval

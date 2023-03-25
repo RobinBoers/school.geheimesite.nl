@@ -15,11 +15,11 @@ Een schaduw onstaat als licht wordt geblokkeerd door een object. Er zijn 2 soort
 
 Het lichtere deel van de schaduw is altijd een halfschaduw.
 
-**Direct licht** komt direct vanuit de lichtbron. **Indirect licht** gaat via een ander object, en **diffuus licht** schijnt door een object heen (lampenkap / wolken).  
+**Direct licht** komt direct vanuit de lichtbron. **Indirect licht** gaat via een ander object, en **diffuus licht** schijnt door een object heen (lampenkap / wolken).
 
 Bij een **zonsverduistering** staat de maan tussen de zon en aarde.
 
-**Spiegelwet:**  ∠i = ∠t
+**Spiegelwet:** ∠i = ∠t
 
 Zo teken je hoek van terugkaatsing:
 
@@ -29,7 +29,7 @@ Zo teken je hoek van terugkaatsing:
 4. Teken terugkaatsende straal
 5. Zet de hoek erbij
 
-De afstand tot de spiegel is gelijk aan de afstand van het spiegeloppervlak tot het voorwerp in het spiegelbeeld (moeilijk uit te leggen, je snapt me toch wel). 
+De afstand tot de spiegel is gelijk aan de afstand van het spiegeloppervlak tot het voorwerp in het spiegelbeeld (moeilijk uit te leggen, je snapt me toch wel).
 
 Je kan met een **prisma** het witte licht scheiden. Licht is een spectrum. Je kan de kleuren rood t/m paars zien. Er zijn ook niet zichtbare stralen:
 

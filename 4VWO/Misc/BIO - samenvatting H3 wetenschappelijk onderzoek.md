@@ -2,7 +2,7 @@
 
 Bij wetenschappelijk onderzoek heb je verschillende variabele:
 
-- **Onafhankelijke variabele** (x-as): de variabele die de onderzoeker varieert 
+- **Onafhankelijke variabele** (x-as): de variabele die de onderzoeker varieert
 - **Afhankelijke variabele** (y-as): wat je meet, is afhankelijk van de onafhankelijke variabele
 
 ## Validiteit en betrouwbaarheid
@@ -11,23 +11,23 @@ Bij wetenschappelijk onderzoek heb je verschillende variabele:
 
 - hoe groot is de invloed van meetfouten op de conclusie
 - is het onderzoek herhaalbaar?
-	- zelfde resultaten => betrouwbaar onderzoek
+  - zelfde resultaten => betrouwbaar onderzoek
 
 **Validiteit** gaat over welk verschijnsel je meet: of je meet wat je probeert te meten (eg. is de manier waarop je je data krijgt goed).
-
 
 ## Soorten onderzoek
 
 - Experimenteel
-	- er wordt gebruik gemaakt van een experiment/proef (in een gemaakte-omgeving)
-	- er wordt een controle-experiment uitgevoerd
-	- er moet een eenduidige onderzoeksvraag zijn
+
+  - er wordt gebruik gemaakt van een experiment/proef (in een gemaakte-omgeving)
+  - er wordt een controle-experiment uitgevoerd
+  - er moet een eenduidige onderzoeksvraag zijn
 
 - Beschrijvend
-	- een natuurlijk verschijnsel wordt gemeten
-	- geen sprake een onafhankelijke variabele
-	- **kwantitatief:** als je dingen telt
-	- **kwalitatief:** als je geen dingen telt
+  - een natuurlijk verschijnsel wordt gemeten
+  - geen sprake een onafhankelijke variabele
+  - **kwantitatief:** als je dingen telt
+  - **kwalitatief:** als je geen dingen telt
 
 ## Opbouw van een onderzoek
 
@@ -47,7 +47,7 @@ Vaak heb je in een diagram spreidingsstreepjes. Spreidingsstreepjes geven de twe
 
 Spreidingsstreepjes kunnen ook worden gebruikt om een meet-onnauwkeurigheid of standaarddeviatie aan te geven. Dan staat het gemiddelde/het punt altijd in het midden.
 
-*Elke diagram moet een legenda hebben.*
+_Elke diagram moet een legenda hebben._
 
 ### Lijndiagrammen
 
@@ -85,4 +85,3 @@ Om ervoor te zorgen dat de artikelen van goede kwaliteit zijn wordt gebruik gema
 Soms worden onderzoeken achteraf teruggetrokken omdat blijkt dat het onderzoek niet klopt omdat er bijvoorbeeld fraude is gepleegd.
 
 Bronnenonderzoek is onderzoek waarbij eerdere onderzoeken worden opgezocht en er verbanden worden gelegd om tot nieuwe inzichten te komen (ofzo).
-

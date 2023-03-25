@@ -36,7 +36,7 @@ Voor het overschot aan banen dat in alinea 2 al besproken werd waren buitenlands
 
 Maar er was ook sprake van segregatie. Er ontstonden dicussie omtrent de islam na aanslagen in het buitenland. De onvrede werd groter toen Nederland van de EU vluchtelingen uit het Midden-Oosten moest opvangen. De wederopbouw en het behoud van de saamhorige samenleving is een grote uitdaging.
 
-## Politiek  in Nederland
+## Politiek in Nederland
 
 Voor de Tweede Wereldoorlog was Nederland verzuild. Erna wilde mensen de zuilen liever niet terug, maar in de praktijk kwam de verzuiling weer terug. Iedereen stemde voor de partij uit zijn eigen zuil, wat ervoor zorge dat er eigenlijk altijd twee partijen moesten samenwerken.
 
@@ -50,7 +50,7 @@ Er komt ontzuiling op gang omdat er meer welvaart is en mensen niet langer op hu
 
 ### 70s
 
-Een links kabinet probeerde vernieuwingsidealen in praktijk te brengen met als hoofddoel: spreiding van kennis, macht en inkomen. 
+Een links kabinet probeerde vernieuwingsidealen in praktijk te brengen met als hoofddoel: spreiding van kennis, macht en inkomen.
 
 ### 80s - 90s
 
@@ -63,7 +63,6 @@ Hierna kwamen de paarse kabinetten (PvdA, VVD en D66). Zij zette het beleid van 
 ### 2000 - nu
 
 Er waren veel problemen rond de multiculturele samenleving en Pim Fortuin bracht dat onder woorden. Hij startte zijn eigen politieke partij: de LPF. Een week voor de verkiezingen werd hij doodgeschoten door een linkse milieuactivist. Door de schok van de moord won de LPF in één keer 26 zetels bij de verkiezingen, maar het kabinet dat werd gevormd was onervaren en viel al snel. Nog steeds krijgen populisten, "mensen van het volk", veel stemmen.
-
 
 De EU heeft veel voordelen:
 
@@ -82,7 +81,6 @@ Maar er zijn ook problemen:
 - Brexit
 - Geen goede samenwerking tussen lidstaten om de spreiding van het coronavirus te remmen.
 
-
 ## Protesten en emanciperen
 
 De jeugd stelde in de jaren 60 het gezag van hun ouders, overheid en kerk steeds minder op prijs. Ze hadden een langere en betere opleiding gehad en hun leefwereld was veel groter dan die van de vorige generatie, mede door beter vervoer en de tv. Dit alles leidde tot het ontstaan van een jongerencultuur.
@@ -94,7 +92,7 @@ De vrouwen emancipeerde, want ze voelde er niks voor huisvrouw te worden. Ze eis
 ## Overzicht
 
 | Periode | Economie                          | Politiek                                             | Cultureel                                                 |
-|---------|-----------------------------------|------------------------------------------------------|-----------------------------------------------------------|
+| ------- | --------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
 | 50s     | wederopbouw<br>emigratie          | geleide loonpolitiek<br>willem Drees<br>samenwerking | spruitjeslucht<br>verzuild                                |
 | 60s     | economische groei<br>gas          | verzorgingsstaat<br>maakbare samenleving             | ontzuiling<br>+ alles bij 70s                             |
 | 70s     | oliecrisis<br>industrie verdwijnt | bezuinigingen<br>zelfredzaamheid<br>werkloosheid     | jeugdculturen<br>seksuele revolutie<br>vrouwenemancipatie |

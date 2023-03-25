@@ -4,13 +4,13 @@ Geschreven door Robin Boers voor de 3e toetsweek van leerjaar 2. Bevat de belang
 
 ## Kleurenleer en ruimtegebruik
 
-**Boetseren**:  
+**Boetseren**:
 
 - Zacht materiaal (bijv. klei)
 - Materiaal schuiven en toevoegen
 - Met handen spateltjes en mirettes
 
-**Beeldhouwen**:  
+**Beeldhouwen**:
 
 - Hard materiaal (bijv. steen of hout)
 - Alleen materiaal weghalen

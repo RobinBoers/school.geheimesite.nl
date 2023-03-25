@@ -21,15 +21,15 @@ Duitsland was bang voor een twee-fronten oorlog. Daarom bedachten ze het Von-Sch
 
 Bosnië-Herzegovina had zich vrijgevochten van het Turkse Rijk, maar werd door Oostenrijk-Hongarije ingenomen. In 1914 bezocht de kroonprins van Oostenrijk-Hongarije (Frans Ferdinand) de hoofdstad: Sarajevo. In Bosnië-Herzegovina woonde veel Serviërs. Ze vonden dat Bosnië-Herzegovina bij Servië hoorde en waren bang dat Servië ook zou worden ingenomen. Daarom besloot de terroristische organisatie de Zwarte Hand een aanslag op de kroonprins te plegen. Hij werd doodgeschoten door Gavrilo Princip.
 
-Oostenrijk-Hongarije eiste vervolgens dat ze een 'onderzoek' in Servië mochten doen met 1000 soldaten.   
--> Servië weigerde.   
--> De Duitsers steunde Oostenrijk-Hongarije.   
--> Rusland steunde Servië.   
--> Frankrijk hielp Rusland vanwege de Entente.   
--> Oostenrijk-Hongarije verklaarde Servië oorlog.   
--> Rusland mobiliseerde zijn leger.   
--> Duitsland starte het Von-Schlieffenplan en vielen België binnen (+ oorlogsverklaring Rusland en Frankrijk).   
--> Groot-Brittanië nam deel aan de oorlog omdat België neutraal was.   
+Oostenrijk-Hongarije eiste vervolgens dat ze een 'onderzoek' in Servië mochten doen met 1000 soldaten.  
+-> Servië weigerde.  
+-> De Duitsers steunde Oostenrijk-Hongarije.  
+-> Rusland steunde Servië.  
+-> Frankrijk hielp Rusland vanwege de Entente.  
+-> Oostenrijk-Hongarije verklaarde Servië oorlog.  
+-> Rusland mobiliseerde zijn leger.  
+-> Duitsland starte het Von-Schlieffenplan en vielen België binnen (+ oorlogsverklaring Rusland en Frankrijk).  
+-> Groot-Brittanië nam deel aan de oorlog omdat België neutraal was.
 
 Er waren veel nieuwe technieken die zouden helpen bij de snelle aanval op België:
 

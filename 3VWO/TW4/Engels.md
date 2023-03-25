@@ -12,18 +12,18 @@ The sink was cleaned.
 
 ### Sure
 
-```
+```text
 If/when + present simple + present simple
 ```
 
 ### Probable
 
-```
+```text
 If + present simple + will
 ```
 
 ### Questionable
 
-```
+```text
 If + past simple + would
 ```

@@ -22,7 +22,7 @@ Achterstelling of onderdrukking kunnen leiden tot de wil van een volk om zich af
 
 ### Economisch
 
-Vaak is de kans op conflicten groter als er in een gebied veel natuurlijke natuurlijke hulpbronnen aanwezig zijn. Dit komt omdat vaak de zeggenschap over die hulpbronnen verkeerd is verdeeld, of niet alle mensen in het gebied dezelfde belangen hebben of er geen voordeel van hebben. Dit noemen we de *paradox van de overvloed*, of resource curse. 
+Vaak is de kans op conflicten groter als er in een gebied veel natuurlijke natuurlijke hulpbronnen aanwezig zijn. Dit komt omdat vaak de zeggenschap over die hulpbronnen verkeerd is verdeeld, of niet alle mensen in het gebied dezelfde belangen hebben of er geen voordeel van hebben. Dit noemen we de _paradox van de overvloed_, of resource curse.
 
 ### Demografisch & cultureel
 
@@ -67,7 +67,6 @@ Bij een gewapend conflict wordt veel geld uitgegeven. Dit is geld dat niet kan w
 
 Bij een genocide of massamoord kan je in de bevolkingsgrafiek een inkeping zien. Vaak is er na een conflict, als er weer vrede is, een geboortegolf of babyboom. Dit zie je vaak als uitstulping in een grafiek.
 
-
 ## Europa
 
 Om bij de EU te mogen horen moet je aan een aantal eisen voldoen:
@@ -88,7 +87,7 @@ Binnen Europa zijn een aantal conflicten geweest (op volgorde van ernstigheid):
 - Georgië
 - Baskenland
 
-**Annexatie** is het bezetten van het territorium van een andere staat. 
+**Annexatie** is het bezetten van het territorium van een andere staat.
 
 **Nationalisme** is het streven van een volk voor het stichten van een eigen staat volgens het boek, maar dat is echt de slechtste definitie ever. Het is eerder de eendracht/saamhorigheid onder het volk, en het identificeren met je land.
 
@@ -100,11 +99,11 @@ De leeftijdsopbouw in een bestemmingsgebied veranderd door migratie omdat de eer
 
 - Meer arbeiders voor laaggeschoold en laagbetaald werk.
 - Meer werkloosheid in tijden van crisis
-	- Mede door discriminatie bij solicitaties
+  - Mede door discriminatie bij solicitaties
 
 ### Sociaal-cultureel
 
-Er onstaat een multiculturele samenleving waarin meerdere groepen met verschillende culturen en etniciteiten samenleven. Als de cultuur van de inwoners van een land veranderd door migratie noemen we dat aculturatie. Daarbij is de grootste aanpassing voor de immigranten. 
+Er onstaat een multiculturele samenleving waarin meerdere groepen met verschillende culturen en etniciteiten samenleven. Als de cultuur van de inwoners van een land veranderd door migratie noemen we dat aculturatie. Daarbij is de grootste aanpassing voor de immigranten.
 
 Er ontstaat soms ook segregatie, waarbij bevolkingsgroepen gescheiden leven. Dit kan leiden tot onbegrip en angst of xenofobie.
 

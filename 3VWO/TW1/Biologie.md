@@ -4,7 +4,7 @@ Samenvatting van basisstof 1 t/m 8 van BJV. Geschreven door Robin Boers in oktob
 
 ## Je omgeving waarnemen
 
-Zintuigen zijn organen waarmee je dingen kan waarnemen. Ze reageren op prikkels: invloeden uit de omgeving. Zintuigen bestaan uit zintuigcellen. Dit vangen adequate prikkels op en verzenden dan signaaltjes, impulsen, naar de hersenen. 
+Zintuigen zijn organen waarmee je dingen kan waarnemen. Ze reageren op prikkels: invloeden uit de omgeving. Zintuigen bestaan uit zintuigcellen. Dit vangen adequate prikkels op en verzenden dan signaaltjes, impulsen, naar de hersenen.
 
 Zintuigen hebben een drempelwaarde. De drempelwaarde is de zachtste prikkel die een impuls veroorzaakt. De drempelwaarde voor geluid is in de oren hoog en je tastzintuigen laag, dus die reageren niet op geluid. Een adequate prikkel is de "juiste" prikkel voor een zintuig: de prikkel waarvoor de drempelwaarde laag is.
 
@@ -30,18 +30,18 @@ Een reflex is als een prikkel van het zintuig via het ruggenmerg direct wordt do
 De huid bestaat uit:
 
 - **De opperhuid**:
-	- **Hoornlaag:** laag dode cellen die voor bescherming zorgen
-	- **Kiemlaag:** maakt nieuwe cellen om de hoornlaag aan te vullen
+  - **Hoornlaag:** laag dode cellen die voor bescherming zorgen
+  - **Kiemlaag:** maakt nieuwe cellen om de hoornlaag aan te vullen
 - **De lederhuid**:
-	- Tastzintuig (tastknopjes)
-	- Pijnpunten
-	- Haarspiertjes en haarzakjes
-	- Bloedvaten
-	- Zweetklieren
+  - Tastzintuig (tastknopjes)
+  - Pijnpunten
+  - Haarspiertjes en haarzakjes
+  - Bloedvaten
+  - Zweetklieren
 - **Onderhuidse bindweefsel**, dient als:
-	- Opslag vet (reservevoedsel)
-	- Isolatie
-	
+  - Opslag vet (reservevoedsel)
+  - Isolatie
+
 Zweetklieren produceren zweet. Door het verdampen van zweet koel je af. Haarzakjes zijn uitstulpingen van de kiemlaag in de lederhuid. Ze bevatten talgklieren. Talg houd de hoornlaag en haartjes soepel. De haarspiertjes kunnen de haren rechtop zetten. Hierdoor onstaat tussen de haartjes een stuk stilstaande lucht die als isolatie dient (kippenvel).
 
 De reukzintuigcellen liggen op het neusslijmvlies. Er liggen verschillende soorten, die elk gevoelig zijn voor een bepaalde geurstof. Het patroon/combinatie impulsen zorgen ervoor dat je geuren kunt herkennen.
@@ -68,9 +68,9 @@ Als alleen de opperhuid kapot gaat is het minder ernstig dan als de lederhuid ka
 3. Bedek de wond (folie, vet verband of schone doek)
 4. Niks op de wond smeren
 5. Waarschuw arts bij:
-	- Grote blaren
-	- Open wond
-	- Wonden door chemische stoffen of electriciteit
+   - Grote blaren
+   - Open wond
+   - Wonden door chemische stoffen of electriciteit
 
 ## Horen en zien
 
@@ -129,8 +129,8 @@ Oogbol te kort/plat. Beeld _achter_ het netvlies. Gecorrigeerd met bolle lensen.
 Het zenuwstelsel bestaat uit:
 
 - Het centrale zenuwstelsel:
-	- Ruggenmerg
-	- Hersenen
+  - Ruggenmerg
+  - Hersenen
 - De zenuwen
 
 Een bewuste reactie is een reactie waar jij bewust voor kiest.
@@ -138,9 +138,9 @@ Een bewuste reactie is een reactie waar jij bewust voor kiest.
 Zenuwcellen bestaan uit:
 
 - Cellichaam (vaak dichtbij het centrale zenuwstelsel)
-	- Cytoplasma
-	- Celkern (met chromosomen van DNA)
-	- Celmembraan
+  - Cytoplasma
+  - Celkern (met chromosomen van DNA)
+  - Celmembraan
 - Uitlopers (max 1 lange per zenuwcel)
 - Synapsen (aan het einde van de uitlopers)
 
@@ -149,16 +149,16 @@ Zenuwen zijn bundels uitlopers die bij elkaar liggen. Om elke uitloper zit een i
 Er zijn 3 typen zenuwcellen:
 
 1. Gevoelszenuwcel (sensorische zenuwcel):
-	- **Cellichaam:** buiten centraal zenuwstelsel
-	- **Richting impulsen:** zintuig -> centrale zenuwstelsel
+   - **Cellichaam:** buiten centraal zenuwstelsel
+   - **Richting impulsen:** zintuig -> centrale zenuwstelsel
 2. Bewegingszenuwcel (motorische zenuwcel)
-	- **Cellichaam:** binnen centrale zenuwstelsel
-	- **Richting impulsen:** cellichaam -> spieren of klieren  
-	_klieren zijn organen die stoffen produceren_
+   - **Cellichaam:** binnen centrale zenuwstelsel
+   - **Richting impulsen:** cellichaam -> spieren of klieren  
+     _klieren zijn organen die stoffen produceren_
 3. Schakelcel
-	- **Cellichaam:** binnen centrale zenuwstelsel
-	- **Richting impulsen:** beide kanten
-	
+   - **Cellichaam:** binnen centrale zenuwstelsel
+   - **Richting impulsen:** beide kanten
+
 ## Gedrag
 
 Gedrag is een serie/reeks handelingen die samenhangen/een doel hebben. Handelingen in een vaste volgorde waarin de ene tot de volgende leid noemen we een gedragsketen.
@@ -172,7 +172,7 @@ De motivatie is de bereidheid tot uitvoeren van gedrag. Als je net hebt geluncht
 
 Aangeboren gedrag is gedrag dat je al direct na de geboorte kan vertonen. Aangeleerd gedrag, is zoals de naam al zegt: aangeleerd. Voorbeelden hiervan zijn bijvoorbeeld lopen en praten. Lopen is voor bijvoorbeeld een giraffe wel aangeboren gedrag. Zij kunnen minuten na de geboorte al lopen.
 
-Gedrag wordt beinvloed door soortgenoten. Gedrag van soortgenoten tenopzichte van elkaar noem je sociaal gedrag. Een prikkel of handeling van een soortgenoot tegenover een andere soortgenoot is een signaal. Voorbeeld: je ziet iemand een middelvinger naar je opsteken. 
+Gedrag wordt beinvloed door soortgenoten. Gedrag van soortgenoten tenopzichte van elkaar noem je sociaal gedrag. Een prikkel of handeling van een soortgenoot tegenover een andere soortgenoot is een signaal. Voorbeeld: je ziet iemand een middelvinger naar je opsteken.
 
 Dit gaat tegen onze normen een waarden in. Waarden zijn dingen die we belangrijk vinden. Normen zijn de gedragsregels die we hanteren. We vinden bijvoorbeeld respect naar elkaar belangrijk en een norm daarbij is dus geen middelvingers opsteken. Mensen zijn daarin tenopzichte van dieren uniek. Wij kunnen het gedrag van onszelf en andere beoordelen en we hebben de mogelijkheid onszelf te verbeteren.
 
@@ -186,7 +186,7 @@ Het hormoonstelsel bestaat uit de volgende klieren:
 - Schildklier
 - Bijnieren
 - Eilandjes van Langerhans (in alvleesklier)
-- Teelballen of eierstokken 
+- Teelballen of eierstokken
 
 Hormoonklieren produceren hormonen. Dit zijn stofjes die processen in je lichaam regelen. Via het bloed komen ze overal in je lichaam, maar ze hebben alleen effect voor organen/weefsels die gevoelig voor ze zijn.
 
@@ -207,15 +207,13 @@ In je bijnieren wordt adrealine geproduceerd. Dat is een hormoon dat als enige o
 De hersenen bestaan uit:
 
 - Grote hersenen
-- Kleine hersenen 
+- Kleine hersenen
 - Hersenstam (verlengde van ruggenmerg)
 
 De hersenstam koppelt de hersenen aan het centrale zenuwstelsel. De hersenen zelf bestaan uit 2 delen:
 
-- **De schors / de grijze stof:**   
-cellichamen van schakelcellen in groepen genaamd hersencentra. Je kan hersencentra in 2 groepen verdelen:
-	- **Gevoelscentra:** hier worden impulsen verwerkt
-	- **Bewegingscentra:** hier onstaan impulsen
+- **De schors / de grijze stof:**  
+  cellichamen van schakelcellen in groepen genaamd hersencentra. Je kan hersencentra in 2 groepen verdelen: - **Gevoelscentra:** hier worden impulsen verwerkt - **Bewegingscentra:** hier onstaan impulsen
 
 - **Het merg / de witte stof:** uitlopers van schakelcellen
 
@@ -225,11 +223,11 @@ De kleinen hersenen coordineren bewegingen in het lichaam. Ze zorgen ervoor dat 
 
 ## Gehoorschade
 
-Geluid bestaat uit trillingen. Het aantal trillingen per seconden noemen we de (geluids)frequentie en meten we in hertz (Hz). De toonhoogte wordt bepaald door de frequentie. Daarbij geld dat: lage toon = lage freq en grote golflengte. 
+Geluid bestaat uit trillingen. Het aantal trillingen per seconden noemen we de (geluids)frequentie en meten we in hertz (Hz). De toonhoogte wordt bepaald door de frequentie. Daarbij geld dat: lage toon = lage freq en grote golflengte.
 
-Volume wordt bepaald door de amplitude (hoogte van de golf) en gemeten in decibel (dB). Hiervoor geld: 
+Volume wordt bepaald door de amplitude (hoogte van de golf) en gemeten in decibel (dB). Hiervoor geld:
 
-```
+```text
 +3dB = 2x zo hard
 ```
 
@@ -238,18 +236,19 @@ Van geluiden boven de 80dB kan je gehoorschade oplopen en boven de 130dB kan je 
 Het oor bestaat uit:
 
 - **Uitwendig oor:**
-	- Oorschelp
-	- Gehoorgang
-	- Trommelvlies
+  - Oorschelp
+  - Gehoorgang
+  - Trommelvlies
 - **Midden oor:**
-	- Trommelholte
-	- Buis van Eustachius
-	- Gehoorbeentjes
+  - Trommelholte
+  - Buis van Eustachius
+  - Gehoorbeentjes
 - **Inwendig oor:**
-	- Evenwichtsoorgaan
-	
-	- **Slakkenhuis:**  
-	Bestaat uit drie kanalen. De middelste bevat het basilair/basaal membraan. Hierop liggen gehoorzintuigcellen.
-	Voor verschillende frequenties zijn er verschillende plekken in het slakkenhuis. Hoe dieper, hoe lager de toon/klank.
-	
-Gehoorschade onstaat door te lang blootgesteld te zijn aan een geluid met volume boven 80dB. De trilhaartjes in je slakkenhuis (onderdeel van gehoorzenuwcellen) gaan dan kapot. Gehoorschade bouwt zich langzaam op, dus je merkt de gevolgen pas echt over tientallen jaren. 
+
+  - Evenwichtsoorgaan
+
+  - **Slakkenhuis:**  
+    Bestaat uit drie kanalen. De middelste bevat het basilair/basaal membraan. Hierop liggen gehoorzintuigcellen.
+    Voor verschillende frequenties zijn er verschillende plekken in het slakkenhuis. Hoe dieper, hoe lager de toon/klank.
+
+Gehoorschade onstaat door te lang blootgesteld te zijn aan een geluid met volume boven 80dB. De trilhaartjes in je slakkenhuis (onderdeel van gehoorzenuwcellen) gaan dan kapot. Gehoorschade bouwt zich langzaam op, dus je merkt de gevolgen pas echt over tientallen jaren.

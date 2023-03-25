@@ -1,9 +1,10 @@
 Maassluis, 12 oktober 2020
 
 # Best Friends 4 Ever!
+
 Een sublieme tekst over vriendschap enzo
 
-Vrienden zijn met iemand is leuk. Voor iedereen is dat anders. Sommige kinderen, rekenen heel veel mensen tot hun vrienden, terwijl andere wat meer op zichzelf gesteld zijn. Een gemiddeld mens kan ongeveer 150 verschillende relaties met andere mensen tegelijk onderhouden. Das best veel. Ik zou er zelf niet aan moeten denken om zoveel vrienden te hebben. Hoe moet je al **hun** namen onthouden?! 
+Vrienden zijn met iemand is leuk. Voor iedereen is dat anders. Sommige kinderen, rekenen heel veel mensen tot hun vrienden, terwijl andere wat meer op zichzelf gesteld zijn. Een gemiddeld mens kan ongeveer 150 verschillende relaties met andere mensen tegelijk onderhouden. Das best veel. Ik zou er zelf niet aan moeten denken om zoveel vrienden te hebben. Hoe moet je al **hun** namen onthouden?!
 
 Met vrienden en vriendinnen kan je leuke activiteiten plannen, zoals naar de bioscoop gaan, zwemmen of klimmen. Anderen houden het simpel en gamen bijvoorbeeld graag. Het is voor sommige anderen vooral belangrijk om goed met elkaar te praten.
 

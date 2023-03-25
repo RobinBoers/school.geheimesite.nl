@@ -17,12 +17,11 @@ Bewezen effecten van klimaatverandering:
 - Zonder beleid een geschatte temperatuursteiging van 5 tot 6,5°C.
 
 - De gevolgen zijn al merkbaar. Denk aan:
-	- Extreme droogte →︎ lagere landbouwopbrengst
-	- Hevigere regenval en stormen
-	- Hittegolven
-	- Bevaarbaarheid rivieren neemt af
-	- Overstromingen
-	
+  - Extreme droogte →︎ lagere landbouwopbrengst
+  - Hevigere regenval en stormen
+  - Hittegolven
+  - Bevaarbaarheid rivieren neemt af
+  - Overstromingen
 - Hierdoor neemt het aantal _klimaatmigranten_ toe.
 
 ### Het versterkt broeikaseffect
@@ -31,9 +30,9 @@ In de atmosfeer bevinden zich broeikasgassen zoals CO<sub>2</sub> en methaan. Di
 
 Maar omdat wij bij het produceren van ongeveer alles **extra** broeikasgassen uitstoten (49%), wordt er juist steeds **meer** warmte vastgehouden. Hierdoor warmt de aarde op. Dit noemen we het versterkt broeikaseffect.
 
-Een kleine groep bedrijven en mensen stoot het meeste CO<sub>2</sub> uit. Maar 100 bedrijven zorgen voor 71% van de uitstoot. De rijkste groep mensen op aarde (zo'n 20% waar wij onderdeel van zijn) stoten meer dan 2/3 van alle broeikasgassen uit. 
+Een kleine groep bedrijven en mensen stoot het meeste CO<sub>2</sub> uit. Maar 100 bedrijven zorgen voor 71% van de uitstoot. De rijkste groep mensen op aarde (zo'n 20% waar wij onderdeel van zijn) stoten meer dan 2/3 van alle broeikasgassen uit.
 
-Dat doen we natuurlijk niet alleen door in de auto te rijden. Ook het produceren van ons eten en het verwarmen van ons huis kost verschrikkelijk veel energie waarbij veel broeikasgassen worden uitgestoten. 
+Dat doen we natuurlijk niet alleen door in de auto te rijden. Ook het produceren van ons eten en het verwarmen van ons huis kost verschrikkelijk veel energie waarbij veel broeikasgassen worden uitgestoten.
 
 ## §3.2: Op weg naar duurzame energiebronnen
 
@@ -48,7 +47,7 @@ Om schaliegas te winnen is een process genaamd _fracking_ ontwikkeld. Daarbij wo
 
 Teerzand is ook een niet-conventionele energiebron. Het is een mengsel van vaste olie met zand en klei. Je hebt 2 ton nodig om 1 vat ruwe olie te verkrijgen, en het is erg vervuilend. Vooral Canada heeft veel teerzand.
 
-Deze energiebronnen lossen wel het probleem van uitputbaarheid op door een nieuwe voorraad te verschaffen, maar zijn nog steeds even vervuilend als de conventionele olie en gas. Een ander alternatief is kernenergie. Het is erg krachtig en je hebt er weinig grondstoffen voor nodig. Het nadeel is dat we niet weten wat we met het afval moeten doen. 
+Deze energiebronnen lossen wel het probleem van uitputbaarheid op door een nieuwe voorraad te verschaffen, maar zijn nog steeds even vervuilend als de conventionele olie en gas. Een ander alternatief is kernenergie. Het is erg krachtig en je hebt er weinig grondstoffen voor nodig. Het nadeel is dat we niet weten wat we met het afval moeten doen.
 
 Ons _energieverbruik/pp_ en _uitstoot/pp_ neemt al jaren toe. Dit heeft effect op het klimaat. Daarom moeten we naar duurzame energiebronnen als _zonne-energie_, _waterkracht_ en _windenergie_ overstappen. Dit noemen we de _energietransitie_. Op de klimaatconferentie van Parijs in 2015 besloten 196 landen om de wereldwijde toename in opwarming te beperken tot 2°C. Dit is niet vrijblijvend: de landen worden gecontroleerd.
 

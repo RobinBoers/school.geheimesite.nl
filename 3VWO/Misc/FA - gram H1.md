@@ -4,29 +4,28 @@ Bezittelijk voornaamwoord en onregelmatige werkwoorden op -ir
 
 ## Bezittelijk voornaamwoord
 
-| Mannelijk  | Vrouwelijk | Meervoud |
-| ------------- | ------------- | ------------- |
-| Mon  | Ma  | Mes |
-| Ton  | Ta  | Tes |
-| Son  | Sa  | Ses |
-| Notre | | Nos |
-| Votre | | Vos |
-| Leur | | Leurs |
+| Mannelijk | Vrouwelijk | Meervoud |
+| --------- | ---------- | -------- |
+| Mon       | Ma         | Mes      |
+| Ton       | Ta         | Tes      |
+| Son       | Sa         | Ses      |
+| Notre     |            | Nos      |
+| Votre     |            | Vos      |
+| Leur      |            | Leurs    |
 
-```
+```text
 C'est mon stylo. C'est le mien.
 ```
 
-| Mannelijk  | Vrouwelijk | Meervoud (m) | Meervoud (v) |
-| ------------- | ------------- | ------------- | ------------- |
-| Le mien  | La mienne  | Les miens | Les miennes |
-| Le tien  | La tienne  | Les tiens | Les tiennes |
-| Le sien  | La sienne  | Les siens | Les siennes |
-
+| Mannelijk | Vrouwelijk | Meervoud (m) | Meervoud (v) |
+| --------- | ---------- | ------------ | ------------ |
+| Le mien   | La mienne  | Les miens    | Les miennes  |
+| Le tien   | La tienne  | Les tiens    | Les tiennes  |
+| Le sien   | La sienne  | Les siens    | Les siennes  |
 
 ## Onregelmatige ww op -ir
 
-```
+```text
 Partir (vertrekken), sentir, servir (bedienen), dormir (slapen), sortir (uitgaan)
 ```
 
@@ -38,7 +37,7 @@ Il/elle part
 On part  
 Nous partons  
 Vous partez  
-Ils/elles partent  
+Ils/elles partent
 
 Je dors  
 Tu dors  

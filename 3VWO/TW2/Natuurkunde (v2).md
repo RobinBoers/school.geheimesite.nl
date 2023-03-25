@@ -8,7 +8,7 @@ Gewicht is hoe hard een voorwerp op de ondergrond drukt. Massa is uit hoeveel de
 
 Je bent gewichtloos als de zwaartekracht de enige kracht is die op je werkt (op aarde maar heel kort dankzij de luchtweerstand)
 
-De normaalkracht is een kracht die altijd loodrecht op een oppervlak staat. 
+De normaalkracht is een kracht die altijd loodrecht op een oppervlak staat.
 
 Een ellips is een soort ovaal die in 2 richtingen symetrisch is.
 
@@ -19,8 +19,8 @@ De middelpuntzoekende kracht veranderd de richting van een voorwerp.
 - Verandering richting snelheid
 - Verandering grootte snelheid
 - Vervorming
-	- Plastisch (permanent)
-	- Elastisch (tijdelijk)
+  - Plastisch (permanent)
+  - Elastisch (tijdelijk)
 
 ### Eigenschappen van krachten
 
@@ -30,21 +30,15 @@ De middelpuntzoekende kracht veranderd de richting van een voorwerp.
 
 ### Rekenen met krachten
 
-```
-Fz = m * g
-```
+\\[F_{z} = m \cdot g\\]
 
 `g` is de sterkte van de zwaartekracht en is op aarde 9,81 N/kg.
 
-```
-Fv = C * u
-```
+\\[F_{v} = C \cdot u\\]
 
 `C` is de veerconstante in N/cm en verschilt per veer. `u` is de uitrekking van de veer in cm.
 
-```
-Fw,l = 1/2 * Cw * A * ρ * v2
-```
+\\[F_{\text{w,l}} = \frac{1}{2} \cdot C_{w} \cdot A \cdot ρ \cdot v^{2}\\]
 
 - Dichtheid lucht (ρ) in kg/m3
 - De weetstandscoëfficient (Cw) in -
@@ -55,7 +49,7 @@ Fw,l = 1/2 * Cw * A * ρ * v2
 
 Met een krachtenschaal kan je krachten meten in een tekening. Een voorbeeld van een krachtenschaal kan `1cm ≜ 5N` zijn.
 
-*≜* staat voor *komt overeen met*.
+_≜_ staat voor _komt overeen met_.
 
 Je kan de resultante van een kracht tekenen met de kop-staart medthode of de parallellogram methode. Als de krachten loodrecht op elkaar staan kan je ook de stelling van Pythagoras gebruiken.
 
@@ -66,19 +60,21 @@ Als de resultante 0 N staat het voorwerp stil (= in rust) of beweegt het met een
 ### Weerstandskrachten
 
 - Luchtweerstandskracht (Fw,l)
-	- Luchtdichtheid
-	- Frontaaloppervlak
-	- Vorm
-	- Snelheid
+
+  - Luchtdichtheid
+  - Frontaaloppervlak
+  - Vorm
+  - Snelheid
 
 - Rolweerstandskracht (Fw,r)
-	- Hardheid ondergrond en ondergrond
-	- Gladheid ondergrond
-	- Druk
+
+  - Hardheid ondergrond en ondergrond
+  - Gladheid ondergrond
+  - Druk
 
 - Schuifweerstandskracht (Fw,s)
-	- Gladheid voorwerp en ondergrond
-	- Druk
+  - Gladheid voorwerp en ondergrond
+  - Druk
 
 ## Energie
 
@@ -91,7 +87,7 @@ De energietransitie is de overstap van fossiele brandstoffen naar duurzamere ene
 
 Volgens de wet van energiebehoud kan er nooit energie onstaan of verdwijnen. Het kan alleen worden omgezet in een andere vorm van energie.
 
-*Opmerking: energie kan wel verloren gaan omdat het bijvoorbeeld wordt omgezet in warmte en wegvloeit. Maar dan is die energie er nog wel, maar gewoon niet meer voor ons beschikbaar.*
+_Opmerking: energie kan wel verloren gaan omdat het bijvoorbeeld wordt omgezet in warmte en wegvloeit. Maar dan is die energie er nog wel, maar gewoon niet meer voor ons beschikbaar._
 
 De stookwaarde is hoeveel energie er vrijkomt bij het verbranden van een bepaalde massa van een stof. Je kan aan de eenheid zien om hoeveel massa het gaat (bijv. gram of kg).
 
@@ -122,9 +118,7 @@ De ideale energiebronnen hebben deze kenmerken:
 
 Een windmolen zet bewegingsenergie om in elektrische energie. Dit doet het door de bewegingsenergie op te vangen met de wieken, en dan met tandwielen de beweging te vergroten. Er wordt daarna met een generator elektrische energie opgewekt.
 
-```
-P = k * v3
-```
+\\[P = k \cdot v^{3}\\]
 
 Waarbij `v` de windsnelheid in m/s is en k een constante (geen eenheid).
 
@@ -136,15 +130,13 @@ Warmte is een vorm van energie. Voorwerpen met een hoge temperatuur bezitten vee
 - **Geleiding:** als er direct contact is stroomt warmte van dingen met een hoge temperatuur naar dingen met een lage temperatuur.
 - **Straling:** elk voorwerp zend IR straling uit. Voorwerpen met een hoge temperatuur zenden alleen meer uit.
 
-Je kan de temperatuur van een voorwerp verhogen door warmte *toe te voegen*.
+Je kan de temperatuur van een voorwerp verhogen door warmte _toe te voegen_.
 
 Soortelijke warmte is hoeveel energie (J) het kost om 1 gram van een stof 1 °C op te warmen.
 
-```
-Q = c * m * ΔT
-```
+\\[Q = c \cdot m \cdot \Delta T\\]
 
-Waar `Q` de hoeveelheid energie nodig is, `c` de soortelijke warmte in J/(g*°C) en `m` de massa in gram.
+Waar `Q` de hoeveelheid energie nodig is, `c` de soortelijke warmte in J/(g\*°C) en `m` de massa in gram.
 
 De soortelijke warmte van water is `4,2 J/(g*°C)`.
 
@@ -158,4 +150,4 @@ Dit geld ook voor je huis. Voor alle warmte die je huis verlaat moet je weer war
 
 Het rendement is hoeveel procent van de energie die een apparaat verbruikt nuttig (voor het doel van het apparaat) wordt gebruikt.
 
-`Ƞ = Enut/Etot * 100` of `Ƞ = Pnut/Ptot * 100`.
+\\[\eta = \frac{E_{\text{nut}}}{E_{\text{tot}}} \cdot 100\\] of \\[\eta = \frac{P_{\text{nut}}}{P_{\text{tot}}} \cdot 100\\]

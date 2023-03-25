@@ -1,21 +1,21 @@
 ## Eisen informatie
 
 - **volledigheid**: ontbreekt?
-	- alles moet erin staan
+  - alles moet erin staan
 - **relevantie**: is het relevant voor het doel
-	- geen info in de weg
+  - geen info in de weg
 - **actualtiteit**: geldig, up to date?
-	- de veranderingen van vanochtend ook aanwezig
+  - de veranderingen van vanochtend ook aanwezig
 - **juistheid**: geen fouten?
-	- saldo klopt
+  - saldo klopt
 - **nauwkeurigheid**: gedetailleerd genoeg?
-	- saldo: 213,46 euro, niet ruim 200 euro
+  - saldo: 213,46 euro, niet ruim 200 euro
 - **controleerbaarheid**: is controle mogelijk?
-	- alle bedragen zouden goed uit moeten komen
+  - alle bedragen zouden goed uit moeten komen
 - **overzichtelijkheid**: goed gestructureerd?
-	- netjes op volgorde etc.
+  - netjes op volgorde etc.
 - **tijdigheid**: optijd beschikbaar
-	- je moet ze kunnen inzien als je het nodig hebt, toegang hebben
+  - je moet ze kunnen inzien als je het nodig hebt, toegang hebben
 
 ## Eisen informatiesysteem
 
@@ -40,4 +40,3 @@ En dan:
 - Verspreiden
 - Afschermen
 - Verwijderen / archiveren
-

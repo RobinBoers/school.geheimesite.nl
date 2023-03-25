@@ -2,9 +2,9 @@
 
 Geschreven door Robin Boers voor de 4e toetsweek van leerjaar 2. Bevat de belangrijkste punten uit hoofdstuk 4 paragraaf 1 t/m 4.
 
------
+---
 
-Om een lampje of andere  onderdelen aan te laten gaan moet je een gesloten stroomkring maken.
+Om een lampje of andere onderdelen aan te laten gaan moet je een gesloten stroomkring maken.
 
 Een stroomkring bestaat uit:
 
@@ -61,22 +61,13 @@ Het vermogen hangt van twee dingen af:
 
 Je kan het vermogen berekenen met deze formule:
 
-```
-P = U x I
+```text
+P = U * I
 ```
 
 Hierbij horen nog twee formules om U (spanning) en I (stroomsterkte) te berekenen:
 
-```
+```text
 U = P / I
 I = P / U
 ```
-
-
-
-
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                        

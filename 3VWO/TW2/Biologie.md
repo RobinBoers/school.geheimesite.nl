@@ -35,14 +35,14 @@ De eicel kan na de ovulatie 12-24 uur leven, en wordt daarna weer in het bloed o
 Het uitwendig geslachtsorgaan van een vrouw is de vulva. De vulva bestaat uit:
 
 - De clitoris
-	- 10cm lang
-	- alleen clitoriseikel zichtbaar
+  - 10cm lang
+  - alleen clitoriseikel zichtbaar
 - Binnenste schaamlippen
-	- Glad
+  - Glad
 - Buitenste schaamlippen
-	- Behaard
+  - Behaard
 - Vagina
-	- Maagdenvlies: klein randje weefsel rond de rand van de vagina
+  - Maagdenvlies: klein randje weefsel rond de rand van de vagina
 
 Eens per maand wordt het baarmoederslijmvlies afgestoten. Dit noemen we de menstruatie of ongesteld zijn. Er komt vaak bloed bij vrij omdat het baarmoederslijmvlies goed doorbloed is, en er dus bloedvaten scheuren. Vaak worden meisjes tussen hun 10e en 16e voor het eerst ongesteld.
 
@@ -60,13 +60,13 @@ Rond hun 50e jaar komen vrouwen in de overgang. Er kunnen dan geen follikels mee
 
 Mannen hebben een penis en balzak. In de balzak liggen de teelballen. Daarin worden vanaf circa hun 13e jaar zaad-/spermacellen (mannelijke geslachtscellen) geproduceerd, waarna ze in de bijbal worden opgeslagen voor 2-3 weken. De zaadleiders vervoeren de zaadcellen. In de zaadblaasjes en prostaat word vocht toegevoegd aan de zaadcellen: er onstaat sperma. De balzak is een huidplooi met een lagere temperatuur, omdat de zaadcellen op een iets lagere temperatuur dan lichaamstemperatuur worden geproduceerd.
 
-De eikel zit aan de punt van de penis en is erg gevoelig. Als je niet besneden bent wordt deze beschermt door de voorhuid: een huidplooi die over de eikel heen kan schuiven. 
+De eikel zit aan de punt van de penis en is erg gevoelig. Als je niet besneden bent wordt deze beschermt door de voorhuid: een huidplooi die over de eikel heen kan schuiven.
 
 De secondaire geslachtskenmerken van een man worden gevormd door het hormoon testosteron, dat wordt geproduceerd in de teelballen. De man komt niet in de overgang omdat de hormonen ook op hoge leeftijd worden geproduceerd.
 
 In de penis zitten zwellichamen. Als die zich met bloed vullen wordt de penis groot en stijf. Dat noemen we een erectie.
 
-Als er geslachtsgemeenschap plaatsvind wordt de penis in de vagina heen en weer bewogen waardoor de eikel continue wordt geprikkeld. Daardoor kan de man een zaadlozing hebben (een orgasme, of 'klaarkomen'). Er komt dan ongeveer een theelepel sperma uit de penis. Het is melkwit van kleur en bevat ongeveer 100-400 miljoen zaadcellen. 
+Als er geslachtsgemeenschap plaatsvind wordt de penis in de vagina heen en weer bewogen waardoor de eikel continue wordt geprikkeld. Daardoor kan de man een zaadlozing hebben (een orgasme, of 'klaarkomen'). Er komt dan ongeveer een theelepel sperma uit de penis. Het is melkwit van kleur en bevat ongeveer 100-400 miljoen zaadcellen.
 
 Ook voordat de man klaarkomt kunnen er al zaadcellen uit zijn penis komen via het voorvocht. Voorvocht verwijderd urineresten uit de plasbuis zodat de zaadcellen niet door het zuur kapot gemaakt worden.
 
@@ -118,7 +118,7 @@ Noodmaatregelen (alleen gebruiken als het echt niet anders kan):
 
 De eicel kan maar 12-24 uur blijven leven, maar de zaadcellen veel langer. Daarom kan er maar 5 dagen in de maand bevruching plaatsvinden. Dit noemen we de vruchtbare periode. Meestal is dat vanaf dag 11 tot dag 15.
 
-Onbetrouwbare methoden om zwangerschap te voorkomen zijn periodieke onthouding, waarin gedurende de vruchtbare periode geen geslachtsgemeenschap plaats vind, en coïtus interruptus (onderbroken geslachtsgemeenschap), waarbij de man zijn penis uit de vagina trekt voordat hij klaarkomt.   
+Onbetrouwbare methoden om zwangerschap te voorkomen zijn periodieke onthouding, waarin gedurende de vruchtbare periode geen geslachtsgemeenschap plaats vind, en coïtus interruptus (onderbroken geslachtsgemeenschap), waarbij de man zijn penis uit de vagina trekt voordat hij klaarkomt.  
 Periodieke onthouding is onbetrouwbaar omdat de vruchtbare periode soms net iets anders valt en onderbroken geslachtsgemeenschap vraagt veel zelfbeheersing van de man. Daarnaast kunnen er ook al zaadcellen in het voorvocht zitten.
 
 SOAs of geslachtsziekten zijn ziektes die overgedragen kunnen worden tijdens geslachtsgemeenschap. Om dit te voorkomen moet je een condoom gebruiken, of beide een negatieve SOA-test hebben en geen geslachtsgemeenschap met andere personen hebben.
@@ -133,7 +133,7 @@ De eicel begint na bevruchting gelijk te delen en er onstaat een klompje cellen 
 
 Een bevruchte eicel noemen we een zygote. Tot 8 weken noemen we het klompje cellen een embryo. Daarna is het een foetus (uitspraak: feutus).
 
-In de placenta stroomt het bloed van de baby en moeder langs dunne vliezen waardoor er voedingstoffen, zuurstof en afvalstoffen kunnen worden uitgewisseld. De foetus zit met de navelstreng verbonden met de placenta. De placenta is overigens een orgaan van de baby, niet van de moeder. Voordat de placenta ontstaat levert het baarmoederslijmvlies voedingstoffen aan het embryo. 
+In de placenta stroomt het bloed van de baby en moeder langs dunne vliezen waardoor er voedingstoffen, zuurstof en afvalstoffen kunnen worden uitgewisseld. De foetus zit met de navelstreng verbonden met de placenta. De placenta is overigens een orgaan van de baby, niet van de moeder. Voordat de placenta ontstaat levert het baarmoederslijmvlies voedingstoffen aan het embryo.
 
 Tijdens de zwangerschap heeft de vrouw geen menstruaties en vinden er ook geen ovulaties plaats.
 

@@ -14,5 +14,3 @@ Leeroverzich lezen voor Nederlands. Geschreven door Robin Boers, 2 uur voor de t
 - **Toelichtend**: bijvoorbeeld, zo, zoals, denk aan, neem nou
 - **Vergelijkend**: in vergelijking met, net als
 - **Voorwaardelijk**: stelt voorwaardes (_als het morgen mooi weer is..._)
-
-

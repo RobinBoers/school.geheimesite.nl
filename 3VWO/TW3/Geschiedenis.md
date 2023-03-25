@@ -10,7 +10,7 @@ Samenvatting van Feniks geschiedenis. Bevat de belangrijkste info uit H7. Geschr
 
 ## Van wereldoorlog naar Koude Oorlog
 
-Tijdens het eind van WO2 vluchtten veel Duitsers uit Polen, Tsjechoslowakije en de oostelijke Duitse provincies terug naar (West-)Duitsland. Roostevelt (VS), Churchill (GB) en Stalin (USSR) hadden in die tijd ook meetings waar ze spraken over de oorlog en hoe het verder moest na de oorlog. Zolang ze een gemeenschappelijke vijand hadden konden ze overweg, maar nadat Duitsland de oorlog verloren had bleek dat ze veel onderlinge verschillen hadden. Ze waren het wel eens over: 
+Tijdens het eind van WO2 vluchtten veel Duitsers uit Polen, Tsjechoslowakije en de oostelijke Duitse provincies terug naar (West-)Duitsland. Roostevelt (VS), Churchill (GB) en Stalin (USSR) hadden in die tijd ook meetings waar ze spraken over de oorlog en hoe het verder moest na de oorlog. Zolang ze een gemeenschappelijke vijand hadden konden ze overweg, maar nadat Duitsland de oorlog verloren had bleek dat ze veel onderlinge verschillen hadden. Ze waren het wel eens over:
 
 - De grens van Duitsland en Polen verschoof richting het westen. Toenmalig Oost-Duitsland voegde zich bij Polen en Oost-Polen werd Sovjet-Unie.
 
@@ -22,17 +22,17 @@ Tijdens het eind van WO2 vluchtten veel Duitsers uit Polen, Tsjechoslowakije en 
 
 Europa raakte verdeeld in twee invloedssferen, want zowel de Amerikanen als de Sovjets bleven in Europa na de oorlog. In het Oosten raakte de communisten onder invloed van de Sovjet-Unie aan de macht. Hierdoor steeg de angst voor "het Rode gevaar". Mensen waren bang dat de communisten West-Europa ook zouden overnemen. De Amerikaanse president vroeg en kreeg van Congress om militaire steun om Europa zich te helpen weren tegen communisten. Dit was in reactie op het feit dat Griekenland en Italië communistisch dreigde te worden.
 
-De economische samenwerking ging niet goed. Landen hielden zich niet aan de gemaakte afspraken. Er ontstonden voedseltekorten in het westen door de slechte levering van de Sovjet-Unie (waar de landbouwgebieden waren) en de vele vluchtelingen. Daarom besloten de VS en GB hun zones bij elkaar te voegen. De Fransen joinden ook. Ze wilde de chaos stoppen door de economie te herstellen. Dit deden ze door zonder toestemming van de Sovjet-Unie een nieuwe munt in te voeren: de Duitse mark. Daarom blokkeerde de Sovjet-Unie de toegang tot West-Berlijn. Ipv. Berlijn op te geven besloot het Westen Berlijn via vliegtuigen te bevoorraden. 
+De economische samenwerking ging niet goed. Landen hielden zich niet aan de gemaakte afspraken. Er ontstonden voedseltekorten in het westen door de slechte levering van de Sovjet-Unie (waar de landbouwgebieden waren) en de vele vluchtelingen. Daarom besloten de VS en GB hun zones bij elkaar te voegen. De Fransen joinden ook. Ze wilde de chaos stoppen door de economie te herstellen. Dit deden ze door zonder toestemming van de Sovjet-Unie een nieuwe munt in te voeren: de Duitse mark. Daarom blokkeerde de Sovjet-Unie de toegang tot West-Berlijn. Ipv. Berlijn op te geven besloot het Westen Berlijn via vliegtuigen te bevoorraden.
 
-De VS, GB en FR tekende een nieuwe democratische grondwet, waardoor de Volksrepubliek Duitsland ontstond. Daarop maakte Rusland de Russische bezettingszone ook een eigen staat: de Duitse Democratische Republiek (die eigenlijk gewoon communistisch was). Er werd ook een grote muur door het midden van Berlijn gebouwd, om het Westen van Rusland te scheiden. Dit leidde tot militaire samenwerking in West-Europa. De NAVO werd opgericht. Als dan één Europees land zou worden aangevallen zouden alle andere landen dat land helpen. 
+De VS, GB en FR tekende een nieuwe democratische grondwet, waardoor de Volksrepubliek Duitsland ontstond. Daarop maakte Rusland de Russische bezettingszone ook een eigen staat: de Duitse Democratische Republiek (die eigenlijk gewoon communistisch was). Er werd ook een grote muur door het midden van Berlijn gebouwd, om het Westen van Rusland te scheiden. Dit leidde tot militaire samenwerking in West-Europa. De NAVO werd opgericht. Als dan één Europees land zou worden aangevallen zouden alle andere landen dat land helpen.
 
-Eerst was het niet zeker of West-Duitsland wel onderdeel van de NAVO mocht worden, maar na zes jaar overleg werd besloten dat het mocht. Dat vond Stalin niet bepaald fijn, en richtte het Warschaupact op. Daarin werkte de Sovjet, Oostblok-landen en Oost-Duitsland zowel militair als economisch samen. 
+Eerst was het niet zeker of West-Duitsland wel onderdeel van de NAVO mocht worden, maar na zes jaar overleg werd besloten dat het mocht. Dat vond Stalin niet bepaald fijn, en richtte het Warschaupact op. Daarin werkte de Sovjet, Oostblok-landen en Oost-Duitsland zowel militair als economisch samen.
 
-Er onstond een wapenwedloop tussen NAVO en de Warschaupactlanden. 
+Er onstond een wapenwedloop tussen NAVO en de Warschaupactlanden.
 
 ## Atoomwapens
 
-In de Koude Oorlog onstond een wapenwedloop tussen de VS en Rusland, waarbij gigantische hoeveelheden atoomwapens gemaakt werden. 
+In de Koude Oorlog onstond een wapenwedloop tussen de VS en Rusland, waarbij gigantische hoeveelheden atoomwapens gemaakt werden.
 
 Ze konden ze uit vliegtuigen gooien, met onderzeeërs afschieten en met geheime raketinstallaties. Ook vlogen er permanent vliegtuigen boven elkaars grenzen, zodat gelijk bommen terug gegooid zouden kunnen worden in het geval de ander een bom zou gooien.
 
@@ -52,7 +52,7 @@ Mensen zijn door de ontplofte kerncentrales Chernobyl en Fukushima bang voor ker
 
 Stalin wilde Oost-Europa als bufferzone tussen hem en het Westen hebben. Ook gebruikte hij het voor de wederopbouw van de Sovjet-Unie. Daarom werden veel landen in Oost-Europa satelietstaten van Rusland. Hij bracht communisten aan de macht in al deze landen. Om de macht te behouden was veel spionage en geweld nodig. Iedereen die niet in het communistische systeem van Stalin paste ging naar de strafkampen. 1 op de 50 mensen zat in de geheime dienst. Duizenden mensen werden opgesloten in deze kampen.
 
-Nadat Stalin overleed kwam Chroesjtsjov aan de macht. Hij vertelde in een toespraak over het machtmisbruik, economische, politieke en militaire blunders van Stalin. Dit startte de dooi. De Sovjet-Unie werd ont-stalint. In satelietstaten braken protesten af en Hongarije probeerde zich af te splitsen. Dat ging hem echter te ver, en Chroesjtsjov sloeg de protesten neer. 
+Nadat Stalin overleed kwam Chroesjtsjov aan de macht. Hij vertelde in een toespraak over het machtmisbruik, economische, politieke en militaire blunders van Stalin. Dit startte de dooi. De Sovjet-Unie werd ont-stalint. In satelietstaten braken protesten af en Hongarije probeerde zich af te splitsen. Dat ging hem echter te ver, en Chroesjtsjov sloeg de protesten neer.
 
 Chroesjtsjov werd afgezet en vervangen door Brezjnev. Hij sloeg de Praagse Lente neer (het democratiseren van Praag). Hij liet blijken dat de Oostbloklanden de Sovjet-Unie moesten volgen en geen zelfstandige regering mochten hebben.
 

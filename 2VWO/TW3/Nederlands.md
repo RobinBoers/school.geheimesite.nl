@@ -25,11 +25,11 @@ Geschreven door Robin Boers voor de 3e toetsweek van leerjaar 2. Bevat de belang
 
 **Bepaalde hoofdtelwoorden** geven een exacte hoeveelheid aan: _zes, veertien, drieëntwintig_
 
-**Onbepaalde hoofdtelwoorden** geven wel een hoeveelheid aan, maar deze is relatief:  _veel, weinig, een beetje_ (onbepaald hoofdtelwoord).  
+**Onbepaalde hoofdtelwoorden** geven wel een hoeveelheid aan, maar deze is relatief: _veel, weinig, een beetje_ (onbepaald hoofdtelwoord).
 
 **Bepaalde rangtelwoorden** geven een exacte plek in een reeks aan: _zesde, viertiende, drieëntwintigste_
 
-**Onbepaalde rangtelwoorden** geven een relatieve plek in een reeks aan: _laatste, middelste_ (onbepaald rangtelwoord).  
+**Onbepaalde rangtelwoorden** geven een relatieve plek in een reeks aan: _laatste, middelste_ (onbepaald rangtelwoord).
 
 ### Formuleren
 
@@ -65,25 +65,25 @@ Als woorden in het infinitief een _d_ voor de uitgang hebben, kan het een proble
 
 - Bepaal het onderwerp
 - Kies voor _-d_ als:
-	- het onderwerp ik is
-	- als het onderwerp jij of je is en ACHTER het ow staat
+  - het onderwerp ik is
+  - als het onderwerp jij of je is en ACHTER het ow staat
 - kies voor _-dt_ als:
-	- in alle andere gevallen (in het enkelvoud)
+  - in alle andere gevallen (in het enkelvoud)
 
-## Hoofdstuk 4 
+## Hoofdstuk 4
 
 ### Grammatica zinsdelen
 
 Een zin met één pv een **enkelvoudige zin**. Een zin met meerdere pv's is een **samengestelde zin**.
 In een samengestelde zin zijn er 2 soorten zinnen: hoofd- en bijzinnen. Je herkent ze zo:
 
-- Hoofdzin: 
-	- Ow en pv staan naast elkaar. Er past (bijna) NIKSSS anders tussen.
-	- De pv staat voor in de zin (1e of 2e plaats)
+- Hoofdzin:
+  - Ow en pv staan naast elkaar. Er past (bijna) NIKSSS anders tussen.
+  - De pv staat voor in de zin (1e of 2e plaats)
 - Bijzin:
-	- Er past WELLL iets tussen hoofd- en bijzin (vaak het woord _niet_)
-	- Pv staat vaak achter in de zin
-	
+  - Er past WELLL iets tussen hoofd- en bijzin (vaak het woord _niet_)
+  - Pv staat vaak achter in de zin
+
 Een zin kan op twee manieren worden samengesteld:
 
 - **Nevenschikking:** als de zin uit (minstens) twee hoofdzinnen of twee bijzinnen bestaat.
@@ -94,27 +94,28 @@ Een zin kan op twee manieren worden samengesteld:
 Voegwoorden verbinden dingen zoals zinnen, woorden of woordgroepen met elkaar. Er zijn twee soorten voegwoorden:
 
 - De **nevenschikkende voegwoorden** zijn _dus, en, maar, of, want_. Ze verbinden:
-	- Woorden
-	- Woordgroepen
-	- Hoofdzinnen
-	- Bijzinnen
+
+  - Woorden
+  - Woordgroepen
+  - Hoofdzinnen
+  - Bijzinnen
 
 - De **onderschikkenden voegwoorden** is de rest eigenlijk.  
-Ze verbinden bijzinnen aan hoofdzinnen.
+  Ze verbinden bijzinnen aan hoofdzinnen.
 
 ### Formuleren
 
-
-
 ### Spelling
 
-In samenstellingen staan weleens tussenletters, zoasl -s- of -en-  
+In samenstellingen staan weleens tussenletters, zoasl -s- of -en-
 
 Zo bepaal je of je een -s- moet toevoegen:
+
 - Als je hem hoort schrijf je m ook: _machtsvertoon, passagierslijst_
 - Soms begint het 2e deel van het woord met een _s_ klank. Dan vervang je het 2e deel door een woord dat niet met een _s_ begint. Als de _s_ blijft schrijf je hem, anders niet.
 
 Zo bepaal je of je _-(e)n_ moet toevoegen:
+
 - Als het een zelfstandig naamwoord is, en het meervoud op -en is, schijf je -en- tussen de woorden.
 
 MAAR NIET ALS:

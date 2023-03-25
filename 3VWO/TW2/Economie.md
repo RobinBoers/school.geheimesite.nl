@@ -1,4 +1,4 @@
-#  Bedrijfseconomie
+# Bedrijfseconomie
 
 Samenvatting Economie. Bevat de belangrijkste punten uit H4 van Pincode 3VWO (6e editie). Geschreven door Robin Boers voor toetsweek 2 van leerjaar 3VWO.
 
@@ -17,7 +17,6 @@ Samenvatting Economie. Bevat de belangrijkste punten uit H4 van Pincode 3VWO (6e
 3. inschrijven bij kvk
 4. kies rechtsvorm
 5. aanmelden bij belastingdienst
-
 
 ## Rechtsvormen
 
@@ -38,21 +37,22 @@ Als je een goed idee hebt voor een bedrijf moet je een ondernemersplan maken. Al
 - **Organisatie** (administratie, verzekeringen etc.)
 
 - **Financieel plan** (opstartkosten en investeerders etc.)
-	- **invensteringsbegroting:**   
-	  wat je nodig hebt voor start
-	- **financieringsvegroting:**  
-	  hoe je invenstering financiert
-	- **explotatiebegroting** laat winst zien:  
-	  hoeveel heb je nodig om een product te maken, en hoeveel levert het op
-	- **liquiditeitsbegroting:**  
-	  inkomsten en uitgaven (denk aan loon, huur, onverwachte kosten, site etc.)
+
+  - **invensteringsbegroting:**  
+    wat je nodig hebt voor start
+  - **financieringsvegroting:**  
+    hoe je invenstering financiert
+  - **explotatiebegroting** laat winst zien:  
+    hoeveel heb je nodig om een product te maken, en hoeveel levert het op
+  - **liquiditeitsbegroting:**  
+    inkomsten en uitgaven (denk aan loon, huur, onverwachte kosten, site etc.)
 
 - **Marktonderzoek en marketing:**
-	- **deskresearch:**  
-	  al bestaande informatie
-	- **fieldresearch:**  
-	  nieuwe informatie (denk aan enquetes, specifiek onderzoek)
-	  
+  - **deskresearch:**  
+    al bestaande informatie
+  - **fieldresearch:**  
+    nieuwe informatie (denk aan enquetes, specifiek onderzoek)
+
 De **aanloopkosten** zijn alleen in de eerste periode nodig. Denk aan invensteringen in het laten maken van een logo, levensonderhoud (als je nog geen geld maakt), aanschaf apparatuur/gereedschap en reclamecampagne.
 
 **Vaste activa** gaat langer dan een jaar mee. Bijvoorbeeld bureaustoelen, gereedschap en bedrijfsauto's. **Vlottende activa** moet je maar heel even hebben. Bijvoorbeeld je voorraad of onderdelen.
@@ -72,7 +72,6 @@ Het marktaandeel hangt volgens het **marketingmix** model af van:
 - Promotie (advertenties)
 - Plaats (afzetmarkt)
 - Personeel
-
 
 Als je door reclames wordt beinvloed noemen we dan **commerciële beinvloeding**. Als je door je netwerk/andere personen wordt beinvloed, bijvoorbeeld omdat familie/vrienden iets aanbevelen noemen we dat **sociale beinvloeding**.
 

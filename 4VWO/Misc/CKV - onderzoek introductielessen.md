@@ -1,17 +1,17 @@
 ## Introductielessen
 
-Deze page bevat onderzoeksopdrachten en bijbehorende resultaten van de [introductielessen](https://ckvzan.wixsite.com/dossier/kopie-van-blok-1-1). Als vorm voor de opdracht heb ik een blogpost gekozen. 
- 
+Deze page bevat onderzoeksopdrachten en bijbehorende resultaten van de [introductielessen](https://ckvzan.wixsite.com/dossier/kopie-van-blok-1-1). Als vorm voor de opdracht heb ik een blogpost gekozen.
+
 ## Fotografie
 
 | vorm                                                                                    | inhoud                               | materiaal       |
-|-----------------------------------------------------------------------------------------|--------------------------------------|-----------------|
+| --------------------------------------------------------------------------------------- | ------------------------------------ | --------------- |
 | twee appels met een steeltje ertussen, standpunt vanaf boven                            | liefde (suggereert seksualiteit)     | appels, camera  |
 | twee om elkaar gewonden wortels die in het gras liggen, kroon buiten beeld (afsnijding) | liefde (suggereert ook seksualiteit) | wortels, camera |
 
 ### Wat als je de vorm of het materiaal zou veranderen?
 
-Als je de vorm zou veranderen zou de foto een andere inhoud krijgen. 
+Als je de vorm zou veranderen zou de foto een andere inhoud krijgen.
 
 Als je de appels anders neerlegt is er geen suggestie van seksualiteit. Als je de wortels niet in het gras zou hebben liggen zou het ook al veel minder emotie oproepen. Ook als je de belichting aanpast zou de foto al een andere "vibe" krijgen waardoor de boodschap anders wordt overgebracht.
 
@@ -28,16 +28,16 @@ Het effect is wel dat ik de foto van de appels meer ervaar als een symbolisch di
 Voor fotografie moesten we een als onderzoeksopdracht een foto namaken. Ik heb besloten met mijn zusje de volgende foto na te maken:
 
 ![Broer en zus](https://www.voormijnkleintje.nl/wp-content/uploads/2015/04/broer-zus-leuk.jpg)
-*Bron: [voormijnkleintje.nl](https://www.voormijnkleintje.nl/kind/waarom-broertje-zusje-leuk-is/)*
+_Bron: [voormijnkleintje.nl](https://www.voormijnkleintje.nl/kind/waarom-broertje-zusje-leuk-is/)_
 
-Je kan [hem hier vinden](#).
+Je kan [hem hier vinden](https://geheimesite.nl/ckvrobinboers4a2/onderzoek/liefde/fotografie).
 
 ## Performance
 
-| vorm                              | inhoud                                                                             | materiaal                       |
-|-----------------------------------|------------------------------------------------------------------------------------|---------------------------------|
-| elkaar diep in de ogen aankijken  | liefde (ze hadden een relatie gehad en zagen elkaar voor het eerst na zoveel jaar) | lichaam, grote hal met stoelen  |
-| twee naakte mensen in de deurpost | liefde (het uitzoeken van hoe het "publiek" zou reageren)                          | lichaam, deurpost               |
+| vorm                              | inhoud                                                                             | materiaal                      |
+| --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
+| elkaar diep in de ogen aankijken  | liefde (ze hadden een relatie gehad en zagen elkaar voor het eerst na zoveel jaar) | lichaam, grote hal met stoelen |
+| twee naakte mensen in de deurpost | liefde (het uitzoeken van hoe het "publiek" zou reageren)                          | lichaam, deurpost              |
 
 ### Wat als je de vorm of het materiaal zou veranderen?
 
@@ -49,9 +49,9 @@ Het materiaal ligt natuurlijk al vast, want dat is je eigen lichaam, de vorm bep
 
 ### Hoe verschilt het materiaal en de vorm tussen de performances?
 
-Het materiaal is, zoals ik hierboven als zei,  bij beide performances je eigen lichaam. De omgeving verschilt wel, de performance van de naakte mensen in de deurpost had niet gewerkt in de grote hal met stoelen (zonder de deurpost), en ook niet als niemand door die deur zou willen lopen.
+Het materiaal is, zoals ik hierboven als zei, bij beide performances je eigen lichaam. De omgeving verschilt wel, de performance van de naakte mensen in de deurpost had niet gewerkt in de grote hal met stoelen (zonder de deurpost), en ook niet als niemand door die deur zou willen lopen.
 
-Verder is de vorm natuurlijk verschillend omdat de performances een ander aspect van de liefde beschrijven. 
+Verder is de vorm natuurlijk verschillend omdat de performances een ander aspect van de liefde beschrijven.
 
 ## Verschillen tussen de disciplines
 

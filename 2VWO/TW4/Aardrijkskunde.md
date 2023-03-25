@@ -4,15 +4,15 @@ Gemaakt door Robin Boers voor een TW4 van leerjaar 2. Bevat de hoofdzaken uit H4
 
 ## §1: Kan de aarde ons dragen?
 
-Om producten te maken heb je grondstoffen nodig. Producten uit de natuur die wij gebruiken als grondstof noemen we natuurlijke hulpbronnen. Sommige zoals hout en water zijn hernieuwbaar, maar de meeste raken op (zijn eindig). 
+Om producten te maken heb je grondstoffen nodig. Producten uit de natuur die wij gebruiken als grondstof noemen we natuurlijke hulpbronnen. Sommige zoals hout en water zijn hernieuwbaar, maar de meeste raken op (zijn eindig).
 
-Je ecologische voetafruk is de hoeveelheid ruimte die nodig is om de spullen die jij gebruikt te produceren. Hoe groot die precies is hangt af va je leefstijl. De gemiddelde voetafdruk van Nederlanders is 5 hectare per persoon. 
+Je ecologische voetafruk is de hoeveelheid ruimte die nodig is om de spullen die jij gebruikt te produceren. Hoe groot die precies is hangt af va je leefstijl. De gemiddelde voetafdruk van Nederlanders is 5 hectare per persoon.
 
-De draagkracht van de aarde is de hoeveelheid ruimte die beschikbaar is om die grondstoffen te produceren. Per wereldburger is er maar 1,8 hectare beschikbaar, dus overschrijden we de draagkracht van de aarde. Dit doen we als sinds 1970. 
+De draagkracht van de aarde is de hoeveelheid ruimte die beschikbaar is om die grondstoffen te produceren. Per wereldburger is er maar 1,8 hectare beschikbaar, dus overschrijden we de draagkracht van de aarde. Dit doen we als sinds 1970.
 
-Een probleem is dat de wereldbevolking groeit. Daardoor is er steeds minder ruimte per wereldburger beschikbaar en gaan we de draagkracht van de aarde juist steeds meer overschrijden. Daarnaast worden door economische groei (het welvarender worden van landen) de ecologische voetafdrukken alleenmaar groter. 
+Een probleem is dat de wereldbevolking groeit. Daardoor is er steeds minder ruimte per wereldburger beschikbaar en gaan we de draagkracht van de aarde juist steeds meer overschrijden. Daarnaast worden door economische groei (het welvarender worden van landen) de ecologische voetafdrukken alleenmaar groter.
 
-Om dit op te lossen moeten we duurzaam met de aarde omgaan. We moeten ervoor zorgen dat we bijvoorbeeld niet sneller bomen kappen dan ze teruggroeien. 
+Om dit op te lossen moeten we duurzaam met de aarde omgaan. We moeten ervoor zorgen dat we bijvoorbeeld niet sneller bomen kappen dan ze teruggroeien.
 
 ## §2: De voedselproductie
 
@@ -43,13 +43,13 @@ We reizen over de hele wereld. Niet alleen wij, maar ook al onze producten. Je e
 
 Wereldwijd maken landen afspraken om klimaatverandering tegen te gaan. Zo tekende 202 landen in 2015 het klimaatakkoord van Parijs. Landen moeten regels maken zodat er minder CO<sub>2</sub> wordt uitgestoten. Ook moeten we van fossiele brandstoffen naar duurzame energiebronnen switchen.
 
-We moeten klimaatneutraal leven. Zorgen voor betere isolatie, fietsen inplaatsvan auto, licht uitdoen, minder stoken in de winter etc. 
+We moeten klimaatneutraal leven. Zorgen voor betere isolatie, fietsen inplaatsvan auto, licht uitdoen, minder stoken in de winter etc.
 
 ## §5: Energiegebruik
 
-Het grootste deel van onze ecologische voetafruk is ons energiegebruik. We gebruiken olie, gas en steenkool om onze stroom op te wekken. Die raken allemaal op. We moeten overstappen op duurzame energiebronnen. Dit noemen we de ernergietransitie. 
+Het grootste deel van onze ecologische voetafruk is ons energiegebruik. We gebruiken olie, gas en steenkool om onze stroom op te wekken. Die raken allemaal op. We moeten overstappen op duurzame energiebronnen. Dit noemen we de ernergietransitie.
 
-Het is beter voor het mileu als we groene stroom gebruiken (zon/windenergie). Je kan ook je huis energieneutraal maken: evenveel opwekken als je gebruikt. Niet iedereen kan zelf energie opwekken. Je kan je eco.voetaf. ook verkleinen door zuinig met je energie om te gaan. 
+Het is beter voor het mileu als we groene stroom gebruiken (zon/windenergie). Je kan ook je huis energieneutraal maken: evenveel opwekken als je gebruikt. Niet iedereen kan zelf energie opwekken. Je kan je eco.voetaf. ook verkleinen door zuinig met je energie om te gaan.
 
 Om de vervuiling door middel van voertuigen tegen te gaan worden 2 dingen gedaan:
 
@@ -60,7 +60,7 @@ Je kan ook oude spullen hergebruiken. Daarmee verklein je ook je afvalafruk. Doo
 
 ## §6: Op naar duurzame landbouw
 
-Na de VS zijn wij het grootste exportland van landbouw stuff ter wereld, omdat we aan intensieve landbouw doen. Dat heeft nadelen. Veel planten die we telen horen niet in Nederland thuis en worden dus in kassen verbouwd. Daar word veel energie verbruikt, en nog niet te spreken over de lichtvervuiling. Daarnaast heerst er een monocultuur (er wordt maar één soort gewas verbouwd). We gebruiken chemische stoffen en dat zorgt voor bodemvervuiling en stankoverlast. 
+Na de VS zijn wij het grootste exportland van landbouw stuff ter wereld, omdat we aan intensieve landbouw doen. Dat heeft nadelen. Veel planten die we telen horen niet in Nederland thuis en worden dus in kassen verbouwd. Daar word veel energie verbruikt, en nog niet te spreken over de lichtvervuiling. Daarnaast heerst er een monocultuur (er wordt maar één soort gewas verbouwd). We gebruiken chemische stoffen en dat zorgt voor bodemvervuiling en stankoverlast.
 
 Een betere manier van landbouw is biologische landbouw. We moeten letten op het welzijn van dieren. Ook proberen ze geen kunstmest en bestrijdingsmiddelen te gebruiken. Hierbij is wel meer ruimte voor dezelfde opbrengst nodig.
 
@@ -68,10 +68,10 @@ Producenten doen wat de klanten willen. En de klanten willen het hele jaar alle 
 
 ## §7: Duurzame stad: Almere
 
-Omdat Almere een relatief nieuwe stad is is deze veel duurzamer gebouwd. Mensen reizen met elektrische voertuigen (er zijn veel oplaadpunten aanwezig, 200m van ieders huis) en pakketten worden bezorgd met elektrische bakfietsen. Elektrische voertuigen stoten geen CO<sub>2</sub> uit en ook geen fijnstof (verzamelnaam voor alle schadelijke deeltjes in de lucht). 
+Omdat Almere een relatief nieuwe stad is is deze veel duurzamer gebouwd. Mensen reizen met elektrische voertuigen (er zijn veel oplaadpunten aanwezig, 200m van ieders huis) en pakketten worden bezorgd met elektrische bakfietsen. Elektrische voertuigen stoten geen CO<sub>2</sub> uit en ook geen fijnstof (verzamelnaam voor alle schadelijke deeltjes in de lucht).
 
-In Almere worden alleen nul-op-de-meter woningen gebouwd (energieneutraal) en oude woningen worden omgebouwd. Die woningen hebben geen gas/warmtenetaansluiting en wekken hun eigen energie op. 
+In Almere worden alleen nul-op-de-meter woningen gebouwd (energieneutraal) en oude woningen worden omgebouwd. Die woningen hebben geen gas/warmtenetaansluiting en wekken hun eigen energie op.
 
-Almere heeft een speciale stofzuiger die via een ondergronds netwerk het afval vanuit de stad naar een plek buiten de stad vervoert. Hierdoor zitten prullenbakken nooit vol en zijn er geen vuilniswagens nodig. Almere wil afvalloos worden. Dat betekent al het afval recyclen of upcyclen (er een grondstof van maken die beter is dan het origineel). 
+Almere heeft een speciale stofzuiger die via een ondergronds netwerk het afval vanuit de stad naar een plek buiten de stad vervoert. Hierdoor zitten prullenbakken nooit vol en zijn er geen vuilniswagens nodig. Almere wil afvalloos worden. Dat betekent al het afval recyclen of upcyclen (er een grondstof van maken die beter is dan het origineel).
 
-Bij Almere is een eiland aangelegd genaamd zoneiland, waar 520 zonnecollectoren staan. Zonnecollectoren zorgen naast zonne-energie ook voor warm water, wat in de wijk wordt gebruikt. Dit is genoeg voor 10%, maar de rest moet duurzaam opgewekt worden. Een deel komt van het koelwater van een nabijgelegen elektriciteitcentrale, en Almere doet onderzoek naar het gebruik van geothermie (diep bodemwater). 
+Bij Almere is een eiland aangelegd genaamd zoneiland, waar 520 zonnecollectoren staan. Zonnecollectoren zorgen naast zonne-energie ook voor warm water, wat in de wijk wordt gebruikt. Dit is genoeg voor 10%, maar de rest moet duurzaam opgewekt worden. Een deel komt van het koelwater van een nabijgelegen elektriciteitcentrale, en Almere doet onderzoek naar het gebruik van geothermie (diep bodemwater).

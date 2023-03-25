@@ -14,19 +14,20 @@ The latin words are brought in by the Romans after they invade Britannia.
 ### Old English
 
 - **Anglo-Saxon** people come:
-    - forms an germanic base for the language
-    - similar to modern Frissian
+
+  - forms an germanic base for the language
+  - similar to modern Frissian
 
 - Migrations: **Celtic** speaking people move north
 
 - **Viking invasions**:
-    - contribute the sk-sounds
-      (skirt, skin etc.)
-    - and they/them/their
+  - contribute the sk-sounds
+    (skirt, skin etc.)
+  - and they/them/their
 
 Not much is written down yet. Most of it is told in oral tradition.
 
-Notable literature from this period: *Beowulf*.
+Notable literature from this period: _Beowulf_.
 
 ### Middle English
 
@@ -39,7 +40,7 @@ These languages get spoken:
 
 Due to intermarriage between the orders of society (people, nobility and clergy) people raise their kids bilingual. This means English is becomes used more widespread.
 
-Notable literature from this period: *The Canterbury Tales* by Geoffrey Chaucer.
+Notable literature from this period: _The Canterbury Tales_ by Geoffrey Chaucer.
 
 ### Early modern English
 
@@ -54,7 +55,7 @@ This period also includes the:
 - Renaissance
 - Englightment
 
-Notable literature from this period: *William Shakespeare*.
+Notable literature from this period: _William Shakespeare_.
 
 ## Beowulf
 
@@ -71,17 +72,19 @@ When they arrive at Herot Beowulf leaves a few of his warriors outside. Then he 
 
 They continue to eat a good meal and Beowulf brags more. Unferth says Beowulf is naive and weak. He tells a story about how Beowulf and Brecca had a swimming compition and Beowulf lost. He is clearly jeaous of Beowulf and tries to intimidate him. Beowulf replies by telling Unferth he's drunk (he is) and that his story is incorrect. Beowulf did indeed lose, but that's because he had to fight underwater monsters (and won), and Brecca did not. Then Beowulf exposes that Unferth killed his own brothers.
 
-In the night Grendel arrives again. He kills one of the Geat warriors and then tries to kill Beowulf. Beowulf however, is actually awake and fights Grndel with his bare hands. 
+In the night Grendel arrives again. He kills one of the Geat warriors and then tries to kill Beowulf. Beowulf however, is actually awake and fights Grndel with his bare hands.
 
 > Note: there is a bit of foreshadowing in this fragment ("his last human supper"). Foreshadowing means the writer already let's you know what is going to happen later. In this case Grendel is going to die.
 
-His thirdteen other warriors wake up and try to hurt Grendel, but his skin is bewitched, so they can't hurt him with their swords. Then Beowulf rips off Grendels arm and Grendel escapes to his swamp where he bleeds to dead. 
+His thirdteen other warriors wake up and try to hurt Grendel, but his skin is bewitched, so they can't hurt him with their swords. Then Beowulf rips off Grendels arm and Grendel escapes to his swamp where he bleeds to dead.
 
 > Note: During this fight the writer emphasizes that Herot is very strong, and even tho there is a fierce battle going on inside, the walls keep standing. This both shows how brutal the battle was and how great Herot is.
 
 Beowulf hangs Grendels arm from the ceiling of Herot. The Geats follow the blood tracks to Grendels swamp and find out he died alone in a lake, where "hell opened up to receive him".
 
 > Fun fact: later the story says he's just lying there on the bottom of the lake, which is a bit of a contradiction with "hell opening up to receive him".
+
+---
 
 > Here follows a shitty sequel to the first part of the story:
 
@@ -97,11 +100,11 @@ Grendel's mom tries to kill him but his chainmail armor saves him. She takes him
 
 Beowulf slips and falls, and Grendel's mom tries to kill him with a dagger (jumps on top of him), but the chainmail saves him once again. Beowulf grabs a sword he sees on the wall. It has been made by giants and is super heavy (but Beowulf is superhumanly strong, remember :D), and using the sword he chops her head of. He then walks to the body of Grendel, which is also laying there apparently, and also chops his head of. He then takes the head to Herot to show everyone how amazing he is.
 
-----
+---
 
 50 years later he has to fight a dragon. The dragon is angry because a thief stole a jeweled cup, and Beowulf needs to protect his people.
 
-Beowulf boasts about beating Grendel, and then goes into the tower where the dragon lives. The dragon is mad and shoots flames at him, but Beowulf uses his shield. Fate (*paganism!*) is not on his side tho, and the shield melts. He stabs the dragon with his sword, but the weapon breaks before it went deep enough. 
+Beowulf boasts about beating Grendel, and then goes into the tower where the dragon lives. The dragon is mad and shoots flames at him, but Beowulf uses his shield. Fate (_paganism!_) is not on his side tho, and the shield melts. He stabs the dragon with his sword, but the weapon breaks before it went deep enough.
 
 All of his warriors ran away, except one. Wiglaf is thankful for everything Beowulf has given him, and want to repay his king, so he helps Beowulf. Together they beat the dragon, but Beowulf dies.
 
@@ -122,7 +125,7 @@ flowchart TD
   Hrothgar --> Note3("Is not the first-in-line: his\nbrother (Hergar) was supposed to\nbe king, but died.")
 
   Ecglaf --> Unferth
-  
+
   Unferth -- has --> Hrunting["🗡️ Hrunting"]
   Unferth --> Note1(Murdered his own brothers,\n and is jeaous of Beowulf)
   end
@@ -146,7 +149,7 @@ flowchart TD
 
 ### Characteristics of an Epic
 
-*TODO*
+_TODO_
 
 ## Canterbury Tales
 
@@ -161,13 +164,12 @@ flowchart TD
 - Heroic
 - Modest, chival, humble
 - Doesn't wear very knight-y clothes
-    - Old and discoloured
+  - Old and discoloured
 
 ##### Appearance
 
 - Strong
 - Old discoloured clothes
-
 
 #### Squire (nobility)
 
@@ -175,7 +177,7 @@ Son of knight.
 
 - Strong, agile
 - Very joyful
-    - Reads, writes songs, draws and dances
+  - Reads, writes songs, draws and dances
 - Clotches with flowers
 - In love with a girl
 - Chival, good mannered
@@ -185,19 +187,17 @@ Son of knight.
 - blonde curls
 - strong
 
-
 #### Yeoman (people)
 
 - Good servant
 - Has a lot of weapons
 - Very rich/fancy decorations
-    - on sword
-    - on his clothes
+  - on sword
+  - on his clothes
 
 ##### Appearance
 
- - Short hair
-
+- Short hair
 
 #### Prioress (clergy)
 
@@ -220,7 +220,6 @@ Head of the nuns.
 - Fancy clothes
 - Beautiful
 
-
 #### Monk (clergy)
 
 - Handsome
@@ -237,7 +236,6 @@ Head of the nuns.
 - Clothes lined with (white) fur
 - Gold pin on his clothes
 - Bald
-
 
 #### Friar (clergy)
 
@@ -259,7 +257,6 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 - Strongish
 - Has expensive clothes
 
-
 #### Merchant (people)
 
 - Looks funny
@@ -274,7 +271,6 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 - Bright colorful clothes
 - Beaver hat
 - Expensive boots
-
 
 #### Clerk (clergy)
 
@@ -292,7 +288,6 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 - Poor
 - Hollow-cheecked, thin
 
-
 #### Sergeant of Law (people)
 
 Laywer.
@@ -306,7 +301,6 @@ Laywer.
 - Round cap made of silk
 - "Dressed in the robes of authority"
 
-
 #### Franklin (people)
 
 - Landowner
@@ -318,7 +312,6 @@ Laywer.
 
 - White beard
 - Red cheeks
-
 
 #### Guild folk (rich people)
 
@@ -335,7 +328,6 @@ Laywer.
 
 - Has a big wound on his leg that is not treated properly
 
-
 #### Shipman (people)
 
 - Good at navigating
@@ -349,7 +341,6 @@ Laywer.
 - Dagger around his neck
 - Sturdy
 
-
 #### Doctor of Physic (nobility)
 
 - Spiritual/astronomer
@@ -358,7 +349,6 @@ Laywer.
 - Read ancient texts
 
 > Satire: he's a great doctor! BUT: he treats people with poop and charges them for it. Also his texts are outdated (ancient even) and he's better at atronomy then curing people.
-
 
 #### Wife of Bath (people)
 
@@ -378,20 +368,18 @@ Makes clothes.
 - Fat
 - Has a giant hat
 
-
 #### Parson (clergy)
 
 - Poor but wise
 - Good person
 - Patient
 - Didn't leave for a better job
-    - Not greedy
+  - Not greedy
 - Treats the rich/poor equally
 - Is not disdainful to sinners
-    - Except sex outside of marriage
+  - Except sex outside of marriage
 
 > Note: the I-person barely spoke to the Parson, so the perspective might be warped.
-
 
 #### Ploughman (people)
 
@@ -406,11 +394,10 @@ Brother of the parson.
 - Coarse tunic
 - Horse: mare
 
-
 #### Miller (people)
 
 - Strong but stupid
-    - Buffoon
+  - Buffoon
 - Dirty stories / whores
 - Dishonest: steals and then sells for his own profit
 
@@ -421,14 +408,12 @@ Brother of the parson.
 - Ugly in general
 - White coat + blue hat
 
-
 #### Manciple (people)
 
 Business man.
 
 - Outsmarted his superiors
 - Very wise
-
 
 #### Reeve (people)
 
@@ -445,7 +430,6 @@ Business man.
 - Well-shaved
 - Dark blue coat
 
-
 #### Summoner (clergy)
 
 - Children are afraid of him
@@ -457,11 +441,10 @@ Business man.
 ##### Appearance
 
 - Ugly:
-    - pimples
-    - baby-face
-    - swollen eyelids
-    - scabby eyebrows
-
+  - pimples
+  - baby-face
+  - swollen eyelids
+  - scabby eyebrows
 
 #### Pardoner (clergy)
 
@@ -477,7 +460,6 @@ Business man.
 - No hat (not fashionable in his opinion)
 - No beard
 
-
 #### Host (people)
 
 - Joyful
@@ -485,7 +467,8 @@ Business man.
 - Well educated
 - Smart but also [sluw]
 
-> Reasons for proposal to join:  
+> Reasons for proposal to join:
+>
 > - self-promotion
 > - fun?
 
@@ -494,4 +477,3 @@ Business man.
 - Bright eyes
 - Attractive
 - Strong
-

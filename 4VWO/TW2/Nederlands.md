@@ -36,8 +36,8 @@ In 312 werd het Christendom weer legaal en in 394 werd het de officiele staatsgo
 - Vertelde verhalen op rijm
 - Verzamelde verhalen en liet ze door een ander opschrijven (want blind)
 - Schreef de Ilias en Odysee
-	- Ilias = de Trojaanse Oorlog
-	- Odysee = het vervolg op Ilias, de terugreis
+  - Ilias = de Trojaanse Oorlog
+  - Odysee = het vervolg op Ilias, de terugreis
 
 #### Sophocles
 
@@ -52,12 +52,12 @@ In 312 werd het Christendom weer legaal en in 394 werd het de officiele staatsgo
 - **Epiek**: verhalende kunst
 - **Lyriek**: gedichten en liederen
 - **Dramatiek**: toneelteksten
-	- **Komedie**: actuele zaken (vergelijkbaar met cabaret)
-	- **Tragedie**: bestaande mythen. Er ging altijd iets fout en de hoofdpersoon moest uitzoeken waarom (= leerzaam).
-		- 5 bedrijven
-		- mag niet meer dan 24 uur zijn
-		- de plaats moet hetzelfde blijven
-		- er moet een koor zijn (om de verhaallijn uit te leggen)
+  - **Komedie**: actuele zaken (vergelijkbaar met cabaret)
+  - **Tragedie**: bestaande mythen. Er ging altijd iets fout en de hoofdpersoon moest uitzoeken waarom (= leerzaam).
+    - 5 bedrijven
+    - mag niet meer dan 24 uur zijn
+    - de plaats moet hetzelfde blijven
+    - er moet een koor zijn (om de verhaallijn uit te leggen)
 
 ## Middeleeuwen
 
@@ -71,9 +71,10 @@ Theocentrisch en ridderlijk.
 
 #### Geloof
 
-Er was in de middeleeuwen maar één geloof: het Christendom. Deze 'flavour' van het christendom werd *katholiek* (= algemeen) genoemd.
+Er was in de middeleeuwen maar één geloof: het Christendom. Deze 'flavour' van het christendom werd _katholiek_ (= algemeen) genoemd.
 
 Dit had 4 gevolgen:
+
 - Verbondenheid onder de bevolking
 - Veel macht bij de kerk
 - Geen maatschappelijke onrust
@@ -83,7 +84,7 @@ Dit had 4 gevolgen:
 
 Lucifer/de duivel is een gevallen engel. Hij kwam tegen God in opstand en is daarna uit de hemel verbannen. Sindsdien probeert hij mensen op het verkeerde pad te brengen; hij spoort bijv. Eva aan de appel eten waardoor de mensen uit het paradijs verbannen worden.
 
-De duivel kan op aarde komen in de gedaante van een mens, maar is dan altijd misvormd omdat alleen God de perfecte mens kan schapen. 
+De duivel kan op aarde komen in de gedaante van een mens, maar is dan altijd misvormd omdat alleen God de perfecte mens kan schapen.
 Hierdoor werd in de middeleeuwen iedereen die een beetje misvormd/gehandicapt was gezien als handlanger van de duivel.
 
 #### Standen
@@ -91,11 +92,11 @@ Hierdoor werd in de middeleeuwen iedereen die een beetje misvormd/gehandicapt wa
 Er was in de middeleeuwen sprake van een standenmaatschappij met 3 standen:
 
 - De **geestelijkheid**
-	- Veel geestelijken hadden een adelijke achtergrond. Iedereen die niet erfgenaam was of (in het geval van meisjes) geen partner kon vinden werd naar het klooster gestuurd voor een goed leven.
+  - Veel geestelijken hadden een adelijke achtergrond. Iedereen die niet erfgenaam was of (in het geval van meisjes) geen partner kon vinden werd naar het klooster gestuurd voor een goed leven.
 - De **adel**
-	- Voelde zich beter dan de werkende mens. Waren vaak erg bleek (blauw bloed).
+  - Voelde zich beter dan de werkende mens. Waren vaak erg bleek (blauw bloed).
 - De **boeren**
-	- Veel boeren waren lijfeigenen. Lijfeigenschap is een vorm van slavernij: de boeren waren eigendom van hun edelman/klooster. Het verschil is dat ze wel een gezin mochten starten en een eigen stukje grond mochten bewerken.
+  - Veel boeren waren lijfeigenen. Lijfeigenschap is een vorm van slavernij: de boeren waren eigendom van hun edelman/klooster. Het verschil is dat ze wel een gezin mochten starten en een eigen stukje grond mochten bewerken.
 
 Aan het eind van de middeleeuwen komt de burgerij als stand op.
 
@@ -103,7 +104,7 @@ Aan het eind van de middeleeuwen komt de burgerij als stand op.
 
 In de middeleeuwen was er een leenstelsel. De leenheer gaf gebieden in leen aan zijn leenmannen (ridders) in ruil voor gewapende steun en belasting. De trouw van de leenman aan de leenheer was erg belangrijk.
 
-*God was de opperleenheer: hij gaf het land in leen aan de koning, die op zijn beurt het weer in leen gaf aan leenmannen.*
+_God was de opperleenheer: hij gaf het land in leen aan de koning, die op zijn beurt het weer in leen gaf aan leenmannen._
 
 De koning organiseerde geregeld hofdagen, waarop alle edelen uit de omgeving bij elkaar kwamen om ruzies op te lossen (de koning fungeerde als een soort rechter) en actuele zaken te bespreken (en vooral veel feest te vieren).
 
@@ -121,23 +122,24 @@ Burgerij komt op en de literatuurgeschiedenis start.
 
 Je hebt 2 soorten ridderliteratuur:
 
-- **Karelromans**: 
-	- Er wordt veel gevochten.
-	- De vrouw speelt een ondergeschikte rol.
-	- (On)trouw aan de leenheer is vaak een thema.
-	- Karelromans hebben meestal een kern van waarheid.
-	- Vaak is er epische concentratie: daden worden aan Karel de Grote toegeschreven waar hij fysiek nooit bij had kunnen zijn. 
-	- We noemen karelromans ookwel *voorhoofs* (chansen de geuste).
-	- Voorbeelden: *Karel ende Elegast, Floris ende Blancefloer*
+- **Karelromans**:
 
-- **Arthurromans**: 
-	- Koning Arthur en de ridders van de ronde tafel spelen een rol.
-	- De vrouw wordt vereerd. Hoofse liefde: verfijnd, zuiver.
-	- Liefde is een belangrijk thema.
-	- Vaak is er sprake van queestes in de vorm van verloren/mysterieuze voorwerpen of jongvrouwen die gered moeten worden.
-	- Arthurromans hebben een keltische oorsprong.
-	- We noemen ze ookwel *hoofse romans*.
-	- Voorbeelden: *Roman van Lancelot*
+  - Er wordt veel gevochten.
+  - De vrouw speelt een ondergeschikte rol.
+  - (On)trouw aan de leenheer is vaak een thema.
+  - Karelromans hebben meestal een kern van waarheid.
+  - Vaak is er epische concentratie: daden worden aan Karel de Grote toegeschreven waar hij fysiek nooit bij had kunnen zijn.
+  - We noemen karelromans ookwel _voorhoofs_ (chansen de geuste).
+  - Voorbeelden: _Karel ende Elegast, Floris ende Blancefloer_
+
+- **Arthurromans**:
+  - Koning Arthur en de ridders van de ronde tafel spelen een rol.
+  - De vrouw wordt vereerd. Hoofse liefde: verfijnd, zuiver.
+  - Liefde is een belangrijk thema.
+  - Vaak is er sprake van queestes in de vorm van verloren/mysterieuze voorwerpen of jongvrouwen die gered moeten worden.
+  - Arthurromans hebben een keltische oorsprong.
+  - We noemen ze ookwel _hoofse romans_.
+  - Voorbeelden: _Roman van Lancelot_
 
 #### Rol van de vrouw
 
@@ -172,15 +174,15 @@ De kerk had voorheen toneel verboden omdat ze bang waren dat daarmee nieuwe idee
 - **Heiligenlevens**: de (martel)dood van een heiligen werd beschreven, hieraan konden mensen zien hoe ze moesten leven een trouw aan hun geloof moesten blijven.
 
 - **Legendes**: verkorte/aangepaste versies van heiligenlevens.
-	- **Marialegendes/mirakelverhalen**: verhalen waarin Maria een rol speelde. Meestal verrichte zij wonderen als de hoofdpersonen haar trouw bleven (ondanks verleidingen van de duivel).
+  - **Marialegendes/mirakelverhalen**: verhalen waarin Maria een rol speelde. Meestal verrichte zij wonderen als de hoofdpersonen haar trouw bleven (ondanks verleidingen van de duivel).
 
 #### Wereldlijk didactische literatuur
 
 - Mensen werd een spiegel voorgehouden
 - Vaak "wetenschappelijke" boeken (behalve dan de eenhoorns...)
 - Dieren spelen een rol (met parallelen naar de werkelijkheid)
-	- Vaak wordt de adel belachelijk gemaakt (*satire*)
-- Voorbeelden: *Van den vos Reynaerde*
+  - Vaak wordt de adel belachelijk gemaakt (_satire_)
+- Voorbeelden: _Van den vos Reynaerde_
 
 -- Parodiek ----
 Spottende nabootsing van een bestaande tekst, bijvoorbeeld een ridderroman.
@@ -193,7 +195,7 @@ Spottende nabootsing van een bestaande tekst, bijvoorbeeld een ridderroman.
 - In het Latijn
 - Studies: rechten, theologie, medicijnen
 - Zeven vrije kunsten:
-	- grammatica, retorica, musica, logica, geometrie, aritmetica, alchemie
+  - grammatica, retorica, musica, logica, geometrie, aritmetica, alchemie
 
 ##### Op stadsscholen
 
@@ -207,13 +209,13 @@ Je kon ook een **vak** (ambacht) leren bij een meester.
 
 - De kleur blauw is die van de adel, rijnheid en vroomheid.
 - De kleur wit is die van maagdelijkheid, reinheid en waarheid.
-- De *regenboog en een duif met een olijftak* geven een goed einde aan.
-- De *slang en appel* staan symbool voor de dood/het kwaad
-	- Net als de *twistappel* in de mythologie
-- De *vrouw* (Eva) staat symbool voor al het slechte in de wereld
-- De *getallen 40 en 7* geven aan dat iets afgelopen is.
-- Het *getal 10* betekent dat iets helemaal compleet is.
-- Het *getal 3* is een teken van God.
+- De _regenboog en een duif met een olijftak_ geven een goed einde aan.
+- De _slang en appel_ staan symbool voor de dood/het kwaad
+  - Net als de _twistappel_ in de mythologie
+- De _vrouw_ (Eva) staat symbool voor al het slechte in de wereld
+- De _getallen 40 en 7_ geven aan dat iets afgelopen is.
+- Het _getal 10_ betekent dat iets helemaal compleet is.
+- Het _getal 3_ is een teken van God.
 
 ## Motieven
 

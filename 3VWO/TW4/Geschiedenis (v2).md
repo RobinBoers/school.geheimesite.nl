@@ -41,7 +41,7 @@ Hierdoor raakte de economie meer geconcentreerd rond:
 
 Er komen ook nieuwe migranten uit Suriname na de onafhankelijkheid in 1975.
 
-Een links kabinet probeerde vernieuwingsidealen in praktijk te brengen met als hoofddoel: spreiding van kennis, macht en inkomen. 
+Een links kabinet probeerde vernieuwingsidealen in praktijk te brengen met als hoofddoel: spreiding van kennis, macht en inkomen.
 
 Ook kwamen er in 70-90s jeugdculturen op. De jeugd stelde in de jaren 60 het gezag van hun ouders, overheid en de kerk steeds minder op prijs. Ze hadden een langere en betere opleiding gehad en hun leefwereld was veel groter dan die van de vorige generatie, mede door beter vervoer en de tv.
 
@@ -53,7 +53,7 @@ Door de economische crisis moest er bezuinigd worden. Ruud Lubbers introduceerde
 
 Hierna kwamen de paarse kabinetten (PvdA, VVD en D66). Zij zette het beleid van Lubbers voort, maar voerde ook euthanasie en het homohuwelijk in.
 
-Vrouwen emancipeerden, ze wilden geen huisvrouw worden maar eisten een even goede opleiding als jongens, zodat ze gelijke kans hadden op een goede baan (en er waren heel veel banen over). Ze wilden dat mannen meewerkte in het huishouden. 
+Vrouwen emancipeerden, ze wilden geen huisvrouw worden maar eisten een even goede opleiding als jongens, zodat ze gelijke kans hadden op een goede baan (en er waren heel veel banen over). Ze wilden dat mannen meewerkte in het huishouden.
 
 Door de invoer van de pil werd seks buiten het huwelijk normaler (seksuele revolutie). Ook konden koppels kiezen het krijgen van kinderen te voorkomen of uit te stellen.
 
@@ -81,7 +81,7 @@ Maar ook problemen:
 ## Overzicht
 
 | Periode | Economie                          | Politiek                                             | Cultureel                                                 |
-|---------|-----------------------------------|------------------------------------------------------|-----------------------------------------------------------|
+| ------- | --------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
 | 50s     | wederopbouw<br>emigratie          | geleide loonpolitiek<br>willem Drees<br>samenwerking | spruitjeslucht<br>verzuild                                |
 | 60s     | economische groei<br>gas          | verzorgingsstaat<br>maakbare samenleving             | ontzuiling<br>+ alles bij 70s                             |
 | 70s     | oliecrisis<br>industrie verdwijnt | bezuinigingen<br>zelfredzaamheid<br>werkloosheid     | jeugdculturen<br>seksuele revolutie<br>vrouwenemancipatie |

@@ -5,7 +5,7 @@
 De biologie is opgedeeld in verschillende organisatieniveau's:
 
 | Niveau             | Emergente eigenschap                       |
-|--------------------|--------------------------------------------|
+| ------------------ | ------------------------------------------ |
 | Molecuul           | -                                          |
 | Organel            | bijv. eiwitten produceren (ribosomen)      |
 | Cel                | bijv. stoffen opnemen                      |
@@ -50,37 +50,43 @@ Hoe groter de oppervlakte van de cel tenopzichte van zijn volume, hoe sneller hi
 Cellen bestaan uit een celmembraan met daarin cytoplasma of grondplasma. In het cytoplasma bevinden zich organellen:
 
 - **De kern:** vormt ribosomen of centrosoom
-	- Het kernlichaampje
-	- De kernmembraan (met daarin kernporiën)
+
+  - Het kernlichaampje
+  - De kernmembraan (met daarin kernporiën)
 
 - **Mitochondriën:**
-	- Hebben een dubbel membraan
-	- Verbranden glucose
+
+  - Hebben een dubbel membraan
+  - Verbranden glucose
 
 - **Endoplasmatisch reticulum:** maakt vetten en transporteert moleculen
-	- Bevind zich tegen de kern aan
-	- Kan wel/geen ribosomen bevatten
-		- Wel? ➔ ruw
-		- Niet? ➔ glad
+
+  - Bevind zich tegen de kern aan
+  - Kan wel/geen ribosomen bevatten
+    - Wel? ➔ ruw
+    - Niet? ➔ glad
 
 - **Ribosomen:** produceren eiwitten
 
 - **Golgi-apparaat:** vouwt en sorteer eiwitten
-	- Lijkt op ER, maar is los van de kern en kleiner
-	- Geen ribosomen
+
+  - Lijkt op ER, maar is los van de kern en kleiner
+  - Geen ribosomen
 
 - **Plastiden:**
-	- **Chloroplasten** (**bladgroenkorrels**): fotosynthese
-	- **Chromoplaten** (**kleurstoffen**)
-	- **Leukoplasten** of **amyloplasten** (**zetmeelkorrels**)
+
+  - **Chloroplasten** (**bladgroenkorrels**): fotosynthese
+  - **Chromoplaten** (**kleurstoffen**)
+  - **Leukoplasten** of **amyloplasten** (**zetmeelkorrels**)
 
 - **Lysosomen:** blaasjes met verteringsenzymen
 
 - **Celskelet:** netwerk van eiwitdraden dat voor stevigheid zorgt
 
-- **Centrosoom:** 
-	- Bestaat uit 2 centriolen
-	- Functie bij celdeling
+- **Centrosoom:**
+
+  - Bestaat uit 2 centriolen
+  - Functie bij celdeling
 
 - **Motoreiwitten:** vervoeren transportblaasjes
 
@@ -89,7 +95,7 @@ _Ribosomen die los in het grondplasma liggen maken eiwitten voor de cel. Die op 
 ### Verschil tussen dierlijke en plantencel
 
 | Dierlijke cel          | Plantencel            |
-|------------------------|-----------------------|
+| ---------------------- | --------------------- |
 | Celmembraan            | Celwand + celmembraan |
 | Geen of kleine vacuole | Grote vacuole         |
 | Geen chloroplasten     | Chloroplasten         |
@@ -104,17 +110,17 @@ _Ribosomen die los in het grondplasma liggen maken eiwitten voor de cel. Die op 
 
 #### Schimmelcellen
 
-Schimmels zijn heteroroof en eukaryoot. Ze kunnen eencellig (zoals gisten) of meercellig (paddestoelen) zijn. Bij meercellige schimmels is de scheiding tussen cellen vaak onvolledig zodat ze stoffen kunnen uitwisselen. 
+Schimmels zijn heteroroof en eukaryoot. Ze kunnen eencellig (zoals gisten) of meercellig (paddestoelen) zijn. Bij meercellige schimmels is de scheiding tussen cellen vaak onvolledig zodat ze stoffen kunnen uitwisselen.
 
 Schimmels hebben een ER, Golgi-apparaat, ribosomen, lysosomen en mitochondriën. Hun celwand is gemaakt van chitine.
 
 #### Bacteriën
 
-Bacteriën zijn eencellige prokaryote organismes. Hun DNA ligt los in de cel. Daarnaast hebben ze ook plasmiden (kleine cirkelvormige DNA bolletjes) die ze met soortgenoten kunnen uitwisselen. 
+Bacteriën zijn eencellige prokaryote organismes. Hun DNA ligt los in de cel. Daarnaast hebben ze ook plasmiden (kleine cirkelvormige DNA bolletjes) die ze met soortgenoten kunnen uitwisselen.
 
-Ze hebben alleen ribosomen en blaasjes, geen andere organellen. Hun membraan is opgebouwd uit aminozuren en suikers. 
+Ze hebben alleen ribosomen en blaasjes, geen andere organellen. Hun membraan is opgebouwd uit aminozuren en suikers.
 
-Sommige bacteriën hebben een kapsel (extra beschermende laag rond membraan) of flagellen (lange eiwitdraden waarmee ze zich kunnen voortbewegen). 
+Sommige bacteriën hebben een kapsel (extra beschermende laag rond membraan) of flagellen (lange eiwitdraden waarmee ze zich kunnen voortbewegen).
 
 De meeste bacteriën zijn heteroroof, maar sommige kunnen autoroof zijn.
 
@@ -129,8 +135,8 @@ De membraan bevat ook chloresterol. Dat is een vetachtige stof die ervoor zorgt 
 Om stoffen door het celmembraan te transporteren:
 
 - **Diffusie:** voor kleine stoffen
-- **Gefaciliteerd transport** (dmv. *eiwitpoort*): voor grotere stoffen
-	- kunnen gesloten worden
+- **Gefaciliteerd transport** (dmv. _eiwitpoort_): voor grotere stoffen
+  - kunnen gesloten worden
 - **Fagocytose:** de membraan stulpt uit en neemt het deeltje op
 - **Endocytose:** hetzelfde, maar dan met receptoreiwitten
 - **Exocytose:** hetzelfde, maar dan andersom: een transportblaasje gaat op in de celmembraan en stoffen verlaten de cel
@@ -143,15 +149,15 @@ _Diffusie gaat bij hoge temperatuur sneller._
 
 Sommige membranen zijn semi-permeabel. Dat betekent dat ze alleen het het oplosmiddel (water) doorlaten, en niet de opgeloste stoffen.
 
-De concentratie opgeloste stoffen noem je de osmotische waarde (ow). Water stroomt altijd naar een lage ow om de concentratie overal gelijk te maken. 
+De concentratie opgeloste stoffen noem je de osmotische waarde (ow). Water stroomt altijd naar een lage ow om de concentratie overal gelijk te maken.
 
 ![Osmotische waarde](ow.png)
 
-In plantencellen zorgt een hypertonische ow in cel tenopzichte van de omgeving voor *turgor*: de cellen zuigen zich vol met water en er komt druk op de celwanden.
+In plantencellen zorgt een hypertonische ow in cel tenopzichte van de omgeving voor _turgor_: de cellen zuigen zich vol met water en er komt druk op de celwanden.
 
 _Dit geeft de plant zijn stevigheid._
 
-Bij een hypotonische ow is er sprake van *plasmolyse*: de celmembraan laat los van de celwand.
+Bij een hypotonische ow is er sprake van _plasmolyse_: de celmembraan laat los van de celwand.
 
 ## DNA
 
@@ -170,15 +176,16 @@ Bij het vormen van mRNA wordt de DNA helix opengerists. De matrijsstreng wordt d
 Een cel heeft een kringloop:
 
 - **Deling** (mitose):
-	- **profase:** membraan verdwijnt
-	- **metafase:** orderning in het midden van de cel
-	- **anafase:** chromatide uit elkaar getrokken
-	- **telofase:** rest van de cel vormt
+
+  - **profase:** membraan verdwijnt
+  - **metafase:** orderning in het midden van de cel
+  - **anafase:** chromatide uit elkaar getrokken
+  - **telofase:** rest van de cel vormt
 
 - **Interfase:**
-	- **G1:** de cel groeit en doet zijn taak
-	- **S:** DNA wordt gerepliceerd
-	- **G2:** cel groeit en synthese van organellen en membraan
+  - **G1:** de cel groeit en doet zijn taak
+  - **S:** DNA wordt gerepliceerd
+  - **G2:** cel groeit en synthese van organellen en membraan
 
 In de S fase vind er DNA-replicatie plaats. De strengen vormen dan een lange rits (de helix verdwijnt), die open gaat. Aan beide kanten komt er een DNA-replicatieenzym dat de halve strengen aanvult.
 

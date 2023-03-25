@@ -8,7 +8,7 @@ Er zijn verschillende redenen voor mensen om te sparen. Deze zijn:
 
 - **Spaardoel (doelmotief):** je spaart om iets duurs te kunnen kopen, zoals een auto of vakantie
 - **Zekerheid:** sparen zodat je geld hebt als er een onverwachte gebeurtenis voorkomt. Bijv. een natuurramp of andere incidentele uitgaven.
--  **Rente/vermogen:** sparen om je vermogen (totale geld) te laten groeien door rente.
+- **Rente/vermogen:** sparen om je vermogen (totale geld) te laten groeien door rente.
 
 Je kan op verschillende manieren sparen:
 
@@ -22,36 +22,37 @@ De rente die je na een jaar ontvangt over je spaargeld is de **enkelvoudige rent
 ```math
 Iev = p * K * n
 ```
+
 > I<sub>ev</sub> = enkenvoudige rente  
 > P = rentepercentage  
 > K = beginkapitaal  
-> n = aantal jaar 
+> n = aantal jaar
 
 Als je rente ontvangt en dat op je spaarrekening laat staan, ontvang je daarover het volgende jaar ook rente. Dit noem je **samengestelde rente**. Als je bijvoorbeeld €10 op je rekening hebt staan met 10% rente, ontvang je na een jaar €1. Als je dat op je rekening laat staan, ontvang je het volgende jaar 10% van €11 = €1,10. Je eindbedrag wordt dus 11 + 1,10 = €12,10
 
 Samengestelde rente bereken je zo:
 
-```
+```text
 EWn = (1 + p)^n * K
 ```
 
 > EW<sub>n</sub> = eindbedrag na `n` aantal jaar  
 > n = aantal jaar  
-> p = rentepercentage / 100   
+> p = rentepercentage / 100  
 > K = beginbedrag
 
 Berekening van voorbeeld:
 
-```
+```text
 EW2 = (1 + 10/100)^2 * 10
 EW2 = 0,1^2 * 10 = €12,10
 ```
 
-Je kan ook geld gebruiken om te **beleggen**. Je invensteert dan in een bedrijf of de overheid. Dit is risicovoller dan sparen op een spaarrekening. Bij sparen kan alleen de opbrengst veranderen: de rente die je ontvangt. Bij beleggen kan ook de waarde van het ingelegde geld veranderen: je kan geld verliezen. 
+Je kan ook geld gebruiken om te **beleggen**. Je invensteert dan in een bedrijf of de overheid. Dit is risicovoller dan sparen op een spaarrekening. Bij sparen kan alleen de opbrengst veranderen: de rente die je ontvangt. Bij beleggen kan ook de waarde van het ingelegde geld veranderen: je kan geld verliezen.
 
 `TODO(robin): voeg uitleg over **obligaties** toe.`
 
-Je kan ook beleggen in **aandelen**. Je koopt dan een stukje van een bedrijf en wordt zo mede-eigenaar. Daardoor krijg je een stukje van de winst (maar ook van het verlies, als dat gedraaid wordt). Het deel van de winst dat de aandeelhouders krijgen noemen we het **dividend**. 
+Je kan ook beleggen in **aandelen**. Je koopt dan een stukje van een bedrijf en wordt zo mede-eigenaar. Daardoor krijg je een stukje van de winst (maar ook van het verlies, als dat gedraaid wordt). Het deel van de winst dat de aandeelhouders krijgen noemen we het **dividend**.
 
 Je verdient dus met beleggen geld aan rente/dividend, maar het aandeel/de obligatie zelf is ook geld waard. Als je bijvoorbeeld een aandeel koopt voor €10, maar het bedrijf doet het goed (en dus willen meer mensen er van profiteren door aandelen te kopen), kan de waarde stijgen naar bijv. €20 euro. Als je dan het aandeel verkoopt, maak je een **koerswinst** van €10. Je aandeel/obligatie kan ook in waarde droppen. Dat noemen we **koersverlies**. Alles wat je verdient aan rente/dividend + koersrente/verlies noemen we het **rendement** op beleggen.
 
@@ -61,7 +62,6 @@ Als je geld tekort hebt kan je geld lenen. Hiermee verhoog je tijdelijk je koopk
 
 - Tijdelijk geldtekort dat je moet opvangen:  
   _boodschappen doen, maar je salaris komt pas morgen_
-  
 - Je wil een duurzaam consumptiegoed kopen maar hebt tijdelijk te weinig geld
 
 - Onverwacht dringend geld nodig en niks achter de hand:  
@@ -72,17 +72,17 @@ Als je geld tekort hebt kan je geld lenen. Hiermee verhoog je tijdelijk je koopk
 Je moet een lening terugbetalen in termijnen. Je betaalt dan een deel van het geld (de aflossing) + de rente.  
 Alle termijnen bij elkaar zijn de kredietkosten:
 
-```
+```text
 Kredietkosten = (aantal termijnen * termijnbedrag) - lening
 ```
 
 Er zijn risico's aan lenen: kans op verlies:
 
 - **Voor uitlener:**  
-Het risico dat de lener het geld niet kan terugbetalen.
+  Het risico dat de lener het geld niet kan terugbetalen.
 
 - **Voor de lener:**  
-De aankoop kan sneller minder waard worden dan dat hij zijn schuld kan aflossen.
+  De aankoop kan sneller minder waard worden dan dat hij zijn schuld kan aflossen.
 
 De bank checkt altijd of je genoeg verdient om je lening terug te betalen (verdiencapaciteit) en of je nog openstaande leningen hebt die je niet kan afbetalen. Hoe hoger het risico voor de bank, hoe hoger de rente.
 

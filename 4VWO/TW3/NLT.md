@@ -14,24 +14,21 @@ Omdat het vergelijken van plaatjes om een match te zoeken teveel werk is maak je
 Op de toets moet je vingerafdrukken vergelijken. Hiervoor krijg je bronnen met plaatjes van de hoofdpatronen en typica.
 Je mag op de bronnen (de plaatjes van de vingerafdruk) tekenen. Omcirkel dus de overeenkomende typica.
 
-
 ## Chromatografie
 
-Je moet verschillende chromatogrammen met elkaar kunnen vergelijken om te kunnen bepalen of twee stoffen dezelfde stof zijn. Hiervoor gebruik je Rf-waardes. 
+Je moet verschillende chromatogrammen met elkaar kunnen vergelijken om te kunnen bepalen of twee stoffen dezelfde stof zijn. Hiervoor gebruik je Rf-waardes.
 
 De **Rf-waarde** is de verhouding tussen de afstand die de stof heeft afgelegd voordat deze zich aan het papier hechtte (de plek van de stip dus) en het vloeistoffront. Het vloeistoffront is de lijn tot waar de vloeistof omhoog is gelopen. De hoogte van de stip en het vloeistoffront worden beide gemeten tenopzichte van de startstreep. Dit is de streep waarop je de originele stippen zet.
 
-*Belangrijk: de startstreep moet altijd met potlood gemaakt worden, want anders zal deze ook omhoog gaan lopen!*
+_Belangrijk: de startstreep moet altijd met potlood gemaakt worden, want anders zal deze ook omhoog gaan lopen!_
 
 De Rf-waarde bereken je zo:
 
 \\[\text{Rf} = \frac{\text{afgelegde weg stof}}{\text{vloeistoffront}}\\]
 
-
 ## Ballistiek vergelijken
 
 Je moet ballistiek vergelijken. Hiervoor moet je de sporen op de huls en kogel met elkaar vergelijken. Je hoeft geen formules te kennen.
-
 
 ## DNA
 
@@ -50,4 +47,3 @@ De kans dat dit voorkomt is:
 Je doet het x2 omdat de chromosomen ook andersom kunnen voorkomen. Dit doe je dus alleen als de twee DNA-kenmerken (de getallen 8 en 11) niet gelijk zijn.
 
 Je moet op de toets de kans dat iemand hetzelfde DNA heeft als het profiel kunnen uitrekenen met behulp van frequenties, herhalingen kunnen tellen, AT-CG kunnen invullen in de coderende streng en een gemengd DNA profiel kunnen splitsen in twee profielen.
-

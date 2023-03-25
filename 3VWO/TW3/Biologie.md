@@ -6,7 +6,7 @@ Samenvatting Biologie thema 5: Erfelijkheid en evolutie. Geschreven door Robin B
 
 Je lichaam bestaat uit lichaamscellen. In de celkern van een cel liggen 46 chromosomen: dunne draden die gemaakt zijn van de stof DNA. In DNA ligt informatie over je (erfelijke) eigenschappen opgeslagen. De chromosomen zijn in elke celkern precies hetzelfde. Dat komt omdat bij celdeling de dochtercellen _al_ het DNA meekrijgen, en alle cellen zijn uiteindelijk onstaan uit de bevruchte eicel.
 
-Een gen is een combinatie van meerdere stukjes DNA die samen de informatie voor één erfelijke eigenschap vormen. Alle genen bij elkaar noemen we het genotype. Het fenotype is je uiterlijk, maar bevat bijv. ook je bloeddruk en spierbouw. Het wordt bepaald door zowel het genotype als invloeden uit de omgeving. Niet elke cel heeft alle informatie uit het DNA nodig; bij sommige cellen staan delen "uit", maar het is wel allemaal aanwezig. Als een gen wel actief is noemen we dat genexpressie en is dat vaak zichtbaar in het fenotype. 
+Een gen is een combinatie van meerdere stukjes DNA die samen de informatie voor één erfelijke eigenschap vormen. Alle genen bij elkaar noemen we het genotype. Het fenotype is je uiterlijk, maar bevat bijv. ook je bloeddruk en spierbouw. Het wordt bepaald door zowel het genotype als invloeden uit de omgeving. Niet elke cel heeft alle informatie uit het DNA nodig; bij sommige cellen staan delen "uit", maar het is wel allemaal aanwezig. Als een gen wel actief is noemen we dat genexpressie en is dat vaak zichtbaar in het fenotype.
 
 _Een gen kan ook maar een beetje actief zijn. Als er bijv. weinig glucose in het bloed zit zullen de genen die insuline produceren minder actief worden._
 
@@ -26,7 +26,7 @@ Bij de bevruchting smelten de celkernen van de eicel en zaadcel weer samen. Er o
 
 Chromosomen bestaan uit de stof DNA, wat weer bestaat uit basen. A-T en G-C vormen altijd paren. Dit noemen we basenparen. De volgorde van deze paren in het DNA bepaald de erfelijke eigenschappen.
 
-Niet alleen je uiterlijk wordt bepaald door je DNA. Ook het functioneren van je lichaam (bijv. kleurenblindheid of erfelijke ziektes) wordt bepaald door je DNA. 
+Niet alleen je uiterlijk wordt bepaald door je DNA. Ook het functioneren van je lichaam (bijv. kleurenblindheid of erfelijke ziektes) wordt bepaald door je DNA.
 
 Voor elke eigenschappen zijn heel veel basenparen nodig. De hoeveelheid basenparen en locatie in het DNA noemen we een gen. Meestal zijn er meerdere genen nodig voor één eigenschap.
 
@@ -46,9 +46,9 @@ Als een eiwit gemaakt moet worden wordt de DNA-sequentie afgelezen en gekopieerd
 
 - Brandstof
 - Bouwstof
-	- Hormoon
-	- Enzym
-	- Antistof
+  - Hormoon
+  - Enzym
+  - Antistof
 
 _Een DNA-microarray/DNA-chip laat genexpressie zien door stippen te zetten. Hoe feller de stip, hoe harder het gen aanstaat._
 
@@ -57,7 +57,7 @@ Als een chromsoom beschadigd raakt kan het DNA voor enkele eigenschappen verande
 - Atoombommen of andere straling (ioniserende straling)
 - Asbest of sigarettenrook (chemische stoffen)
 
-Als de gemuteerde eigenschap zichtbaar is in het fenotype noemen we het organisme een mutant. Een voorbeeld daarvan is een albino. Daarbij kan het organisme geen pigment (kleurstof) vormen en is het erg bleek en heeft het rode ogen. 
+Als de gemuteerde eigenschap zichtbaar is in het fenotype noemen we het organisme een mutant. Een voorbeeld daarvan is een albino. Daarbij kan het organisme geen pigment (kleurstof) vormen en is het erg bleek en heeft het rode ogen.
 
 Door spontane mutaties neemt de variatie in genotype binnen een soort toe.
 
@@ -94,17 +94,17 @@ Een organisme is "goed" als het zijn DNA doorgeeft (aan een supermens dat zijn D
 
 Fossielen kunnen bewaard blijven in sedimentgesteenten blah blah blah ak. Hoe lager hoe ouder. Blah Blah Blah.
 
-- **4.6 miljard jaar geleden** was er nog geen leven mogelijk. 
-- **3.8 miljard jaar geleden** onstonden de eerste eencelligen levensvormen onderwater. Hieruit ontstonden bacteriën die de eerste zuurstof produceerden. 
+- **4.6 miljard jaar geleden** was er nog geen leven mogelijk.
+- **3.8 miljard jaar geleden** onstonden de eerste eencelligen levensvormen onderwater. Hieruit ontstonden bacteriën die de eerste zuurstof produceerden.
 - **4.4 miljard jaar geleden** ontstonden de eerste organismes die gebruik konden maken van fotosynthese.
 - **1.6 miljard jaar geleden** ontstonden de eerste meercellige organismes.
 - **0.7 miljard jaar geleden** ontstonden de eerste dieren (onderwater).
-- **0.5 miljard jaar geleden** kwamen de dieren naar het land. Eerst de geleedpotige (duizendpoten), toen gewervelden, amfibieën en toen reptielen. 
+- **0.5 miljard jaar geleden** kwamen de dieren naar het land. Eerst de geleedpotige (duizendpoten), toen gewervelden, amfibieën en toen reptielen.
 - **0.3 miljoen jaar geleden** ontstonden de eerste mensachtigen in Afrika.
 
-Dieren met een gemeenschappelijke voorouder zijn verwant. Hoe meer het DNA overeenkomt, hoe meer verwant twee soorten zijn. Twee verwanten soorten hebben een vergelijkbaar fenotype en eiwitproductie. Hoe meer dit (en het DNA) op elkaar lijkt, hoe korter geleden de soorten ontstaan zijn. 
+Dieren met een gemeenschappelijke voorouder zijn verwant. Hoe meer het DNA overeenkomt, hoe meer verwant twee soorten zijn. Twee verwanten soorten hebben een vergelijkbaar fenotype en eiwitproductie. Hoe meer dit (en het DNA) op elkaar lijkt, hoe korter geleden de soorten ontstaan zijn.
 
-Rudimentaire organen zijn organen die hun (oorspronkelijke) functie verloren hebben. Homologe organen hebben juist dezelfde vorm, maar een andere functie. Analoge organen hebben dezelfde functie maar zijn totaal anders opgebouwd (bijv. vleugels of ogen). 
+Rudimentaire organen zijn organen die hun (oorspronkelijke) functie verloren hebben. Homologe organen hebben juist dezelfde vorm, maar een andere functie. Analoge organen hebben dezelfde functie maar zijn totaal anders opgebouwd (bijv. vleugels of ogen).
 
 ## DNA-technieken
 
@@ -117,12 +117,9 @@ Biotechnologie is het gebruiken van organismen voor het maken van producten. Den
 Je hebt twee soorten biotechnologie:
 
 - **Klassiek**  
-Het genotype wordt niet veranderd.
-	- Het gebruik van gist in wijn en bier (alcoholgisting)
-	- Bacterien voor het maken van kaas en yogurt (melkzuurgisting)
-	
+  Het genotype wordt niet veranderd. - Het gebruik van gist in wijn en bier (alcoholgisting) - Bacterien voor het maken van kaas en yogurt (melkzuurgisting)
 - **Modern**  
-Organismes krijgen nieuwe eigenschappen door genetische modificatie/manipulatie met recombinant-DNA-technieken. Het DNA wat daarbij ingebracht wordt komt vaak van andere organismes. Organismes die genetisch zijn aangepast noemen we transgeen. 
+  Organismes krijgen nieuwe eigenschappen door genetische modificatie/manipulatie met recombinant-DNA-technieken. Het DNA wat daarbij ingebracht wordt komt vaak van andere organismes. Organismes die genetisch zijn aangepast noemen we transgeen.
 
 Waarschijnlijk wordt het gebruik van DNA van andere organismes binnenkort vervangen door crisp-cas. Dat is een techniek waarbij genen direct aangepast kunnen worden. Dit noemen we gene-editing. Het wordt momenteel al ingezet in de zorg om kapotte genen te repareren (gentherapie).
 

@@ -6,7 +6,7 @@ Dit is een samenvatting van H5 en H6 van NOVA. Geschreven door Robin Boers voor 
 
 De lichtsnelheid (c) in vacuüm en lucht is:
 
-```
+```text
 3 * 10⁸ m/s
 ```
 
@@ -18,7 +18,7 @@ Het elektromagnethisch spectrum ziet er zo uit:
 
 ![EM-spectrum](em-spectrum.jpg)
 
-Hoe rechtser in het spectrum, hoe meer energie de straling meedraagt. Hoe meer energie, hoe schadelijker. Ioniserende straling is schadelijk, en begint ergens bij UV-straling. 
+Hoe rechtser in het spectrum, hoe meer energie de straling meedraagt. Hoe meer energie, hoe schadelijker. Ioniserende straling is schadelijk, en begint ergens bij UV-straling.
 
 ### Golven
 
@@ -29,13 +29,14 @@ Golven hebben 3 eigenschappen:
 - **Golfsnelheid** (v): snelheid waarmee de golf zich voortbeweegt. _Voor EM-straling is dat de lichtsnelheid (c)._
 
 Hierbij geld:
-```
+
+```text
 v = f * λ
 ```
 
 ### Fotonen
 
-Straling bestaat ook uit deeltjes, en die deeltjes noemen we fotonen (want ook *foto*synthese en *foto*lyse). 
+Straling bestaat ook uit deeltjes, en die deeltjes noemen we fotonen (want ook *foto*synthese en *foto*lyse).
 
 - geen massa
 - wel energie
@@ -43,14 +44,14 @@ Straling bestaat ook uit deeltjes, en die deeltjes noemen we fotonen (want ook *
 
 Je kan de energie van een foton (E<sub>f</sub>) uitrekenen met de volgende formule:
 
-```
+```text
 Ef = h * f
 ```
 
 Waarbij geldt:
 
 - E<sub>f</sub> = fotonenergie in Joule (J)
-- h = de constante van Planck in Jouleseconde (J*s)
+- h = de constante van Planck in Jouleseconde (J\*s)
 - f = de frequentie in Hz
 
 _De constante van Planck krijg je op de toets._
@@ -62,7 +63,6 @@ Er zijn 3 verschillende lichtbundels:
 - Divergent: de stralen bewegen uit elkaar
 - Convergent: de stralen bewegen naar elkaar toe (en raken elkaar in een brandpunt)
 - Evenwijdig: stralen blijven evenwijdig aan elkaar
-
 
 ### Lenzen
 
@@ -159,7 +159,7 @@ Objecten die spontaan ioniserende straling uitzenden noem je radioactief. Je heb
 3 soorten straling:
 
 - Deeltjesstraling: stroom deeltjes met een hele hoge snelheid
-	-	Alfastraling en bètastraling. Alfastraling heeft grotere en zwaardere deeltjes
+  - Alfastraling en bètastraling. Alfastraling heeft grotere en zwaardere deeltjes
 - Gammastraling: EM-straling met kleine golflengte. Zelfde als röntgen, maar ioniserender, en dus gevaarlijker.
 
 ### Halveringstijd
@@ -198,10 +198,11 @@ Bij inwendige bestraling wordt een radioactief staafje dat alfa- en bètastralin
 
 ## Lading
 
-Voorwerpen kunnen positief of negatief geladen zijn. De lading bepaalt of ze andere voorwerpen aantrekken of afstoten. Als een voorwerp neutraal (de meeste voorwerpen) is heeft het evenveel positieve als negatieve lading. 
+Voorwerpen kunnen positief of negatief geladen zijn. De lading bepaalt of ze andere voorwerpen aantrekken of afstoten. Als een voorwerp neutraal (de meeste voorwerpen) is heeft het evenveel positieve als negatieve lading.
 
 De lading van 1 elektron is:
-```
+
+```text
 -1.6 * 10⁻¹⁹ C
 ```
 
@@ -211,15 +212,15 @@ De lading (Q) meten we in coulomb (C).
 
 De stroomsterkte (I) is de hoeveelheid lading die per seconde langs een punt in de stroomkring stroomt. We meten dit in C/s of A, waarbij:
 
-```
+```text
 1 C/s = 1 A
-en 
+en
 I = Q/t
 ```
 
 Spanning (U) is de hoeveelheid energie die de lading meekrijgt of afgeeft tussen twee punten in een schakeling (daarom plaatsen we de spanningsmeter buiten de stroomkring). We meten dit in J/C of V, waarbij:
 
-```
+```text
 1 J/C = 1V
 ```
 
@@ -235,13 +236,13 @@ Om het makkelijker te maken:
 
 De weerstand (R) geeft aan hoeveel spanning er nodig is om een stroomsterkte van 1 A te krijgen, met andere woorden: hoe goed een apparaat of materiaal stroom tegenhoud. We meten dit in V/A of ohm (Ω), waarbij:
 
-```
+```text
 1 V/A = 1 Ω
 en
 R = U/I
 ```
 
-Een (ohmse) weerstandje is een onderdeeltje waarbij de weerstand constant is. Je tekent ze als een rechthoekje met een R erin in een schakeling. 
+Een (ohmse) weerstandje is een onderdeeltje waarbij de weerstand constant is. Je tekent ze als een rechthoekje met een R erin in een schakeling.
 
 In een I,U-diagram:
 
@@ -256,7 +257,7 @@ De weerstand in een draad hangt af van:
 - De lengte (l) in m
 - De soortelijke warmte van het materiaal (ρ) in Ω∙m
 
-```
+```text
 R = (ρ * l) / A
 ```
 
@@ -274,17 +275,17 @@ U<sub>bron</sub> = U₁ + U₂ ....
 
 I<sub>tot</sub> = I₁ + I₂ ...  
 U<sub>bron</sub> = U₁ = U₂ ....
-1/R<sub>tot</sub> = 1/R₁ + 1/R₂ ...  
+1/R<sub>tot</sub> = 1/R₁ + 1/R₂ ...
 
 R<sub>tot</sub> is in parallel altijd kleiner dan de kleinste weerstand.
 
 ## Diode
 
-Een diode laat de stroom maar in één richting door. Een diode heeft een doorlaatrichting (de driehoek) en een sperrichting (de muur). 
+Een diode laat de stroom maar in één richting door. Een diode heeft een doorlaatrichting (de driehoek) en een sperrichting (de muur).
 
 ![Fig 1: Diode](diode.webp)
 
-In de doorlaatrichting heeft de diode (bijna) geen weerstand. In de sperrichting is deze enorm groot. 
+In de doorlaatrichting heeft de diode (bijna) geen weerstand. In de sperrichting is deze enorm groot.
 
 _In een parallel schakeling hoef je de weerstand van een diode niet mee te rekenen voor R<sub>tot</sub>, want R<sub>diode</sub> is verschrikkelijk groot, en 1/R<sub>diode</sub> is dus zo klein dat het verwaarloosbaar is._
 

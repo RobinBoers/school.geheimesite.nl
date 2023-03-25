@@ -1,22 +1,22 @@
 # De bloedsomloop
 
-Geschreven door Robin Boers voor TW4 van leerjaar 2VWO. Bevat de belangrijkste zaken van BS1 t/m6  + ES7 + ES8.
+Geschreven door Robin Boers voor TW4 van leerjaar 2VWO. Bevat de belangrijkste zaken van BS1 t/m6 + ES7 + ES8.
 
 ## BS 1: Bloed
 
 De functie van bloed is om alles wat het lichaam nodig heeft te vervoeren. Bloed bestaat uit:
 
 - **Bloedplasma:**  
-Gelig van kleur, bestaat uit water, eiwitten en opgeloste stoffen. Bevat fibrinogeen, wat nodig is voor bloedstolling.
+  Gelig van kleur, bestaat uit water, eiwitten en opgeloste stoffen. Bevat fibrinogeen, wat nodig is voor bloedstolling.
 
 - **Rode bloedcellen:**  
-Voor het vervoer van zuurstof in het bloed. Hebben geen celkern. Ze bevatten hemoglobine, wat zuurstof kan vasthouden.
+  Voor het vervoer van zuurstof in het bloed. Hebben geen celkern. Ze bevatten hemoglobine, wat zuurstof kan vasthouden.
 
 - **Witte bloedcellen:**  
-Zorgen voor het verstoten van ziekteverwekkers. Hebben wel een celkern. Meestal gaan ze zelf ook dood als ze ziekteverwekkers dood maken.
+  Zorgen voor het verstoten van ziekteverwekkers. Hebben wel een celkern. Meestal gaan ze zelf ook dood als ze ziekteverwekkers dood maken.
 
 - **Bloedplaatjes:**  
-Uiteengevallen cellen zonder celkern. Ze zijn belangrijk voor bloedstolling. Ze bevatten stoffen die stollen als ze buiten het bloedvat komen. Daarbij wordt het fibrinogeen uit het bloedplasma omgezet in fibrine. Ze vormen draden en als die met de bloedcellen indrogen onstaat een korstje.
+  Uiteengevallen cellen zonder celkern. Ze zijn belangrijk voor bloedstolling. Ze bevatten stoffen die stollen als ze buiten het bloedvat komen. Daarbij wordt het fibrinogeen uit het bloedplasma omgezet in fibrine. Ze vormen draden en als die met de bloedcellen indrogen onstaat een korstje.
 
 ### Trombose
 
@@ -29,13 +29,13 @@ De weg die je bloed door je lichaam aflegt heet de bloedsomloop. Dit gaat door b
 Er zijn 3 soorten bloedvaten:
 
 - **Slagaders:**  
-Dit zijn de bloedvaten die het bloed bij het hart wegvoeren naar andere organen toe. De druk op de slagadres is groot. Daarom zijn de dik gespierd en elastisch. Als het bloed uit het hart geperst wordt zetten ze uit. Daardoor kan je je hartslag voelen in je polsen (de slagader ligt daar vlak onder de huid). 
+  Dit zijn de bloedvaten die het bloed bij het hart wegvoeren naar andere organen toe. De druk op de slagadres is groot. Daarom zijn de dik gespierd en elastisch. Als het bloed uit het hart geperst wordt zetten ze uit. Daardoor kan je je hartslag voelen in je polsen (de slagader ligt daar vlak onder de huid).
 
 - **Haarvaten:**  
-Dit zijn de kleinste bloedvaten. Ze hebben een hele dunne  wand (1 cellaag dik) en kunnen zo zuurstof naar de cellen brengen. Dit zijn aftakkingen van de slagaders.
+  Dit zijn de kleinste bloedvaten. Ze hebben een hele dunne wand (1 cellaag dik) en kunnen zo zuurstof naar de cellen brengen. Dit zijn aftakkingen van de slagaders.
 
 - **Aders:**  
-De haarvaten komen weer samen in de aders. Deze brengen het bloed weer terug naar het hart. De druk is hier lager en daarom hoeven ze niet zo elastisch en gespierd te zijn als de slagaders. Er is ook geen hartslag meer voelbaar. In aders zitten vaak ook kleppen zodat het bloed niet de verkeerde kant op stroomt.
+  De haarvaten komen weer samen in de aders. Deze brengen het bloed weer terug naar het hart. De druk is hier lager en daarom hoeven ze niet zo elastisch en gespierd te zijn als de slagaders. Er is ook geen hartslag meer voelbaar. In aders zitten vaak ook kleppen zodat het bloed niet de verkeerde kant op stroomt.
 
 Om de (slag)aders zit bindweefsel en spierweefsel. Bij de slagaders iets meer dan bij de aders. Het spierweefsel zijn kringspieren.
 
@@ -53,7 +53,7 @@ Daarna komt het bloed in de linkerhelft van het hart. Die pompt het bloed dan na
 
 ### De bouw
 
-Het hart is een holle spier waar krans(slag)aders overheen lopen. De kransslagaders zijn aftakkingen van de aorta. 
+Het hart is een holle spier waar krans(slag)aders overheen lopen. De kransslagaders zijn aftakkingen van de aorta.
 
 Het hart bestaat uit twee kamers en twee boezems die worden gescheiden door de harttussenwand.
 
@@ -71,7 +71,7 @@ Een hartslag van 70 betekent dat het hart 70x per seconde klopt. De hartslag wor
 
 1. De volgestroomde boezems trekken samen. De kamers zijn ontspannen en het bloed stroomt erin.
 
-2. Als ze volgestroomd zijn trekken de kamers samen. De kleppen sluiten om te voorkomen dat het bloed terugstroomt. De druk stijgt en als deze groter is dan in de aorta / longslagader gaan de halvemaanvormige kleppen open en stroomt het bloed erin. De boezems zijn ontspannen. 
+2. Als ze volgestroomd zijn trekken de kamers samen. De kleppen sluiten om te voorkomen dat het bloed terugstroomt. De druk stijgt en als deze groter is dan in de aorta / longslagader gaan de halvemaanvormige kleppen open en stroomt het bloed erin. De boezems zijn ontspannen.
 
 3. Hartpauze. Zowel de boezems als kamers zijn ontspannen en er stroomt bloed in de boezems en gedeeltelijk in de kamers. Daarna terug naar stap 1.
 
@@ -119,7 +119,7 @@ Als de wand van de slagader beschadigd, kunnen er wittebloedcellen en vetachtige
 - Niet roken
 - Genoeg bewegen
 
-Als een kransslagader door bijv. een bloedpropje wordt afgesloten noem je dat een hartinfarct. Dan krijgt een deel van het hart geen zuurstof meer en beschadigd het. Als het afgestorven deel groot is is een hartinfarct dodelijk. Meestal is de eerste keer dan patienten een hartinfarct krijgen niet dodelijk en kan een andere vertakking het overnemen. Dit heeft een waarschuwing / angina pectoris. 
+Als een kransslagader door bijv. een bloedpropje wordt afgesloten noem je dat een hartinfarct. Dan krijgt een deel van het hart geen zuurstof meer en beschadigd het. Als het afgestorven deel groot is is een hartinfarct dodelijk. Meestal is de eerste keer dan patienten een hartinfarct krijgen niet dodelijk en kan een andere vertakking het overnemen. Dit heeft een waarschuwing / angina pectoris.
 
 Als de kransslagader erg vernauwd is kan hij worden gedotteerd. Dan wordt er met een sneetje in de lies de vernauwing opgerekt met een ballonnetje. Ook kan een stent, een soort gaasbuisje van metaaldraad de vernauwde kransslagader open houden.
 
@@ -131,7 +131,7 @@ Door een gezond leeftstijl kan je de kans op hart- en vaatziekten verkleinen:
 - Genoeg bewegen
 - Voorkom stress en neem genoeg rust
 
-Alcohol heeft een verdovende werking en komt via het bloed overal in het lichaam terecht. Hierdoor worden veel organen beinvloed, en nemen het waarneemingsvermogen en reactievermogen af door het drinken van alcohol. 
+Alcohol heeft een verdovende werking en komt via het bloed overal in het lichaam terecht. Hierdoor worden veel organen beinvloed, en nemen het waarneemingsvermogen en reactievermogen af door het drinken van alcohol.
 
 Alcohol kan de hersenen van jongeren (die tot hun 24e nog in ontwikkeling zijn) beschadigen. Ook is de kans op verslaving bij jongeren groter.
 
@@ -148,11 +148,11 @@ De effecten op lange termijn:
 
 ## ES 7: Weefelvloeistof en lymfe
 
-Door de bloedruk aan het begin van de haarvaten wordt er vloeistof buiten de vaten geperst. Dit noem je weefselvloeistof. Het bevind zich tussen de cellen van organen, en wordt vaak weer voor een deel opgenomen in de haarvaten. 
+Door de bloedruk aan het begin van de haarvaten wordt er vloeistof buiten de vaten geperst. Dit noem je weefselvloeistof. Het bevind zich tussen de cellen van organen, en wordt vaak weer voor een deel opgenomen in de haarvaten.
 
 Wat niet is opgenomen in de haarvaten komt in de lymfevaten terecht. De vloeistof in lymfevaten heet lymfe en bestaat uit water met opgeloste stoffen en witte bloedcellen. Lymfe vervoert koolstofdioxide en andere afvalstofffen. En het bevat ook de voedingsstofffen en zuurstof die niet door de cellen was opgenomen. De lymfevaten brengen de lymfe weg van de organen. Kleppen in de lymfevaten voorkomen dat de lymfe terugstroomt.
 
-De lymfevaten vormen samne het lymfevatenstelsel. Uiteindelijk komt alle lymfe terecht in twee grote lymfevaten: de rechterlymfestam en de borstbuis, die beide op de aders die onder het sleutelbeen liggen uitmonden. 
+De lymfevaten vormen samne het lymfevatenstelsel. Uiteindelijk komt alle lymfe terecht in twee grote lymfevaten: de rechterlymfestam en de borstbuis, die beide op de aders die onder het sleutelbeen liggen uitmonden.
 
 Op bepaalde plaatsen in het lichaam liggen lymfeknopen (lymfeklieren), die het lymfe zuiveren van oa ziekteverwekkers.
 

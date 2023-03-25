@@ -8,7 +8,7 @@ De belangrijkste eigenschappen van Cool Jazz zijn tegenmelodieën, vaste patrone
 
 ### Artiesten
 
-Beroemde Cool Jazz artietsen zijn onder andere Miles Davis, Gerry Mulligan, Chet Baker, Stan Getz, Paul Desmond. Verder zijn dit een aantal invloedrijke fragmenten: 
+Beroemde Cool Jazz artietsen zijn onder andere Miles Davis, Gerry Mulligan, Chet Baker, Stan Getz, Paul Desmond. Verder zijn dit een aantal invloedrijke fragmenten:
 
 - "All the Things You Are" van Gerry Mulligan
 - "My Funny Valentine" van Chet Baker
@@ -23,4 +23,3 @@ Bij Cool Jazz wordt gebruik gemaakt van verschillende instrumenten, zoals:
 - Piano
 - Bass
 - Drums
-

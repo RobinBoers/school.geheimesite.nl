@@ -4,7 +4,7 @@ Leren voor de toetsweek: C1-2 en F1
 
 ## Informatie
 
-Informatie is data in context. Communicatie is het uitwisselen van informatie. 
+Informatie is data in context. Communicatie is het uitwisselen van informatie.
 
 ### Eisen aan informatie
 
@@ -15,14 +15,12 @@ Informatie is data in context. Communicatie is het uitwisselen van informatie.
 - **Beschikbaarheid** (of tijdigheid): is de informatie beschikbaar als je het nodig hebt?
 - **Doelgerichtheid:** is de informatie te gebruiken door de gebruiker? zijn de teksten niet te technisch/omslachtig?
 
-
 ### Eisen informatiesysteem
 
 - **Betrouwbaar**: alleen beschikbaar voor mensen met juiste rechten
 - **Continuiteit**: systeem moet niet uitvallen
 - **Efficientie**: verhouding tussen kosten en kwaliteit van het systeem
 - **Effectiviteit**: het is een hulpmiddel, het moet ons dienen en niks kosten
-
 
 ### Big data
 
@@ -39,7 +37,6 @@ De toepassingen van big data zijn:
 - beschrijven
 - adviseren
 - voorspellen
-
 
 ## Database
 
@@ -63,23 +60,21 @@ Dit is een real-life voorbeeld uit van de staging database van mijn werk:
 
 Er zijn verschillende _keys_ zoals `name`, `email` en `subscribed`. Je ziet ze bovenin. Aan de linkerkant zie je genummerde rijen. Elke rij is een _record_ of _entry_.
 
-Je kan zien dat er een gebruiker is met de naam (`name`) _Robin_ en het emailadres (`email`) _robin@example.com_. Hij is klant, want er staat een vinkje in de `subscribed` column. 
+Je kan zien dat er een gebruiker is met de naam (`name`) _Robin_ en het emailadres (`email`) _robin@example.com_. Hij is klant, want er staat een vinkje in de `subscribed` column.
 
 Er is ook een andere gebruiker genaamd Foo die wel eerder betaald heeft voor het product (hij heeft namelijk een `customer_id` die wordt aangemaakt bij betaling), maar terug is geschakeld naar het “Free” abonnement (je kan dit zien omdat er geen vinkje meer bij de `subscribed` column staat. Ook staat er een vinkje bij `action_required`, hij moet zijn betaalmethode nog instellen).
 
 Daarnaast is ook een andere gebruiker genaamd _Bar_ die wel een account heeft aangemaakt, maar nog nooit ingelogd is geweest; het veld `confirmed_at` is leeg.
 
-
 ## Webservice
 
-Om informatie van de database van een andere organisatie op te vragen gebruik je vaak een *webservice*, omdat je geen directe toegang hebt tot hun database. Een webservice wordt ookwel een API genoemd.
+Om informatie van de database van een andere organisatie op te vragen gebruik je vaak een _webservice_, omdat je geen directe toegang hebt tot hun database. Een webservice wordt ookwel een API genoemd.
 
 Een webservice is gewoon een webpagina die makkelijk door computers te lezen is. Hiervoor wordt geen HTML (informatie voor mensen) gebruikt, maar XML of JSON (informatie voor computers).
 
 Je kan een request naar de API sturen. De API stuurt dan een response terug met de data die je hebt opgevraagd.
 
 Talen die gebruikt worden om webservices te maken zijn XML, JSON, YAML. Voorbeelden van soorten webservices zijn REST APIs, GraphQL APIs en RSS feeds.
-
 
 ## Usability
 
@@ -91,29 +86,31 @@ Bij het ontwerpen van een product moet je naast de code ook aan de gebruikers de
 
 Om je product zo gebruiksvriendelijk mogelijk te maken hebben we een aantal Heuristieken (bedacht door Jakob Nielsen):
 
-1. **Bied eenvoudige toegang:** 
-	- De applicatie moet makkelijk te vinden en starten zijn
-	- Inloggen (indien nodig) moet snel en makkelijk gaan
-	- Informatie moet makkelijk te vinden zijn en overzichtelijk aangeboden worden
-		- Maak gebruik van plaatjes
-		- Laat de informatie overal op dezelfde manier zien
-		- Laat belangrijke dingen opvallen
-		- Beperk kleuren tot een paar kleuren
+1. **Bied eenvoudige toegang:**
 
-1. **Geef controle:** 
-	- Goede load indicators (zoals draaiend tandwiel etc.)
-	- Zet bijvoorbeeld knoppen die niet gebruikt kunnen worden uit
-	- Voorkom errors:
-		- Maak invalid input rood voor het opsturen van een formulier
-		- Maak gevaarlijke dingen <span style="color: red;font-weight:bold;font-variant: small-caps;">rood</span>.
-		- Een zoekbalk op de 404 page
+   - De applicatie moet makkelijk te vinden en starten zijn
+   - Inloggen (indien nodig) moet snel en makkelijk gaan
+   - Informatie moet makkelijk te vinden zijn en overzichtelijk aangeboden worden
+     - Maak gebruik van plaatjes
+     - Laat de informatie overal op dezelfde manier zien
+     - Laat belangrijke dingen opvallen
+     - Beperk kleuren tot een paar kleuren
+
+1. **Geef controle:**
+   - Goede load indicators (zoals draaiend tandwiel etc.)
+   - Zet bijvoorbeeld knoppen die niet gebruikt kunnen worden uit
+   - Voorkom errors:
+     - Maak invalid input rood voor het opsturen van een formulier
+     - Maak gevaarlijke dingen <span style="color: red;font-weight:bold;font-variant: small-caps;">rood</span>.
+     - Een zoekbalk op de 404 page
 1. **Bied veiligheid:**
-	- Geen gebruikers de mogelijkheid te cancellen
-	- Bied een help/feedback functie aan
 
-2. **Zorg voor aansluiting:** 
-	- Skeuomorfisme: laat de interface er als real-life objecten uitzien
-	- Maak gebruik van gewoontes en verwachtingen
-		- Menu bovenin
-		- Niet ineens een kruisje op de save-knop zetten
-		- Link naar privacybeleid onderin
+   - Geen gebruikers de mogelijkheid te cancellen
+   - Bied een help/feedback functie aan
+
+1. **Zorg voor aansluiting:**
+   - Skeuomorfisme: laat de interface er als real-life objecten uitzien
+   - Maak gebruik van gewoontes en verwachtingen
+     - Menu bovenin
+     - Niet ineens een kruisje op de save-knop zetten
+     - Link naar privacybeleid onderin

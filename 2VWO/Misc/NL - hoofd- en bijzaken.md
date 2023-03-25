@@ -1,4 +1,6 @@
-# Hoofd- en bijzaken
+# Tekstanalyze
+
+## Hoofd- en bijzaken
 
 - Voorkeursplaatsen: de inleiding of het slot, en de kernzinnen.
 - Hoofdzaken zijn de belangrijkste zaken in een tekst. Je vind ze vooral in voorkeursplaatsen.
@@ -7,7 +9,7 @@
 - Als je een schema maakt, zet je de opsommende verbanden aan met nummers of dots, en de tegenstellende verbanden met een pijltje.
 - Bij een samenvatting echter, zet je de hoofdzaken naast elkaar, en maak je er een samenhangend verhaal van.
 
-#### Tekstverbanden
+## Tekstverbanden
 
 - **Opsommend verband** is als er dingen woorden opgesomd.
 - **Tegenstellend verband** is als twee dingen het tegenovergestelde van elkaar zijn.

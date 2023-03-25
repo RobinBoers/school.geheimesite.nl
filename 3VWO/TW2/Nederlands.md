@@ -14,4 +14,3 @@ Je hebt 2 soorten argumenten:
 
 - **Feitelijk:** kan je controleren. Geen discussie mogelijk. Bijvoorbeeld: pannekoeken bij dat restaurant zijn zoet.
 - **Waarderend:** op basis van smaak/mening. Bijvoorbeeld: pannekoeken bij dat restaurant zijn lekker.
-

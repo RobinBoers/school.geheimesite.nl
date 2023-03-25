@@ -1,4 +1,6 @@
-# Onregelmatige werkwoorden
+# Werkwoordspelling
+
+## Onregelmatige werkwoorden
 
 ### Haben (hebben)
 
@@ -7,7 +9,7 @@ Du hast
 Er/sie/es hat  
 Wir haben  
 Ihr habt  
-Sie/sie haben  
+Sie/sie haben
 
 **VD: gehabt**
 
@@ -18,12 +20,11 @@ Du bist
 Er/sie/es ist  
 Wir sind  
 Ihr seid  
-Sie/sie sind  
+Sie/sie sind
 
 **VD: gewesen**
 
-Regelmatige werkwoorden
-----
+## Regelmatige werkwoorden
 
 ### Type 1: Normaal
 
@@ -32,7 +33,7 @@ Du mach**st**
 Er/sie/es mach**t**  
 Wir mach**en**  
 Ihr mach**t**  
-Sie/sie mach**en**  
+Sie/sie mach**en**
 
 ### Type 2: Op een sisklank
 
@@ -41,7 +42,7 @@ Du reis**t**
 Er/sie/es macht  
 Wir machen  
 Ihr macht  
-Sie/sie machen  
+Sie/sie machen
 
 ### Type 3: Op -d of -t
 
@@ -50,9 +51,10 @@ Du arbeit**est**
 Er/sie/es arbeit**et**  
 Wir arbeiten  
 Ihr arbeit**et**  
-Sie/sie arbeiten  
+Sie/sie arbeiten
 
 ### Type 3: Op -nen of -men
+
 Woorden die eindigen op een medeklinker en -nen en -men worden hetzelfde vervoegd als woorden die eindigen met -d of -t.
 
 #### Voorbeeld:
@@ -67,7 +69,7 @@ Sie/sie rechnen
 #### Let op!!
 
 Lernen (leren) en warnen (waarschuwen) volgen deze regel niet!!  
-Dus: 
+Dus:
 
-du lern**st**   
+du lern**st**  
 sie warn**t**
