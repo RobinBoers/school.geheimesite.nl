@@ -144,4 +144,354 @@ flowchart TD
   end
 ```
 
+### Characteristics of an Epic
+
+*TODO*
+
+## Canterbury Tales
+
+- **Setting**: April, Tabard Inn (just outside of London).
+- **Story**: Pelgrims go to St. Thomas in Canterbury and tell eachother tales. It's a frame-narrative.
+
+### Characters
+
+#### Knight (nobility)
+
+- Very strong/sturdy
+- Heroic
+- Modest, chival, humble
+- Doesn't wear very knight-y clothes
+    - Old and discoloured
+
+##### Appearance
+
+- Strong
+- Old discoloured clothes
+
+
+#### Squire (nobility)
+
+Son of knight.
+
+- Strong, agile
+- Very joyful
+    - Reads, writes songs, draws and dances
+- Clotches with flowers
+- In love with a girl
+- Chival, good mannered
+
+##### Appearance
+
+- blonde curls
+- strong
+
+
+#### Yeoman (people)
+
+- Good servant
+- Has a lot of weapons
+- Very rich/fancy decorations
+    - on sword
+    - on his clothes
+
+##### Appearance
+
+ - Short hair
+
+
+#### Prioress (clergy)
+
+Head of the nuns.  
+**Name**: Madame Eglantine
+
+- Modest
+- Maybe married? (bc. the text says "Madame")
+- Speaks French
+- Excellent table manners
+- Dignified
+- Has little dogs (that she feeds meat, milk and bread)
+- Clothes emphasize beauty (and are expensive)
+- Bracelet says "Love conquers everything"
+
+> Satire: nuns are not supposed to be this phosh/girly. They shouldn't care about love (for people and animals), prettyness or courtly manners.
+
+##### Appearance
+
+- Fancy clothes
+- Beautiful
+
+
+#### Monk (clergy)
+
+- Handsome
+- Is more like the people
+- Horseman
+- Hunting
+- Doesn't follow strict lifestyle, prefers good living (and drinking)
+- Looks to phosh
+
+> Satire: he's a horrible monk.
+
+##### Appearance
+
+- Clothes lined with (white) fur
+- Gold pin on his clothes
+- Bald
+
+
+#### Friar (clergy)
+
+A friar is a poor kind of monk/religious person who's job it is to collect alms (money/food).
+
+**Name**: Hubert
+
+- Loves pleasure
+- Gossips
+- Flattery
+- Only helps the rich people (and women in exchange for sex)
+- Has frequent affairs
+- Good at singing and playing harp
+
+> Not really satire: he's described as greedy and as taking advantage of other people. Straight up criticism.
+
+##### Appearance
+
+- Strongish
+- Has expensive clothes
+
+
+#### Merchant (people)
+
+- Looks funny
+- Good at trading (very profit-minded)
+- Maybe in debt?
+
+> Satire: a merchant who's in debt is not very good. It's not confirmed tho.
+
+##### Appearance
+
+- Forked beard
+- Bright colorful clothes
+- Beaver hat
+- Expensive boots
+
+
+#### Clerk (clergy)
+
+- Very smart/well-educated
+- Doesn't progress in years of study
+- Loves books
+- Loves moral discussions
+- Too spiritual to take on a good job
+
+> Satire(?): you're not very smart if after years of studying logic you don't progress. Also not taking on a job can be seen as not smart.  
+> Or just as a sign of being humble
+
+##### Appearance
+
+- Poor
+- Hollow-cheecked, thin
+
+
+#### Sergeant of Law (people)
+
+Laywer.
+
+- Smart
+- Takes bribes
+
+##### Appearance
+
+- Green clothes with black fur
+- Round cap made of silk
+- "Dressed in the robes of authority"
+
+
+#### Franklin (people)
+
+- Landowner
+- Joyful
+- Good host (takes good care of others)
+- Good person
+
+##### Appearance
+
+- White beard
+- Red cheeks
+
+
+#### Guild folk (rich people)
+
+- Rich
+- (A bit) arrogant
+- Hired a cook
+
+#### Cook
+
+- Cooks very well
+- Is not very hygienic
+
+##### Appearance
+
+- Has a big wound on his leg that is not treated properly
+
+
+#### Shipman (people)
+
+- Good at navigating
+- Courageous
+- Steals from the cargo of his ship
+- Speaks and looks sea-ish
+
+##### Appearance
+
+- Robe of coarse woolen cloth
+- Dagger around his neck
+- Sturdy
+
+
+#### Doctor of Physic (nobility)
+
+- Spiritual/astronomer
+- Greedy
+- Treats people with poop
+- Read ancient texts
+
+> Satire: he's a great doctor! BUT: he treats people with poop and charges them for it. Also his texts are outdated (ancient even) and he's better at atronomy then curing people.
+
+
+#### Wife of Bath (people)
+
+Makes clothes.
+
+- Very good at making clothes
+- A little dead
+- Proud/arrogant
+- Married 5 times
+- Affairs
+- Is very sexual
+
+##### Appearance
+
+- Fancy expensive clothes
+- Gap-toothed
+- Fat
+- Has a giant hat
+
+
+#### Parson (clergy)
+
+- Poor but wise
+- Good person
+- Patient
+- Didn't leave for a better job
+    - Not greedy
+- Treats the rich/poor equally
+- Is not disdainful to sinners
+    - Except sex outside of marriage
+
+> Note: the I-person barely spoke to the Parson, so the perspective might be warped.
+
+
+#### Ploughman (people)
+
+Brother of the parson.
+
+- Good worker
+- Painful life
+- Fair, pays bills on time etc.
+
+##### Appearance
+
+- Coarse tunic
+- Horse: mare
+
+
+#### Miller (people)
+
+- Strong but stupid
+    - Buffoon
+- Dirty stories / whores
+- Dishonest: steals and then sells for his own profit
+
+##### Appearance
+
+- Sturdy
+- Wart on his nose
+- Ugly in general
+- White coat + blue hat
+
+
+#### Manciple (people)
+
+Business man.
+
+- Outsmarted his superiors
+- Very wise
+
+
+#### Reeve (people)
+
+- Good estate manager
+- Has complete control over the cattle
+- Greedy
+- Corrupt: steals from his master and then sell back to him
+
+> Note: is always the last rider in the group, could be important later.
+
+##### Appearance
+
+- Slender (= gracefully thin)
+- Well-shaved
+- Dark blue coat
+
+
+#### Summoner (clergy)
+
+- Children are afraid of him
+- Alcoholist
+- Bad diet
+- Pretends to be smart
+- Maybe a pedophile?
+
+##### Appearance
+
+- Ugly:
+    - pimples
+    - baby-face
+    - swollen eyelids
+    - scabby eyebrows
+
+
+#### Pardoner (clergy)
+
+- Arrogant
+- Not manly
+- Greedy
+- Sings well
+
+##### Appearance
+
+- Thin hair
+- Bald
+- No hat (not fashionable in his opinion)
+- No beard
+
+
+#### Host (people)
+
+- Joyful
+- Good host
+- Well educated
+- Smart but also [sluw]
+
+> Reasons for proposal to join:  
+> - self-promotion
+> - fun?
+
+##### Appearance
+
+- Bright eyes
+- Attractive
+- Strong
 
