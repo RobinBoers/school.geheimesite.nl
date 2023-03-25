@@ -19,10 +19,10 @@
 
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/svgDraw-c034b55e.min.js"></script>
 
-  <script>
+  <script defer async>
     mermaid.initialize({ startOnLoad: false });
-await mermaid.run({
-  querySelector: '.language-mermaid',
-});
-    </script>
+    await mermaid.run({
+      querySelector: '.language-mermaid',
+    });
+  </script>
 </head>

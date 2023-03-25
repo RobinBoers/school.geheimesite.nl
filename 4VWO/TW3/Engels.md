@@ -26,7 +26,7 @@ The latin words are brought in by the Romans after they invade Britannia.
 
 Not much is written down yet. Most of it is told in oral tradition.
 
-> Notable literature from this period: *Beowulf*.
+Notable literature from this period: *Beowulf*.
 
 ### Middle English
 
@@ -39,7 +39,7 @@ These languages get spoken:
 
 Due to intermarriage between the orders of society (people, nobility and clergy) people raise their kids bilingual. This means English is becomes used more widespread.
 
-> Notable literature from this period: *The Canterbury Tales* by Geoffrey Chaucer.
+Notable literature from this period: *The Canterbury Tales* by Geoffrey Chaucer.
 
 ### Early modern English
 
@@ -54,7 +54,7 @@ This period also includes the:
 - Renaissance
 - Englightment
 
-> Notable literature from this period: *William Shakespeare*.
+Notable literature from this period: *William Shakespeare*.
 
 ## Beowulf
 
@@ -83,7 +83,8 @@ Beowulf hangs Grendels arm from the ceiling of Herot. The Geats follow the blood
 
 > Fun fact: later the story says he's just lying there on the bottom of the lake, which is a bit of a contradiction with "hell opening up to receive him".
 
-*Here follows a shitty sequel to the first part of the story:*  
+> Here follows a shitty sequel to the first part of the story:
+
 Grendels mom is not happy that Beowulf killed her son. So, she goes to Herot and murders Hrothgar's best friend. She also takes Grendel's arm with her.
 
 Beowulf is going to save the day again.
