@@ -87,7 +87,29 @@ Beowulf hangs Grendels arm from the ceiling of Herot. The Geats follow the blood
 
 Grendels mom is not happy that Beowulf killed her son. So, she goes to Herot and murders Hrothgar's best friend. She also takes Grendel's arm with her.
 
-Beowulf is going to save the day again.
+Beowulf is going to save the day again. He takes Unferth's sword Hrunting and goes to the lake where Grendel died (and his mom apparently lives). He dives in and then sinks for a few hours.
+
+> Note: the fact that he can hold his breath for that long is another example of his superhuman abilities, and thus his being-a-hero.
+
+Grendel's mom tries to kill him but his chainmail armor saves him. She takes him to an underwater battle hall, where other monsters come to look at their fight. Beowulf tries to hit her with his sword, but her skins is just as bewitched as Grendel's was. She bit holes in his helmet, which then breaks.
+
+> Another example of foreshadowing here: "it was the last time anyone would wear it".
+
+Beowulf slips and falls, and Grendel's mom tries to kill him with a dagger (jumps on top of him), but the chainmail saves him once again. Beowulf grabs a sword he sees on the wall. It has been made by giants and is super heavy (but Beowulf is superhumanly strong, remember :D), and using the sword he chops her head of. He then walks to the body of Grendel, which is also laying there apparently, and also chops his head of. He then takes the head to Herot to show everyone how amazing he is.
+
+----
+
+50 years later he has to fight a dragon. The dragon is angry because a thief stole a jeweled cup, and Beowulf needs to protect his people.
+
+Beowulf boasts about beating Grendel, and then goes into the tower where the dragon lives. The dragon is mad and shoots flames at him, but Beowulf uses his shield. Fate (*paganism!*) is not on his side tho, and the shield melts. He stabs the dragon with his sword, but the weapon breaks before it went deep enough. 
+
+All of his warriors ran away, except one. Wiglaf is thankful for everything Beowulf has given him, and want to repay his king, so he helps Beowulf. Together they beat the dragon, but Beowulf dies.
+
+> Yet another example of foreshadowing: "For Beowulf, the price of this last victory will be great".
+
+Before he dies he asks Wiglaf to get the treasure (presumably because he wants to give it to his people), and makes Wiglaf his successor (probably king). He also asks to be burried next to the dragon's tower, so that all incoming travellers can see it and remember him.
+
+Wiglaf agrees. After Beowulf dies he berates (= being very very very mad) the "warriors" who ran away and builds the thomb for Beowulf. The story ends with the 12 bravest Geats riding around the tower and mourning over Beowulf.
 
 ### Characters
 
@@ -101,7 +123,7 @@ flowchart TD
 
   Ecglaf --> Unferth
   
-  Unferth -- has --> Hrunthing["🗡️ Hrunthing"]
+  Unferth -- has --> Hrunting["🗡️ Hrunting"]
   Unferth --> Note1(Murdered his own brothers,\n and is jeaous of Beowulf)
   end
 
@@ -110,7 +132,7 @@ flowchart TD
     Edgetho --> Beowulf(["Beowulf (hero)"])
     Hrothgar <-- Uncle --> Beowulf
     Beowulf -- Is friends with --> Brecca
-    Beowulf -- uses --> Hrunthing
+    Beowulf -- uses --> Hrunting
 
     Beowulf -- Gives the throne to --> Wiglaf["Wiglaf (warrior)"]
   end
