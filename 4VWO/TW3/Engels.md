@@ -97,7 +97,7 @@ flowchart TD
   Shild --> Beo --> Healfdane --> Hrothgar
   Hrothgar(["👑 Hrothgar"]) <== Married ==> Welthow["👑 Welthow"]
 
-  Hrothgar --> Note3(Is not the first-in-line: his\nbrother (Hergar) was supposed to\nbe king, but died.)
+  Hrothgar --> Note3("Is not the first-in-line: his\nbrother (Hergar) was supposed to\nbe king, but died.")
 
   Ecglaf --> Unferth
   
