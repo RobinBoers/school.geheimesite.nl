@@ -10,16 +10,15 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
-- [CKV - Cool Jazz :)](4VWO/Misc/CKV%20-%20cooljazz)
-- [ENG - letter](4VWO/Misc/ENG%20-%20letter)
-- [ENG - tekst gezond leven](4VWO/Misc/ENG%20-%20tekst%20gezond%20leven)
-- [ENG - toekomst](4VWO/Misc/ENG%20-%20tekst%20toekomst)
-- [ENG - signaalwoorden](4VWO/Misc/ENG%20-%20signaalwoorden)
-- [NL - basis theorie](4VWO/Misc/NL%20-%20basis%20theorie)
-- [BIO - samenvatting H3: Wetenschappelijk onderzoek](BIO%20-%20samenvatting%20H3%20wetenschappelijk%20onderzoek)
-- [BIO - samenvatting H1: Gedrag](4VWO/Misc/BIO%20-%20samenvatting%20H1%20gedrag)
-- [ENG - mr bean presentation](4VWO/Misc/ENG%20-%20mr%20bean%20presentation)
-
+- [CKV - Cool Jazz :)](4VWO/Misc/CKV%20-%20cooljazz.md)
+- [ENG - letter](4VWO/Misc/ENG%20-%20letter.md)
+- [ENG - tekst gezond leven](4VWO/Misc/ENG%20-%20tekst%20gezond%20leven.md)
+- [ENG - toekomst](4VWO/Misc/ENG%20-%20tekst%20toekomst.md)
+- [ENG - signaalwoorden](4VWO/Misc/ENG%20-%20signaalwoorden.md)
+- [NL - basis theorie](4VWO/Misc/NL%20-%20basis%20theorie.md)
+- [BIO - samenvatting H3: Wetenschappelijk onderzoek](4VWO/Misc/BIO%20-%20samenvatting%20H3%20wetenschappelijk%20onderzoek.md)
+- [BIO - samenvatting H1: Gedrag](4VWO/Misc/BIO%20-%20samenvatting%20H1%20gedrag.md)
+- [ENG - mr bean presentation](4VWO/Misc/ENG%20-%20mr%20bean%20presentation.md)
 
 ## 3VWO
 
@@ -30,20 +29,19 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
-- [FA - gram H?](3VWO/Misc/FA%20-%20gram%20Hx)
-- [FA - gram H1](3VWO/Misc/FA%20-%20gram%20H1)
-- [GES - PO 50s-70s](3VWO/Misc/GES%20-%20PO%2050s-70s)
-- [GES - PO notes](3VWO/Misc/GES%20-%20PO%20notes)
-- [DU - naamvallen](3VWO/Misc/DU%20-%20naamvallen)
-- [DU - lidwoorden](3VWO/Misc/DU%20-%20lidwoorden)
-- [DU - werkwoorden](3VWO/Misc/DU%20-%20werkwoorden)
-- [ECO - samenvatting H1](3VWO/Misc/ECO%20-%20samenvatting%20H1)
-- [SCHEI - scheidingsmethodes](3VWO/Misc/SCHEI%20-%20scheidingsmethodes)
-- [EN - script boekverslag video](3VWO/Misc/EN%20-%20script%20boekverslag%20video)
-- [NL - reactie op "Kom naar huis"](3VWO/Misc/NL%20-%20reactie%20op%20%22Kom%20naar%20huis%22)
-- [NL - boekrecensie](3VWO/Misc/NL%20-%20boekrecensie)
-- [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL%20-%20En%20what%20about%20the%20~~bitches~~%20vrouwen)
-
+- [FA - gram H?](3VWO/Misc/FA%20-%20gram%20Hx.md)
+- [FA - gram H1](3VWO/Misc/FA%20-%20gram%20H1.md)
+- [GES - PO 50s-70s](3VWO/Misc/GES%20-%20PO%2050s-70s.md)
+- [GES - PO notes](3VWO/Misc/GES%20-%20PO%20notes.md)
+- [DU - naamvallen](3VWO/Misc/DU%20-%20naamvallen.md)
+- [DU - lidwoorden](3VWO/Misc/DU%20-%20lidwoorden.md)
+- [DU - werkwoorden](3VWO/Misc/DU%20-%20werkwoorden.md)
+- [ECO - samenvatting H1](3VWO/Misc/ECO%20-%20samenvatting%20H1.md)
+- [SCHEI - scheidingsmethodes](3VWO/Misc/SCHEI%20-%20scheidingsmethodes.md)
+- [EN - script boekverslag video](3VWO/Misc/EN%20-%20script%20boekverslag%20video.md)
+- [NL - reactie op "Kom naar huis"](3VWO/Misc/NL%20-%20reactie%20op%20%22Kom%20naar%20huis%22.md)
+- [NL - boekrecensie](3VWO/Misc/NL%20-%20boekrecensie.md)
+- [NL - En what about the ~~bitches~~ vrouwen?](3VWO/Misc/NL%20-%20En%20what%20about%20the%20~~bitches~~%20vrouwen.md)
 
 ## 2VWO
 
@@ -52,14 +50,12 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
-- [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek)
-- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog%20%284%20juni%29)
-- [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken)
-- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29)
-- [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie)
-- [NL - tekst vriendschap](2VWO/Misc/NL%20-%20tekst%20vriendschap)
-
-
+- [BIO - eetdagboek](2VWO/Misc/BIO%20-%20eetdagboek.md)
+- [NL - betoog (4 juni)](2VWO/Misc/NL%20-%20betoog%20%284%20juni%29.md)
+- [NL - hoofd- en bijzaken](2VWO/Misc/NL%20-%20hoofd-%20en%20bijzaken.md)
+- [NL - argumenten (14 juni)](2VWO/Misc/NL%20-%20argumenten%20%2814%20juni%29.md)
+- [GES - PO Franse Revolutie](2VWO/Misc/GES%20-%20PO%20Franse%20Revolutie.md)
+- [NL - tekst vriendschap](2VWO/Misc/NL%20-%20tekst%20vriendschap.md)
 
 Success met leren!
 
