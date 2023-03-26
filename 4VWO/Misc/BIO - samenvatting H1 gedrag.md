@@ -15,8 +15,9 @@ Prikkels verhogen de motivatie om bepaald gedrag uit te voeren. Als de drempelwa
 
 Gedrag bestaat uit gedragselementen: handelingen. Verschillenden gedragselementen die samen een gemeenschappelijk doel bereiken heet een gedragssysteem. Een gedragssysteem bestaat uit losse gedragselement, of een gedragsketen. Een keten is een aantal gedragselementen in vaste volgorde. Samenvattend:
 
-```text
-gedrag -> gedragssysteem (-> gedragsketen) -> gedragselementen
+```mermaid
+flowchart LR
+    gedrag --> gedragssysteem --> gedragsketen("gedragsketen (optioneel)") --> gedragselementen
 ```
 
 ### Balts
