@@ -147,6 +147,16 @@ flowchart TD
   end
 ```
 
+### Oral poetry
+
+Oral (spoken) poetry uses a few common constructions:
+
+- **Stock epithets**: two adjectives (bv+bv). Examples: _strong-hearted, swift-moving hands_.
+
+- **Kennings**: one noun and an adjective (zn+bv). Examples: _ring-prowed fighting ship, ring-giving lord, treasure-full hands_.
+
+- **Alliteration**: using the same letter/sound in multiple words in a row. Example: _tasty tacos_ **(not from Beowulf)**.
+
 ### Characteristics of an Epic/Hero
 
 - A hero:
