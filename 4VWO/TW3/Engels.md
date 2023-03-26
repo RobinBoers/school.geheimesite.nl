@@ -147,9 +147,29 @@ flowchart TD
   end
 ```
 
-### Characteristics of an Epic
+### Characteristics of an Epic/Hero
 
-_TODO_
+- A hero:
+    - Usually noble-birth
+    - Usually a man
+    - Historic or legendary importance
+    - Reflects the ideals of society
+    - Helpful/humble
+    - Strong (sometimes even superhuman)
+
+- Hero performs courageous/superhuman deeds that reflect **the values of the era**.
+
+- His actions decide the fate of a group/nation.
+
+- The setting is vast.
+
+- The story is written formally/has a serious tone and includes long speeches/monologues.
+
+- Plot involves an superhuman being and/or a dangerous journey.
+
+- The story describes timeless values such as honor and loyalty.
+
+- The story includes timeless/universal themes such as life/death or good/evil.
 
 ## Canterbury Tales
 
