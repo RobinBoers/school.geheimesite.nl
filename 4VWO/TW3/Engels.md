@@ -78,9 +78,9 @@ When they arrive at Herot Beowulf leaves a few of his warriors outside. Then he 
 
 They continue to eat a good meal and Beowulf brags more. Unferth says Beowulf is naive and weak. He tells a story about how Beowulf and Brecca had a swimming compition and Beowulf lost. He is clearly jeaous of Beowulf and tries to intimidate him. Beowulf replies by telling Unferth he's drunk (he is) and that his story is incorrect. Beowulf did indeed lose, but that's because he had to fight underwater monsters (and won), and Brecca did not. Then Beowulf exposes that Unferth killed his own brothers.
 
-In the night Grendel arrives again. He kills one of the Geat warriors and then tries to kill Beowulf. Beowulf however, is actually awake and fights Grndel with his bare hands.
+In the night Grendel arrives again. He kills one of the Geat warriors and then tries to kill Beowulf. Beowulf however, is actually awake and fights Grendel with his bare hands.
 
-> Note: there is a bit of foreshadowing in this fragment ("his last human supper"). Foreshadowing means the writer already let's you know what is going to happen later. In this case Grendel is going to die.
+> Note: there is a bit of foreshadowing in this fragment ("his last human supper"). Foreshadowing means the writer already lets you know what is going to happen later. In this case Grendel is going to die.
 
 His thirdteen other warriors wake up and try to hurt Grendel, but his skin is bewitched, so they can't hurt him with their swords. Then Beowulf rips off Grendels arm and Grendel escapes to his swamp where he bleeds to dead.
 
@@ -100,7 +100,7 @@ Beowulf is going to save the day again. He takes Unferth's sword Hrunting and go
 
 > Note: the fact that he can hold his breath for that long is another example of his superhuman abilities, and thus his being-a-hero.
 
-Grendel's mom tries to kill him but his chainmail armor saves him. She takes him to an underwater battle hall, where other monsters come to look at their fight. Beowulf tries to hit her with his sword, but her skins is just as bewitched as Grendel's was. She bit holes in his helmet, which then breaks.
+Grendel's mom tries to kill him but his chainmail armor saves him. She takes him to an underwater battle hall, where other monsters come to look at their fight. Beowulf tries to hit her with his sword, but her skin is just as bewitched as Grendel's was. She bites holes in his helmet, which then breaks.
 
 > Another example of foreshadowing here: "it was the last time anyone would wear it".
 
@@ -317,7 +317,7 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 - Too spiritual to take on a good job
 
 > Satire(?): you're not very smart if after years of studying logic you don't progress. Also not taking on a job can be seen as not smart.  
-> Or just as a sign of being humble
+> Or it's just as a sign of being humble.
 
 ##### Appearance
 
