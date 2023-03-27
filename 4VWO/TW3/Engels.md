@@ -61,7 +61,13 @@ Notable literature from this period: _William Shakespeare_.
 
 ### Summary
 
-People are feasting in Herot. Then Grendel, who lives in a swamp and is a spawn of Cain, comes to Herot at night and kills a few men. He repeats this every night for 12 years straight. The Geats try everything but can't get rid of him.
+Shild arrives in Denmark on a ship. He's alone and the ship is filled with treasure. He becomes king of the Danes and conquers many territories. He gets a son named Beo. When Shild died they send him off on a ship full of treasure. Beo then has a son named Healfdane, who gets four children. One of the is Hrothgar, the current king of the Danes. He built a great mead hall named Herot.
+
+> A mead hall is a place where the Danes come together and feast. Mead is a name for a drink made of honey.
+
+---
+
+People are feasting in Herot. Then Grendel, who lives in a swamp and is a spawn of Cain, comes to Herot at night and kills a few men. He repeats this every night for 12 years straight. The Danes try everything but can't get rid of him.
 
 Then the strongest warrior of the Geats, Beowulf (who is also king Hrothgar's nephew) comes to help them. He and 14 of his strongest warriors enter a ship to save the Danes.
 
