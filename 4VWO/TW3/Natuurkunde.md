@@ -153,3 +153,14 @@ Het elastische gebied in een σ,ε-diagram volgt vaak een (vrijwel) linear verba
 [^1]: Want een negatieve snelheid is een positieve snelheid in tegengestelde richting.
 
 
+## Uitzetten
+
+Als een materiaal wordt verhit kan het uizetten. Daarvoor gebruik je deze formule:
+
+\\[\Delta l = \alpha \cdot l_{0} \cdot \Delta T\\]
+
+> Δl = de uitzetting in m  
+> α = de uitzettingscoëfficient in K⁻¹  
+> l₀ = de beginlengte in m  
+> ΔT = temperatuurverschil in graden Kelvin of Celcius
+
