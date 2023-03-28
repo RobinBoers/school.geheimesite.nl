@@ -69,7 +69,7 @@ Er zijn een aantal verbanden tussen de dichtheid, chemische hoeveelheid en soort
     - In een stof hebben alle deeltjes dezelfde bewegingsenergie.
     - Een zwaarder molecuul met dezelfde bewegingsenergie gaat slomer dan een licht molecuul met dezelfde bewegingsenergie.
 
-2.
+2. 
     - Soortelijke warmte is per kg (per massa eenheid dus).
     - Stoffen met lichte moleculen hebben meer deeltjes nodig voor dezelfde massa.
     - Lichtere deeltjes zijn met meer, dus met hetzelfde gewicht is het volume groter.
