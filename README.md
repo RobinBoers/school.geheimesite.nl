@@ -10,6 +10,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 
 #### Misc
 
+- [ENG - insects](4VWO/Misc/ENG%20-%20insects.md)
 - [CKV - Cool Jazz :)](4VWO/Misc/CKV%20-%20cooljazz)
 - [ENG - letter](4VWO/Misc/ENG%20-%20letter)
 - [ENG - tekst gezond leven](4VWO/Misc/ENG%20-%20tekst%20gezond%20leven)
