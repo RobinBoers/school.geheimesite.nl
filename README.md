@@ -7,6 +7,7 @@ Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik 
 - [toetsweek 1](4VWO/TW1/README.md)
 - [toetsweek 2](4VWO/TW2/README.md)
 - [toetsweek 3](4VWO/TW3/README.md)
+- [toetsweek 4](4VWO/TW4/README.md)
 
 #### Misc
 
