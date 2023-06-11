@@ -1,6 +1,6 @@
 # Eating insects: not a bug but a feature
 
-Last week, we discussed the importance of eating insects at school. Many people, including myself, are disgusted by the idea of eating insects. On the other hand, eating insects is very normal in other parts of the world. 
+Last week, we discussed the importance of eating insects at school. Many people, including myself, are disgusted by the idea of eating insects. On the other hand, eating insects is very normal in other parts of the world.
 
 Eating insects can have a positive impact on the environment, since their production is environment friendlier. That is because insects are a lot smaller than our current food sources (aka cows and pigs), and thus their ratio of consumed food : produced food is greater. They use less land, water and food to get the same amount of food, and produce less greenhouse gasses in the process. That basically means they are a more efficient food source. Moreover, they can also be used as food source for animal feed, to replace the current soy or fish based meals.
 
@@ -12,7 +12,5 @@ In conclusion, eating insects is healthy and has significant benefits for the en
 
 ## References
 
-_The Future of Good_. (2021).  
-    &nbsp;&nbsp;&nbsp;&nbsp;Of Course MAX. <https://www.nature.com>
-
-
+_The Future of Food_. (2021).  
+ &nbsp;&nbsp;&nbsp;&nbsp;Of Course MAX. <https://www.nature.com>
