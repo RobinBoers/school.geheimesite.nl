@@ -1,8 +1,6 @@
-Boekrecensie:
+# Boekrecensie: _De Gave – Sprong in het Duister_
 
-# De Gave – Sprong in het Duister
-
-Dit is een recensie over het boek “De Gave – Sprong in het duister” van Bies van Ede. Let op dat er in deze review misschien spoilers staan!
+Dit is een recensie over het boek _“De Gave – Sprong in het duister”_ van Bies van Ede. Let op dat er in deze review misschien spoilers staan!
 
 Het verhaal gaat over een jongen die in een klooster opgroeit, maar erachter komt dat hij “De Gave” heeft. Hij kan wezens uit het niets scheppen. Hij vlucht uit het klooster omdat hij zich onveilig voelt en wil ontdekken wat hij met zijn Gave aanmoet. Hij ontmoet Silas, een zwerfmonnik, en samen beleven ze een avontuur waar ze onder andere een aardman, cyborg heks en droomduidster ontmoeten. Ze verblijven in een tijdmachine die ze de “vergeetkamer” noemen en stoppen een machtzuchtige priester en zijn handlanger.
 

@@ -2,8 +2,8 @@
 
 ## General information
 
-**Title:** Het internet is stuk, maar we kunnen het repareren
-**Author:** Marleen Stikker
+**Title:** Het internet is stuk, maar we kunnen het repareren  
+**Author:** Marleen Stikker  
 **Published:** 2019
 
 ## Summary

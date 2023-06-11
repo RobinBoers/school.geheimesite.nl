@@ -1,4 +1,4 @@
-# Nederlands PO - reactie op "Kom naar huis"
+# RE: "Kom naar huis"
 
 Beste mevrouw Kibler,
 
@@ -16,8 +16,10 @@ Ik ben me ervan bewust dat u alleen Engels spreekt en dus deze mail waarschijnli
 
 Bedankt voor het schrijven van dit boek!
 
-Met vriendelijke groet,
+Met vriendelijke groet,  
 Robin Boers (3a1)
 
-Wil je meer van mijn projecten zien?
+<small>
+Wil je meer van mijn projecten zien?<br>
 Neem eens een kijkje op geheimesite.nl
+</small>
