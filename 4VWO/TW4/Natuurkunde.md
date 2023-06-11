@@ -189,21 +189,23 @@ Soms moet je (bijv. bij experimenten) ook nog comenseren voor de achtergrondstra
 
 Bij een scintigram gebruik je een radioactieve tracer die je vervolgens met een γ-camera opvangt.
 
-**Toepassingen**: 
+**Toepassingen**:
 
 - Functioneren van organen met verschillende tracers onderzoeken.
 
 **Voor/nadelen**: een scintigram is nuttig, maar erg duur.
 
-### SPECT (scintigram maar 3D) & PET
+### SPECT (scintigram maar 3D)
 
-**Toepassingen**: 
+**Toepassingen**:
 
--  Functioneren van organen met tracers onderzoeken.
+- Functioneren van organen met tracers onderzoeken.
 
 **Voor/nadelen**: SPECT is nuttiger dan een scintigram omdat je diepte kan zien, maar de apparatuur nog duurder. Geen verschil in dosis met scintigram, want het enige verschil is dat de camera beweegt.
 
-PET is ongeveer hetzelfde als SPECT, maar er wordt β<sup>+</sup>-straling gebruikt ipv. γ-straling.
+### PET
+
+PET is ongeveer hetzelfde als SPECT, maar er wordt een tracer met β<sup>+</sup>-straling gebruikt ipv. γ-straling. De β<sup>+</sup>-deeltjes kunnen vervolgens elektronen tegenkomen, die elkaar natuurlijk opheffen. Daarbij komen γ-fotonen vrij die je kan opvangen.
 
 ### MRI
 
@@ -211,7 +213,7 @@ Bij een MRI-scan wordt gebruik gemaakt van het gedrag van H-atomen in een magnet
 
 In een magneetveld is er een evenwichtstoestand voor de H-atomen. Het uitzenden van radiogolf zorgt ervoor dat ze 'flippen'. Dit noemen we resonantie. Ze vallen daarna terug naar de evenwichtstoestand, waarbij ze fotonen van radiogolven uitzenden, die je kan opvangen.
 
-Het terugvallen noemen we relaxatie. Hoe snel dat gaat hangt af van het weefsel. Als dit snel gaat worden er veel fotonen uitgezonden, dus is de intensiteit van de radiostraling groot. Andersom is de intensiteit laag als het lang duurt. De maat hiervoor is de relaxatietijd. Dat is de tijd die het kost voordat 63% van de H-atomen teruggevallen zijn. Doordat de relaxatietijd per weefsel verschilt kan je gedetailleerde foto's maken. 
+Het terugvallen noemen we relaxatie. Hoe snel dat gaat hangt af van het weefsel. Als dit snel gaat worden er veel fotonen uitgezonden, dus is de intensiteit van de radiostraling groot. Andersom is de intensiteit laag als het lang duurt. De maat hiervoor is de relaxatietijd. Dat is de tijd die het kost voordat 63% van de H-atomen teruggevallen zijn. Doordat de relaxatietijd per weefsel verschilt kan je gedetailleerde foto's maken.
 
 **Toepassingen**:
 
@@ -232,4 +234,3 @@ Bij echografie wordt gebruikgemaakt van geluidsgolven, die worden uitgezonden en
 - Onderzoek naar bloedvaten en hart
 
 **Voor/nadelen**: er is geen dosis, want er wordt geen gebruik gemaakt van ioniserende straling. Verder is het goedkoop en is de apparatuur erg mobiel. Wel zijn de beelden erg onduidelijk.
-
