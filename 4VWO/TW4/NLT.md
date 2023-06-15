@@ -46,9 +46,7 @@ Voor het opslaan van informatie moet die door drie fases:
 
 - **Langetermijngeheugen**: hier wordt informatie permanent opgeslagen. Er lijken oneindig veel dingen in te passen die oneindig lang opgeslagen kunnen worden. 
 
-### Soorten geheugen
-
-#### Impliciet vs expliciet
+### Impliciet vs expliciet
 
 - **Expliciet**: dingen waar aandacht en moeite voor nodig zijn om ze te leren. School is een voorbeeld hiervan.
 
@@ -59,7 +57,7 @@ Voor ons expliciet geheugen is aandacht nodig. Aandacht kan je richten door je e
 - Je naam
 - Zaken waar sterke emotie aan gekoppeld is (boze leraar, spin)
 
-#### Langetermijngeheugen
+### Langetermijngeheugen
 
 Je kan het langetermijngeheugen opsplitsen in een aantal categoriën:
 
@@ -71,7 +69,7 @@ Over het algemeen verschuift kennis langzaam van het episodische geheugen naar h
 
 - **Procedureel** (of motorisch): hierin worden bewegingen opgeslagen, zoals tekenen, schrijven, handballen, veters strikken etc.
 
-#### Leren
+## Leren
 
 Leren is het verwerven van nieuwe kennis, gedrag en vaardigheden.
 
