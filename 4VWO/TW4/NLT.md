@@ -169,12 +169,12 @@ Herinneringen worden verdeeld over de hersenen opgeslagen, in bepaalde gebieden 
 
 De hippocampus heeft verschillende functies bij het opslaan en terughalen van herrineringen:
 
-- De opslag van herrineringen
-- Het terughalen van gegevens  
+- **De opslag van herrineringen**
+- **Het terughalen van gegevens**   
   
   De hippocampus houdt bij waar de verschillende geheugensporen zich bevinden, en zet de herrinering als het ware weer in elkaar. 
 
-- Het filteren van relevante informatie  
+- **Het filteren van relevante informatie**  
   
   De hippocampus bepaalt welke informatie wel en niet onthouden en verbonden wordt.
 
@@ -188,7 +188,7 @@ Geheugenconsolidatie is het process waarbij de herrinering onafhankelijk van de 
 
 Tijdens diepe slaap wordt namelijk de herrinering "gereplayed". Daardoor wordt de herrinering beter opgeslagen. Je kan dit process beinvloeden door de hippocampus gedurende diepe slaap te prikkelen, waardoor de herrinering nog beter wordt opgeslagen.
 
-> Diepe slaap is erg handig voor Geheugenconsolidatie, omdat er weinig tot geen nieuwe prikkels zijn.
+> Diepe slaap is erg handig voor geheugenconsolidatie, omdat er weinig tot geen nieuwe prikkels zijn.
 
 Ook als je wakker bent kan dit "replay" process plaatsvinden, maar je bent je daar niet bewust van.
 
