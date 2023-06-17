@@ -13,7 +13,8 @@ De module gaat over metacognitie. Cognitie is een ander woord voor nadenken dmv 
 
 Metacognitie is dus nadenken over eigen denken.
 
-> Meta = over zichzelf en cognitie = nadenken.
+> Meta = over zichzelf   
+> Cognitie = nadenken.
 
 ## Geheugen
 
@@ -24,6 +25,7 @@ Geheugen is het vermogen om informatie op te slaan. Het geheugen heeft drie take
 - Terughalen
 
 Om informatie op te slaan worden er veranderingen in het zenuwstelsel aangebracht. Dat noem je een geheugenspoor.
+_Hier later meer over, bij het kopje "onthouden"._
 
 ### Vergeetcurve
 
@@ -62,10 +64,11 @@ Voor ons expliciet geheugen is aandacht nodig. Aandacht kan je richten door je e
 Je kan het langetermijngeheugen opsplitsen in een aantal categoriën:
 
 - **Declaratief**: dit is een soort database aan kennis waaruit je informatie kan ophalen, zoals namen, vormen of gebeurtenissen.
-    - **Episodisch**: hier worden herrinerringen die aan een specifieke gebeurtenis gekoppeld zijn opgeslagen. 
+    
+    - **Episodisch**: hier worden herrinerringen die aan een specifieke gebeurtenis zijn gekoppeld, opgeslagen. 
     - **Semantisch**: het semantische geheugen bevat feitelijke kennis die we gewoon weten. Bijvoorbeeld wat een tafel is of hoe een driehoek eruitziet.
 
-Over het algemeen verschuift kennis langzaam van het episodische geheugen naar het semantische geheugen. Je weet dan niet meer waar, van wie en hoe je de informatie geleerd hebt, maar je kent de informatie nog wel.
+Over het algemeen verschuift kennis langzaam van het episodische geheugen naar het semantische geheugen. Je weet dan niet meer waar, van wie, of hoe je de informatie geleerd hebt, maar je kent de informatie nog wel.
 
 - **Procedureel** (of motorisch): hierin worden bewegingen opgeslagen, zoals tekenen, schrijven, handballen, veters strikken etc.
 
@@ -94,7 +97,115 @@ Je kan leren op verschillende manieren:
 - Herhaling is goed.
 - Splits het op in kleinere onderdelen die je één voor één leert.
 - Primacy & receny: de eerste en laatste dingen in een rijtje worden het best onthouden, dus shuffle de rijtjes regelmatig.
+- Chunking: informatie groeperen in chunks. 92 45 62 39 is makkelijker te onthouden dan 9 2 4 5 6 2 3 9.
 
------
+## Het zenusstelsel
 
-**LET OP: NOG NIET AF!!**
+Het zenuwstelsel reguleert ons lichaam door impulsen uit te wisselen. Dat is hoe onze zintuigen werken, we denken en bewegen. Het zenuwstelsel reguleert het lichaam ook via hormonen, in samenwerking met de hypofyse (hormoonklier in de hersenen).
+
+Het zenuwstelsel kan je indelen in verschillende gebieden. Dit kan je doen op basis van _ligging_ of _functie_.
+
+### Ligging
+
+- **Het centrale zenuwstelsel**: de hersenen en het ruggenmerg.
+
+- **Het perifere zenuwstelsel**: 
+    
+    - De uitlopers van zenuwcellen  
+      (ookwel dendrieten en axonen).
+
+    - Grensstrengen links en rechts van het ruggenmerg  
+      (bestaan uit ganglia).
+
+_Ganglia_ zijn zenuwcellen met dezelfde functie.
+
+### Functie
+
+- **Het animale zenuwstelsel**: wat wij bewust besturen en waar we controle over hebben.
+
+- **Het autonome zenuwstelsel**: onbewuste functies.
+
+    - **Orthosympatisch**: processen om het lichaam "actief" te maken.
+
+    - **Parasympatisch**: processen die het lichaam in "rust" krijgen.
+
+## Onthouden
+
+Bij het verwerven van informatie vinden er veranderingen in de hersenen plaats, hierbij worden geheugensporen gevormd. Het brein is dus plastisch (vormbaar).
+
+Je brein kan op drie basismanieren veranderen:
+
+- **Het aanmaken of doden van cellen.** Dit noemen we neurogenese en apoptose (celzelfmoord). Fysieke activiteit stimuleert neurogenese, en is daarvoor ook belangrijk voor het beter kunnen onthouden van dingen. Door apoptose verdwijnen hersencellen weer.
+
+- **Het aanmaken of verwijderen van verbindingen** (synapsen). Dit noemen we synaptogenese of synaptische plasticiteit. Dit wordt ook bevorderd door fysieke activiteit en uitdaging. Tegenovergesteld worden verbindingen die je niet meer gebruikt na verloop van tijd weer weggehaald. Dat heet pruning.
+
+- **Myelinisatie.** Als er een myelineschede om een zenuwcel zit kan die 10x sneller reageren op een impuls. Het nadeel is echter dat er veel minder makkelijk nieuwe verbindingen gemaakt kunnen worden. Het process begint bij je geboorte, maar is vooral actief rond je 50e.
+
+> Het verschil tussen synaptogenese en neurogenese is dys dat neurogenese nieuwe **cellen** aanmaakt, en synaptogenese nieuwe **verbindingen**.
+
+### LTP
+
+Als je een zenuwcel herhaald prikkelt, deze gevoeliger wordt voor die prikkel. Oftewel: als je iets vaak doet wordt je er beter in. Dit noem je **langetermijn potentiatie** (LTP).
+
+### Betrokken hersengebieden
+
+#### Thalamus & zintuigelijke gebieden
+
+De thalamus selecteert welke zintuigelijke informatie wordt doorgegeven aan de zintuigelijke gebieden. Daar wordt de informatie verwerkt en geordend, voordat deze naar de prefrontale cortex gestuurdt wordt.
+
+#### Amygdala
+
+Informatie die gekoppeld is aan een emotie onthoud je vaak makkelijker. Dit komt omdat er dan allemaal hormonen en neurotransmitters in je brein aanwezig zijn, die ervoor zorgen dat de herrinering makkelijker wordt opgeslagen. Hierbij speelt de amygdala een grote rol.
+
+> Fun fact: de amygdala wordt ook wel het emotionele brein genoemd. Mensen die geen amygdala hebben zijn basically psychopaten (Bron: Emotionele Intelligentie van Daniel Goleman)
+
+#### Cerebellum
+
+Het cerebellum is belangrijk voor bewegingen dmv het procedurele geheugen.
+
+#### Hippocampus & prefrontale cortex
+
+Herinneringen worden verdeeld over de hersenen opgeslagen, in bepaalde gebieden die elk een functie hebben. Zo wordt de geur op één plaats opgeslagen, de visuals op een andere en de gevoelens die je op dat moment had weer op een andere plek. De herrinering is dus opgeslagen als meerdere geheugensporen die over het brein verspreid liggen. <!--Hierbij zorgt de prefrontale cortex dat de herrinering weer "in elkaar gezet" wordt.-->
+
+De hippocampus heeft verschillende functies bij het opslaan en terughalen van herrineringen:
+
+- De opslag van herrineringen
+- Het terughalen van gegevens  
+  
+  De hippocampus houdt bij waar de verschillende geheugensporen zich bevinden, en zet de herrinering als het ware weer in elkaar. 
+
+- Het filteren van relevante informatie  
+  
+  De hippocampus bepaalt welke informatie wel en niet onthouden en verbonden wordt.
+
+De hippocampus onthoudt waar welk geheugenspoor ligt dmv LTP. Als de hippocampus de herrinering vaak genoeg ophaalt wordt die steeds sterker. Op den duur heeft de (prefrontale) cortex "geleerd" waar de herrinering ligt en is de hippocampus niet meer nodig voor het ophalen.
+
+Voor het ophalen van "jonge" herrineringen gebruik je dus de hippocampus, en voor "oudere" herrineringen de prefrontale cortex.
+
+### Geheugenconsolidatie
+
+Geheugenconsolidatie is het process waarbij de herrinering onafhankelijk van de hippocampus wordt opgeslagen. Hierbij is slaap erg belangrijk.
+
+Tijdens diepe slaap wordt namelijk de herrinering "gereplayed". Daardoor wordt de herrinering beter opgeslagen. Je kan dit process beinvloeden door de hippocampus gedurende diepe slaap te prikkelen, waardoor de herrinering nog beter wordt opgeslagen.
+
+> Diepe slaap is erg handig voor Geheugenconsolidatie, omdat er weinig tot geen nieuwe prikkels zijn.
+
+Ook als je wakker bent kan dit "replay" process plaatsvinden, maar je bent je daar niet bewust van.
+
+### Schemas & kennisnetwerken
+
+Bij het opslaan van informatie is het vooral belangrijk dat deze aan andere informatie gelinkt is. Dit noemen we associatie, en zorgt ervoor dat informatie makkelijk op te slaan en weer op te halen is.
+
+Hiervoor is voorkennis erg belangrijk, omdat je informatie beter onthoudt als je het koppelt aan dingen die je al weet. Een ander woord voor voorkennis is een schema.
+
+Als je gebruik maakt van schema's voor het onthouden van dingen integreer je de nieuwe informatie in je schema. Daarbij zijn verschillende hersengebieden, waaronder de mediale prefrontale cortex actief.
+
+Als je compleet nieuwe informatie opslaat, wordt deze als losse herrinering opgeslagen. Dit is natuurlijk moeilijker. Hiervoor gebruik je de parahippocampus (logisch, want de hippocampus wordt gebruikt voor het opslaan van nieuwe herrinneringen).
+
+### Superwerkgeheugen
+
+Als je ergens een expert in bent kan je vaak heel veel informatie over dat onderwerp tegelijk onthouden. Dit komt omdat je dan een heel uitgebreid schema in je hoofd hebt, waardoor je informatie in je werkgeheugen makkelijk kan verbinden met die in het langetermijngeheugen. Daardoor onthoud je het beter.
+
+Een heel makkelijk voorbeeld van een superwerkgeheugen is taal. We kunnen allemaal bijvoorbeeld de zin "Ik ben echt een gigantische oempaloempa, want ik viel van de brug en nu ben ik nat" heel makkelijk onthouden, terwijl deze veel meer dan 9 woorden (zo ongeveer de max van ons werkgeheugen) bevat, en nog veel meer letters en klanken.
+
+
