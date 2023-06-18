@@ -159,6 +159,8 @@ Informatie die gekoppeld is aan een emotie onthoud je vaak makkelijker. Dit komt
 
 > Fun fact: de amygdala wordt ook wel het emotionele brein genoemd. Mensen die geen amygdala hebben zijn basically psychopaten (Bron: Emotionele Intelligentie van Daniel Goleman)
 
+Je kan het feit dat emotionele herrineringen beter worden opgeslagen ook gebruiken voor klassiek conditioneren.
+
 #### Cerebellum
 
 Het cerebellum is belangrijk voor bewegingen dmv het procedurele geheugen.
@@ -192,7 +194,9 @@ Tijdens diepe slaap wordt namelijk de herrinering "gereplayed". Daardoor wordt d
 
 Ook als je wakker bent kan dit "replay" process plaatsvinden, maar je bent je daar niet bewust van.
 
-### Schemas & kennisnetwerken
+### Schema's & kennisnetwerken
+
+#### Schema's
 
 Bij het opslaan van informatie is het vooral belangrijk dat deze aan andere informatie gelinkt is. Dit noemen we associatie, en zorgt ervoor dat informatie makkelijk op te slaan en weer op te halen is.
 
@@ -202,10 +206,110 @@ Als je gebruik maakt van schema's voor het onthouden van dingen integreer je de 
 
 Als je compleet nieuwe informatie opslaat, wordt deze als losse herrinering opgeslagen. Dit is natuurlijk moeilijker. Hiervoor gebruik je de parahippocampus (logisch, want de hippocampus wordt gebruikt voor het opslaan van nieuwe herrinneringen).
 
+#### Kennisnetwerken
+
+De theorie van kennisnetwerken lijkt heel erg op die van schema's. In een kennisnetwerk wordt kennis opgeslagen in het brein als kenniselementen met daartussen verbindingen.
+
+Hierbij is vooral het aantal **zinvolle** verbindingen belangrijk.
+
+Vaak zijn er in kennisnetwerken eilandjes met relatief veel verbindingen (bijv een natuurkunde-eilandje en een minecraft-eilandje), die dan onderling met wat minder verbindingen verbonden zijn.
+
+Als er sprake is van veel geisoleerde eilandjes noemen we dit _small wordl network_.
+
+_Door het verbinden van de eilandjes in een kennisnetwerk vergroot je de wendbaarheid/transfer van de kennis. Zie meer bij het kopje "didactiek"._
+
+#### Conceptmaps
+
+Je kan een kennisnetwerk uitbeelden met behulp van een conceptmap. Daarin zet je alle kenniselementen (concepten), bijv begrippen, bij elkaar en verbind je ze onderling met koppelzinnetjes (koppelingen) zoals: "zorgt voor", "wordt gevolgd door", "heeft te maken met", "is belangrijk in" etc.
+
+Een zin die dan gemaakt wordt, zoals "de hersenen zijn belangrijk in het zenuwstelsel", noem je een propositie.
+
 ### Superwerkgeheugen
 
 Als je ergens een expert in bent kan je vaak heel veel informatie over dat onderwerp tegelijk onthouden. Dit komt omdat je dan een heel uitgebreid schema in je hoofd hebt, waardoor je informatie in je werkgeheugen makkelijk kan verbinden met die in het langetermijngeheugen. Daardoor onthoud je het beter.
 
 Een heel makkelijk voorbeeld van een superwerkgeheugen is taal. We kunnen allemaal bijvoorbeeld de zin "Ik ben echt een gigantische oempaloempa, want ik viel van de brug en nu ben ik nat" heel makkelijk onthouden, terwijl deze veel meer dan 9 woorden (zo ongeveer de max van ons werkgeheugen) bevat, en nog veel meer letters en klanken.
 
+## Didactiek
+
+In het onderwijs proberen docenten je iets te leren. Leren betekent dan:
+
+> Een mentaal process waarbij als gevolg van leeractiviteiten een potentiële en relatief stabiele gedragsverandering tot stand komt.
+
+Hierbij heb je twee belangrijke begrippen:
+
+- **Leerresultaten**: het nieuwe gedrag; wat je geleerd hebt.
+- **Leerprestaties**: hoeveel van dat gedrag je kan laten zien; wat er getoest wordt.
+
+### Wendbaarheid & transfer
+
+Als je dingen leert is het handig dat je ze niet alleen in één situatie of context kan toepassen, maar ook op andere plekken.
+
+Wiskundige formules kunnen bij scheikunde en natuurkunde van pas komen en het atoommodel van scheikunde kan bij bio ook handig zijn.
+
+Als je kennis uit één context of situatie in een andere kan toepassen, noemen we die kennis wendbaar. Een ander woord hiervoor is transfer.
+
+### Leertheorieën
+
+Leertheorieën zijn theorieën over hoe je makkelijk iets kan (aan)leren. In de module kwamen deze drie naar voren:
+
+- Behavoirisme: je kan gedrag beinvloeden dmv beloningen en straffen.
+
+- Cognitivisme: feitenkennis en vaardigheden leren dmv LTP en geheugenconsolidatie.
+
+- Constructuvisme: kennis in een kennisnetwerk opslaan. Hierbij vormt elke leerling een eigen, persoonlijk/uniek kennisnetwerk.
+
+- Kennisoverdracht: kennis wordt kant-en-klaar overgedragen aan de leerling (ookwel het transmissiemodel genoemd).
+
+### Instructietheorieën
+
+Docenten gebruiken voor hun onderwijs instructietheorieën, die gebaseerd zijn op de leertheorieën.
+
+Instructietheorieën zijn aanwijzingen om leren te bevorderen. Ze zijn voorschrijvend: "doe X om Y te leren".
+
+Voor verschillende resultaten gebruik je verschillende aanpakken, zoals:
+
+- Verbale informatie, zoals begrippen concepten, formules en woordjes.
+- Toepassen van vaardigheden, zoals het oplossen of uitvoeren van practica of sommen maken.
+- Cognitieve leerstrategieën, zoals metacognitie.
+- Fysieke vaardigheden, zoals een handstand of sprinten.
+
+### Netwerktheorie
+
+#### Betekenisvol leren
+
+Betekenisvol leren is het principe dat nieuwe informatie die je leert goed moet aansluiten op je voorkennis. Het alternatief is stampen.
+
+Het voordeel van betekenisvol leren is dat de leerling meer inzicht krijgt in de stof en deze daardoor in andere situaties kan toepassen. In andere woorden: de kennis is veel wendbaarder/heeft een grotere transfer.
+
+#### Advance organisers
+
+Advance organisers zijn abstracte begrippen/structuren die je eerst leert, zodat je er later kennis aan kan "ophangen".
+
+Je hebt twee soorten:
+
+- **Uitleggend**: algemene, abstracten/bovenliggende begrippen. Vereenvoudigen latere begrippen.
+
+- **Vergelijkend**: hierbij wordt nieuwe informatie vergeleken met informatie die de leerling al kent. Hiermee veranker je nieuwe kennis in bestaande kennis.
+
+#### Conditionalisering
+
+Er is een verschil tussen het kennisnetwerk van een ondeskundige en dat van een expert. 
+
+Ondeskundigen halen informatie over een onderwerp op door de kenniselementen die direct te maken hebben met de toepassing te doorlopen.
+
+Experts maken daarentegen gebruik van hun gehele kennisnetwerk (het grotere plaatje), en kiezen daaruit de relevante hoogliggende concepten.
+
+Bij hun is namelijk hun kennisnetwerk geconditionaliseerd: bij een toepassing maken ze automatich gebruik van een samenhandgend kennisnetwerk.
+
+#### Contextrijk leren
+
+Contextrijk leren, of concept-contextbenadering, is een manier van leren waarbij er steeds een context of toepassing wordt gekoppeld aan het onderwerp (concept). Dit heeft een aantal voordelen:
+
+- Het is motiverend
+- Het versterkt de verbindingen in het kennisnetwerk
+- Het zorgt voor grotere wendbaarheid
+- Het laat zien waarom kennis relevant is
+
+Hierbij zijn te weinig contexten slecht, maar teveel ook, want het belemmert de tranfer.
 
