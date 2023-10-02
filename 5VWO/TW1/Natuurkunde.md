@@ -16,7 +16,7 @@ De formule voor een u,t-diagram is:
 
 _(het is dus eigenlijk gewoon een sinus golf met periode T en amplitude A)_
 
-De maximale snelheid van een trillend punt is als het door de evenwichtsstand gaat (want daar is de helling van de grafiek het stijlst. Je kan dit berekenen met:
+De maximale snelheid van een trillend punt is als het door de evenwichtsstand gaat (want daar is de helling van de grafiek het stijlst). Je kan dit berekenen met:
 
 \\[v_{max} = \frac{2\pi \cdot A}{T}\\]
 
@@ -39,8 +39,8 @@ Golven hebben een aantal eigenschappen:
 - **Frequentie (f)**: hoe snel de golf trilt.
 - **Periode / trillingstijd (T)**: de tijd waarin precies 1 trilling plaatsvindt.
 - **Amplitude (A)**: de maximale uitwijking van een golf.
-- **Golflengte (\\[\lambda\\])**: de afstand die een golf in 1 periode aflegt.
-- **Golfsnelheid (\\[v_{golf}\\])**: de snelheid waarmee de golf zich voortbeweegt.
+- **Golflengte (λ)**: de afstand die een golf in 1 periode aflegt.
+- **Golfsnelheid (v<sub>golf</sub>)**: de snelheid waarmee de golf zich voortbeweegt.
 
 ![u,t-diagram](ut-diagram.png)
 
@@ -51,7 +51,7 @@ Je kan met deze eigenschappen een aantal dingen uitrekenen:
 \\[f = \frac{1}{T}\\]
 
 \\[v_{golf} = f \cdot \lambda\\]
-(en dus \\[\lambda = v_{golf} \cdot T\\])
+\\[(\implies \lambda = v_{golf} \cdot T)\\]
 
 ### Zuivere en samengestelde tonen
 
