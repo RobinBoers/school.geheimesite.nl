@@ -2,6 +2,10 @@
 
 Dit is een website die ik even snel heb gemaakt voor mijn school shtuff[^1]. Ik plaats hier mijn samenvattingen zodat ik ze niet iedere keer als PDF in de groepsapp hoef te sturen 😅. Je kan de site zelf navigeren met onderstaande navigatie:
 
+## 5VWO
+
+- [toetsweek 1](5VWO/TW1/README.md)
+
 ## 4VWO
 
 - [toetsweek 1](4VWO/TW1/README.md)
