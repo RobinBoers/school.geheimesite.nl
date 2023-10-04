@@ -65,6 +65,20 @@ Een samengestelde golf bestaat uit een optelling van andere (zuivere) golven. Ee
 
 De frequentie van een samengestelde toon wordt bepaald door de frequentie van de laagste toon die er in voorkomt, die je de grondtoon noemt.
 
+## Fase
+
+De fase (φ) is het aantal afgelegde trillingen sinds het beginpunt van een golf. De gereduceerde fase (φ<sub>red</sub>) is het aantal afgelegde trillingen vanaf het begin van de huidige trilling.
+
+De gereduceerde fase is dus altijd < 1. Om het gereduceerde faseverschil te krijgen drop je eigenlijk gewoon het volledige getal (het aantal volledige trillingen) van de fase, zodat je alleen de decimalen/breuk overhoud (het deel van de huidige trilling).
+
+Het faseverschil (Δφ) is het verschil in fase tussen twee golven. Het (Δφ<sub>red</sub>) gereduceerde faseverschil is het verschil in gereduceerde fase.
+
+Als Δφ<sub>red</sub> = 0, zijn de golven **in fase**. Als je ze dan bij elkaar optelt versterken ze elkaar. Als Δφ<sub>red</sub> = 1/2 echter, heffen de golven elkaar op:
+
+![Golven die elkaar versterken of opheffen bij een bepaald gereduceerd faseverschil](faseverschil.png)
+
+Bij elk ander gereduceerd faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dit noem je zwevingen.
+
 ## Soorten golven
 
 Je hebt twee soorten golven:
