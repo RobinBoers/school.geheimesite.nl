@@ -213,7 +213,7 @@ Waar _n_ de orde van maximum is.
 
 Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
 
-\\[x_{weglente} = n \lambda + \fraq{1}{2} \lambda\\]
+\\[x_{weglente} = n \lambda + \frac{1}{2} \lambda\\]
 
 ### Verre veld
 
