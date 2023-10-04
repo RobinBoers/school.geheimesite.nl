@@ -103,7 +103,7 @@ Zoals je ziet blijven de toppen op hun plaats. Daarom noemen we dit een staande 
 
 ## Doppler-effect
 
-Als er iets beweegt terwijl het (langs)beweegt klinkt het geluid anders afhankelijk van de positie van de luisteraar. Dat komt omdat de geluidsgolven _voor_ het bewegende object worden _samengedrukt_, terwijl de golven _achter_ het object worden _uitgerekt_. Dit noem je het Dopplet-effect.
+Als er iets geluid maakt terwijl het (langs)beweegt klinkt het geluid anders afhankelijk van de positie van de luisteraar. Dat komt omdat de geluidsgolven _voor_ het bewegende object worden _samengedrukt_, terwijl de golven _achter_ het object worden _uitgerekt_. Dit noem je het Dopplet-effect.
 
 ### Rekenen met het doppler-effect
 
