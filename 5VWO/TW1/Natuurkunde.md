@@ -67,17 +67,29 @@ De frequentie van een samengestelde toon wordt bepaald door de frequentie van de
 
 ## Fase
 
-De fase (φ) is het aantal afgelegde trillingen sinds het beginpunt van een golf. De gereduceerde fase (φ<sub>red</sub>) is het aantal afgelegde trillingen vanaf het begin van de huidige trilling.
+De fase (φ) is het aantal afgelegde trillingen sinds het beginpunt van een golf. 
 
-De gereduceerde fase is dus altijd < 1. Om het gereduceerde faseverschil te krijgen drop je eigenlijk gewoon het volledige getal (het aantal volledige trillingen) van de fase, zodat je alleen de decimalen/breuk overhoud (het deel van de huidige trilling).
+De gereduceerde fase (φ<sub>red</sub>) is het aantal afgelegde trillingen vanaf het begin van de huidige trilling. Je rekent dus de volledige trillingen niet mee.
+
+\\[\delta \phi < 1\\]
+
+<small>Om het gereduceerde faseverschil te krijgen drop je eigenlijk gewoon het volledige getal (het aantal volledige trillingen) van de fase, zodat je alleen de decimalen/breuk overhoud (het deel van de huidige trilling).</small>
 
 Het faseverschil (Δφ) is het verschil in fase tussen twee golven. Het (Δφ<sub>red</sub>) gereduceerde faseverschil is het verschil in gereduceerde fase.
+
+\\[\delta \phi = \frac{\delta t}{t}\\]
+
+Je kan het faseverschil ook berekenen aan de hand van de golflengte en afgelegde afstand:
+
+\\[\delta \phi = \frac{\delta x}{\lambda}\\]
+
+### In fase en tegenfase
 
 Als Δφ<sub>red</sub> = 0, zijn de golven **in fase**. Als je ze dan bij elkaar optelt versterken ze elkaar. Als Δφ<sub>red</sub> = 1/2 echter, zijn ze **in tegenfase** en heffen de golven elkaar op:
 
 ![Golven die elkaar versterken of opheffen bij een bepaald gereduceerd faseverschil](faseverschil.png)
 
-Bij elk ander gereduceerd faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dit noem je zwevingen.
+Bij elk ander gereduceerd faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dit noem je **zwevingen**.
 
 ## Soorten golven
 
@@ -100,6 +112,54 @@ Je kan zien dat in sommige plekken de golven elkaar maximaal versterken, en in s
 Zoals je ziet blijven de toppen op hun plaats. Daarom noemen we dit een staande golf (hij "staat stil").
 
 ![Staande golf: je ziet dat de toppen op hun plaats blijven](staande-golf.gif)
+
+## Staande golven in buizen
+
+Je kan in een buis staande golven krijgen. Dat kan alleen als de buis de juiste lengte heeft. Dan gaan de golven resoneren en komen ze zo terug dat er staande golven ontstaan.
+
+In een buis met twee open uiteindes (een open buis) krijg je aan beide kanten een buik met daartussen een knoop:
+
+```
+-----------
+ B   K   B
+-----------
+```
+
+In een buis die aan één kant gesloten is (een gesloten buis) krijg je aan de gesloten kant een knoop en aan de open kant een buik:
+
+```
+|----------
+| K      B
+|----------
+```
+
+De staande golven die je hierboven ziet noemen we de grondtonen. Er kunnen in een buis oneindig veel boventonen ontstaan. Voor elke boventoon komt er één knoop en één buik bij. De eerste boventoon in een open buis ziet er dus zo uit:
+
+```
+---------------
+ B  K  B  K  B
+---------------
+```
+
+En de tweede boventoon:
+
+```
+---------------
+ B K B K B K B
+---------------
+```
+
+Tussen een buik en knoop zit altijd 1/4λ (want tussen twee toppen zit 1 golflente). Dat betekent dat de lengte van een open buis gelijk is aan 1/2λ van de grondtoon (van een staande golf in die buis), en voor elke boventoon komt er 1/2λ bij. Op dezelfde manier is de lengte van een gesloten buis gelijk aan 1/4λ van de grondtoon.
+
+In het algemeen geldt deze formule voor open buizen:
+
+\\[l = n \cdot \frac{1}{2} \lambda\\]
+
+En deze formule voor gesloten buizen:
+
+\\[l = n \cdot \frac{1}{2} \lambda - \frac{1}{4} \lambda\\]
+
+Waarbij n = 1 de grondtoon is, en n = 2 de eerste boventoon etc.
 
 ## Doppler-effect
 
