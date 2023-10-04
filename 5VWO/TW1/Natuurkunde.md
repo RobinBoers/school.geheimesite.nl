@@ -215,7 +215,7 @@ Waar _n_ de orde van maximum is.
 
 Als je twee bronnen op afstand _a_ op een vlak _heel ver weg_ (tenopzichte van de golflengte) projecteert, geldt deze formule:
 
-\\[sin(\alpha) = \frac{n \lambda}{a}\\]
+\\[\sin(\alpha) = \frac{n \lambda}{a}\\]
 
 Waarbij _n_ de orde van maximum is, en α de (linker)hoek in de volgende rechthoekige driehoek:
 
