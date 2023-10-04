@@ -159,7 +159,7 @@ En deze formule voor gesloten buizen:
 
 \\[l = n \cdot \frac{1}{2} \lambda - \frac{1}{4} \lambda\\]
 
-Waarbij n = 1 de grondtoon is, en n = 2 de eerste boventoon etc.
+Waarbij _n_ = 1 de grondtoon is, en _n_ = 2 de eerste boventoon etc.
 
 ### Verhoudingen
 
@@ -178,6 +178,50 @@ f<sub>0</sub> : f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = <br>
 
 f<sub>0</sub> : f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = <br>
 1 : 3 : 5 : 7 voor gesloten buizen.
+
+## Interferentie
+
+**Superpositie** is het optellen van golven. Stel dat je twee geluidsgolven hebt die elkaar kruisen met de één een overdruk van 4 en de ander een onderdruk van 1 dan wordt de uiteindelijke druk dus een overdruk van 3.
+
+Als je twee puntbronnen (met dezelfde frequentie!) naast elkaar zet, ontstaan op de plekken waar twee toppen elkaar kruisen extra hoge toppen en op de plekken waar twee dalen elkaar kruisen een extra diep dal. Op de plekken waar een top en een dal elkaar kruisen doven de golven elkaar uit. 
+
+Door dit verschijnsel ontstaat een **interferentiepatroon**. Daarin kan je lijnen met extra hoge pieken en dalen zien (de buiklijnen) en lijnen waar de bronnen elkaar volledig uitdoven (de knooplijnen).
+
+Als puntbronnen dezelfde constante frequentie en een constant faseverschil hebben noem je ze **coherent**. _Alleen dan kan een (constant) interferentiepatroon optreden_.
+
+Als je de bronnen dichter naar elkaar toe brengt zullen de buik- en knooplijnen divergeren. Als je de bronnen uit elkaar beweegt, convergeren de buik- en knooplijnen juist.
+
+### Knooplijnen
+
+Op knooplijnen is de amplitude niet helemaal nul. Dat kan alleen als de amplitude van beide golven precies even groot is, en dat kan alleen als de golven precies dezelfde afstand hebben afgelegd (want de amplitude neemt geleidelijk af naarmate de golf beweegt). 
+
+Als je langs twee luidsprekers loopt die een interferentiepatroon veroorzaken zou je op sommige plekken het geluid minder goed moeten horen dan op andere plekken. In de praktijk komt dit echter niet zo vaak voor, aangezien je een zuivere toon moet hebben, en die in het echt nauwelijks voor komen (lees: bijna nooit).
+
+### Weglenteverschil
+
+Het weglengteverschil in een punt is het verschil tussen de afstand van bron A tot het punt en de afstand van bron B tot het punt:
+
+\\[x_{weglente} = \abs{AP - BP}\\]
+
+Als het weglenteverschil een volledig aantal keer de golflente (λ) is, ligt het punt op een buiklijn. Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
+
+Dat betekent dat op de middelste buiklijn (het nulde orde maximum) het weglente verschil gelijk is aan 0, en op het eerste orde maximum gelijk λ, en op het tweede order maximum gelijk aan 2λ etc:
+
+\\[x_{weglente} = n \lambda\\]
+
+Waar _n_ de orde van maximum is.
+
+### Verre veld
+
+Als je twee bronnen op afstand _a_ op een vlak _heel ver weg_ (tenopzichte van de golflengte) projecteert, geldt deze formule:
+
+\\[sin(\alpha) = \frac{n \lambda}{a}\\]
+
+Waarbij _n_ de orde van maximum is, en α de hoek in de volgende driehoek:
+
+![l en h in het verre veld](verre-veld.svg)
+
+Waarbij _l_ de afstand tussen het middenpunt tussen de bronnen en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n_de orde maximum.
 
 ## Doppler-effect
 
@@ -235,5 +279,6 @@ Waarbij de veerconstante (C) in N/m aangeeft hoe sterk/stug de veer is. Je kent
 hem waarschijnlijk uit de formule:
 
 \\[F_v = C \cdot u\\]
+
 
 
