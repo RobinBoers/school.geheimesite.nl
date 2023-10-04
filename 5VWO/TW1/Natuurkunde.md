@@ -73,7 +73,7 @@ De gereduceerde fase is dus altijd < 1. Om het gereduceerde faseverschil te krij
 
 Het faseverschil (Δφ) is het verschil in fase tussen twee golven. Het (Δφ<sub>red</sub>) gereduceerde faseverschil is het verschil in gereduceerde fase.
 
-Als Δφ<sub>red</sub> = 0, zijn de golven **in fase**. Als je ze dan bij elkaar optelt versterken ze elkaar. Als Δφ<sub>red</sub> = 1/2 echter, heffen de golven elkaar op:
+Als Δφ<sub>red</sub> = 0, zijn de golven **in fase**. Als je ze dan bij elkaar optelt versterken ze elkaar. Als Δφ<sub>red</sub> = 1/2 echter, zijn ze **in tegenfase** en heffen de golven elkaar op:
 
 ![Golven die elkaar versterken of opheffen bij een bepaald gereduceerd faseverschil](faseverschil.png)
 
