@@ -171,7 +171,7 @@ Uit de bovenstaande formules volgt:
 λ<sub>0</sub> : λ<sub>1</sub> : λ<sub>2</sub> : λ<sub>3</sub> = <br>
 1/4 : 3/4 : 5/4 : 7/4 voor gesloten buizen.
 
-De frequentie is omgekeerd evenredig met de golflengte (v = f * λ), dus hieruit volgt deze verhouding:
+De frequentie is omgekeerd evenredig met de golflengte (f = v/λ), dus hieruit volgt deze verhouding:
 
 f<sub>0</sub> : f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = <br>
 1 : 2 : 3 : 4 voor open buizen.
