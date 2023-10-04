@@ -201,7 +201,7 @@ Als je langs twee luidsprekers loopt die een interferentiepatroon veroorzaken zo
 
 Het weglengteverschil in een punt is het verschil tussen de afstand van bron A tot het punt en de afstand van bron B tot het punt:
 
-\\[x_{weglente} = | \ AP - BP \ |\\]
+\\[x_{weglente} = \| \ AP - BP \ \|\\]
 
 Als het weglenteverschil een volledig aantal keer de golflente (λ) is, ligt het punt op een buiklijn. Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
 
