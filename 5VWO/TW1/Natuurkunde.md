@@ -161,6 +161,24 @@ En deze formule voor gesloten buizen:
 
 Waarbij n = 1 de grondtoon is, en n = 2 de eerste boventoon etc.
 
+### Verhoudingen
+
+Uit de bovenstaande formules volgt:
+
+λ<sub>0</sub> : λ<sub>1</sub> : λ<sub>2</sub> : λ<sub>3</sub> = <br>
+1/2 : 2/2 : 3/2 : 4/2 voor open buizen.
+
+λ<sub>0</sub> : λ<sub>1</sub> : λ<sub>2</sub> : λ<sub>3</sub> = <br>
+1/4 : 3/4 : 5/4 : 7/4 voor gesloten buizen.
+
+De frequentie is omgekeerd evenredig met de golflengte (v = f * λ), dus hieruit volgt deze verhouding:
+
+f<sub>0</sub> : f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = <br>
+1 : 2 : 3 : 4 voor open buizen.
+
+f<sub>0</sub> : f<sub>1</sub> : f<sub>2</sub> : f<sub>3</sub> = <br>
+1 : 3 : 5 : 7 voor gesloten buizen.
+
 ## Doppler-effect
 
 Als er iets geluid maakt terwijl het (langs)beweegt klinkt het geluid anders afhankelijk van de positie van de luisteraar. Dat komt omdat de geluidsgolven _voor_ het bewegende object worden _samengedrukt_, terwijl de golven _achter_ het object worden _uitgerekt_. Dit noem je het Dopplet-effect.
