@@ -221,7 +221,7 @@ Waarbij _n_ de orde van maximum is, en α de (linker)hoek in de volgende rechtho
 
 ![l en h in het verre veld](verre-veld.svg)
 
-Waarbij _l_ de afstand tussen het middenpunt van _a_ en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n_de orde maximum.
+Waarbij _l_ de afstand tussen het middenpunt van _a_ en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n-de_ orde maximum.
 
 ## Doppler-effect
 
