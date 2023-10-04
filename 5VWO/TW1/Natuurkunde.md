@@ -187,6 +187,8 @@ Als je twee puntbronnen (met dezelfde frequentie!) naast elkaar zet, ontstaan op
 
 Door dit verschijnsel ontstaat een **interferentiepatroon**. Daarin kan je lijnen met extra hoge pieken en dalen zien (de buiklijnen) en lijnen waar de bronnen elkaar volledig uitdoven (de knooplijnen).
 
+![Een interferentiepatroon](interferentie.png)
+
 Als puntbronnen dezelfde constante frequentie en een constant faseverschil hebben noem je ze **coherent**. _Alleen dan kan een (constant) interferentiepatroon optreden_.
 
 Als je de bronnen dichter naar elkaar toe brengt zullen de buik- en knooplijnen divergeren. Als je de bronnen uit elkaar beweegt, convergeren de buik- en knooplijnen juist.
@@ -203,17 +205,23 @@ Het weglengteverschil in een punt is het verschil tussen de afstand van bron A t
 
 \\[x_{weglente} = \| \ AP - BP \ \|\\]
 
-Als het weglenteverschil een volledig aantal keer de golflente (λ) is, ligt het punt op een buiklijn. Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
-
-Dat betekent dat op de middelste buiklijn (het nulde orde maximum) het weglenteverschil gelijk is aan 0, en op het eerste orde maximum gelijk λ, en op het tweede order maximum gelijk aan 2λ etc:
+Als het weglenteverschil een volledig aantal keer de golflente (λ) is, ligt het punt op een buiklijn. 
 
 \\[x_{weglente} = n \lambda\\]
 
 Waar _n_ de orde van maximum is.
 
+Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
+
+\\[x_{weglente} = n \lambda + \fraq{1}{2} \lambda\\]
+
 ### Verre veld
 
-Als je twee bronnen op afstand _a_ op een vlak _heel ver weg_ (tenopzichte van de golflengte) projecteert, geldt deze formule:
+Als je twee bronnen op afstand _a_ op een vlak _heel ver weg_ (tenopzichte van de golflengte) projecteert, zie je de (in het geval van licht) de maxima (de buiklijnen) op het vlak verschijnen. Dit vlak noemen we het verre veld.
+
+Als je _a_ kleiner maakt zullen de buiklijnen divergeren en de maxima op het vlak dus verder uit elkaar verschuiven.
+
+In het verre veld geldt deze formule:
 
 \\[\sin(\alpha) = \frac{n \lambda}{a}\\]
 
@@ -222,6 +230,14 @@ Waarbij _n_ de orde van maximum is, en α de (linker)hoek in de volgende rechtho
 ![l en h in het verre veld](verre-veld.svg)
 
 Waarbij _l_ de afstand tussen het middenpunt van _a_ en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n-de_ orde maximum.
+
+### Meerdere bronnen
+
+Het blijkt dat als je veel meer bronnen met dezelfde afstand _a_ van elkaar zet, je hetzelfde patroon krijgt, maar tussen de hoofdmaxima verschijnen nevenmaxima. Deze mogen we in de toets negeren.
+
+Hoe meer bronnen je toevoegd, hoe smaller de hoofdmaxima, en hoe hoger de amplitude in de hoofdmaxima.
+
+![Een interferentiepatroon op het verre veld met steeds meer bronnen](meerdere-bronnen.png)
 
 ## Doppler-effect
 
