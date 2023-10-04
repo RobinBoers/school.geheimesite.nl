@@ -44,7 +44,7 @@ Golven hebben een aantal eigenschappen:
 
 ![u,t-diagram](ut-diagram.png)
 
-In het geval van een geluidsgolf noemen we de amplitude ook wel het volume of de geluidssterkte, en de frequentie noemen we de toonhoogte.
+In het geval van een geluidsgolf noemen we de amplitude ook wel het volume of de geluidssterkte, en de frequentie noemen we de toonhoogte. De golfsnelheid van geluidsgolven is de geluidssnelheid. In lucht is dat 343 m/s.
 
 Je kan met deze eigenschappen een aantal dingen uitrekenen:
 
@@ -86,4 +86,62 @@ Je kan zien dat in sommige plekken de golven elkaar maximaal versterken, en in s
 Zoals je ziet blijven de toppen op hun plaats. Daarom noemen we dit een staande golf (hij "staat stil").
 
 ![Staande golf: je ziet dat de toppen op hun plaats blijven](staande-golf.gif)
+
+## Doppler-effect
+
+Als er iets beweegt terwijl het (langs)beweegt klinkt het geluid anders afhankelijk van de positie van de luisteraar. Dat komt omdat de geluidsgolven _voor_ het bewegende object worden _samengedrukt_, terwijl de golven _achter_ het object worden _uitgerekt_. Dit noem je het Dopplet-effect.
+
+### Rekenen met het doppler-effect
+
+Je kan de nieuwe golflengtes van de samengedrukte en uitgerekte golven makkelijk berekenen.
+
+Als je de golflengte achter het object wil weten:
+
+- Bereken de afstand die het object in 1T (de periode van de golf) aflegt.
+- Tel de berekende afstand op bij de golflengte.
+
+En de golflengte van de samengedrukte golven voor is precies andersom:
+
+- Bereken de afstand die het object in 1T (de periode van de golf) aflegt.
+- Trek de berekende afstand af van de golflengte.
+
+## Snaarinstrumenten
+
+De frequentie waarmee een snaar trilt noem je de eigen frequentie, en hangt af van:
+
+- De **massa** van de snaar,
+  die weer afhangt van de dichtheid, dikte en lengte.
+
+- De **spanning**,
+  die afhangt van de spankracht waarmee de snaar gespannen is.
+
+Om dit "beter te begrijpen" (lees: ingewikkelder maken), kan je kijken naar een massa-veersysteem. Daarbij hang je gewichtjes aan een veer die je dan laat bouncen, waardoor je trillingen krijgt.
+
+### Massa-veersysteem
+
+De **evenwichtsstand** is de positie van het gewichtje als Fz = Fspan. Als je het gewichtje laat bouncen maakt hij een trilling die je de eigentrilling noemt.
+
+De frequentie van de eigentrilling hangt af van:
+
+- De **massa** van het gewichtje:
+  hoe zwaarder, hoe minder snel je snelheid kan veranderen,
+  dus hoe lager de frequentie.
+
+- De **stugheid** van de veer:
+  hoe stugger, hoe groter de versnelling/vertraging,
+  dus hoe hoger de frequentie.
+
+Als je harder aan het gewichtje trekt wordt de amplitude groter. De veer trilt daardoor sneller (je ziet het gewichtje sneller bouncen), maar hij beweegt ook een grotere lengte. Daardoor is de frequentie nog steeds hetzelfde.
+
+#### Rekenen
+
+Voor de periode van een trilling in een massa-veersysteem geldt:
+
+\\[T = 2\pi \sqrt{\frac{m}{C}}\\]
+
+Waarbij de veerconstante (C) in N/m aangeeft hoe sterk/stug de veer is. Je kent
+hem waarschijnlijk uit de formule:
+
+\\[F_v = C \cdot u\\]
+
 
