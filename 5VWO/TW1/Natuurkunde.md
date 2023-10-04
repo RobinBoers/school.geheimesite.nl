@@ -201,11 +201,11 @@ Als je langs twee luidsprekers loopt die een interferentiepatroon veroorzaken zo
 
 Het weglengteverschil in een punt is het verschil tussen de afstand van bron A tot het punt en de afstand van bron B tot het punt:
 
-\\[x_{weglente} = \abs{AP - BP}\\]
+\\[x_{weglente} = | \ AP - BP \ |\\]
 
 Als het weglenteverschil een volledig aantal keer de golflente (λ) is, ligt het punt op een buiklijn. Als het weglenteverschil precies een oneven meervoud van de halve golflengte (1/2λ) is (0.5λ, 1.5λ, 2.5λ, 3.5λ ...), ligt het punt op een knooplijn.
 
-Dat betekent dat op de middelste buiklijn (het nulde orde maximum) het weglente verschil gelijk is aan 0, en op het eerste orde maximum gelijk λ, en op het tweede order maximum gelijk aan 2λ etc:
+Dat betekent dat op de middelste buiklijn (het nulde orde maximum) het weglenteverschil gelijk is aan 0, en op het eerste orde maximum gelijk λ, en op het tweede order maximum gelijk aan 2λ etc:
 
 \\[x_{weglente} = n \lambda\\]
 
@@ -217,11 +217,11 @@ Als je twee bronnen op afstand _a_ op een vlak _heel ver weg_ (tenopzichte van d
 
 \\[sin(\alpha) = \frac{n \lambda}{a}\\]
 
-Waarbij _n_ de orde van maximum is, en α de hoek in de volgende driehoek:
+Waarbij _n_ de orde van maximum is, en α de (linker)hoek in de volgende rechthoekige driehoek:
 
 ![l en h in het verre veld](verre-veld.svg)
 
-Waarbij _l_ de afstand tussen het middenpunt tussen de bronnen en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n_de orde maximum.
+Waarbij _l_ de afstand tussen het middenpunt van _a_ en het verre veld is, en _h_ de afstand tussen de nulde orde maximum en de _n_de orde maximum.
 
 ## Doppler-effect
 
