@@ -71,17 +71,17 @@ De fase (φ) is het aantal afgelegde trillingen sinds het beginpunt van een golf
 
 De gereduceerde fase (φ<sub>red</sub>) is het aantal afgelegde trillingen vanaf het begin van de huidige trilling. Je rekent dus de volledige trillingen niet mee.
 
-\\[\delta \phi < 1\\]
+\\[\varphi_{red} < 1\\]
 
 <small>Om het gereduceerde faseverschil te krijgen drop je eigenlijk gewoon het volledige getal (het aantal volledige trillingen) van de fase, zodat je alleen de decimalen/breuk overhoud (het deel van de huidige trilling).</small>
 
 Het faseverschil (Δφ) is het verschil in fase tussen twee golven. Het (Δφ<sub>red</sub>) gereduceerde faseverschil is het verschil in gereduceerde fase.
 
-\\[\delta \phi = \frac{\delta t}{t}\\]
+\\[\Delta \varphi = \frac{\Delta t}{t}\\]
 
 Je kan het faseverschil ook berekenen aan de hand van de golflengte en afgelegde afstand:
 
-\\[\delta \phi = \frac{\delta x}{\lambda}\\]
+\\[\Delta \varphi = \frac{\Delta x}{\lambda}\\]
 
 ### In fase en tegenfase
 
