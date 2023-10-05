@@ -36,7 +36,7 @@ In een u,t-diagram kan je op de x-as de periode van een golf aflezen. In een u,x
 
 Golven hebben een aantal eigenschappen:
 
-- **Frequentie (f)**: hoe snel de golf trilt.
+- **Frequentie (f)**: aantal trillingen per seconde.
 - **Periode / trillingstijd (T)**: de tijd waarin precies 1 trilling plaatsvindt.
 - **Amplitude (A)**: de maximale uitwijking van een golf.
 - **Golflengte (λ)**: de afstand die een golf in 1 periode aflegt.
