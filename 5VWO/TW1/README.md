@@ -1,5 +1,5 @@
 # Toetsweek 1
 
 - [Natuurkunde](Natuurkunde)
-- [Informatic](Informatica)
+- [Informatica](Informatica)
 - [Modelleren](NLT)
