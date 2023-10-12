@@ -1,3 +1,5 @@
+# Programmeren
+
 ## Automaten
 
 Automaten zijn theoretische manieren om een probleem te omschrijven door het op te delen in toestanden en overgangen tussen toestanden.
@@ -54,7 +56,7 @@ Je kan een array zo veranderen:
 
 Je kan ook direct een iets aan een index toewijzen:
 
-```js
+```javascript
 let boodschappen = ["Appels", "Brood", "Peren"];
 boodschappen[3] = "Melk"; // Voegt melk toe aan het einde van de boodschappenlijst.
 boodschappen[2] = "Bananen"; // Vervangt "Peren" met "Bananen".
@@ -62,7 +64,7 @@ boodschappen[2] = "Bananen"; // Vervangt "Peren" met "Bananen".
 
 ### Stack
 
-Een stack is ook een soort lijst. Het verschil is alleen, dat je alleen het laatst toegevoegde item kan weghalen/bekijken. Dit noem je \_last-in-first-out`.
+Een stack is ook een soort lijst. Het verschil is alleen, dat je alleen het laatst toegevoegde item kan weghalen/bekijken. Dit noem je _last-in-first-out_.
 
 Je kan een stack zien als een soort stapel van iets: om iets op plek 3 te leggen, moet je eerst alle dingen die daar op liggen weghalen, anders kan je er niet bij.
 
@@ -73,7 +75,7 @@ Een stack kan je zo veranderen:
 
 ### Queue
 
-Een queue (rij) is precies het tegenovergestelde van een stack: je kan alleen het eerste item dat je aan de queue had toegevoegd bekijken of weghalen. Je noemt dit `first-in-first-out`.
+Een queue (rij) is precies het tegenovergestelde van een stack: je kan alleen het eerste item dat je aan de queue had toegevoegd bekijken of weghalen. Je noemt dit _first-in-first-out_.
 
 Een queue is precies zoals een rij (voor de kassa) in het echt, want wat wat je er als eerst in stopt is ook het eerst aan de beurt.
 
@@ -85,7 +87,7 @@ Een set is een lijst met waardes waar geen dubbelen in voor mogen komen. De waar
 
 Je maakt een set zo:
 
-```js
+```javascript
 let numbers = new Set(initializer);
 
 // Initializer is of een list met waardes, waar vervolgens alle dubbelen
@@ -149,7 +151,7 @@ Je hebt verschillende soorten programmeertalen. De soort programmeertaal bepaalt
 
   Een object is een entiteit (ding) in een programmeertaal dat attributes (waardes) heeft en methods (gekoppelde functies). De attributes geven de huidige toestand, en de methods kan je gebruiken om de toestand aan te passen. Voorbeeld:
 
-  ```js
+  ```javascript
   bus = new Car();
   print(bus.pos.x); // => 0
 
