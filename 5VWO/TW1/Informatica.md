@@ -169,7 +169,7 @@ Je kan deze principes ook mixen. Zo zijn alle object-georienteerde imperatief, e
 
 Een taal heeft over het algemeen deze "woordsoorten":
 
-- Literal: een waarde zoals onder het kopje `datatypes`.
+- Literal: een waarde zoals onder het kopje [datatypes](#datatypes).
 - Operator: een teken dat een operatie uitvoerd, zoals optellen of delen.
 - Keyword: deze worden geven het begin van een operatie aan, en mogen daarom niet als identifier gebruikt worden. Denk aan `function`, `const`, `let` en `if`.
 - Delimiter: oa. haakjes, spaties, punten en komma's. 
