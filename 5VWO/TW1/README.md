@@ -2,4 +2,5 @@
 
 - [Natuurkunde](Natuurkunde)
 - [Informatica](Informatica)
+- [Scheikunde](Scheikunde)
 - [Modelleren](NLT)
