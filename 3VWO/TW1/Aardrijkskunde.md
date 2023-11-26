@@ -1,4 +1,6 @@
-# Wereldeconomie
+---
+title: Wereldeconomie
+---
 
 Samenvatting geschreven door Robin Boers voor TW1 van leerjaar 3 VWO. Bevat paragraaf 1tm5 van hoofdstuk 1: Economie. Bevat ook paragraaf 1 en 2 van hoofdstuk 5: Migratie. Belangrijk: migratie is gewoon een duur woord voor verhuizen.
 

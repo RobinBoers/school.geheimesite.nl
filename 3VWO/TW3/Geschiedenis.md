@@ -1,4 +1,6 @@
-# De Koude Oorlog
+---
+title: De Koude Oorlog
+---
 
 Samenvatting van Feniks geschiedenis. Bevat de belangrijkste info uit H7. Geschreven door Robin Boers voor toetsweek 3 van leerjaar 3VWO.
 

@@ -1,4 +1,6 @@
-# Algoritmes
+---
+title: Algoritmes
+---
 
 ## Standaardalgoritmes
 

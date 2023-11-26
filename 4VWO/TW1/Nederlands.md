@@ -1,4 +1,6 @@
-# Verhaalanalyse
+---
+title: Verhaalanalyse
+---
 
 Proza zijn verhalende teksten die niet rijmen. Een vorm daarvan is een roman (lang fictief verhaal) of autobiografie (beschrijft het leven van de auteur). De kenmerken van literatuur zijn:
 

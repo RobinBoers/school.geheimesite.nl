@@ -1,4 +1,6 @@
-# Duurzaamheid en ecologie
+---
+title: Duurzaamheid en ecologie
+---
 
 ## Voedsel en kringelopen
 

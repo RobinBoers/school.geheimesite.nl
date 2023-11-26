@@ -1,4 +1,6 @@
-# De energietransitie
+---
+title: De energietransitie
+---
 
 Samenvatting buiteNLand H3: Energietransitie voor leerjaar 3VWO. Geschreven door Robin Boers voor een SO in de tweede week na de voorjaarsvakantie.
 

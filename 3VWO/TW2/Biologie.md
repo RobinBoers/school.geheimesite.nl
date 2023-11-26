@@ -1,4 +1,6 @@
-# Voortplantingen en seksualiteit
+---
+title: Voortplantingen en seksualiteit
+---
 
 Samenvatting H4 2VWO. Geschreven door Robin Boers voor toetsweek 2 van leerjaar 3VWO.
 

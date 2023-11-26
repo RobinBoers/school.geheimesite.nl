@@ -1,4 +1,6 @@
-# Verlichting
+---
+title: Verlichting
+---
 
 Geschreven door Robin Boers voor de 3e toetsweek van leerjaar 2. Bevat de belangrijke punten uit hoofdstuk 2 en hoofdstuk 3. Geschreven tijdens / vlak na de 2e corona lockdown. Jaartallen en tijdsvolgorde hoeven niet worden te geleerd.
 

@@ -1,4 +1,6 @@
-# Argumenteren
+---
+title: Argumenteren
+---
 
 ## Argumenten
 

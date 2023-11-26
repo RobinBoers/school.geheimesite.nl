@@ -1,4 +1,6 @@
-# Grondstoffen
+---
+title: Grondstoffen
+---
 
 In Europa hebben we veel grondstoffen, waardoor we erg rijk zijn geworden. Het belangrijkst zijn ijzererts en steenkool, omdat je daarmee staal kan maken, maar we hebben ook: olie, aardgas, zink en lood.
 

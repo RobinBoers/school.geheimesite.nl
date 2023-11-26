@@ -1,4 +1,6 @@
-# Leerstof rekenen
+---
+title: Rekenen
+---
 
 Dit is alle leerstof van het eerste en tweede jaar bij elkaar, H1 t/m H28 voor toetsweek 4 van 2VWO.
 

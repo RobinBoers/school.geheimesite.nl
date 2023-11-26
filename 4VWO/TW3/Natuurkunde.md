@@ -1,4 +1,6 @@
-# Materialen
+---
+title: Materialen
+---
 
 ## Deeltjesmodel voor gassen
 

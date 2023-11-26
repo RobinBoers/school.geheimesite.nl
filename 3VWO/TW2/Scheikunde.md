@@ -1,4 +1,6 @@
-# TW2: Scheikunde
+---
+title: Scheikunde
+---
 
 Samenvatting Scheikunde. Geschreven door Robin Boers voor toetsweek 2 van leerjaar 3VWO.
 

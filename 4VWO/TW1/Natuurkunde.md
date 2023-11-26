@@ -1,4 +1,6 @@
-# Elektriciteit
+---
+title: Elektriciteit
+---
 
 ## Formules
 

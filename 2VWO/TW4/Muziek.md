@@ -1,4 +1,6 @@
-# Leerstof muziek
+---
+title: Muziek
+---
 
 Een hele noot is een bolletje en duurt 4 tellen. Een halve noot duurt 2 tellen en is niet ingekleurd een kwart noot is een normale noot en is 1 tel. Een achtste noot is een halve tel en heeft 1 vlag. Een zestiende noot is een kwart tel en heeft 2 vlaggen.
 

@@ -1,4 +1,6 @@
-# Hersenen en leren
+---
+title: Hersenen en leren
+---
 
 ## Metacognitie
 

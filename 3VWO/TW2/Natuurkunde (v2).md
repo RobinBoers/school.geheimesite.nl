@@ -1,4 +1,6 @@
-# Krachten en energie
+---
+title: Krachten en energie (v2)
+---
 
 Samenvatting Natuurkunde H2 en H3 van Nova 3VWO. Geschreven door Robin Boers voor toetsweek 2 van leerjaar 3VWO. 2e versie met verbeterde uitleg i guess.
 

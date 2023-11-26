@@ -1,4 +1,6 @@
-# Erfelijkheid en Evolutie
+---
+title: Erfelijkheid en Evolutie
+---
 
 Samenvatting Biologie thema 5: Erfelijkheid en evolutie. Geschreven door Robin Boers voor toetsweek 3 van leerjaar 3VWO.
 

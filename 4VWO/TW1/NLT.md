@@ -1,4 +1,6 @@
-# Technisch ontwerpen
+---
+title: Technisch ontwerpen
+---
 
 Bij technisch ontwerpen ontwerp je iets. Dat heeft een aantal verschillen van onderzoeken:
 

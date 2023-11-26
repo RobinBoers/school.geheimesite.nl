@@ -1,4 +1,6 @@
-# Duurzaamheid en klimaat
+---
+title: Duurzaamheid en klimaat
+---
 
 Gemaakt door Robin Boers voor een TW4 van leerjaar 2. Bevat de hoofdzaken uit H4 paragraaf 1 t/m 8.
 

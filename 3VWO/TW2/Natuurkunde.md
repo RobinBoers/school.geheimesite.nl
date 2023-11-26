@@ -1,4 +1,6 @@
-# Krachten en energie
+---
+title: Krachten en energie
+---
 
 Samenvatting Natuurkunde voor H2 en H3 van Nova leerjaar 3VWO. Geschreven voor toetsweek 2 van leerjaar 3VWO.
 

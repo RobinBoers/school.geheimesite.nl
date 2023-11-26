@@ -1,4 +1,6 @@
-# Nederland na 1945
+---
+title: Nederland na 1945 (v2)
+---
 
 Dit is een samenvatting van geschiedenis geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO. Verbeterde v2.
 

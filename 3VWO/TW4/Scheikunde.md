@@ -1,4 +1,6 @@
-# I fucking <3 chemistry
+---
+title: I fucking <3 chemistry
+---
 
 ## Hoofdstuk 1
 

@@ -1,4 +1,6 @@
-# Electriciteit & krachten
+---
+title: Electriciteit & krachten
+---
 
 Samenvatting voor Natuurkunde hoofdstuk 1: Energie en hoofdstuk 2: Krachten (par 1+2). Geschreven door Robin Boers voor TW1 van leerjaar 3VWO. Game die ik ga kiezen als ik boven acht haal: _N++_
 

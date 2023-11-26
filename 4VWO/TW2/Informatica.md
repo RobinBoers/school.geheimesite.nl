@@ -1,4 +1,6 @@
-# E1: Hard- en software
+---
+title: "E1: Hard- en software"
+---
 
 ## Drielagenmodel
 

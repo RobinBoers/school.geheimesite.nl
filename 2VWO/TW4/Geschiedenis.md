@@ -1,4 +1,6 @@
-# De Franse Revolutie
+---
+title: De Franse Revolutie
+---
 
 Deze samenvatting bevat de hoofdzaken uit H4 van geschiedenis 2VWO. Geschreven door Robin Boerd voor toetsweek 4 van leerjaar 2.
 

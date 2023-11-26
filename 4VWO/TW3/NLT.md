@@ -1,4 +1,6 @@
-# Forensisch onderzoek
+---
+title: Forensisch onderzoek
+---
 
 Op de toets gaan we een mini-moord oplossen waarbij we dezelfde dingen die we in de les hebben geoefend gaan toepassen. Je moet ook de dader-slachtoffer-pd driehoek kunnen gebruiken om te argumenteren waren iemand wel of niet de dader zou kunnen zijn.
 

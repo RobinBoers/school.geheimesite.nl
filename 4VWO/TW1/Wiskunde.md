@@ -1,4 +1,6 @@
-# H2: De afgeleide functie
+---
+title: "H2: De afgeleide functie"
+---
 
 ![](wiskunde1.jpg)
 ![](wiskunde2.jpg)

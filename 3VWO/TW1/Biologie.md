@@ -1,4 +1,6 @@
-# Waarneming en gedrag
+---
+title: Waarneming en gedrag
+---
 
 Samenvatting van basisstof 1 t/m 8 van BJV. Geschreven door Robin Boers in oktober 2021 voor toetsweek 1 van leerjaar 2VWO.
 

@@ -1,4 +1,6 @@
-# TW3: Beeldende vormgeving
+---
+title: Beeldende vormgeving
+---
 
 Samenvatting BV geschreven door Robin Boers op 29 maart 2022 voor toetsweek 3 van leerjaar 3VWO.
 

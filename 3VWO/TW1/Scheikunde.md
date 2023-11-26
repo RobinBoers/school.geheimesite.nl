@@ -1,4 +1,6 @@
-# TW1: Scheikunde
+---
+title: Scheidingsmethodes en mengsels
+---
 
 Samenvatting voor scheikunde hoofdstuk 1. Geschreven door Robin Boers voor TW1 van leerjaar 3VWO.
 

@@ -1,4 +1,6 @@
-# Argumentatie
+---
+title: Argumentatie
+---
 
 Als je iemand wil overtuigen van je standpunt moet je je standpunt onderbouwen met argumenten:
 

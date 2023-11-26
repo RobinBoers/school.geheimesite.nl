@@ -1,4 +1,6 @@
-# Medieval literature
+---
+title: Medieval literature
+---
 
 ## History of the English language
 

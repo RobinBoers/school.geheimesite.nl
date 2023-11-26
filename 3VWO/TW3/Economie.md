@@ -1,4 +1,6 @@
-# Bedrijfseconomie
+---
+title: Bedrijfseconomie
+---
 
 Samenvatting Economie Pincode H5 (bedrijfseconomie). Geschreven door Robin Boers voor toetsweek 3 van leerjaar 3VWO.
 

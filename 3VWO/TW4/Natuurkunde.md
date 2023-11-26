@@ -1,4 +1,6 @@
-# Straling en schakelingen
+---
+title: Straling en schakelingen
+---
 
 Dit is een samenvatting van H5 en H6 van NOVA. Geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
 

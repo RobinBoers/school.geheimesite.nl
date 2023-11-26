@@ -1,4 +1,6 @@
-# Conflicten en migratie
+---
+title: Conflicten en migratie
+---
 
 Een voorbeeld van een conflict is een gewapend conflict, waarbij meer dan 25 doden vallen. Ze ontstaan als een groep mensen macht uitoefent over een andere groep.
 

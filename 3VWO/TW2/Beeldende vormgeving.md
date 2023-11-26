@@ -1,4 +1,6 @@
-# Kunststromingen & periodes
+---
+title: Kunststromingen & periodes
+---
 
 Een collage is een combinatie van vele afbeeldingen die samen een samenhangend geheel vormen.
 

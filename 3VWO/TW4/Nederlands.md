@@ -1,4 +1,6 @@
-# TW4: Nederlands
+---
+title: Tekststructuren
+---
 
 Leeroverzicht Nederlands (Lezen) voor toetsweek 4 van leerjaar 3VWO.
 

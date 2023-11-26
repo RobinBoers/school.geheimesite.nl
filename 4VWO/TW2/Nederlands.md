@@ -1,4 +1,6 @@
-# Literatuurgeschiedenis
+---
+title: Literatuurgeschiedenis
+---
 
 ## Oudheid
 

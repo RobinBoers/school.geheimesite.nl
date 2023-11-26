@@ -1,4 +1,6 @@
-# De bloedsomloop
+---
+title: De bloedsomloop
+---
 
 Geschreven door Robin Boers voor TW4 van leerjaar 2VWO. Bevat de belangrijkste zaken van BS1 t/m6 + ES7 + ES8.
 

@@ -23,6 +23,53 @@ Je kan een automaat weergeven in een schema (toestandsdiagram). Daarin zijn de t
 
 Sommige automaten blijven voor altijd doorgaan (bijvoorbeeld stoplichten), maar sommige automaten hebben ook een duidelijke begin en eind toestand. De begintoetstand noteer je met een cirkel waar een pijl ingaat (vanuit niks) en een eindtoestand met een dubbele cirkel.
 
+### Toepassing: stoplichten
+
+Een stoplicht heeft drie toestanden: rood, oranje en geel. Dat ziet er zo uit:
+
+```mermaid
+flowchart TD
+    g --> o
+    o --> r
+    r --> g
+```
+
+Met twee stoplichten heb je meer toestanden. Als stoplicht 1 groen of oranje is moet stoplicht 2 rood zijn en andersom:
+
+- g1r2
+- o1r2
+- r1g2
+- r1o2
+
+```mermaid
+flowchart TD
+    g1r2 --> o1r2
+    o1r2 --> r1g2
+    r1g2 --> r1o2
+    r1o2 --> g1r2
+```
+
+Stel je hebt een zijweg die een-richtingsverkeer is: je kan alleen van de zijweg naar de hoofdweg.
+
+Je hebt in deze afbeelding de volgende toestanden:
+
+- r1g2g3r4
+- g1g2r3r4
+- g1r2r3g4
+
+```mermaid
+flowchart TD
+    r1g2g3r4 --> g1g2r3r4
+    g1g2r3r4 --> g1r2r3g4
+    g1r2r3g4 --> r1g2g3r4
+```
+
+Stoplicht 1 en 2 staan nu het meest op groen.
+
+### Beperkingen
+
+Automaten hebben ook beperkingen. Ze hebben namelijk geen state (geheugen). Je kan dus geen dingen berekenen of onthouden.
+
 ## Datatypes
 
 In programmeertalen heb je verschillende soorten data:

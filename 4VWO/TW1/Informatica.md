@@ -1,4 +1,6 @@
-# Informatie & Usability
+---
+title: Informatie & Usability
+---
 
 Leren voor de toetsweek: C1-2 en F1
 

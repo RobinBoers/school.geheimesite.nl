@@ -1,4 +1,6 @@
-# Sparen, beleggen en lenen
+---
+title: Sparen, beleggen en lenen
+---
 
 Samenvatting economie. Paragraaf 1 en 2 van hoofdstuk 2 Pincode 3VWO. Geschreven door Robin Boers in oktober 2021 voor toetsweek 1 leerjaar 3VWO.
 

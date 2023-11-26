@@ -1,4 +1,6 @@
-# Bedrijfseconomie
+---
+title: Bedrijfseconomie
+---
 
 Samenvatting Economie. Bevat de belangrijkste punten uit H4 van Pincode 3VWO (6e editie). Geschreven door Robin Boers voor toetsweek 2 van leerjaar 3VWO.
 

@@ -1,4 +1,6 @@
-# Krachten en Beweging
+---
+title: Krachten en Beweging
+---
 
 Samenvatting Natuurkunde H6. Geschreven door Robin Boers voor toestweek 3 van leerjaar 3 VWO.
 

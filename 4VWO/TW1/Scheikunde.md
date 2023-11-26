@@ -1,4 +1,6 @@
-# Atoombouw
+---
+title: Atoombouw
+---
 
 <table>
   <thead>
@@ -50,12 +52,10 @@
     <tr>
       <td>
         Metaalrooster<br />
-
         <ul>
           <li>Vrije elektronen</li>
           <li>Metaalbindingen</li>
         </ul>
-
         Sterkere binding =&gt; hogersmeltpunt<br />
         (kwik heeft een zwakke binding)
       </td>
@@ -70,14 +70,11 @@
         <strong>Molecuulrooster:</strong><br />
         Meerdere verschillende atomen die<br />
         samen een molecuul vormen<br /><br />
-
         <strong>Atoomrooster:</strong><br />
         Meerdere dezelfde atomen in een rooster<br /><br />
-
         Beide soorten roosters worden bij elkaar gehouden<br />
         door atoombindingen of covalente bindingen (tussen de atomen in een<br />
         molecuul).<br /><br />
-
         Tussen de moleculen bevinden zich ook nog bindingen:<br />
         Van der Waalsbindingen.
       </td>

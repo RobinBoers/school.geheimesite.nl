@@ -1,4 +1,6 @@
-# Tweede wereldoorlog
+---
+title: Tweede wereldoorlog
+---
 
 Kenmerkend aspecten:
 

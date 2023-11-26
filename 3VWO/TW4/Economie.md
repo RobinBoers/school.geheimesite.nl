@@ -1,4 +1,6 @@
-# TW4: Economie
+---
+title: Economie
+---
 
 Dit is een samenvatting van H7 van economie. Geschreven door Robin Boers voor toetsweek 4 van leerjaar 3VWO.
 
