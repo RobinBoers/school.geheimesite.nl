@@ -207,6 +207,7 @@ Met functies kan je een waarde veranderen. Een functie is zoals een wiskundige f
   YEAR('2007-01-13')    # 2007
   MONTH('2007-01-13')   # 01
   DAY('2007-01-13')     # 13
+  ```
 
 - `MONTHNAME`, `DAYNAME`: haal een deel uit een datum, maar dan als fancy word :D
 
@@ -265,6 +266,7 @@ ALLES HIERNA ZIJN RANDOM AANTEKENINGEN DIE IK NOG NIET UITGEWERKT HEB!
 
 Basically een case statement zoals elke taal.
 
+```sql
 SELECT CASE `manager_id` 
 	WHEN 100 THEN 'Steven King'
     WHEN 101 THEN 'Nina Kochar'
@@ -275,8 +277,9 @@ SELECT CASE `manager_id`
     WHEN 201 THEN 'Micael Hartstein'
     WHEN 203 THEN 'Shelley Higgins'
  END AS `manager`, COUNT(*) AS `total people`, SUM(`salary`) AS `total salary` FROM `employees` GROUP BY `manager_id`;
+```
 
-# Types
+## Types
 
 - `INT`: can be SIGNED (-128-127) or UNSIGNED (0-255)
 - `FLOAT`: small floating point.
@@ -286,12 +289,13 @@ SELECT CASE `manager_id`
 - `TINYTEXT`, `VARCHAR`: string of max 255 chars.
 - `TEXT`: max ~6000 chars string.
 
-- DATE
-- TIME
-- DATETIME
+- `DATE`
+- `TIME`
+- `DATETIME`
 
-# Example queries
+## Example queries
 
+```sql
 SELECT
   CONCAT(`first_name`, ' ', `last_name`) AS `volledige naam`,
   CONCAT('$', `salary`) AS `maandsalaris`,
@@ -341,5 +345,5 @@ SELECT CASE `department_id`
 FROM `employees`
 GROUP BY `department_id`
 HAVING `gemiddeld salaris` < 10000 AND `aantal personeelsleden` > 3;
-
+```
 
