@@ -27,7 +27,7 @@ SELECT *
 FROM `employees`;
 ```
 
-## `SELECT`: Velden ophalen
+## `SELECT`: velden ophalen
 
 Om informatie uit een database te halen moet je eerst kiezen welke velden je wil zien. Het meest simpele voorbeeld zag je hiervoor al.
 
