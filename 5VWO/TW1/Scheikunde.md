@@ -1,4 +1,6 @@
-# Evenwichten en energie
+---
+title: Evenwichten en energie
+---
 
 ## Reactiesnelheid
 

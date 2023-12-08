@@ -4,29 +4,17 @@ title: Elektriciteit
 
 ## Formules
 
-$$
-P = U*I
-$$
+\\[P = U \cdot I\\]
 
-$$
-R = {U \over I}
-$$
+\\[R = \frac{U}{I}\\]
 
-$$
-E = P*t
-$$
+\\[E = P \cdot t\\]
 
-$$
-I = {Q \over Δt}
-$$
+\\[I = \frac{Q}{\delta t}\\]
 
-$$
-U = {J \over Q}
-$$
+\\[U = \frac{J}{Q}\\]
 
-$$
-R = ρ * {l \over A}
-$$
+\\[R = ρ \cdot \frac{l}{A}\\]
 
 ## Veiligheid
 
@@ -39,7 +27,7 @@ Een gevolg van overbelasting kan zijn dat de isolatie om de koperdraden smelt.
 
 De zekering zet dan automatisch de groep uit.
 
-Als er stroom lekt (`Iin - Uuit > 30mA`) zet de aardlekschakelaar automatisch de stroom uit.
+Als er stroom lekt (\\I_{in} - U_{uit} > 30 mA\\) zet de aardlekschakelaar automatisch de stroom uit.
 
 ## Soorten weerstanden
 
@@ -51,10 +39,10 @@ Als er stroom lekt (`Iin - Uuit > 30mA`) zet de aardlekschakelaar automatisch de
 
 Een variabele weerstand kan gebruikt worden als variabele weerstand (waarbij de stroom maar door een deel van de weerstand gaat). Je gebruikt dan maar 2 inputs. Je kan hem ook gebruiken als spanningsdeler. Je gebruikt dan alle (3 de) inputs. De stroom gaat dan door de hele weerstand maar de helft van de weerstand staat in parallel met het onderdeel en de andere helft in serie:
 
-![](variabele-weerstand-spanningsdeler.png)
+![Variabele weerstand als spanningsdeler](variabele-weerstand-spanningsdeler.png)
 _Variabele weerstand als spanningsdeler_
 
-![](variabele-weerstand.png)
+![Variabele weerstand als variabele weerstand](variabele-weerstand.png)
 _Variabele weerstand als variabele weerstand_
 
 ## Significantie
@@ -68,4 +56,5 @@ Let op:
 - Tussenuitkomsten niet (veel) afronden!
 - Getallen zonder meetonzekerheid (bijvoorbeeld het aantal lampjes of een symbool zoals π) tellen niet mee voor significantie.
 
-_Als je 1 significant cijfer moet gebruiken en op $0.x$ uitkomt wordt het natuurlijk $x*10^{-1}$\_
+_Als je 1 significant cijfer moet gebruiken en op \\0.x\\ uitkomt wordt het natuurlijk \\x \cdot 10^{-1}\\
+

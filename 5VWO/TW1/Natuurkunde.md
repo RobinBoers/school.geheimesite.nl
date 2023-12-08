@@ -1,4 +1,6 @@
-# Geluid & golven
+---
+title: Geluid & golven
+---
 
 ## u,t-diagram
 

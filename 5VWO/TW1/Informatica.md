@@ -1,4 +1,6 @@
-# Programmeren
+---
+title: Programmeren
+---
 
 ## Automaten
 

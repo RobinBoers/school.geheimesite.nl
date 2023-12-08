@@ -1,4 +1,6 @@
-# Modeleren
+---
+title: Modeleren
+---
 
 Modellen worden gebruikt voor:
 

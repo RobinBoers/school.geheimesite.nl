@@ -1,5 +1,6 @@
 ---
 title: "H1: Gedrag"
+---
 
 ## §1: Gedrag en dierenwelzijn
 

@@ -1,4 +1,6 @@
-# Medicijnen: van molecuul tot mens
+---
+title: "Medicijnen: van molecuul tot mens"
+---
 
 ## De ontwikkeling van een medicijn
 
