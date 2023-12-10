@@ -114,7 +114,7 @@ Je kan dit beeld tekenen met drie constructiestralen:
 - Vergrotingsfactor (N): hoeveel keer groter of kleiner het beeld is tenopzichte van het voorwerp. Dit geldt alleen bij lineare vergroting (maar dat is in bijna alle opgaven zo).
 - Lenssterkte (S): hoe sterk de lens is in dioptrie (D of dpt).
 
-\\[N = \frac{L_{b}}{L_{v} = \frac{b}{v}\\]
+\\[N = \frac{L_{b}}{L_{v}} = \frac{b}{v}\\]
 
 \\[S = \frac{1}{f} = \frac{1}{b} + \frac{1}{v}\\]
 
