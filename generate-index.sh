@@ -19,8 +19,8 @@ function generate_index() {
     local directory=$1
     local indent=$2
     local index=""
-    
-    for item in $(ls --group-directories-first -r "$directory"); do
+
+    for item in $(ls -l --group-directories-first "$directory" | sort -k 1,1r -k 9,9r); do
         item="$directory/$item"
 
         if [ -d "$item" ]; then 
@@ -41,7 +41,7 @@ function generate_index() {
             fi
         fi
     done
-    
+
     echo "$index"
 }
 
