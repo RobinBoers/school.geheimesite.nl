@@ -28,9 +28,10 @@ function generate_index() {
             if [ -n "$title" ]; then
                 # Skip Jekyll directories
                 [[ "$title" == _* ]] && continue;
-
+                
+                index+="\n"
                 index+=$(printf "#%.0s" $(seq 1 $((indent + 1))))
-                index+=" $title\n"
+                index+=" $title\n\n"
                 index+=$(generate_index "$item" $((indent + 1)))
             fi
         elif [ "${item##*.}" == "md" ] && [ "$(basename "$item")" != "README.md" ]; then
