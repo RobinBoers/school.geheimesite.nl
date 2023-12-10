@@ -1,0 +1,78 @@
+:root {
+  --background: 
+  --foreground: 0, 0, 0;
+  --primary: 50, 194, 136;
+}
+
+/* General CSS (split into library later) */
+
+body {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+a {
+  color: currentColor;
+}
+
+h1 a, h2 a, h3 a {
+  text-decoration: none !important;
+}
+
+img {
+  max-width: 100%;
+  user-select: none;
+}
+
+pre {
+  max-width: 100%;
+  width: 100%;
+  overflow-x: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+pre::-webkit-scrollbar {
+  display: none;
+}
+
+/* Site-specific */
+
+body {
+  max-width: 750px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+  min-height: fit-content;
+}
+
+/* Footer */
+
+footer {
+  color: rgb(87, 87, 87);
+  font-size: 80%;
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+
+footer {
+  line-height: 23px;
+}
+
+footer a {
+  color: rgb(69, 69, 69);
+}
+
+footer svg {
+  height: 1em;
+  vertical-align: middle;
+}
+
+footer .author {
+  line-height: 40px;
+}
+
+footer .license-icon {
+  float: right;
+}
+
