@@ -24,9 +24,10 @@ Je kan dus zien dat de geluidsintensiteit kwadratisch afneemt hoe verder je van 
 \\[I_{\text{pijngrens}} = 10 W/m^2\\]
 
 Aangezien ons oor een hele grote range aan geluidssterktes kan waarnemen gebruiken we een logaritmische schaal genaamd decibel (dB). Hiervoor geldt: 
+
 \\[I_{0} = I_{\text{gehoordrempel}}\\]
 
-\\[L_{b} = 10 /cdot \log{\frac{I}{I_{0}}\\]
+\\[L_{b} = 10 \cdot \log{\frac{I}{I_{0}}\\]
 
 Je doet in de onderste formule *10 omdat je de geluidssterkte in **deci**bel wil en niet in **bel**.
 Voor een geluidssterkte in decibel geldt dat een verdubbeling van het aantal geluidsbronnen zorgt voor een toename van 3dB, en een verdubbeling van de afstand tot de geluidsbron voor een afname van 6dB (door het kwadraat onder de deelstreep).
@@ -76,5 +77,30 @@ De middentrap bevat het basilair membraan. Op dat membraan liggen haartjes die g
 | Geluidsgolven       | f⇡          | f⇣         | A⇡       | A⇣    |
 | Vloeistoftrillingen | Kortstondig | Langgolvig | Krachtig | Zwak  |
 | Impulsen            | -           | -          | f⇡       | f⇣    |
+
+# Zicht & lenzen
+
+Misschien is het handig om de [derdeklas stof over lenzen](/3VWO/TW4/Natuurkunde#lenzen) nog even te herhalen. Voor deze toets hoeven we geen negatieve lenzen te gebruiken (volgensmij). In het kort: 
+
+Een lens is een stuk glas dat lichtstralen vervormt. Een lens heeft een brandpunt (F) dat op de brandpuntsafstand (f) van de lens ligt op de as van het optisch midden. Als het brandpunt dichter bij de lens ligt is de lens sterker.
+
+Je hebt twee soorten lenzen:
+
+- Positief: Convergeert straling
+- Negatief: Divergeert straling
+
+> Bij een positieve lens is [het brandpunt] waar de lichtstralen na de lens terechtkomen.  
+> Bij een negatieve lens is [het] waar de lichtstralen van de divergente bundel vandaan lijken te komen (achter de lens dus).
+
+Een lens maakt een beeld aan de andere kant van de lens, dat je bijvoorbeeld kan projecteren. Het beeld is:
+
+- Omgekeerd
+- Verkleind of vergroot
+
+Je kan dit beeld tekenen met drie constructiestralen:
+
+- Loodrecht voor de lens gaat na de lens door het brandpunt.
+- Door het brandpunt voor de lens gaat na de lens loodrecht.
+- Door het optisch midden gaat overandered door.
 
 
