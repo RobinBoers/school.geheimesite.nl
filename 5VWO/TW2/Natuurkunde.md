@@ -27,7 +27,7 @@ Aangezien ons oor een hele grote range aan geluidssterktes kan waarnemen gebruik
 
 \\[I_{0} = I_{\text{gehoordrempel}}\\]
 
-\\[L_{b} = 10 \cdot \log{\frac{I}{I_{0}}\\]
+\\[L_{b} = 10 \cdot \log{\frac{I}{I_{0}}}\\]
 
 Je doet in de onderste formule *10 omdat je de geluidssterkte in **deci**bel wil en niet in **bel**.
 Voor een geluidssterkte in decibel geldt dat een verdubbeling van het aantal geluidsbronnen zorgt voor een toename van 3dB, en een verdubbeling van de afstand tot de geluidsbron voor een afname van 6dB (door het kwadraat onder de deelstreep).
