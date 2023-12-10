@@ -78,7 +78,9 @@ De middentrap bevat het basilair membraan. Op dat membraan liggen haartjes die g
 | Vloeistoftrillingen | Kortstondig | Langgolvig | Krachtig | Zwak  |
 | Impulsen            | -           | -          | f⇡       | f⇣    |
 
-# Zicht & lenzen
+# Zicht
+
+## Lenzen
 
 Misschien is het handig om de [derdeklas stof over lenzen](/3VWO/TW4/Natuurkunde#lenzen) nog even te herhalen. Voor deze toets hoeven we geen negatieve lenzen te gebruiken (volgensmij). In het kort: 
 
@@ -103,4 +105,23 @@ Je kan dit beeld tekenen met drie constructiestralen:
 - Door het brandpunt voor de lens gaat na de lens loodrecht.
 - Door het optisch midden gaat overandered door.
 
+### Rekenen met lenzen
+
+- Voorwerpsgrootte (L<sub>v</sub>): grootte van het voorwerp.
+- Beeldgrootte (L<sub>b</sub>): grootte van het beeld.
+- Voorwerpsafstand (v): afstand tussen het voorwerp en het beeld
+- Beeldafstand (b): afstand tussen de lens en het beeld.
+- Vergrotingsfactor (N): hoeveel keer groter of kleiner het beeld is tenopzichte van het voorwerp. Dit geldt alleen bij lineare vergroting (maar dat is in bijna alle opgaven zo).
+- Lenssterkte (S): hoe sterk de lens is in dioptrie (D of dpt).
+
+\\[N = \frac{L_{b}}{L_{v} = \frac{b}{v}\\]
+
+\\[S = \frac{1}{f} = \frac{1}{b} + \frac{1}{v}\\]
+
+Omdat dit allemaal verhoudingen zijn kan je in principe elke eenheid voor b, v, L<sub><i>x</i><sub> gebruiken (behalve als je S probeert uit te rekenen, dan moet je wel echt meters gebruiken).
+
+In geval van een oog:
+
+\\[S \simeq 60 dpt\\]
+\\[b \simeq 17 mm\\]
 
