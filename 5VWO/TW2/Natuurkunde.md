@@ -133,12 +133,15 @@ Als je je oog accomodeert maak je de lens boller. Een bolle lens is nodig om dic
 
 Je hebt drie soorten van slechtziendheid:
 
-- Oudziendheid: de spieren in je ogen worden slecht waardoor de nabijheidsafstand groter wordt. Dit los je op met een positieve lens. Je vervangt eigenlijk de bolheid die het oog zelf niet meer kan maken met een bril.
-- Verziend: de ooglens is te zwak (of de oogbol te lang). Veraf is scherp maar in tegenstelling tot een normaal oog moet het oog ook voor veraf accomoderen. Dit los je ook op met een bolle (= sterke) lens.
-- Bijziend: de ooglens is te sterk (of de oogbol te kort). Dichtbij is scherp maar veraf niet. Dit los je op met een negatieve bril.
+- **Oudziend**: de spieren in je ogen worden slecht waardoor de nabijheidsafstand groter wordt. Dit los je op met een positieve lens. Je vervangt eigenlijk de bolheid die het oog zelf niet meer kan maken met een bril.
+
+- **Verziend**: de ooglens is te zwak (of de oogbol te lang). Veraf is scherp maar in tegenstelling tot een normaal oog moet het oog ook voor veraf accomoderen. Dit los je ook op met een bolle (= sterke) lens.
+
+- **Bijziend**: de ooglens is te sterk (of de oogbol te kort). Dichtbij is scherp maar veraf niet. Dit los je op met een negatieve bril.
+
+_Het deel voor "ziend" is waar je **wel** goed in bent._
 
 Bij bijziendheid is de verteafstand (maximale afstand die je kan zien) niet oneindig, zoals bij een normaal oog. Je kan aan de hand van de verteafstand de sterkte van de bril berekenen:
 
 \\[S = -1 / s_{\text{verte}}\\]
-
 
