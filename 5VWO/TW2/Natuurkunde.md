@@ -118,7 +118,7 @@ Je kan dit beeld tekenen met drie constructiestralen:
 
 \\[S = \frac{1}{f} = \frac{1}{b} + \frac{1}{v}\\]
 
-Omdat dit allemaal verhoudingen zijn kan je in principe elke eenheid voor b, v, L<sub><i>x</i><sub> gebruiken (behalve als je S probeert uit te rekenen, dan moet je wel echt meters gebruiken).
+Omdat dit allemaal verhoudingen zijn kan je in principe elke eenheid voor b, v, L<sub><i>x</i></sub> gebruiken (behalve als je S probeert uit te rekenen, dan moet je wel echt meters gebruiken).
 
 In geval van een oog:
 
