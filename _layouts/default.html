@@ -1,15 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang, default: site.lang }}">
+<html lang="{{ site.lang }}">
   {% include head.html %}
 
   <body>
-    <header>
-      <p class="h3">
-        <a href="{{ site.baseurl }}/">← Terug naar de index</a>
-      </p>
-    </header>
-
-    <main>{{ content }}</main>
+    {{ content }}
 
     <footer>
       {% include footer.html %}

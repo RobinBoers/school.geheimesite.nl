@@ -1,9 +1,3 @@
-:root {
-  --background: 
-  --foreground: 0, 0, 0;
-  --primary: 50, 194, 136;
-}
-
 /* General CSS (split into library later) */
 
 body {
