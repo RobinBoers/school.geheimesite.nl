@@ -1,5 +1,16 @@
 /* General CSS (split into library later) */
 
+body, html {
+  box-sizing: border-box;
+  height: fit-content;
+}
+
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
+
 body {
   font-size: 1.1rem;
   line-height: 1.5;
@@ -29,6 +40,48 @@ pre {
 
 pre::-webkit-scrollbar {
   display: none;
+}
+
+pre:has(code) {
+  background: black;
+  color: white;
+  padding: .5em;
+  border-radius: 8px;
+}
+
+kbd {
+  border: 1px solid gray;
+  background: white;
+  border-radius: 6px;
+  padding: 2px 6px;
+  font-family: sans-serif;
+  color: #111121;
+}
+
+table {
+  border-collapse: collapse;
+  max-width: 100%;
+  width: 100%;
+}
+
+td,
+th {
+  padding: 0.2em;
+  text-align: left;
+}
+
+tr {
+  border-bottom: 1px solid currentColor;
+}
+
+blockquote {
+  border-left: 2px solid currentColor;
+  font-size: 0.875em;
+  font-style: italic;
+  opacity: 0.7;
+  padding-left: 40px;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /* Site-specific */
