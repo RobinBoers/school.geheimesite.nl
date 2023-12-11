@@ -9,7 +9,6 @@ Success met leren!
 
 ### TW2
 
-- [SQL](5VWO/TW2/SQL)
 - [Poëzie](5VWO/TW2/poezie)
 - [Medicijnen: van molecuul tot mens](5VWO/TW2/NLT)
 - [Biofysica](5VWO/TW2/Natuurkunde)
