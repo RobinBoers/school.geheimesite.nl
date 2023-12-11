@@ -78,8 +78,6 @@ De middentrap bevat het basilair membraan. Op dat membraan liggen haartjes die g
 | Vloeistoftrillingen | Kortstondig | Langgolvig | Krachtig | Zwak  |
 | Impulsen            | -           | -          | f⇡       | f⇣    |
 
-# Zicht
-
 ## Lenzen
 
 Misschien is het handig om de [derdeklas stof over lenzen](/3VWO/TW4/Natuurkunde#lenzen) nog even te herhalen. Voor deze toets hoeven we geen negatieve lenzen te gebruiken (volgensmij). In het kort: 
