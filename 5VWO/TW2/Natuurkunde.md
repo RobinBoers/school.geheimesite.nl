@@ -145,18 +145,24 @@ Bij bijziendheid is de verteafstand (maximale afstand die je kan zien) niet onei
 
 Om een hefboom te bewegen zijn drie dingen van belang:
 
-- De grootte van de kracht (F)
+- De grootte van de kracht
 - Het aangrijpingspunt
 - De richting van aangrijpen
 
-Samen bepaalt dit of de hefboom wel of niet beweegt. Dat noemen we het (kracht)moment (ik snap ook niet waarom...).
-
+Samen bepaalt dit of de hefboom wel of niet beweegt. We hoeveelheid draaing die een kracht veroorzaakt noemen we het (kracht)moment (in Nm). 
 Het moment bereken je zo:
 
 \\[M = F \cdot r\\]
 
-Waarbij de arm (r) de loodrechte afstand van de kracht naar het draaipunt is (in meters).
+De arm (r) is de afstand tot het draaipunt (in meters), loodrecht op de werklijn van de kracht.
+
+![Een deur die draait onder invloed van de kracht (F)](deur.png)
+
+Voor dezelfde draaing (M) minder kracht gebruiken => grotere arm. Daarom is het efficiënter om loodrecht tegen de deur te duwen.
+
+![r1 > r2](deur-loodrecht.png)
 
 Als de momenten aan beide kanten van de hefboom gelijk zijn is de hefboom in evenwicht, en beweegt hij dus niet. Dit noem je de hefboomwet.
+
 
 
