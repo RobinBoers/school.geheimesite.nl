@@ -28,18 +28,16 @@ De hoofdletter sigma (\\\Sigma\\) is het opsommingsteken. Hier staat dus: alle e
 - Elektrische energie
 - Trillingsenergie<small>, waaronder geluid</small>
 
-Chemische energie is de energie die in de atomen van een stof ligt opgeslagen. Deze komt onder andere vrij door de stof te verbranden.
+Chemische energie is de energie die in de atomen van een stof ligt opgeslagen. Deze komt onder andere vrij door de stof te verbranden. r<sub>v</sub> is de verbrandingswarmte van een stof, die je in Binas kan vinden.
 
 \\[E_{ch} = r_{v} V\\]
-
-r<sub>v</sub> is de verbrandingswarmte van een stof, die je in Binas kan vinden.
-
 \\[E_{k} = \frac{1}{2} m v^2\\]
 \\[E_{z} = F_{z} \cdot s =  m g \Delta h\\]
-
-En in het geval van een ideale veer geldt deze formule:
-
 \\[E_{v} = \frac{1}{2} C u^2\\]
+
+De bovenstaande formule voor veerenergie geldt alleen bij een ideale veer.
+
+### Mechanische energie
 
 De mechanische energie is de som van kinetische en zwaarte-energie:
 
