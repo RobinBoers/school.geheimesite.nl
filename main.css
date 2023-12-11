@@ -88,8 +88,7 @@ blockquote {
 
 body {
   max-width: 750px;
-  margin: 0 auto;
-  padding-bottom: 30px;
+  margin: 4em auto;
   min-height: fit-content;
 }
 
