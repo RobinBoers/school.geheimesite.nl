@@ -99,6 +99,17 @@ body {
   min-height: fit-content;
 }
 
+img {
+  aspect-ratio: 16/9;
+  object-fit: contain;
+  width: 100%;
+}
+
+svg[id~="mermaid"] {
+  margin: 0 auto;
+  display: block;
+}
+
 /* Footer */
 
 footer {
