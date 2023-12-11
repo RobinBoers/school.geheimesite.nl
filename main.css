@@ -25,6 +25,15 @@ h1 a, h2 a, h3 a {
   text-decoration: none !important;
 }
 
+h2 {
+  border-bottom: 1px solid;
+  padding-bottom: 5px;
+}
+
+h4, h5, h6 {
+  margin-bottom: 0;
+}
+
 img {
   max-width: 100%;
   user-select: none;

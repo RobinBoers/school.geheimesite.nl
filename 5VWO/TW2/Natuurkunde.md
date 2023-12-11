@@ -145,3 +145,22 @@ Bij bijziendheid is de verteafstand (maximale afstand die je kan zien) niet onei
 
 \\[S = -1 / s_{\text{verte}}\\]
 
+# Hefbomen
+
+Om een hefboom te bewegen zijn drie dingen van belang:
+
+- De grootte van de kracht (F)
+- Het aangrijpingspunt
+- De richting van aangrijpen
+
+Samen bepaalt dit of de hefboom wel of niet beweegt. Dat noemen we het (kracht)moment (ik snap ook niet waarom...).
+
+Het moment bereken je zo:
+
+\\[M = F \cdot r\\]
+
+Waarbij de arm (r) de loodrechte afstand van de kracht naar het draaipunt is (in meters).
+
+Als de momenten aan beide kanten van de hefboom gelijk zijn is de hefboom in evenwicht, en beweegt hij dus niet. Dit noem je de hefboomwet.
+
+
