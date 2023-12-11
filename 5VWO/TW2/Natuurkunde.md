@@ -145,7 +145,7 @@ Bij bijziendheid is de verteafstand (maximale afstand die je kan zien) niet onei
 
 \\[S = -1 / s_{\text{verte}}\\]
 
-# Hefbomen
+## Hefbomen
 
 Om een hefboom te bewegen zijn drie dingen van belang:
 
