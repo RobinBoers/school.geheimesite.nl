@@ -52,6 +52,6 @@ out="$root_directory/README.md"
     
 [[ -f "$template" ]] && cat "$template" > "$out" || touch "$out"
 
-index=$(generate_index "$root_directory" 0)
+index=$(generate_index "$root_directory" 1)
 echo -e "$index" >> "$out"
 
