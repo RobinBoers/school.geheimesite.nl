@@ -9,7 +9,6 @@ body, html {
 :after,
 :before {
   box-sizing: inherit;
-  border-color: #ccc;
 }
 
 body {
@@ -22,22 +21,22 @@ a {
   color: currentColor;
 }
 
+img {
+  max-width: 100%;
+  user-select: none;
+}
+
 h1 a, h2 a, h3 a {
   text-decoration: none !important;
 }
 
 h2 {
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #ccc;
   padding-bottom: 5px;
 }
 
 h4, h5, h6 {
   margin-bottom: 0;
-}
-
-img {
-  max-width: 100%;
-  user-select: none;
 }
 
 pre {
@@ -81,7 +80,7 @@ th {
 }
 
 tr {
-  border-bottom: 1px solid currentColor;
+  border-bottom: 1px solid #ccc;
 }
 
 blockquote {
