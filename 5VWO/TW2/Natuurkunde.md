@@ -160,7 +160,7 @@ De arm (r) is de afstand tot het draaipunt (in meters), loodrecht op de werklijn
 
 Voor dezelfde draaing (M) minder kracht gebruiken => grotere arm. Daarom is het efficiënter om loodrecht tegen de deur te duwen.
 
-![r1 > r2](deur-loodrecht.png)
+![r1 > r2](loodrecht-deur.png)
 
 Als de momenten aan beide kanten van de hefboom gelijk zijn is de hefboom in evenwicht, en beweegt hij dus niet. Dit noem je de hefboomwet.
 
