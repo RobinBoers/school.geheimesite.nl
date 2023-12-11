@@ -2,11 +2,9 @@
 title: Biofysica
 ---
 
-## Gehoor
-
 We hebben vorig hoofdstuk les gehad over [geluid en golven](https://school.geheimesite.nl/5VWO/TW1/Natuurkunde). Het deel over staande golven in buizen en interferentie zijn bij dit hoofdstuk misschien ook relevant.
 
-### Decibel
+## Decibel
 
 Geluid bestaat uit trillingen. Het volume van een geluid noemen we ookwel geluidsintensiteit. De geluidsintensiteit is de energie die de trillingen per seconde over een oppervlakte verdelen:
 
@@ -32,7 +30,7 @@ Aangezien ons oor een hele grote range aan geluidssterktes kan waarnemen gebruik
 Je doet in de onderste formule *10 omdat je de geluidssterkte in **deci**bel wil en niet in **bel**.
 Voor een geluidssterkte in decibel geldt dat een verdubbeling van het aantal geluidsbronnen zorgt voor een toename van 3dB, en een verdubbeling van de afstand tot de geluidsbron voor een afname van 6dB (door het kwadraat onder de deelstreep).
 
-### Gehoorcurve
+## Gehoorcurve
 
 Niet elke geluidsintensiteit klinkt even hard, omdat het oor gevoeliger is voor sommige frequenties dan voor andere. Daarom hebben we een grafiek genaamd de gehoorcurve. Dit is een grafiek waarin de geluidssterkte in dB is afgezet tegen de frequentie van het geluid.
 
@@ -40,7 +38,7 @@ Niet elke geluidsintensiteit klinkt even hard, omdat het oor gevoeliger is voor 
 
 De lijnen in de grafiek noem je foonlijnen. Alle punten op een lijn klinken even hard. De onderste lijn (0 foon) zijn de zachste geluiden die we kunnen horen, en de bovenste (120 foon) lijn is de pijngrens.
 
-### Het oor
+## Het oor
 
 Het oor bestaat uit:
 
