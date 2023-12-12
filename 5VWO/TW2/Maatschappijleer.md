@@ -102,4 +102,3 @@ In Nederland mag de regering ook wetsvoorstellen doen. De uitvoerende macht heef
 
 Rechters maken bij hun beslissingen gebruik van jurisprudentie. Dat betekent dat ze kijken welke uitspraken er eerder zijn gedaan in vergelijkbare situaties en hun keuze daarop baseren.
 
-
