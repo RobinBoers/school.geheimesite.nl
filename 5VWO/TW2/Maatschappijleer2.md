@@ -93,7 +93,7 @@ Het OM kan zo een strafzaak afhandelen:
 
 De zaak komt voor de rechter. De rechter kijkt naar het bewijsmateriaal en omstandigheden en bepaalt of de verdachte schuldig is en wat de straf zal zijn (het vonnis). Daarbij wordt er ook gekeken naar jurisprudentie: eerdere uitspraken van rechters in vergelijkbare situaties.
 
-### 5. Hoger beroep en cassatie
+### 4. Hoger beroep en cassatie
 
 Als je het niet eens bent met de uitspraak van de rechter kan je in hoger beroep. De zaak wordt dan nogmaals bekeken in het gerechtshof. Je kan daarna eventueel ook nog in cassatie bij de Hoge Raad. Daar wordt de zaak niet opnieuw inhoudelijk behandeld; er wordt alleen gekeken of de rechters zich netjes aan de regels hebben gehouden.
 
