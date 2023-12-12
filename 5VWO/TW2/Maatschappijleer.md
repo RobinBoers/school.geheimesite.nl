@@ -90,11 +90,11 @@ Door de verzorgingsstaat en sociale rechtsstaat raakte de overheid overbelast. D
 
 Om te voorkomen dat een kleine groep mensen teveel macht krijgt wordt de (staats)macht opgesplitst in: 
 
-- De wetgevende macht: maakt wetten. In Nederland is dit het parlement (de Eerste en Tweede Kamer). De wetgevende macht wordt gekozen door de burgers. De Eerste en Tweede kamer controleren elkaar. Ze controleren ook deels de rechtelijke macht omdat ze de wetten kunnen aanpassen in reactie op uitspraken van de rechter.
+- **De wetgevende macht**: maakt wetten. In Nederland is dit het parlement (de Eerste en Tweede Kamer). De wetgevende macht wordt gekozen door de burgers. De Eerste en Tweede kamer controleren elkaar. Ze controleren ook deels de rechtelijke macht omdat ze de wetten kunnen aanpassen in reactie op uitspraken van de rechter.
 
-- De uitvoerende macht: voert de wetten uit en handhaaft ze. In Nederland zijn dit de regering (het kabinet + ambtenaren) en de koning.
+- **De uitvoerende macht**: voert de wetten uit en handhaaft ze. In Nederland zijn dit de regering (het kabinet + ambtenaren) en de koning.
 
-- De rechtelijke macht: controleert de wetgevende en uitvoerende macht en beheert de rechtstrpaak. Er is interne controle doordat je in beroep kan gaan bij het gerechtshof of de Hoge Raad. Als er sprake is van vooroordelen noem je dat rassen- of klassenjustitie.
+- **De rechtelijke macht**: controleert de wetgevende en uitvoerende macht en beheert de rechtstrpaak. Er is interne controle doordat je in beroep kan gaan bij het gerechtshof of de Hoge Raad. Als er sprake is van vooroordelen noem je dat rassen- of klassenjustitie.
 
 Soms worden ambtenaren ook wel de Vierde macht genoemd. Dat is omdat de wetgevende macht alleen kaderwetgeving maakt; in sommige gevallen mogen ambtenaren zelf besluiten hoe ze wetgeving uitvoeren. Dit noem je discretionele bevoegdheid. Daarbij kunnen zij ook macht uitoefenen, vandaar de Vierde macht.
 
