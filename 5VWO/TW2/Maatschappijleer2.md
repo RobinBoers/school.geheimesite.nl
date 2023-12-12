@@ -84,10 +84,10 @@ Na langer dan 110 dagen voorrarrest moet er eerst een pro-formazitting komen om 
 
 Het OM kan zo een strafzaak afhandelen:
 
-- Seponeren: stoppen met vervolgen en zaak laten vallen. Dit wordt vaak gedaan bij onvoldoende bewijs, als het conflict niet ernstig genoeg is of als de verdachte al genoeg gestraft is (door omstandigheden).
-- Transactie: verdachte gaat akkoord met geldboete of taakstrap en vervolging wordt gestopt.
-- Strafbeschikking: alleen bij lichte strafbare feiten mag het OM zelf een straf geven.
-- Vervolging: voor de rechter brengen.
+- **Seponeren**: stoppen met vervolgen en zaak laten vallen. Dit wordt vaak gedaan bij onvoldoende bewijs, als het conflict niet ernstig genoeg is of als de verdachte al genoeg gestraft is (door omstandigheden).
+- **Transactie**: verdachte gaat akkoord met geldboete of taakstrap en vervolging wordt gestopt.
+- **Strafbeschikking**: alleen bij lichte strafbare feiten mag het OM zelf een straf geven.
+- **Vervolging**: voor de rechter brengen.
 
 ### 3. Berechting
 
