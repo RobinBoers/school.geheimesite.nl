@@ -34,9 +34,9 @@ Het publiekrecht is voor rechtzaken tussen burgers en de overheid. Ook dit kan j
 
 1. Je maakt bezwaar bij de organisatie zelf.
 2. Je legt de zaak voor bij de rechtbank.
-3. Je kan in hoger beroep (bij het rechtshof).
+3. Je kan in hoger beroep (bij het gerechtshof).
 
-## Vervolging
+## Strafrecht
 
 Er zijn twee soorten strafbare feiten:
 
@@ -55,4 +55,45 @@ Bij zo'n rechtzaak gelden een aantal regels:
 - Je mag niet twee keer vervolgd worden voor hetzelfde vergrijp (ne bis idem-regel).
 - Na x aantal jaar mag je niet meer vervolgd worden voor het vergrijp (verjaringstermijn).
 
+## Strafproces
+
+Het strafproces verloopt in deze stappen:
+
+### 1. Opsporing en aanhouding
+
+De politie verzamelt bewijs en houdt een verslag bij genaamd het proces-verbaal.
+Je bent verdachte als er redelijk vermoeden is dat je schuldig bent. De politie mag je dan:
+
+- **Staande houden**: stil laten staan en vragen om identificatie.
+- **Aanhouden**: arresteren en meenemen naar het bureau.
+- **Fouilleren**
+
+Als burger mag je een ander ook staande/vasthouden tot de politie er is.
+
+De politie mag soms ook dwangmiddelen gebruiken. Omdat die tegen de grondrechten in gaan moet eerst de rechter-commissaris toestemming geven. Voorbeelden:
+
+- Woning betreden of doorzoeken.
+- Aftappen van telefoon en internetverkeer.
+- Preventief fouilleren (zonder verdenking). Mag alleen in speciale gebieden zoals vliegveld of club.
+- Infiltratie.
+- Verdachte langer dan 9 uur vasthouden.
+
+Na langer dan 110 dagen voorrarrest moet er eerst een pro-formazitting komen om te besluiten om het voorarrest te verlengen.
+
+### 2. Vervolging door OM
+
+Het OM kan zo een strafzaak afhandelen:
+
+- Seponeren: stoppen met vervolgen en zaak laten vallen. Dit wordt vaak gedaan bij onvoldoende bewijs, als het conflict niet ernstig genoeg is of als de verdachte al genoeg gestraft is (door omstandigheden).
+- Transactie: verdachte gaat akkoord met geldboete of taakstrap en vervolging wordt gestopt.
+- Strafbeschikking: alleen bij lichte strafbare feiten mag het OM zelf een straf geven.
+- Vervolging: voor de rechter brengen.
+
+### 3. Berechting
+
+De zaak komt voor de rechter. De rechter kijkt naar het bewijsmateriaal en omstandigheden en bepaalt of de verdachte schuldig is en wat de straf zal zijn (het vonnis). Daarbij wordt er ook gekeken naar jurisprudentie: eerdere uitspraken van rechters in vergelijkbare situaties.
+
+### 5. Hoger beroep en cassatie
+
+Als je het niet eens bent met de uitspraak van de rechter kan je in hoger beroep. De zaak wordt dan nogmaals bekeken in het gerechtshof. Je kan daarna eventueel ook nog in cassatie bij de Hoge Raad. Daar wordt de zaak niet opnieuw inhoudelijk behandeld; er wordt alleen gekeken of de rechters zich netjes aan de regels hebben gehouden.
 
