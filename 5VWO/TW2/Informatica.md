@@ -203,6 +203,13 @@ Met functies kan je een waarde veranderen. Een functie is zoals een wiskundige f
   # dit wordt 'Rob'
   ```
 
+- `CONCAT`: plak meerdere dingen aan elkaar.
+
+  ```sql
+  CONCAT(`first_name`, ' ', `last_name`)                # Robin Boers
+  CONCAT(LOWER(`first_name`), '@', `company`, '.nl')    # robin@qdentity.nl
+  ```
+
 - `YEAR`, `MONTH`, `DAY`: haal een deel uit een datum.
 
   ```sql
@@ -232,44 +239,65 @@ Met functies kan je een waarde veranderen. Een functie is zoals een wiskundige f
   TIMESTAMPDIFF(YEAR, '2007-01-13', NOW()) # 16
   ```
 
-ALLES HIERNA ZIJN RANDOM AANTEKENINGEN DIE IK NOG NIET UITGEWERKT HEB!
-
----
-
 ## Grouping
 
-- `AVG`: an average.
+In de queries hiervoor haalden we steeds een aantal rijen uit de database, en kozen we steeds hoe we ze wilden weergeven. "Plak de voor en achternaam aan elkaar", "maak hier hoofdletter van", "bereken een jaarsalaris" enz. Dat ging per rij. De queries hierna gaan over het *samenvoegen van meederen rijen*. Dat noemen we grouping.
+
+Je hebt een aantal functies die rijen kunnen groeperen:
+
+- `AVG`: een gemiddelde uitrekenen van alle rijen.
 
     SELECT AVG(`salary`);
 
-- `MIN` and `MAX`: the min and max (duh).
+- `MIN` and `MAX`: laat het grootste of kleinste van alle rijen zien.
 
     SELECT MIN(`salary`);
     SELECT MAX(`salary`);
 
-- `SUM`: the sum of everything in an column.
+- `SUM`: laat de som van alle rijen zien.
 
     SELECT SUM(`salary`);
 
-- `GROUP BY`: groups for grouping functions
+- `DISTINCT`: laat elke waarde op een veld maar één keer zien.
 
-    SELECT `department_id`, AVG(`salary`) AS `average salary` FROM `employees` GROUP BY `department_id`;
+    SELECT DISTINCT `job_title`;
 
-- `DISTINCT`: filter out duplicates.
+<!-- Als je een grouping functie gebruikt krijg één of meer "rijen" terug, die eigenlijk een collectie/optelling/gemiddelde van meerdere rijen zijn. -->
 
-    SELECT DISTINCT `department_id` FROM `users`
+### `GROUP BY`
 
-`WHERE` is for individual entries; `HAVING` is for a grouping:
+De functies hiervoor gooien alle rijen uit de tabel op één grote hoop. Met `GROUP BY` kan je bepalen dat ze groeperen per veld.
 
-... WHERE `salary` > 1000 (only counts employees with a high salary in the grouping)
-... HAVING AVG(`salary`) > 1000 (only returns groupings with an high salary)
-
-# CASE
-
-Basically een case statement zoals elke taal.
+Neem bijvoorbeeld de volgende queries:
 
 ```sql
-SELECT CASE `manager_id` 
+SELECT AVG(`salary`) FROM `employees`
+SELECT AVG(`salary`) FROM `employees` GROUP BY `department_id`;
+```
+
+De bovenste query geeft één rij terug met daarin het gemiddelde salaris van alle werknemers. De onderste geeft per afdeling een rij met daarin het gemiddelde salaris van alle werknemers op die afdeling.
+
+### `WHERE` en `HAVING`
+
+In het geval van grouping heb je twee belangrijke functies om mee te filteren. `WHERE` werkt, (net als normaal) op individuele rijen. Je kan hiermee bepalen of rijen wel of niet in de grouping worden meegeteld. Met `HAVING` kan je bepalen of groepen wel of niet worden weergegeven. Het is dus eigenlijk een `WHERE` voor groepen.
+
+Neem bijvoorbeeld de volgende queries:
+
+```sql
+SELECT AVG(`salary`) FROM `employees` GROUP BY `department_id` WHERE `salary` > 1000
+SELECT AVG(`salary`) FROM `employees` GROUP BY `department_id` HAVING AVG(`salary`) > 1000
+```
+
+De bovenste query zorgt ervoor dat in het gemiddelde salaris alleen salarissen van hoger dan 1000 euro worden meegeteld. De onderste zorgt ervoor dat alleen groepen met een gemiddeld salaris hoger dan 1000 worden weergegeven.
+
+## `CASE`
+
+Een `CASE` statement is een hele lange functie die een waarde in een andere kan veranderen. Je geeft hem *iets* als input (dit kan een veld, maar ook bijv. een functie zijn), en hij gaat alle vertakkingen tot er één matcht. Hij poept dan de waarde achter de match uit.
+
+Dit noemen we pattern matchen.
+
+```sql
+SELECT `first_name`, CASE `manager_id` 
 	WHEN 100 THEN 'Steven King'
     WHEN 101 THEN 'Nina Kochar'
     WHEN 102 THEN 'Lex de Haan'
@@ -278,22 +306,26 @@ SELECT CASE `manager_id`
     WHEN 149 THEN 'Eleni Zlotkey'
     WHEN 201 THEN 'Micael Hartstein'
     WHEN 203 THEN 'Shelley Higgins'
- END AS `manager`, COUNT(*) AS `total people`, SUM(`salary`) AS `total salary` FROM `employees` GROUP BY `manager_id`;
+ END AS `manager` FROM `employees`;
 ```
 
 ## Types
 
-- `INT`: can be SIGNED (-128-127) or UNSIGNED (0-255)
-- `FLOAT`: small floating point.
-- `DOUBLE`: big floating point.
+Een veld/kolom in een database kan verschillende soorten data bevatten. Wat voor soort data een kolom bevat staat vantevoren al vast. Het kan niet zo zijn dat rij 1 in een kolom een string (stukje tekst) bevat en rij 2 een datum.
 
-- `CHAR`: static length string; max 255 chars.
-- `TINYTEXT`, `VARCHAR`: string of max 255 chars.
-- `TEXT`: max ~6000 chars string.
+- `INT`: een heel getal. Kan SIGNED (-128-127) of UNSIGNED (0-255) zijn.
+- `FLOAT`: kommagetal met weinig decimalen.
+- `DOUBLE`: kommagetal met veel decimalen.
+
+- `CHAR`: string met een vaste lengte; max 255 chars.
+- `TINYTEXT`, `VARCHAR`: string met max 255 chars.
+- `TEXT`: string met max ~6000 chars.
 
 - `DATE`
 - `TIME`
 - `DATETIME`
+
+---
 
 ## Example queries
 
