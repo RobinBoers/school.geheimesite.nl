@@ -52,6 +52,8 @@ Er is ook veel assonantie:
 - zijn-heimelijke-pijnen
 - kamer-gelaten
 - verloren-om-ontkomen
+- wegen-regen-lege
+- altijd-hart-altijd
 
 En alliteratie:
 
@@ -66,5 +68,14 @@ Aan het begin van het gedicht is een personificatie: "het najaar belaagt het har
 ### Parafrase
 
 Het is november en het regent en daar wordt de auteur verdrietig van.
+In de kamer gebeurd eigenlijk niks en buiten ziet er niet veel beter uit.
+Na een hele lange tijd begint alles zo eentonig en doods te worden dat je het verschil tussen nu en vroeger niet meer opmerkt. 
+Zijn jeugd komt nooit meer terug, en hij zal altijd maar ouder blijven worden.
+
+### Interpretatie
+
+Het is een vrij somber gedicht. Ik denk dat de auteur worstelt met ouderdom en eenzaamheid. Hij benadrukt de hele tijd herhaling in het gedicht. In de eerste strofe: "*weer* keert het najaar terug", "maar *steeds gewender*", en in de derde strofe "alengs geen onderscheid". En ook het slot staat vol met het woord "altijd". Hij lijkt ook niet gelukkig. Zijn hart is "droef", "leeg" en draagt "heimelijke pijnen". Ook spreekt hij van "dove herinneringen" en zegt hij dat hij het onderscheid met leven niet meer ziet. Tenslotte is zijn jeugd voorbij, gaan de jaren "zoals zij gingen", en hij zal niet meer "ontkomen aan de tijd".
+
+Ik denk dat dit gedicht gaat over vergankelijkheid, aftakeling en eenzaamheid.
 
 ***

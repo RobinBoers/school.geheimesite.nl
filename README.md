@@ -6,6 +6,7 @@ Success met leren!
 
 ## 5VWO
 
+- [Gedichtanalyse](5VWO/gedichtanalyse)
 
 ### TW2
 
