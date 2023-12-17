@@ -79,3 +79,63 @@ Het is een vrij somber gedicht. Ik denk dat de auteur worstelt met ouderdom en e
 Ik denk dat dit gedicht gaat over vergankelijkheid, aftakeling en eenzaamheid.
 
 ***
+
+> Sprookje
+>
+> Voor mijn moeder en dochtertje
+>
+>
+> Zij luisteren beide naar haar oud verhaal,  
+> wondere dingen komen aangevlogen,  
+> zichtbaar in hun verwijde ogen,  
+> als bloemen, drijvend in een schaal.
+>
+> Er is een zachte spanning in hun wezen,  
+> zij zijn verloren en verzonken in elkaar,  
+> -- het witte en het blonde haar --  
+> geloof het maar, geloof het maar,  
+> alles wat zij vertelt is waar  
+> en nooit zal je iets mooiers lezen.
+>
+>
+> M. Vasalis
+
+Het gedicht is geschreven door Margaretha Vasalis, en werd in 1947 gepubliceerd in haar bundel *De vogel Phoenix*. Het gedicht bestaat uit een losse regel en twee strofen: een kwatrijn en een sextet.
+
+## Rijm
+
+Het rijmschema van de eerste strofe is ABBA, en die van de tweede strofe is ABBBBA. Je noemt dit omarmende rijnm. Dit zijn de soorten rijm uit het rijmschema:
+
+- verhaal-schaal: mannelijke (eind)rijm.
+- aangevlogen-ogen: vrouwelijke (eind)rijm.
+- wezen-lezen: vrouwelijke (eind)rijm.
+- elkaar-haar-maar-waar: mannelijke (eind)rijm.
+
+Er is veel assonantie:
+
+- haar-verhaal
+- verwijde-drijvend
+- zachte-spanning
+- verloren-verzonken
+- alles-wat
+- nooit-mooier
+
+Je vindt ook verschillende vormen van alliteratie:
+
+- mijn-moeder
+- zij-zijn
+- verloren-verzonken
+
+## Stijlfiguren
+
+Het gedicht begint met een personificatie: "wondere dingen komen aangevolgen". Dingen kunnen over het algemeen niet vliegen. Er is een repetitio van "geloof het maar" in de tweede strofe. Ook gebruikt de auteur "bloemen drijvend in een schaal" als metafoor voor de "wondere dingen [die] komen aangevlogen". Daarnaast is er een antithese in de tweede strofe: "het witte en het blonde haar".
+
+## Parafrase
+
+Oma vertelt een oud sprookje aan haar kleindochter, dat ze beide heel mooi vinden en helemaal voor zich zien.  
+Oma en haar kleindochter gaan beide helemaal op in het sprookje. De dochter zal nooit meer zoiets moois lezen dan hoe oma het sprookje voorlas.
+
+## Interpretatie
+
+Het gedicht gaat over het mooie moment dat de interactie tussen oma en kleindochter is bij het voorlezen van een sprookje. Het is een magisch moment. Door het voorlezen scheppen oma en kleindochter een band die het verhaal veel mooier maakt. De schrijver laat de magie van het moment zien met woordgebruik, met "wondere dingen [die] komen aangevlogen" en "er is zachte spanning in hun wezen". De titel kan zowel verwijzen naar het verhaal dat voorgelezen wordt, als naar het moment zelf.
+
