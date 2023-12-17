@@ -30,6 +30,8 @@ Het publiekrecht is voor rechtzaken tussen burgers en de overheid. Ook dit kan j
 - **Strafrecht**: strafbare feiten.
 - **Bestuursrecht**: vergunningen, uitkering, subsidie, belastingen.
 
+Een rechtzaak in het publiek recht is meestal openbaar; een uitzondering is een zak tegen een minderjarige.
+
 #### Bezwaar tegen een (overheids)instantie maken:
 
 1. Je maakt bezwaar bij de organisatie zelf.
@@ -91,9 +93,60 @@ Het OM kan zo een strafzaak afhandelen:
 
 ### 3. Berechting
 
-De zaak komt voor de rechter. De rechter kijkt naar het bewijsmateriaal en omstandigheden en bepaalt of de verdachte schuldig is en wat de straf zal zijn (het vonnis). Daarbij wordt er ook gekeken naar jurisprudentie: eerdere uitspraken van rechters in vergelijkbare situaties.
+De OvJ stuurt een dagvaardiging naar de verdachte. Dit noem je tenlastelegging. Volwassenen hoeven niet bij de rechtzaak te zijn; minderjarigen wel (als je op het moment van het misdrijf nog minderjarig was ook). Een rechtzaak gaat zo:
+
+1. Opening: rechter controleert gegevens.
+2. Aanklacht van OvJ
+3. Onderzoek: het uithoren van de verdachte, getuigen en deskundigen.
+4. Requisitoir: de OvJ mag een straf eisen.
+5. Pleidooi: de advocaat verdedigd de verdachte.
+6. Laatste woord: de verdachte mag iets zeggen. Vaak spijt uitspreken of onschuld benadrukken.
+7. Vonnis: de rechter bepaald of de verdachte schuldig is en wat de straf wordt.
 
 ### 4. Hoger beroep en cassatie
 
-Als je het niet eens bent met de uitspraak van de rechter kan je in hoger beroep. De zaak wordt dan nogmaals bekeken in het gerechtshof. Je kan daarna eventueel ook nog in cassatie bij de Hoge Raad. Daar wordt de zaak niet opnieuw inhoudelijk behandeld; er wordt alleen gekeken of de rechters zich netjes aan de regels hebben gehouden.
+Als je het niet eens bent met de uitspraak van de rechter kan je in hoger beroep. De zaak wordt dan nogmaals bekeken in het gerechtshof. Je kan daarna eventueel ook nog in cassatie bij de Hoge Raad. Daar wordt de zaak niet opnieuw inhoudelijk behandeld; er wordt alleen gekeken of de rechters zich netjes aan de regels hebben gehouden. Zo niet, wordt de zaak nogeens overgedaan in het gerechtshof.
 
+Heel soms kan een zaak opnieuw geopend worden als er belangrijk ontlastend bewijs (zoals DNA) is gevonden of een getuige zijn uitspraken terugtrekt. Dat noem je herziening ten voordele.
+
+## Strafuitsluitingsgronden
+
+Als de tenlastelegging bewezen is betekent dat niet gelijk dat de verdachte schuldig is; er zijn een aantal dingen die iets normaal strafbaars niet strafbaar maken:
+
+- **Noodweer** (zelfverdediging): alleen als het gebruikte geweld in verhouding is tot het geweld waartegen je je verdedigde.
+
+- **Overmacht**: voorbeeld uit het boek: als je je kind moet redden en daarom verboden terrein betreedt.
+
+- **Ambtelijk bevel**: je kan niet veroordeeld worden als je op bevel van bijv. de politie een strafbaar feit pleegt.
+
+Verder kan iets wel strafbaar zijn, maar heeft de verdachte geen schuld:
+
+- **Psychische overmacht**: als je bijvoorbeeld een psychose hebt of schizofreen bent.
+
+- **Noodweerexcess**: als je in paniek zelfverdediging doet die uit verhouding is met de aanval.
+
+- **Ontoerekeningsvatbaarheid**: lijkt op psychische overmacht; hierbij kan de rechter je ook een *vrijheidsbenemende maatregel* opleggen: een tbs-kliniek.
+
+- **Afwezigheid van schuld**: je hebt indirect of zonder het te weten een strafbaar feit gepleegt, bijvoorbeeld het doorverkopen van gestolen goederen.
+
+Verder is er ook *adolescenetenstrafrecht*. Dat houdt in dat de rechter voor jongeren van 13-23 zelf mag beslissen of hij jeugdstrafrecht of volwassenenstrafrecht toepast. Dat is omdat sommige mensen zich sneller ontwikkelen dan anderen, en dus eerder "volwassen" zijn.
+
+## Straffen
+
+Er zijn een aantal soorten straffen:
+
+- Geldboete
+- Taakstraf
+- Vrijheidsstraf (gevangenis/tbs-kliniek)
+
+Ook kan een rechter een *bijkomende straf* opleggen, zoals het afnemen van het rijbewijs of recht tot het beoefenen van een beroep. Deze straffen zijn bedoeld om schade te herstellen of schade aan de samenleving te voorkomen.
+
+Je hebt ook voorwaardelijke straffen, die alleen worden uitgevoerd als de veroordeelde zich niet aan bepaalde regels houd binnen een bepaalde termijn.
+
+Het opleggen van een straf heeft een aantal doelen:
+
+- **Wraak en verdelging**: we willen dat het leed dat door een misdrijf wordt veroorzaakt ook laten voelen voor de dader.
+- **Afschrikking**: we willen voorkomen dat mensen in de criminaliteit belanden en hopen ze af te schrikken als ze anderen gestraft zien worden.
+- **Voorkomen van eigenrichting**: we willen voorkomen dat burgers elkaar zelf gaan straffen.
+- **Resocialisatie**: we willen voorkomen dat mensen opnieuw in de criminaliteit belanden.
+- **Beveiliging van de samenleving**: als de dader vastzit kan hij niet meer schade aan de samenleving veroorzaken.
