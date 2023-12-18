@@ -54,8 +54,8 @@ Voor grondrechten geldt wederzijdse erkenning: als jij gebruik mag maken van een
 
 Grondrechten hebben op twee manieren werking:
 
-- **Horizontaal**: tussen burger en overheid.
-- **Verticall**: tussen burgers onderling.
+- **Verticaal**: tussen burger en overheid.
+- **Horizontaal**: tussen burgers onderling.
 
 Er is geen rangorde in de grondrechten, het is niet zo dat de één voor de ander gaat. Als grondrechten elkaar tegenwerken wordt er dus per geval bepaald wat er moet gebeuren.
 
