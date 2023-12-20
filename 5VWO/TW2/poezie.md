@@ -6,9 +6,9 @@ Eigen uiterlijke vorm: je houd je niet aan de bladspiegel, regellengtes en posit
 
 In een gedicht spelen klanken, maat, rijm en ritme een rol.
 
-Een gedicht van vier regels noem je een kwatrijn. Een gedicht van drie regels noem je een tertet.
+Een gedicht van vier regels noem je een kwatrijn. Een gedicht van drie regels noem je een terzet.
 
-Twee kwatrijnen samen noem je een octaaf. Twee tertetten samen noem je een sextet. Een octaaf en sextet samen is een sonnet.
+Twee kwatrijnen samen noem je een octaaf. Twee terzetten samen noem je een sextet. Een octaaf en sextet samen is een sonnet.
 
 Scanderen is het bepalen van het metrum van een gedicht. Het metrum geeft aan waar de beklemtoonde lettergrepen liggen. Je geeft een beklemtoonde lettergreep aan met een – en een onbeklemtoonde lettergreep met een U.
 
