@@ -131,9 +131,9 @@ Je hebt drie soorten van slechtziendheid:
 
 - **Oudziend**: de spieren in je ogen worden slecht waardoor de nabijheidsafstand groter wordt. Dit los je op met een positieve lens. Je vervangt eigenlijk de bolheid die het oog zelf niet meer kan maken met een bril.
 
-- **Verziend**: de ooglens is te zwak (of de oogbol te lang). Veraf is scherp maar in tegenstelling tot een normaal oog moet het oog ook voor veraf accomoderen. Dit los je ook op met een bolle (= sterke) lens.
+- **Verziend**: de ooglens is te zwak (of de oogbol te kort). Het beeld vormt zich *achter* het netvlies. Veraf is scherp maar in tegenstelling tot een normaal oog moet het oog ook voor veraf accomoderen. Dit los je ook op met een bolle (= sterke) lens.
 
-- **Bijziend**: de ooglens is te sterk (of de oogbol te kort). Dichtbij is scherp maar veraf niet. Dit los je op met een negatieve bril.
+- **Bijziend**: de ooglens is te sterk (of de oogbol te lang). Het beeld vormt zich *voor* het netvlies. Dichtbij is scherp maar veraf niet. Dit los je op met een negatieve bril.
 
 _Het deel voor "ziend" is waar je **wel** goed in bent._
 
