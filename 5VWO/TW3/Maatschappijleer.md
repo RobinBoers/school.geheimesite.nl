@@ -65,35 +65,25 @@ Nederland is een constitutionele monarchie: een parlemantaire democratie met een
 
 ## Politieke stromingen
 
-Er zijn een aantal manieren om politieke partijen in te delen:
-
 ### Links-midden-rechts (sociaal-economisch)
 
-Deze indeling gaat vooral over de economie.
-
-**Linkse** partijen willen dat de overheid een actieve rol heeft wat betreft uitkeringen, werkgelegenheid, onderwijs en zorg. Ze zijn voor solarideit en gelijkheid: rijkere mensen betalen meer belasting dan armere mensen.
-
-**Midden** partijen zijn vaak christenlijk (confessionalisme), en willen een maatschappelijk middenveld. Het initiatief moet vanuit de samenleving komen, en de overheid heeft een aanvullende rol.
-
-**Rechtse** partijen vinden individuele vrijheid belangrijk. Ze willen zo min mogelijk overheidsbemoeienis, en dus een passieve rol van de overheid.
-
-| Richting            | Links                                                                      | Midden                                                                       | Rechts                                                 |
-|---------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
-| Stroming            | Sociaal-democratisch                                                       | Confessionalisme                                                             | Liberalisme                                            |
-| Waarden             | - Gelijkwaardigheid - Solidariteit                                         | - Geloof - Naastenliefde en samenwerking                                     | - Economische vrijheid - Persoonlijke vrijheid         |
-| Doel                | - Eerlijke verdeling van geld, kennis en macht - Bescherming van zwakkeren | - Samenleving waarin mensen goed voor elkaar zorgen - Respect voor de Bijbel | - Individuele vrijheden - Bescherming van die vrijheid |
-| Komt op voor        | - Mensen met weinig geld - Mensen met minder kansen                        | - Gezinnen met kinderen - Het Christendom                                    | - Werkende burgers - Ondernemers en bedrijven          |
-| Rol van de overheid | Actief, ongelijkheid tegengaan                                             | Beperkt, maatschappenlijk middenveld                                         | Passief, alleen veiligheidsfunctie                     |
+| Richting            | Links                                                                           | Midden                                                                            | Rechts                                                      |
+|---------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Stroming            | Sociaal-democratisch                                                            | Confessionalisme                                                                  | Liberalisme                                                 |
+| Waarden             | - Gelijkwaardigheid <br> - Solidariteit                                         | - Geloof <br> - Naastenliefde en samenwerking                                     | - Economische vrijheid <br> - Persoonlijke vrijheid         |
+| Doel                | - Eerlijke verdeling van geld, kennis en macht <br> - Bescherming van zwakkeren | - Samenleving waarin mensen goed voor elkaar zorgen <br> - Respect voor de Bijbel | - Individuele vrijheden <br> - Bescherming van die vrijheid |
+| Komt op voor        | - Mensen met weinig geld <br> - Mensen met minder kansen                        | - Gezinnen met kinderen <br> - Het Christendom                                    | - Werkende burgers <br> - Ondernemers en bedrijven          |
+| Rol van de overheid | Actief, ongelijkheid tegengaan                                                  | Beperkt, maatschappenlijk middenveld                                              | Passief, alleen veiligheidsfunctie                          |
 
 ### Progressief-conservatief (sociaal-cultureel)
 
----
+**TODO**
 
 ### Nationalistisch-kosmopolitisch
 
 Nationalitische partijen leggen de nadruk op het eigen land. Ze zijn bijvoorbeeld bang dat we door internationale studenten en globalisering banen verliezen. De kosmopolitische partijen willen juist onderdeel willen zijn van de internationale gemeenschap, en vinden globalisering een goed ding. Ze staan meer open voor andere landen en culturen.
 
-### Ontzuiling
+### Anders
 
 Eind vorige eeuw keek iedereen naar de media uit zijn eigen zuil, en stemde op de partij van zijn eigen zuil. Door de ontzuiling is dit niet meer zo en zijn er nieuwe stromingen ontstaan.
 
