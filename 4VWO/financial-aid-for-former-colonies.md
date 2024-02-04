@@ -1,7 +1,5 @@
 ---
 title: Should we provide financial aid to former colonies?
-subtitle: By Robin Boers, 5A2
-language: en
 ---
 
 _This argumentative essay was originally written as an assignment for school, that I later editted and published here._

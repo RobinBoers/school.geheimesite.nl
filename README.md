@@ -6,7 +6,12 @@ Success met leren!
 
 ## 5VWO
 
+- [Stemrecht voor jongeren](5VWO/stermrecht-voor-jongeren)
 - [Gedichtanalyse](5VWO/gedichtanalyse)
+
+### TW3
+
+- [Politiek](5VWO/TW3/Maatschappijleer)
 
 ### TW2
 
@@ -32,6 +37,7 @@ Success met leren!
 - [Eating insects: not a bug but a feature](4VWO/not-a-bug-but-a-feature)
 - [Mr. Bean](4VWO/mr-bean)
 - [Living healthier lives](4VWO/living-healthier-lives)
+- [Should we provide financial aid to former colonies?](4VWO/financial-aid-for-former-colonies)
 - [RE: Plans for the future?](4VWO/email-about-future)
 - [Cool Jazz](4VWO/cooljazz)
 - [H3: Wetenschappelijk onderzoek](4VWO/bio-h3-samenvatting)
