@@ -139,7 +139,7 @@ Een oplossing daarvoor is de kiesdrempel. Dan moet een partij een minimaal perce
 
 ### Districtenstelsel
 
-In een districtenstelsel wordt het land opgedeeld in districten, en komt uit elke districten iemand uit de winnende partij in het parlement.
+In een districtenstelsel wordt het land opgedeeld in districten, en komt uit elk district iemand uit de winnende partij in het parlement.
 
 Het nadeel hiervan is dat de andere stemmen uit een district niet meegenomen worden. Het kan dus zijn dat landelijk 40% van de bevolking op een partij heeft gestemd, maar dat die partij maar 7% van de zetels heeft.
 
@@ -174,9 +174,11 @@ Als je meer stemmen dan de kiesdeler hebt, krijg je natuurlijk per definitie een
 - **Het parlement** bestaat uit de Eerste en Tweede Kamer, en wordt ookwel de Staten-Generaal genoemd.
 - **Het senaat** is de Eerste Kamer.
 
+### Ministers
+
 De meeste ministers hebben een ministerie. Dat is een organisatie die de minister helpt zijn of haar taak uit te voeren. In het ministerie werken ambtenaren. Sommigen ministers hebben geen eigen ministerie, maar werken binnen een ander ministerie. Dat noem je ministers zonder portefeuille <small>(ministers *voor* inplaatsvan minister *van*)</small>.
 
-De ministers zijn eindverantwoordelijk voor het gedrag van de koning en abmtenaren in hun ministerie. Dat noem je met een fancy woord ministeriële verantwoordelijkheid.
+De ministers zijn eindverantwoordelijk voor het gedrag van de koning en ambtenaren in hun ministerie. Dat noem je met een fancy woord ministeriële verantwoordelijkheid.
 
 Ministers mogen geen lid van het parlement zijn. Het parlement controleert namelijk de regering, en anders zou er sprake van belangenverstrengeling zijn.
 
