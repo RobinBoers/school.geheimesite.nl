@@ -97,7 +97,7 @@ Eind vorige eeuw keek iedereen naar de media uit zijn eigen zuil, en stemde op d
 
 ## Politieke partijen
 
-In Nederland stem je niet op een partij, maar op een persoon. Origineel was iedereen dus ook individueel verkiesbaar. Later ontstonden er vakbonden die zich inzette voor de belangen van arbeiders, waaruit ververvolgens politieke partijen (fracties) zijn ontstaan.
+In Nederland stem je niet op een partij, maar op een persoon. Origineel was iedereen dus ook individueel verkiesbaar. Later ontstonden er vakbonden die zich inzette voor de belangen van arbeiders, waar vervolgens politieke partijen (fracties) uit zijn ontstaan.
 
 Hierdoor is er niks over politieke partijen opgenomen in de grondwet.
 
@@ -218,11 +218,11 @@ De Eerste Kamer heeft dus geen rechten voor het maken van wetten, en heeft ook g
 
 Na de verkiezingen wordt er een regering voor de komende vier jaar (1 regeringstermijn) gevormd. Dit gaat in drie fases:
 
-- Verkenning: de verkenner onderzoekt mogelijkheden voor een coalitie (samenwerking tussen partijen).
+- **Verkenning**: de verkenner onderzoekt mogelijkheden voor een coalitie (samenwerking tussen partijen).
 
-- Informatie: de informateur (aangewezen door de (oude) Tweede Kamer) gaat samen met de partijen in gesprek om te kijken welke partijen een coalitie willen vormen. In Nederland is er bijna nooit één partij die genoeg stemmen heeft voor een kamermeerderheid, en dus moeten partijen altijd samenwerken.  
+- **Informatie**: de informateur (aangewezen door de (oude) Tweede Kamer) gaat samen met de partijen in gesprek om te kijken welke partijen een coalitie willen vormen. In Nederland is er bijna nooit één partij die genoeg stemmen heeft voor een kamermeerderheid, en dus moeten partijen altijd samenwerken.  
   
-- Formatie: de formateur (lijsttrekker van de grootste partij) stelt het kabinet samen uit ministers en staatssecretarissen. De verdeling van ministerposten gaat in overeenstemming met het aantal zetels van de partijen. De grootste partij mag dus de meeste ministers leveren.
+- **Formatie**: de formateur (lijsttrekker van de grootste partij) stelt het kabinet samen uit ministers en staatssecretarissen. De verdeling van ministerposten gaat in overeenstemming met het aantal zetels van de partijen. De grootste partij mag dus de meeste ministers leveren.
 
 Tijdens de informatiefase hebben de coalitiepartijen afspraken gemaakt over hoe ze het land willen regeren. Die afspraken worden in een soort contract gezet, dat je het regeerakkoord noemt.
 
@@ -257,11 +257,11 @@ Soms neemt het kabinet ontslag. Er komen dan vervroegde verkiezingen, en het oud
 
 De media vervult een aantal functies:
 
-- Informeren: het verspreiden van nieuws en het volgen van politieke discussies.
-- Agendafunctie: het signaleren van problemen in de samenleving en ze op de politieke agenda zetten.
-- Commentaarfunctie: kritisch commentaar op politieke kwesties bieden.
-- Platformfunctie: politici, actiegroepen en burgers een plek geven om hun ideeën te verspreiden.
-- Controlerende functie: kijken of politici wel goed bezig zijn. Hierbij maken ze gebruik van WOB-verzoeken om toegang tot overheidsdocumenten te krijgen.
+- **Informeren**: het verspreiden van nieuws en het volgen van politieke discussies.
+- **Agendafunctie**: het signaleren van problemen in de samenleving en ze op de politieke agenda zetten.
+- **Commentaarfunctie**: kritisch commentaar op politieke kwesties bieden.
+- **Platformfunctie**: politici, actiegroepen en burgers een plek geven om hun ideeën te verspreiden.
+- **Controlerende functie**: kijken of politici wel goed bezig zijn. Hierbij maken ze gebruik van WOB-verzoeken om toegang tot overheidsdocumenten te krijgen.
 
 ## Besluitvorming
 
