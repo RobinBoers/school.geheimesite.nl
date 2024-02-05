@@ -253,6 +253,16 @@ Soms neemt het kabinet ontslag. Er komen dan vervroegde verkiezingen, en het oud
 
   Als de Tweede Kamer alleen het beleid van één of mindere specifieke ministers afwijst, vervangt het kabinet de ministers gewoon.
 
+## Media
+
+De media vervult een aantal functies:
+
+- Informeren: het verspreiden van nieuws en het volgen van politieke discussies.
+- Agendafunctie: het signaleren van problemen in de samenleving en ze op de politieke agenda zetten.
+- Commentaarfunctie: kritisch commentaar op politieke kwesties bieden.
+- Platformfunctie: politici, actiegroepen en burgers een plek geven om hun ideeën te verspreiden.
+- Controlerende functie: kijken of politici wel goed bezig zijn. Hierbij maken ze gebruik van WOB-verzoeken om toegang tot overheidsdocumenten te krijgen.
+
 ## Besluitvorming
 
 Besluitvorming in de politiek gaat volgens systeemtheorie in vier fasen.
