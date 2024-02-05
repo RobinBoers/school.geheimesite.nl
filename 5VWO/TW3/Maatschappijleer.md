@@ -152,10 +152,6 @@ Het nadeel hiervan is dat de andere stemmen uit een district niet meegenomen wor
 - Strategisch stemmen, om bijvoorbeeld een tegenstem tegen een partij die je niet aanstaat uit te brengen.
 - De lijsttrekker lijkt je aardig. <small>(Dit is een niet een heel goede reden om op een partij te stemmen, maar 30% van de kiezers stemt om deze reden op een partij.)</small>
 
-### Invloed van de media
-
-De media heeft veel invloed op de verkiezingen. Tijdens de verkiezingen worden regelmatig opiniepeilingen gedaan. Dan vragen ze mensen wat ze zouden stemmen. Die "uitslagen" kunnen ons beïnvloeden. Mensen stemmen graag mee met de winnende partij (omdat dat ze een goed gevoel geeft), of gebruiken de peilingen om een strategische stem uit te brengen.
-
 ### Voorkeursstemmen
 
 In Nederland stem je niet op een partij, maar op een persoon. De meeste mensen stemmen op de lijsttrekker. Dat is het "gezicht" van de partij. De lijsttrekker krijgt meestal genoeg stemmen voor meerdere zetels. Die worden gevuld met andere leden van de partij, in volgorde van de lijst.
@@ -256,5 +252,85 @@ Soms neemt het kabinet ontslag. Er komen dan vervroegde verkiezingen, en het oud
 - De Tweede Kamer zet een (aantal) minister(s) of het gehele kabinet af (met een motie van wantrouwen).
 
   Als de Tweede Kamer alleen het beleid van één of mindere specifieke ministers afwijst, vervangt het kabinet de ministers gewoon.
+
+## Besluitvorming
+
+Besluitvorming in de politiek gaat volgens systeemtheorie in vier fasen.
+
+Er zijn ook altijd omgevingsfactoren, die invloed op besluitvorming hebben. Je kan ze onderverdelen in twee soorten:
+
+- **Trend**: dit is een verandering die politici aan kunnen zien komen. Bijvoorbeeld zeespiegelstijging veroorzaakt door ons schijnbare onvermogen om de klimaatcrisis aan te pakken.
+
+- **Event**: dit is een plotselinge verandering die politici niet aan zien komen. Bijvoorbeeld een geopolitiek conflict (zoals de invasie van Oekraïne) of een pandemie.
+
+### Invoering
+
+Er speelt iets in de samenleving, en actoren geven hun eisen en wensen aan. Hiermee zetten zij dingen op de politieke agenda. Daarom noemen we die actoren de *poortwachters van de democratie*.
+
+Politieke actoren zijn alle burgers, groepen, organisaties, bestuursorganen en instanties die bij besluitvorming betrokken zijn.
+
+### Omzetting
+
+Het probleem wordt opgepakt door politici, en zij maken nieuwe wetten. In deze fase blijven poortwachters invloed op het beleid uitoefenen. Het maken van beleid gaat in twee stappen:
+
+- **Beleidsvoorbereiding**: ministers zoeken advies bij adviesorganen zoals WRR, SER en SCP.
+- **Beleidsbepaling**: ministers laten hun ambtenaren een wetsvoorstel maken, en kamerleden stemmen erover.
+
+### Uitvoering
+
+De wet wordt aangenoemen en het ministerie voert het nieuwe beleid uit.
+
+### Terugkoppeling
+
+In deze fase wordt er feedback met betrekking tot het beleid verzamelt. Soms werkt de maatregel niet of ontstaat er een nieuw probleem. Aan de hand hiervan moet soms de wetgeving weer aangepast worden, en begin je dus weer in de invoeringsfase.
+
+## Invloed en macht
+
+Politieke actoren kunnen op verschillende manieren invloed uitoefenen:
+
+### Burger
+
+- Stemmen
+- Zelf politiek actief zijn
+- Brieven schrijven aan kamerleden
+- Demostreren
+- Media-aandacht zoeken
+- Burgerinitiatief: als je minimaal 40K handtekeningen ophaalt moet de Tweede Kamer je voorstel op de agenda zetten
+- Actiegroep starten of joinen
+- Bezwaarschrift indienen bij de overheidsinstantie of de rechter
+- Burgerlijke ongehoorzaamheid (je express op bepaalde manieren niet aan de regels houden om een reactie uit te lokken)
+
+### Actie- of belangengroep
+
+Een actie- of belangengroep kan door lobbyen en actievoeren politieke besluitvorming beinvloeden.
+
+- Een **belangengroep** behartigt de belangen van een bepaalde groep. Je noemt ze ookwel sociale partners.
+- Een **actiegroep** is opgericht om een specifiek doel te bereiken.
+
+### Bedrijven
+
+Bedrijven hebben vaak groot belang bij bepaalde wetgeving. Om ervoor te zorgen dat het beleid zo gunstig mogelijk voor hun is maken bedrijven gebruik van lobbyisten. Die hebben een aantal methodes om beleid te beinvloeden:
+
+- Gratis reisjes voor politici aanbieden.
+- Vermommen als onafhankelijke denktank.
+- Omkopen met cadeautjes.
+- De beleidsvorming opzettelijk vertragen.
+- Het verspreiden van fake news.
+- Wetenschappelijk onderzoek faken, ontkennen of wetenschappers omkopen.
+- Photoshoppen.
+- Prijzen aan politici uitrijken.
+- Media bespelen.
+
+### Politieke partijen
+
+Politieke partijen gebruiken in verkiezingstijd de diensten van spindoctors. Dat zijn communicatiedeskundigen, die precies weten hoe ze het imago van politici zo gunstig mogelijk kunnen afschilderen, of hoe een partij een andere partij het best onderuit kan halen.
+
+### Ambtenaren en ministers
+
+Ambtenaren en ministers hebben hun discretionele bevoegdheid. Dat houdt in dat ze in sommige gevallen zelf mogen invullen hoe ze de kaderwetgeving uitvoeren. Daarnaast hebben ze ook direct invloed op de beleidsbepaling.
+
+### Media
+
+De media heeft veel invloed op de verkiezingen. Tijdens de verkiezingen worden regelmatig opiniepeilingen gedaan. Dan vragen ze mensen wat ze zouden stemmen. Die "uitslagen" kunnen ons beïnvloeden. Mensen stemmen graag mee met de winnende partij (omdat dat ze een goed gevoel geeft), of gebruiken de peilingen om een strategische stem uit te brengen.
 
 <!-- Nederland staat als land soevereiniteit af aan de EU. Het Europese parlement heeft ook verkiezingen en fracties die zijn gecombineerd met fracties uit andere lidstaten. -->
