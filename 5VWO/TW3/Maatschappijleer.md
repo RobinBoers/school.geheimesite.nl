@@ -343,4 +343,43 @@ Ambtenaren en ministers hebben hun discretionele bevoegdheid. Dat houdt in dat z
 
 De media heeft veel invloed op de verkiezingen. Tijdens de verkiezingen worden regelmatig opiniepeilingen gedaan. Dan vragen ze mensen wat ze zouden stemmen. Die "uitslagen" kunnen ons beïnvloeden. Mensen stemmen graag mee met de winnende partij (omdat dat ze een goed gevoel geeft), of gebruiken de peilingen om een strategische stem uit te brengen.
 
-<!-- Nederland staat als land soevereiniteit af aan de EU. Het Europese parlement heeft ook verkiezingen en fracties die zijn gecombineerd met fracties uit andere lidstaten. -->
+## Lokale politiek
+
+Decentralisatie is het delegeren van taken van de (centrale) landelijke politiek, naar lokale politiek. Dit is het subsidiariteitsbeginsel: voer geen taken uit in hogere politiek die ook lokaler kunnen.
+
+Dit heeft twee voordelen:
+
+- Je kan het beleid aanpassen aan de specifieke situatie. Lokale problemen kunnen makkelijker lokaal worden aangepakt.
+- Inwonders kunnen het beleid makkelijker beinvloeden. De lokale overheid is minder log dan de landelijke overheid.
+
+|                         | Gemeente            | Provincie                 | Rijk               |
+|-------------------------|---------------------|---------------------------|--------------------|
+| Volksvertegenwoordiging | De gemeenteraad     | De Provinciale Staten     | Het parlement      |
+| Dagelijks bestuur       | Het college van B&W | De Gedeputeerde Staten    | Het kabinet        |
+| Voorzitter              | De burgemeester     | Commissaris van de Koning | Minister-president |
+
+Het college van B&W staat voor burgemeester & wethouders. Wethouders vervullen op gemeenteniveau de rol die ministers in de landelijke politiek vervullen.
+
+Op alle bestuurniveaus is de voorzitter onverkozen. De koning krijgt zijn positie door zijn afkomst. De minister-president wordt niet gekozen, maar aangewezen door de grootste partij. Burgemeesters en de CvdK worden benoemt door de koning.
+
+### Termijnen
+
+- Het kabinet wordt gekozen voor 4 jaar.
+- De burgemeester wordt benoemt voor 6 jaar.
+- De gemeenteraad wordt (ook) gekozen voor 4 jaar.
+
+### Gemeentelijke herindeling
+
+In Nederland worden veel gemeentes samengevoegd. Het voordeel daarvan is dat er minder geld dubbel wordt uitgegeven aan het draaiende houden van twee stadhuizen etc. Daarnaast heeft een grotere gemeente ook meer bestuurskracht en budget om opdrachten uit de landelijke politiek uit te voeren.
+
+Soms werken gemeentes enkel op sommige terreinen samen, in plaats van te fuseren.
+
+### Indirect verkozen
+
+De Eerste Kamer en Gedeputeerde Staten worden indirect verkozen; de Provinciale Staten stellen deze samen, net als hoe de Tweede Kamer en gemeenteraad het kabinet en het college van B&W vormen.
+
+### Bestuurlijke anatomie
+
+De gemeente en provincie hebben bestuurlijke anatomie: ze mogen in veel gevallen zelf het beleid bepalen, onafhankelijk van de landelijke politiek. Toch zijn ze ook gebonden aan de landenlijke politiek. Dit leidt soms tot spanningen.
+
+Hetzelfde geldt voor de EU. Nederland staat als land soevereiniteit af aan de EU, en is dus ook gebonden aan wetgeving die Europa-breed wordt bepaald.
