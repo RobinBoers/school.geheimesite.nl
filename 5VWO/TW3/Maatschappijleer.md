@@ -65,19 +65,23 @@ Nederland is een constitutionele monarchie: een parlemantaire democratie met een
 
 ## Politieke stromingen
 
-### Links-midden-rechts (sociaal-economisch)
+### Sociaal-economisch: links-rechts
 
-| Richting            | Links                                                                           | Midden                                                                            | Rechts                                                      |
-|---------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------|
-| Stroming            | Sociaal-democratisch                                                            | Confessionalisme                                                                  | Liberalisme                                                 |
-| Waarden             | - Gelijkwaardigheid <br> - Solidariteit                                         | - Geloof <br> - Naastenliefde en samenwerking                                     | - Economische vrijheid <br> - Persoonlijke vrijheid         |
-| Doel                | - Eerlijke verdeling van geld, kennis en macht <br> - Bescherming van zwakkeren | - Samenleving waarin mensen goed voor elkaar zorgen <br> - Respect voor de Bijbel | - Individuele vrijheden <br> - Bescherming van die vrijheid |
-| Komt op voor        | - Mensen met weinig geld <br> - Mensen met minder kansen                        | - Gezinnen met kinderen <br> - Het Christendom                                    | - Werkende burgers <br> - Ondernemers en bedrijven          |
-| Rol van de overheid | Actief, ongelijkheid tegengaan                                                  | Beperkt, maatschappenlijk middenveld                                              | Passief, alleen veiligheidsfunctie                          |
+Links-rechts gaat over geld: o.a. economie, belastingen, onderwijs en zorg.
 
-### Progressief-conservatief (sociaal-cultureel)
+| Links                                 | Rechts                            |
+|---------------------------------------|-----------------------------------|
+| Sociaal-democratisch                  | Liberalisme                       |
+| Actieve rol van de overheid           | Passieve rol van de overheid      |
+| Hogere belastingen                    | Lagere belastingen                |
+| Meer regels                           | Minder regels                     |
+| Gelijke kansen voor iedereen          | Meer eigen verantwoordelijkheid   |
 
-**TODO**
+Christelijke partijen (confessionalisme) hebben vaak standpunten die net tussen links en rechts in zitten (midden). Hun belangrijkste waarden komen uit het geloof. Ze vinden dat het initiatief uit de samenleving moeten komen (het maatschappelijk middenveld), en dat de overheid een aanvullende rol heeft.
+
+### Sociaal-cultureel: progressief-conservatief
+
+Progressief-conservatief gaat over thema's zoals klimaat, migratie, medisch-etische kwesties, internationale samenwerking en Europa. Progressieve partijen staan meer open voor nieuwe ideeën, terwijl conservatieve partijen liever het status quo behouden.
 
 ### Nationalistisch-kosmopolitisch
 
@@ -166,7 +170,7 @@ Als je meer stemmen dan de kiesdeler hebt, krijg je natuurlijk per definitie een
 
 - **De koning** is ons staatshoofd.
 - **De regering** bestaat uit de koning en ministers.
-- **Het kabinet** bestaat uit ministers en staatssecretarissen.
+- **Het kabinet** bestaat uit ministers en staatssecretarissen (verantwoordelijk voor het dagelijkse bestuur van ons land).
 - **Het parlement** bestaat uit de Eerste en Tweede Kamer, en wordt ookwel de Staten-Generaal genoemd.
 - **Het senaat** is de Eerste Kamer.
 
@@ -176,9 +180,7 @@ De ministers zijn eindverantwoordelijk voor het gedrag van de koning en abmtenar
 
 Ministers mogen geen lid van het parlement zijn. Het parlement controleert namelijk de regering, en anders zou er sprake van belangenverstrengeling zijn.
 
-### Taken
-
-#### Koning
+### Koning
 
 - Ceremoniële taken
 - Leest de troonrede voor
@@ -186,11 +188,7 @@ Ministers mogen geen lid van het parlement zijn. Het parlement controleert namel
 - Benoemt ministers, staatssecretarissen en burgemeesters
 - Gaat op staatsbezoek
 
-#### Kabinet
-
-Het kabinet is verantwoordelijk voor het dagelijkse bestuur van ons land.
-
-#### Tweede Kamer
+### Tweede Kamer
 
 De Tweede Kamer bestaat uit 250 kamerleden en maakt wetten. Hiervoor hebben ze rechten:
 
@@ -206,7 +204,7 @@ De Tweede Kamer controleert ook de regering. Daarvoor hebben ze ook rechten:
 - **Recht van interpellatie**: een minister naar de Tweede Kamer halen voor een debat. Hier is steun van minimaal 30 kamerleden voor nodig, omdat het de planning in de war schopt.
 - **Recht van (parlementaire) enquête**: het recht om een onderzoek te starten naar de rol van de overheid in bepaalde kwesties (met groot maatschappelijk belang).
 
-#### Eerste Kamer
+### Eerste Kamer
 
 De Eerste Kamer bestaat uit 75 senatoren, en controleert wetten. Ze kijken niet inhodelijk naar de wet, alleen of de wet goed in elkaar zit.
 
