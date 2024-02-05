@@ -216,9 +216,9 @@ De Eerste Kamer heeft veel minder rechten dan de Tweede Kamer. Ze mogen alleen:
 
 De Eerste Kamer heeft dus geen rechten voor het maken van wetten, en heeft ook geen recht van motie.
 
-### Regering vormen
+## Regering vormen
 
-Na de verkiezingen wordt er een regering gevormd. Dit gaat in drie fases:
+Na de verkiezingen wordt er een regering voor de komende vier jaar (1 regeringstermijn) gevormd. Dit gaat in drie fases:
 
 - Verkenning: de verkenner onderzoekt mogelijkheden voor een coalitie (samenwerking tussen partijen).
 
@@ -243,6 +243,16 @@ Op Prinsjesdag (derde dinsdag van september) leest de koning de troonrede voor. 
 
 Op gehaktdag (derde woensdag van mei), presenteert de regering de voorjaarsnota. Dat is financiele verantwoording over, en aanpassingen aan, de miljoenennota.
 
-**LET OP: NOG NIET AF!!**
+### Het vallen van een kabinet
+
+Soms neemt het kabinet ontslag. Er komen dan vervroegde verkiezingen, en het oude kabinet blijft **demissionair** doorregeren totdat er een nieuwe regering is gevormd. Ze mogen dan alleen lopende zaken afhandelen, en geen nieuw beleid maken. Een kabinet valt meestal om één van deze twee redenen:
+
+- Het kabinet kan het niet eens worden over iets, en de coalitiepartijen willen niet samen verder regeren.
+
+  Soms is het mogelijk om een informateur aan te wijzen en een nieuw kabinet samen te stellen zonder vervroegde verkiezingen.
+
+- De Tweede Kamer zet een (aantal) minister(s) of het gehele kabinet af (met een motie van wantrouwen).
+
+  Als de Tweede Kamer alleen het beleid van één of mindere specifieke ministers afwijst, vervangt het kabinet de ministers gewoon.
 
 <!-- Nederland staat als land soevereiniteit af aan de EU. Het Europese parlement heeft ook verkiezingen en fracties die zijn gecombineerd met fracties uit andere lidstaten. -->
