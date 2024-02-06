@@ -2,7 +2,7 @@
 title: Politiek
 ---
 
-Een soeverijne staat is een staat die op een begrensd gebied de hoogste macht en een geweldsmonopolie heeft. Politiek is het maken van keuzes die over iedereen in die staat.
+Een soevereine staat is een staat die op een begrensd gebied de hoogste macht en een geweldsmonopolie heeft. Politiek is het maken van keuzes die over iedereen in die staat.
 
 De overheid is over het algemeen erg log en sloom. Dit is het dilemma van de politiek: je kan niet efficiënt en snel besturen als je naar maximale participatie vanuit de burgers streeft.
 
