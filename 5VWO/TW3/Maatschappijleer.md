@@ -129,9 +129,9 @@ Je hebt twee soorten kiesstelsels.
 
 Alle uitgebrachte stemmen worden verdeeld over het aantal beschikbare zetels. Als je 20% van de stemmen krijgt krijg je ook 20% van de zetels.
 
-De kiesdeler is de hoeveelheid stemmen die je nodig hebt voor één zetel. Er zijn 250 zetels, en stel dat er 15 miljoen mensen gaan stemmen:
+De kiesdeler is de hoeveelheid stemmen die je nodig hebt voor één zetel. Er zijn 150 zetels, en stel dat er 15 miljoen mensen gaan stemmen:
 
-\\[\frac{1,500,000}{250} = 6000\text{/zetel}\\]
+\\[\frac{1,500,000}{150} = 10000\text{/zetel}\\]
 
 Het nadeel van dit systeem is dat er soms heel veel kleine partijen in de kamer zitten, waardoor het vormen van een coalitie moeilijker wordt en debatten langdradiger en onoverzichtelijker zijn.
 
@@ -188,7 +188,7 @@ Ministers mogen geen lid van het parlement zijn. Het parlement controleert namel
 
 ### Tweede Kamer
 
-De Tweede Kamer bestaat uit 250 kamerleden en maakt wetten. Hiervoor hebben ze rechten:
+De Tweede Kamer bestaat uit 150 kamerleden en maakt wetten. Hiervoor hebben ze rechten:
 
 - **Stemrecht**, om te stemmen over de wetsvoorstellen.
 - **Recht van amendement**, het recht om wetten aan te passen.
