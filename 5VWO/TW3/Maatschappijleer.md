@@ -131,7 +131,7 @@ Alle uitgebrachte stemmen worden verdeeld over het aantal beschikbare zetels. Al
 
 De kiesdeler is de hoeveelheid stemmen die je nodig hebt voor één zetel. Er zijn 150 zetels, en stel dat er 15 miljoen mensen gaan stemmen:
 
-\\[\frac{1,500,000}{150} = 10000\text{/zetel}\\]
+\\[\frac{1,500,000}{150} = 10,000\text{/zetel}\\]
 
 Het nadeel van dit systeem is dat er soms heel veel kleine partijen in de kamer zitten, waardoor het vormen van een coalitie moeilijker wordt en debatten langdradiger en onoverzichtelijker zijn.
 
