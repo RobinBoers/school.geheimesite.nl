@@ -126,7 +126,7 @@ In [het manifest](https://seksuelevorming.nl/wp-content/uploads/2023/03/Manifest
 > - [Jongeren] willen vaker, uitgebreidere en diverse voorlichting krijgen. Zij willen naast de biologische aspecten ingaan op de plezierige, sociale en relationele aspecten van seks. En meer aandacht besteden aan seksuele, gender en seksediversiteit, seks in de media, consent en oefenen met het aangeven en herkennen van elkaars wensen en grenzen.
 > - Ook concludeert de Onderwijsinspectie dat de meeste scholen geen uitgewerkte visie of beleid hebben op bevordering van respectvolle omgang met seksualiteit, weerbaarheid en seksuele diversiteit.
 
-Het manifest is deels gebaseerd op een kwalitatief onderzoek van Rutgers, *Gewoon, het taboe eraf halen*, waarin 300 leerlingen meedenken over seksueel onderwijs. Hierin worden een aantal dingen aangegeven:
+Het manifest is deels gebaseerd op een kwalitatief onderzoek van Rutgers, [*Gewoon, het taboe eraf halen*](https://rutgers.nl/onderzoeken/gewoon-het-taboe-eraf-halen/), waarin 300 leerlingen meedenken over seksueel onderwijs. Hierin worden een aantal dingen aangegeven:
 
 > - Leerlingen willen open kunnen praten over seksualiteit.
 > - Leerlingen willen seksuele vorming vanaf de brugklas tot de eindexamenklas.
