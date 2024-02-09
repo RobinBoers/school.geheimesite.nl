@@ -12,6 +12,7 @@ Success met leren!
 
 ### TW3
 
+- [Rekenen met zuur-base](5VWO/TW3/Scheikunde)
 - [Politiek](5VWO/TW3/Maatschappijleer)
 
 ### TW2
@@ -152,4 +153,3 @@ Success met leren!
 - [Verlichting](2VWO/TW3/Geschiedenis)
 - [Beeldende vormgeving](2VWO/TW3/BV)
 - [Voeding](2VWO/TW3/Biologie)
-
