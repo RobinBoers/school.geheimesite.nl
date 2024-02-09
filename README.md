@@ -8,6 +8,7 @@ Success met leren!
 
 - [Stemrecht voor jongeren](5VWO/stermrecht-voor-jongeren)
 - [Gedichtanalyse](5VWO/gedichtanalyse)
+- [Seksuele voorlichting](5VWO/documentatiemap)
 
 ### TW3
 
