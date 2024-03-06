@@ -11,14 +11,6 @@ Voor zuren zijn er twee notaties. Een sterk zuur (bijvoorbeeld \\(\ce{HBr}\\)) i
 
 Alle zuren en basen staan in B49. Elk zuur heeft een geconjungeerde base en elke base een geconjungeerd zuur, die staan op dezelfde regel. Als een zuur **boven** \\(\ce{H3O+}\\) staat, is het **sterk**. Als een base **onder** \\(\ce{OH-}\\) staat, is het ook **sterk**.
 
-## pH van een sterk zuur
-
-Een sterk zuur ioniseert volledig. Je kan dus gewoon de \\(\ce{H3O+}\\) concentratie gebruiken:
-
-\\[\ce{HBr_{(aq)} + H2O_{(l)} -> H3O+ + Br-}\\]
-\\[\ce{[H3O+] = [HBr] = 0.01M}\\]
-\\[\ce{pH = -log[H3O+] = -log(0.01) = 2}\\]
-
 ## Zuur-base reactie opstellen
 
 1. Noteer de beginstoffen (er is) en wat je erbij doet.
@@ -45,7 +37,17 @@ Het zuur geeft dus twee \\(\ce{H+}\\) af. Maar \\(\ce{H3PO4}\\) kan toch drie ke
 
 De voorwaarde is wel dat het zuur dat steeds ontstaat nog steeds boven \\(\ce{CO3^2-}\\) moet staan. En \\(\ce{HPO4^2-}\\) staat onder \\(\ce{CO3^2-}\\), dus de laatste \\(\ce{H+}\\) wordt niet afgegeven.
 
-**VRAAG: Hoe werkt het als de base ook meerwaarig is (zoals hier)? Zou er \\(\ce{H2CO3 = H2O*{(l)} + CO2*{(g)}}\\) kunnen ontstaan?**
+Dit is alleen van toepassing op zwakke zuren. Een sterk zuur ioniseert volledig (dus dan is de reactie tussen de base en \\(ce{H3O+}\\))
+
+**VRAAG: Hoe werkt het als de base ook meerwaarig is (zoals hier)? Zou er \\(\ce{H2CO3 = H2O\_{(l)} + CO2\_{(g)}}\\) kunnen ontstaan?**
+
+## pH van een sterk zuur
+
+Een sterk zuur ioniseert volledig. Je kan dus gewoon de \\(\ce{H3O+}\\) concentratie gebruiken:
+
+\\[\ce{HBr_{(aq)} + H2O_{(l)} -> H3O+ + Br-}\\]
+\\[\ce{[H3O+] = [HBr] = 0.01M}\\]
+\\[\ce{pH = -log[H3O+] = -log(0.01) = 2}\\]
 
 ## pH van een zwak zuur
 
@@ -119,7 +121,7 @@ Stel dat je moet berekenen hoeveel \\(\ce{HF}\\) is omgezet in \\(\ce{F-}\\). Er
 
 ## Buffers
 
-Een buffer is een oplossing van een geconjungeerd zuur en base waarbij geldt \\(\ce{[B-] \simeq [HB]}\\). Dit geeft de oplossing een bufferwerking: als je er zuur of base aan toevoegt blijft de pH ongeveer gelijk. Het bekendste voorbeeld van een buffer is bloed.
+Een buffer is een oplossing van een geconjungeerd zuur en base waarbij geldt \\(\ce{[B-] \simeq [HB]}\\). Dit geeft de oplossing een bufferwerking: als je er zuur of base aan toevoegt blijft de pH ongeveer gelijk. De bufferwerking is het beste als \\(\ce{[HB]}\\) en \\(\ce{[B-]}\\) zo dicht mogelijk bij elkaar liggen (dus perfecte buffer als ze gelijk zijn). Het bekendste voorbeeld van een buffer is bloed.
 
 Je kan de pH van een buffer op twee manieren berekenen:
 
@@ -133,5 +135,3 @@ Als je de pH van een buffer wil berekenen met een bekende \\(\ce{[HB]}\\) en \\(
 \\[K_Z = \frac{\ce{[H3O+][B-]}}{\ce{[HB]}}\\]
 \\[[H3O+] = K_Z \cdot \frac{\ce{[HB]}}{\ce{[B-]}}\\]
 \\[\ce{pH = -log[H3O+]}\\]
-
-De bufferwerking is het beste als \\(\ce{[HB]}\\) en \\(\ce{[B-]}\\) zo dicht mogelijk bij elkaar liggen (dus perfecte buffer als ze gelijk zijn).
