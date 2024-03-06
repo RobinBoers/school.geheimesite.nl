@@ -37,7 +37,7 @@ Het zuur geeft dus twee \\(\ce{H+}\\) af. Maar \\(\ce{H3PO4}\\) kan toch drie ke
 
 De voorwaarde is wel dat het zuur dat steeds ontstaat nog steeds boven \\(\ce{CO3^2-}\\) moet staan. En \\(\ce{HPO4^2-}\\) staat onder \\(\ce{CO3^2-}\\), dus de laatste \\(\ce{H+}\\) wordt niet afgegeven.
 
-Dit is alleen van toepassing op zwakke zuren. Een sterk zuur ioniseert volledig (dus dan is de reactie tussen de base en \\(ce{H3O+}\\))
+Dit is alleen van toepassing op zwakke zuren. Een sterk zuur ioniseert volledig (dus dan is de reactie tussen de base en \\(\ce{H3O+}\\))
 
 **VRAAG: Hoe werkt het als de base ook meerwaarig is (zoals hier)? Zou er \\(\ce{H2CO3 = H2O\_{(l)} + CO2\_{(g)}}\\) kunnen ontstaan?**
 
@@ -135,3 +135,32 @@ Als je de pH van een buffer wil berekenen met een bekende \\(\ce{[HB]}\\) en \\(
 \\[K_Z = \frac{\ce{[H3O+][B-]}}{\ce{[HB]}}\\]
 \\[[H3O+] = K_Z \cdot \frac{\ce{[HB]}}{\ce{[B-]}}\\]
 \\[\ce{pH = -log[H3O+]}\\]
+
+## Titraties
+
+Met een titratie kan je de molariteit (concentratie) van een oplossing bepalen (en dus de pH). Je doet dat zo:
+
+- Pak met een pipet een beetje van de oplossing (bijv. 10mL).
+- Gooi hierbij een indicator.
+- Druppel met een buret de geconjungeerde base/zuur in de oplossing.
+- Doe dit tot de oplossing van kleur omslaat.
+- Lees de af hoeveel mL je hebt toegevoegd op de buret.
+
+Je kan het aantal mol base berekenen aan de hand van de het volume toegevoegde base en de concentratie:
+
+\\[n\_{\text{base}} = \ce{[OH-]} \cdot V\_{\text{afgelezen op buret}}\\]
+
+Op het omslagpunt is het aantal mol zuur gelijk aan het aantal mol base. Hiermee kan je de concentratie van het zuur berekenen:
+
+\\[n\_{\text{zuur}} = n\_{\text{base}}\\]
+\\[\ce{[H3O+]} = n\_{\text{zuur}} / V\_{\text{opl}}\\]
+
+Je neemt voor \\[V_{\text{opl}}\\] de hoeveelheid die je in het begin uit je oplossing nam (in dit geval 10mL). Je wil namelijk de concentratie in de originele oplossing weten, niet in de nieuwe oplossing die je zojuist gemaakt hebt (door het toevoegen van base).
+
+### Herhalen
+
+Één keer meten is niet meten. Daarom moet je de titratie altijd minimaal twee keer uitvoeren. De buretstanden die je daarbij vindt mogen niet meer dan 2.5% verschillen. Je berekent de afwijking zo:
+
+\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\abs{I - II}}{I + II} \cdot 100\%\\]
+
+## Terugtitraties
