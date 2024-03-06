@@ -133,7 +133,7 @@ Ik vind via de \\(K_Z\\) makkelijker, dus ik laat de bufferformule voor nu buite
 Als je de pH van een buffer wil berekenen met een bekende \\(\ce{[HB]}\\) en \\(\ce{[B-]}\\) en \\(K_Z\\), doe je dat zo:
 
 \\[K_Z = \frac{\ce{[H3O+][B-]}}{\ce{[HB]}}\\]
-\\[[H3O+] = K_Z \cdot \frac{\ce{[HB]}}{\ce{[B-]}}\\]
+\\[\ce{[H3O+]} = K_Z \cdot \frac{\ce{[HB]}}{\ce{[B-]}}\\]
 \\[\ce{pH = -log[H3O+]}\\]
 
 ## Titraties
