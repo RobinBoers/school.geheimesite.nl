@@ -28,11 +28,11 @@ Een zwak zuur ioniseert niet volledig. Er ontstaat dan een evenwichtsreactie. Je
 
 Je kan dan een BOEC-schema invullen met X:
 
-| \(\ce{HF_{(aq)}}\) | \(\ce{H2O_{(l)}}\) | \(\ce{H3O+}\) | \(\ce{F-}\) |
-|--------------------|--------------------|---------------|-------------|
-| 0.01 mol           | -                  | 0 mol         | 0 mol       |
-| 0.01 - x mol       | -                  | x mol         | x mol       |
-| 0.01 - x M         | -                  | x M           | x M         |
+| \\(\ce{HF\_{(aq)}}\\) | \\(\ce{H2O\_{(l)}}\\) | \\(\ce{H3O+}\\) | \\(\ce{F-}\\) |
+| --------------------- | --------------------- | --------------- | ------------- |
+| 0.01 mol              | -                     | 0 mol           | 0 mol         |
+| 0.01 - x mol          | -                     | x mol           | x mol         |
+| 0.01 - x M            | -                     | x M             | x M           |
 
 Je krijgt dan altijd deze \\(K_Z\\), waarbij \\(x = \ce{[H3O+]}\\):
 
@@ -44,9 +44,9 @@ Je kan nu de kwadratische vergelijking oplossen en de pH zoals gewoonlijk bereke
 
 ## pH van een zwakke base
 
-Een base is meestal een zout en ioniseert dus altijd helemaal. Stel je hebt het zout \\(\ce{Na2SO4_{(s)} -> 2Na+ + SO4^2-}\\). De base is in dit geval \\(\ce{SO4^2-}\\). In dit geval bereken je de \\(\ce{[OH-]}\\) en reken je daarnaa pOH om naar pH.
+Een base is meestal een zout en ioniseert dus altijd helemaal. Stel je hebt het zout \\(\ce{Na2SO4\_{(s)} -> 2Na+ + SO4^2-}\\). De base is in dit geval \\(\ce{SO4^2-}\\). In dit geval bereken je de \\(\ce{[OH-]}\\) en reken je daarnaa pOH om naar pH.
 
-\\[\ce{SO4^2- + H2O_{{l}} <=> HSO3- + OH-}]
+\\[\ce{SO4^2- + H2O_{{l}} <=> HSO3- + OH-}\\]
 
 Je kan hier op dezelfde manier met een BOEC-schema \\(\ce{[OH-]}\\) berekenen. Je gebruikt in dit geval de \\(K_B\\) waarde uit Binas.
 
