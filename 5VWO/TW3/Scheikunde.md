@@ -155,12 +155,12 @@ Op het omslagpunt is het aantal mol zuur gelijk aan het aantal mol base. Hiermee
 \\[n\_{\text{zuur}} = n\_{\text{base}}\\]
 \\[\ce{[H3O+]} = n\_{\text{zuur}} / V\_{\text{opl}}\\]
 
-Je neemt voor \\[V_{\text{opl}}\\] de hoeveelheid die je in het begin uit je oplossing nam (in dit geval 10mL). Je wil namelijk de concentratie in de originele oplossing weten, niet in de nieuwe oplossing die je zojuist gemaakt hebt (door het toevoegen van base).
+Je neemt voor \\(V\_{\text{opl}}\\) de hoeveelheid die je in het begin uit je oplossing nam (in dit geval 10mL). Je wil namelijk de concentratie in de originele oplossing weten, niet in de nieuwe oplossing die je zojuist gemaakt hebt (door het toevoegen van base).
 
 ### Herhalen
 
 Één keer meten is niet meten. Daarom moet je de titratie altijd minimaal twee keer uitvoeren. De buretstanden die je daarbij vindt mogen niet meer dan 2.5% verschillen. Je berekent de afwijking zo:
 
-\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\abs{I - II}}{I + II} \cdot 100\%\\]
+\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{|I - II|}{I + II} \cdot 100\%\\]
 
 ## Terugtitraties
