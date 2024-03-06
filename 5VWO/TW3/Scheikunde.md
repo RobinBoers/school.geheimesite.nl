@@ -76,12 +76,12 @@ Je kan in het geval van een evenwicht de verhouding van de geconjungeerde base e
 
 Je wil de verhouding \\(\ce{[HF]:[F-]}\\) weten. Stel eerst de \\(K_Z\\) op:
 
-\\[K_B = \frac{\ce{[H3O+][F-]}{\ce{[HF]}} = 6.3 \cdot 10^{-4}\\]
+\\[K_B = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}} = 6.3 \cdot 10^{-4}\\]
 
 Als je nu beide kanten door \\(\ce{[H3O+]}\\) deelt en de breuk omdraait:
 
-\\[\frac{K_B}{\ce{[H3O+]}} = \frac{\ce{[F-]}{\ce{[HF]}}\\]
-\\[\frac{[H3O+]}{\ce{K_B}} = \frac{\ce{[HF]}{\ce{[F-]}}\\]
+\\[\frac{K_B}{\ce{[H3O+]}} = \frac{\ce{[F-]}}{\ce{[HF]}}\\]
+\\[\frac{\ce{[H3O+]}}{K_B} = \frac{\ce{[HF]}}{\ce{[F-]}}\\]
 
 ## Omzettingspercentage
 
@@ -91,5 +91,5 @@ Als je dan de verhouding \\(\ce{[HF]:[F-]}\\) komt er één extra stap.
 
 Stel dat je moet berekenen hoeveel \\(\ce{HF}\\) is omgezet in \\(\ce{F-}\\). Er wordt eigenlijk gewoon gevraagd hoeveel procent van het uiteindelijke mengsel \\(\ce{F-}\\) is:
 
-\\[\text{omgezet}% = \frac{\text{deel}}{\text{\text{geheel}}} \cdot 100% = \\]
-\\[\frac{\ce{[F-]}}{\ce{[HF] + [F-]}} \cdot 100%\\]
+\\[\text{omgezet}\% = \frac{\text{deel}}{\text{\text{geheel}}} \cdot 100\% = \\]
+\\[\frac{\ce{[F-]}}{\ce{[HF] + [F-]}} \cdot 100\%\\]
