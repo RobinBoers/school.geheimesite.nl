@@ -87,9 +87,8 @@ Als je nu beide kanten door \\(\ce{[H3O+]}\\) deelt en de breuk omdraait:
 
 Het berekenen van een omzettingspercentage is best simpel. Je begint exact hetzelfde als het berekenen van een verhouding, zoals hiervoor.
 
-Als je dan de verhouding \\(\ce{[HF]:[F-]}\\) komt er één extra stap.
+Als je dan de verhouding \\(\ce{[HF]:[F-]}\\) hebt komt er één extra stap.
 
 Stel dat je moet berekenen hoeveel \\(\ce{HF}\\) is omgezet in \\(\ce{F-}\\). Er wordt eigenlijk gewoon gevraagd hoeveel procent van het uiteindelijke mengsel \\(\ce{F-}\\) is:
 
-\\[\text{omgezet}\% = \frac{\text{deel}}{\text{\text{geheel}}} \cdot 100\% = \\]
-\\[\frac{\ce{[F-]}}{\ce{[HF] + [F-]}} \cdot 100\%\\]
+\\[\text{omgezet}\% = \frac{\text{deel}}{\text{geheel}} \cdot 100\% = \frac{\ce{[F-]}}{\ce{[HF] + [F-]}} \cdot 100\%\\]
