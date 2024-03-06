@@ -57,7 +57,7 @@ pre::-webkit-scrollbar {
   display: none;
 }
 
-pre:has(code:not([class="language-mermaid"])) {
+pre code:not([class="language-mermaid"]) {
   background: black;
   color: white;
   padding: 0.5em;
