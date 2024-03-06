@@ -161,6 +161,6 @@ Je neemt voor \\(V\_{\text{opl}}\\) de hoeveelheid die je in het begin uit je op
 
 Één keer meten is niet meten. Daarom moet je de titratie altijd minimaal twee keer uitvoeren. De buretstanden die je daarbij vindt mogen niet meer dan 2.5% verschillen. Je berekent de afwijking zo:
 
-\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{|I - II|}{I + II} \cdot 100\%\\]
+\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\|I - II\|}{I + II} \cdot 100\%\\]
 
 ## Terugtitraties
