@@ -39,7 +39,7 @@ De voorwaarde is wel dat het zuur dat steeds ontstaat nog steeds boven \\(\ce{CO
 
 Dit is alleen van toepassing op zwakke zuren. Een sterk zuur ioniseert volledig (dus dan is de reactie tussen de base en \\(\ce{H3O+}\\))
 
-**VRAAG: Hoe werkt het als de base ook meerwaarig is (zoals hier)? Zou er \\(\ce{H2CO3 = H2O\_{(l)} + CO2\_{(g)}}\\) kunnen ontstaan?**
+> **VRAAG: Hoe werkt het als de base ook meerwaarig is (zoals hier)? Zou er \\(\ce{H2CO3 = H2O\_{(l)} + CO2\_{(g)}}\\) kunnen ontstaan?**
 
 ## pH van een sterk zuur
 
@@ -86,7 +86,7 @@ Je kan hier op dezelfde manier met een BOEC-schema \\(\ce{[OH-]}\\) berekenen. J
 \\[\ce{pOH = -log(x) = ...}\\]
 \\[\ce{pH = 14 - pOH = ...}\\]
 
-**VRAAG: hoe werkt het met een sterke base?**
+> **VRAAG: hoe werkt het met een sterke base?**
 
 ## Verhouding bij een ingesteld pH
 
@@ -157,6 +157,19 @@ Op het omslagpunt is het aantal mol zuur gelijk aan het aantal mol base. Hiermee
 
 Je neemt voor \\(V\_{\text{opl}}\\) de hoeveelheid die je in het begin uit je oplossing nam (in dit geval 10mL). Je wil namelijk de concentratie in de originele oplossing weten, niet in de nieuwe oplossing die je zojuist gemaakt hebt (door het toevoegen van base).
 
+### Indicator kiezen
+
+Je kiest de indicator op basis van de pH van het omslagpunt.
+
+| Zuur  | Base  | pH  |
+|-------|-------|-----|
+| Sterk | Sterk | 7   |
+| Sterk | Zwak  | < 7 |
+| Zwak  | Sterk | > 7 |
+| Zwak  | Zwak  | -   |
+
+Met een zwak zuur en een zwakke base kan je geen titratie uitvoeren.
+
 ### Herhalen
 
 Één keer meten is niet meten. Daarom moet je de titratie altijd minimaal twee keer uitvoeren. De buretstanden die je daarbij vindt mogen niet meer dan 2.5% verschillen. Je berekent de afwijking zo:
@@ -164,3 +177,26 @@ Je neemt voor \\(V\_{\text{opl}}\\) de hoeveelheid die je in het begin uit je op
 \\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\|I - II\|}{I + II} \cdot 100\%\\]
 
 ## Terugtitraties
+
+Een terugtitratie gebruik je bij instabiele stoffen, die bijvoorbeeld tijdens de titratie zouden wegreageren of verdampen (zoals bijvoorbeeld \\(\ce{NH3}\\))
+
+Bij een terugtitratie voeg je eerst een overmaat \\(\ce{H3O+}\\) toe:
+
+\\[\ce{NH3\_{(aq)} + H3O+ -> NH4+ + H2O\_{(l)}}\\]
+
+> **VRAAG: wat zorgt ervoor dat \\(\ce{NH4+}\\) niet een evenwicht vormt:**
+> 
+> \\[\ce{NH4+ + H2O\_{(l)}}\\]
+
+Er blijft nu een klein deel zuur over. Je weet dat het aantal mol gereageerd zuur gelijk is aan het aantal mol \\(\ce{NH3}\\)). Je kan uitrekenen hoeveel mol je er origineel bij gegooid had:
+
+\\[n_{\ce{NH3}} = n_{\text{zuur}} - n_{\text{over}}\\]
+\\[n_{\text{zuur}} = \ce{[H3O+]} \cdot V_{\text{zuur}}\\]
+
+Je kan vervolgens berekenen hoeveel mol \\(n_{\text{over}}\\) is door terug te titreren door \\(\ce{OH-}\\) toe te voegen. Hiermee reageert de rest \\(\ce{H3O+}\\)  (van de net toegevoegde overmaat) die nog niet gereageerd was:
+
+\\[\ce{H3O+ + OH- -> H2O\_{(l)}}\\]
+
+Als je nu op het omslagpunt komt weet je dat \\(n_{\text{over}} = n_{\text{base}}\\), en \\(n_{\text{base}}\\) kan je berekenen omdat je weet hoeveel je hebt toegevoegd:
+
+\\[n_{\text{base}} = \ce{[OH-]} \cdot V_{\text{buret}}\\]
