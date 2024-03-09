@@ -13,7 +13,7 @@ title: Elektriciteit
 
 ## Veiligheid
 
-Als de stroom in een groep groter dan `16A` wordt noemen we dat overbelasting. Overbelasting kan zo ontstaan:
+Als de stroom in een groep groter dan 16A wordt noemen we dat overbelasting. Overbelasting kan zo ontstaan:
 
 - Kortsluiting
 - Teveel apparaten op één groep
@@ -22,7 +22,7 @@ Een gevolg van overbelasting kan zijn dat de isolatie om de koperdraden smelt.
 
 De zekering zet dan automatisch de groep uit.
 
-Als er stroom lekt \\(I\_{in} - U\_{uit} > 30 mA\\) zet de aardlekschakelaar automatisch de stroom uit.
+Als er stroom lekt \\(I\_{in} - U\_{uit} > 30 \text{mA}\\) zet de aardlekschakelaar automatisch de stroom uit.
 
 ## Soorten weerstanden
 

@@ -11,8 +11,8 @@ Modellen worden gebruikt voor:
 
 Je hebt twee soorten modellen. Is een er een variabele afhankelijk van tijd?
 
-- Ja -> **dynamisch**
-- Nee -> **statisch**
+- Ja ⇒ **dynamisch**
+- Nee ⇒ **statisch**
 
 Je hebt ook weer subcategoriën:
 
