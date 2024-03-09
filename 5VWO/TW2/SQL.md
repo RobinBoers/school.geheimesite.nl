@@ -1,5 +1,0 @@
----
-title: SQL
----
-
-[Verplaatst](Informatica)
