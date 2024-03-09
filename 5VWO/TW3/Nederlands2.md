@@ -2,8 +2,6 @@
 title: Verlichting
 ---
 
-**LET OP: NOG NIET AF**
-
 De Verlichting is de periode die na de Renaissance komt, en duurt van ongeveer 1700 tot ongeveer 1800.
 
 De Verlichting is een reactie op de geestelijke duisternis van de Middeleeuwen. Al was de Renaissance een grote vooruitgang, komt nu de mensheid pas echt tot bloei, aldus historici. De wetenschap bloeide erg op, het wordt dan ook wel _the Age of Reason_ genoemd. Het ratio, het gebruik van het verstand, was erg belangrijk en zou leiden tot een betere samenleving.
