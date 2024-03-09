@@ -51,4 +51,4 @@ Let op:
 - Tussenuitkomsten niet (veel) afronden!
 - Getallen zonder meetonzekerheid (bijvoorbeeld het aantal lampjes of een symbool zoals π) tellen niet mee voor significantie.
 
-Als je 1 significant cijfer moet gebruiken en op \\(0.x\\) uitkomt wordt het natuurlijk (\\x \cdot 10^{-1})\\.
+Als je 1 significant cijfer moet gebruiken en op \\(0.x\\) uitkomt wordt het natuurlijk \\(x \cdot 10^{-1})\\.
