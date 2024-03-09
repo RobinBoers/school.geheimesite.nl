@@ -11,7 +11,7 @@ Success met leren!
 ### TW3
 
 - [Rekenen met zuur-base](5VWO/TW3/Scheikunde)
-- [Literatuurgeschiedenis](5VWO/TW3/Nederlands)
+- [Renaissance](5VWO/TW3/Nederlands)
 - [Politiek](5VWO/TW3/Maatschappijleer)
 
 ### TW2

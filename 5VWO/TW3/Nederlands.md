@@ -1,8 +1,6 @@
 ---
-title: Literatuurgeschiedenis
+title: Renaissance
 ---
-
-**LET OP: NOG NIET AF**.
 
 # Renaissance
 
