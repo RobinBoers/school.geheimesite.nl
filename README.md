@@ -7,12 +7,11 @@ Success met leren!
 ## 5VWO
 
 - [Stemrecht voor jongeren](5VWO/stermrecht-voor-jongeren)
-- [Gedichtanalyse](5VWO/gedichtanalyse)
-- [Seksuele voorlichting](5VWO/documentatiemap)
 
 ### TW3
 
 - [Rekenen met zuur-base](5VWO/TW3/Scheikunde)
+- [Literatuurgeschiedenis](5VWO/TW3/Nederlands)
 - [Politiek](5VWO/TW3/Maatschappijleer)
 
 ### TW2
@@ -25,6 +24,7 @@ Success met leren!
 - [Rechtsstaat](5VWO/TW2/Maatschappijleer)
 - [Rechtspraak](5VWO/TW2/Maatschappijleer2)
 - [SQL](5VWO/TW2/Informatica)
+- [Gedichtanalyse](5VWO/TW2/gedichtanalyse)
 
 ### TW1
 
@@ -153,3 +153,4 @@ Success met leren!
 - [Verlichting](2VWO/TW3/Geschiedenis)
 - [Beeldende vormgeving](2VWO/TW3/BV)
 - [Voeding](2VWO/TW3/Biologie)
+
