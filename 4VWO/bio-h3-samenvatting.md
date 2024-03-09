@@ -13,7 +13,7 @@ Bij wetenschappelijk onderzoek heb je verschillende variabele:
 
 - hoe groot is de invloed van meetfouten op de conclusie
 - is het onderzoek herhaalbaar?
-  - zelfde resultaten => betrouwbaar onderzoek
+  - zelfde resultaten ⇒ betrouwbaar onderzoek
 
 **Validiteit** gaat over welk verschijnsel je meet: of je meet wat je probeert te meten (eg. is de manier waarop je je data krijgt goed).
 

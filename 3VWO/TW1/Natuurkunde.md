@@ -91,7 +91,7 @@ Zo reken je met transformators:
 > N<sub>p</sub> = Aantal windingen primaire spoel  
 > N<sub>s</sub> = Aantal windingen secondaire spoel
 
-Bij een **ideale transformator** is er helemaal geen energieverlies => alle energie in de primaire spoel gaat naar de secondaire spoel. Dat betekent
+Bij een **ideale transformator** is er helemaal geen energieverlies ⇒ alle energie in de primaire spoel gaat naar de secondaire spoel. Dat betekent
 
 \\[P_{p} = P_{s}\\]
 

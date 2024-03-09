@@ -20,7 +20,7 @@ Je kan op 2 manieren naar je financiële situatie kijken:
 Motieven voor scholing:
 
 - Interesse
-- Beroep leren => geld verdienen
+- Beroep leren ⇒ geld verdienen
 
 Door naar school te gaan neemt je verdiencapaciteit toe: het vermogen geld te verdienen. Je invensteert dus in je eigen human capital: de waarde in vorm van kennis en vaardigheden die jij hebt.
 

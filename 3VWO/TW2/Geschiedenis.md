@@ -39,7 +39,7 @@ Hitler had een rassenleer. Hij geloofde dat er mensenrassen waren die elkaar bes
 Nadat Hitler aan de macht kwam:
 
 - zette hij herbewapeningsprogramma op
-- dienstplicht => miljoenenleger
+- dienstplicht ⇒ miljoenenleger
 - vriendschap met Italië
 
 Hij liet zijn soldaten in het Rijnland marcheren en schond dus het verdrag van Versailles. Hitler zette ook het _Heim ins Reich_ programma op waarbij hij alle gebieden die Duitstalig waren bij het Duitse rijk trok. Oostenrijk sloot zich zonder moeite aan. Dit noemen we de Anschluss.

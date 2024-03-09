@@ -10,25 +10,26 @@ botsingen tussen deeltjes waarbij de deeltjes reageren. Dit hangt af van:
 - **Soort stof**: heeft met het type reactie te maken.
 
 - **Verdelingsgraad**: fancy woord voor oppervlakte. Hoe kleiner de deeltjes,
-  hoe meer oppervlakte (waarop een effectieve botsing kan plaatsvinden), 
+  hoe meer oppervlakte (waarop een effectieve botsing kan plaatsvinden),
   dus hoe sneller de stof reageert.
 
 - **Concentratie**: hoe meer van een stof er is, hoe meer er kan reageren.
 
 - **Temperatuur**: hoe hoger, hoe:
+
   - meer deeltjes botsen.
   - sneller deeltjes botsen.
   - harder deeltjes botsen.
 
-  Over het algemeen geldt: 10 graden warmer => 2x sneller.
-  
+  Over het algemeen geldt: 10 graden warmer ⇒ 2x sneller.
+
 - **Druk**: bij een hogere druk willen er zo min mogelijk deeltjes zijn.
 
-  - In A -> C + D zal de reactie dus vertragen.
-  - In A + B -> C zal de reactie dus versnellen.
+  - In \\(\ce{A -> C + D}\\) zal de reactie dus vertragen.
+  - In \\(\ce{A + B -> C}\\) zal de reactie dus versnellen.
 
-- **Katalysator**: een stof die de reactie versnelt door de 
-  geactiveerde toestand omlaag te brengen. Wordt wel *gebruikt* maar niet *verbruikt*.
+- **Katalysator**: een stof die de reactie versnelt door de
+  geactiveerde toestand omlaag te brengen. Wordt wel _gebruikt_ maar niet _verbruikt_.
 
   Een voorbeeld van een katalysator is bladgroen of enzymen.
 
@@ -41,15 +42,17 @@ Reacties kunnen of endo- of exotherm zijn:
 
 Dit kan je in energiediagrammen weergeven:
 
-![Energiediagrammen voor endo- en exotherme reacties](energiediagrammen.jpg)
+| Endotherm                    | Exotherm                    |
+| ---------------------------- | --------------------------- |
+| ![](energiediagram-endo.png) | ![](energiediagram-exo.png) |
 
-Stel je hebt 3 AB + 2 CD -> EF + 4 G hebt, en het energieverschil (ΔE) wil berekenen.
+Stel je hebt \\(\ce{3 AB + 2 CD -> EF + 4 G}\\) hebt, en het energieverschil (ΔE) wil berekenen.
 Je zoekt in B57 de vormingswarmtes op. Dit is de energie die nodig is om een stof
 te vormen. Dit geldt alleen voor **ontleedbare stoffen** (moleculen die uit meerdere
 atoomsoorten bestaan).
 
-Voor elke stof in de reactie schrijf je de vormingswarmte op keer de coëfficient. 
-Als de stof wordt afgebroken (alle stoffen voor de pijl), 
+Voor elke stof in de reactie schrijf je de vormingswarmte op keer de coëfficient.
+Als de stof wordt afgebroken (alle stoffen voor de pijl),
 maak je de vormingswarmte negatief.
 
 Als ΔE negatief is is de reactie exotherm, want er is energie verloren gegaan. Als ΔE
@@ -58,17 +61,19 @@ endotherm.
 
 Als je de energie per mol AB wil weten, deel je door 3, en per mol G door 4 etc.
 
-De energie voor de pijl is de activeringsenergie (zie onderstaande energiediagrammen).
+De energie voor de pijl is de activeringsenergie:
 
-![Activeringsenergie in endo- en exotherme reacties](activeringsenergie.jpg)
+| Endotherm                        | Exotherm                        |
+| -------------------------------- | ------------------------------- |
+| ![](activeringsenergie-endo.png) | ![](activeringsenergie-exo.png) |
 
 ## Chemische evenwichten
 
 Een evenwicht is een reactie die twee kanten op gaat. Je noteert die met een dubbele pijl:
 
-A + B ⇆ C + D
+\\[\ce{A + B <=> C + D}\\]
 
-Je hebt twee soorten evenwichten: 
+Je hebt twee soorten evenwichten:
 
 - **Statisch**: het veranderd niet (bijvoorbeeld een balans van een wipwap).
   Deze evenwichten kom je vooral in de natuurkunde tegen.
@@ -86,12 +91,12 @@ Een evenwicht hangt af van:
 
 - **Temperatuur**: bij een hoge temperatuur gaat de endotherme reactie sneller.
 - **Druk**: bij een hoge druk gaat de reactie die de minste deeltjes vormt sneller.
-- **Hoeveelheid aanwezige stof**: als je een stof toevoegt zal het evenwicht naar de andere kant verschuiven. 
+- **Hoeveelheid aanwezige stof**: als je een stof toevoegt zal het evenwicht naar de andere kant verschuiven.
   Als je een stof weghaalt verschuift het evenwicht juist naar de kant waar je de stof weghaalde.
 
 ## Evenwichtsconstante
 
-De evenwichtsvoorwaarde (k) is een breuk waarbij je de concentraties van de stoffen na de 
+De evenwichtsvoorwaarde (\\(K\\)) is een breuk waarbij je de concentraties van de stoffen na de
 dubbele pijl deelt door die voor de dubbele pijl. De coëfficienten worden daarbij exponenten,
 en vaste stoffen mag je weglaten (die hebben geen concentratie).
 
@@ -102,42 +107,43 @@ Alleen als de evenwichtsvoorwaarde constant is, is er sprake van een evenwicht.
 Aan de hand van de reactievergelijking van een chemisch evenwicht kan je de concentraties
 van het evenwicht op deze manier uitrekenen:
 
-| Reactie       |  1 A  |  + 2 B  | -> 3 C  |  + 4 D  |
-| Beginstoffen  | 2 mol |   3 mol |   0 mol |   0 mol |
-| Omzetting     |+6 mol |  +??    |  -??    |  -??    |
-| Eindproducten | 8 mol |   ...   |   ...   |   ...   |
-| Volume        | 1,0L                                |
-| Concentratie  | 8 M   |   ...   |   ...   |   ...   |
+| Reactie       | 1 A    | + 2 B | → 3 C | + 4 D |
+| ------------- | ------ | ----- | ----- | ----- |
+| Beginstoffen  | 2 mol  | 3 mol | 0 mol | 0 mol |
+| Omzetting     | +6 mol | +??   | -??   | -??   |
+| Eindproducten | 8 mol  | ...   | ...   | ...   |
+| Volume        | 1,0L   |
+| Concentratie  | 8 M    | ...   | ...   | ...   |
 
 Je kan bij omzetting de andere waardes uitrekenen mbv de molverhoudingen van de vergelijking.
 Hierbij zijn alle waardes aan één kant van de pijl plus en aan de andere kant min.
 
 In dit geval:
 
-| Reactie       |  1 A  |  + 2 B  | -> 3 C  |  + 4 D  |
-| Beginstoffen  | 2 mol |   3 mol |   0 mol |   0 mol |
-| Omzetting     | -1mol |   -2mol |   +3mol |   +4mol |
-| Eindproducten | 1 mol |   1 mol |   3 mol |   4 mol |
-| Volume        | 1,0L                                |
-| Concentratie  | 1 M   |   1 M   |   3 M   |   4 M   |
+| Reactie       | 1 A   | + 2 B | → 3 C | + 4 D |
+| ------------- | ----- | ----- | ----- | ----- |
+| Beginstoffen  | 2 mol | 3 mol | 0 mol | 0 mol |
+| Omzetting     | -1mol | -2mol | +3mol | +4mol |
+| Eindproducten | 1 mol | 1 mol | 3 mol | 4 mol |
+| Volume        | 1,0L  |
+| Concentratie  | 1 M   | 1 M   | 3 M   | 4 M   |
 
 ## Oplossingsproduct
 
 Bij een evenwicht in een oplossingsreactie is de evenwichtsvoorwaarde altijd een product:
 
-AgCl (s) ⇆ Ag⁺ + Cl⁻
+\\[\ce{AgCl\_{(s)} <=> Ag+ + Cl-}\\]
+\\[\ce{K = [Ag+][Cl-]}\\]
 
-=> k = \[Ag⁺]\[Cl⁻]
+In dit geval kun je iets interessants doen. Je kan in het BOE(V)C-schema een \\(x\\) invullen:
 
-In dit geval kun je iets interessants doen. Je kan in het BOE(V)C-schema een `x` invullen:
+| Reactie       | AgCl   | → Ag⁺ | + Cl⁻ |
+| ------------- | ------ | ----- | ----- |
+| Beginstoffen  | 2 mol  | 0 mol | 0 mol |
+| Omzetting     | -xmol  | +xmol | +xmol |
+| Eindproducten | 1-xmol | x mol | x mol |
+| Volume        | 1,0L   |
+| Concentratie  | 1-x M  | x M   | x M   |
 
-| Reactie       |  AgCl  | -> Ag⁺  |  + Cl⁻  |
-| Beginstoffen  | 2 mol  |   0 mol |   0 mol |
-| Omzetting     | -xmol  |   +xmol |   +xmol |
-| Eindproducten | 1-xmol |   x mol |   x mol |
-| Volume        | 1,0L                       |
-| Concentratie  | 1-x M  |   x M   |   x M   |
-
-Je weet dus nu dat k = x². Je kan vervolgens het oplossingsproduct opzoeken in Binas,
-en daarmee x uitrekenen. Daarmee weet je vervolgens het hele BOE(V)C-schema.
-
+Je weet dus nu dat \\(k = x^2\\). Je kan vervolgens het oplossingsproduct opzoeken in Binas,
+en daarmee \\(x\\) uitrekenen. Daarmee weet je vervolgens het hele BOE(V)C-schema.

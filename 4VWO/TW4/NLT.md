@@ -255,13 +255,13 @@ Als je kennis uit één context of situatie in een andere kan toepassen, noemen 
 
 Leertheorieën zijn theorieën over hoe je makkelijk iets kan (aan)leren. In de module kwamen deze drie naar voren:
 
-- Behaviorisme: je kan gedrag beïnvloeden dmv beloningen en straffen. Hierbij is het brein een "black box" (we weten niet precies wat er gebeurt): we kijken vooral naar wat er gebeurt met de output als je de input verandert.
+- **Behaviorisme**: je kan gedrag beïnvloeden dmv beloningen en straffen. Hierbij is het brein een "black box" (we weten niet precies wat er gebeurt): we kijken vooral naar wat er gebeurt met de output als je de input verandert.
 
-- Cognitivisme: feitenkennis en vaardigheden leren dmv LTP en geheugenconsolidatie.
+- **Cognitivisme**: feitenkennis en vaardigheden leren dmv LTP en geheugenconsolidatie.
 
-- Constructivisme: kennis in een kennisnetwerk opslaan. Hierbij vormt elke leerling een eigen, persoonlijk/uniek kennisnetwerk.
+- **Constructivisme**: kennis in een kennisnetwerk opslaan. Hierbij vormt elke leerling een eigen, persoonlijk/uniek kennisnetwerk.
 
-- Kennisoverdracht: kennis wordt kant-en-klaar overgedragen aan de leerling (ook wel het transmissiemodel genoemd).
+- **Kennisoverdracht**: kennis wordt kant-en-klaar overgedragen aan de leerling (ook wel het transmissiemodel genoemd).
 
 ### Instructietheorieën
 

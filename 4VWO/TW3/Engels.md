@@ -155,7 +155,7 @@ flowchart TD
   end
 ```
 
-### Oral poetry
+## Oral poetry
 
 Oral (spoken) poetry uses a few common constructions:
 
@@ -176,17 +176,11 @@ Oral (spoken) poetry uses a few common constructions:
     - Strong (sometimes even superhuman)
 
 - Hero performs courageous/superhuman deeds that reflect **the values of the era**.
-
 - His actions decide the fate of a group/nation.
-
 - The setting is vast.
-
 - The story is written formally/has a serious tone and includes long speeches/monologues.
-
 - Plot involves an superhuman being and/or a dangerous journey.
-
 - The story describes timeless values such as honor and loyalty.
-
 - The story includes timeless/universal themes such as life/death or good/evil.
 
 ## Canterbury Tales
@@ -194,9 +188,7 @@ Oral (spoken) poetry uses a few common constructions:
 - **Setting**: April, Tabard Inn (just outside of London).
 - **Story**: Pelgrims go to St. Thomas in Canterbury and tell eachother tales. It's a frame-narrative.
 
-### Characters
-
-#### Knight (nobility)
+### Knight (nobility)
 
 - Very strong/sturdy
 - Heroic
@@ -204,12 +196,12 @@ Oral (spoken) poetry uses a few common constructions:
 - Doesn't wear very knight-y clothes
   - Old and discoloured
 
-##### Appearance
+#### Appearance
 
 - Strong
 - Old discoloured clothes
 
-#### Squire (nobility)
+### Squire (nobility)
 
 Son of knight.
 
@@ -220,12 +212,12 @@ Son of knight.
 - In love with a girl
 - Chival, good mannered
 
-##### Appearance
+#### Appearance
 
 - blonde curls
 - strong
 
-#### Yeoman (people)
+### Yeoman (people)
 
 - Good servant
 - Has a lot of weapons
@@ -233,11 +225,11 @@ Son of knight.
   - on sword
   - on his clothes
 
-##### Appearance
+#### Appearance
 
 - Short hair
 
-#### Prioress (clergy)
+### Prioress (clergy)
 
 Head of the nuns.  
 **Name**: Madame Eglantine
@@ -253,12 +245,12 @@ Head of the nuns.
 
 > Satire: nuns are not supposed to be this phosh/girly. They shouldn't care about love (for people and animals), prettyness or courtly manners.
 
-##### Appearance
+#### Appearance
 
 - Fancy clothes
 - Beautiful
 
-#### Monk (clergy)
+### Monk (clergy)
 
 - Handsome
 - Is more like the people
@@ -269,13 +261,13 @@ Head of the nuns.
 
 > Satire: he's a horrible monk.
 
-##### Appearance
+#### Appearance
 
 - Clothes lined with (white) fur
 - Gold pin on his clothes
 - Bald
 
-#### Friar (clergy)
+### Friar (clergy)
 
 A friar is a poor kind of monk/religious person who's job it is to collect alms (money/food).
 
@@ -290,12 +282,12 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 
 > Not really satire: he's described as greedy and as taking advantage of other people. Straight up criticism.
 
-##### Appearance
+#### Appearance
 
 - Strongish
 - Has expensive clothes
 
-#### Merchant (people)
+### Merchant (people)
 
 - Looks funny
 - Good at trading (very profit-minded)
@@ -303,14 +295,14 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 
 > Satire: a merchant who's in debt is not very good. It's not confirmed tho.
 
-##### Appearance
+#### Appearance
 
 - Forked beard
 - Bright colorful clothes
 - Beaver hat
 - Expensive boots
 
-#### Clerk (clergy)
+### Clerk (clergy)
 
 - Very smart/well-educated
 - Doesn't progress in years of study
@@ -321,65 +313,65 @@ A friar is a poor kind of monk/religious person who's job it is to collect alms 
 > Satire(?): you're not very smart if after years of studying logic you don't progress. Also not taking on a job can be seen as not smart.  
 > Or it's just as a sign of being humble.
 
-##### Appearance
+#### Appearance
 
 - Poor
 - Hollow-cheecked, thin
 
-#### Sergeant of Law (people)
+### Sergeant of Law (people)
 
 Laywer.
 
 - Smart
 - Takes bribes
 
-##### Appearance
+#### Appearance
 
 - Green clothes with black fur
 - Round cap made of silk
 - "Dressed in the robes of authority"
 
-#### Franklin (people)
+### Franklin (people)
 
 - Landowner
 - Joyful
 - Good host (takes good care of others)
 - Good person
 
-##### Appearance
+#### Appearance
 
 - White beard
 - Red cheeks
 
-#### Guild folk (rich people)
+### Guild folk (rich people)
 
 - Rich
 - (A bit) arrogant
 - Hired a cook
 
-#### Cook
+### Cook
 
 - Cooks very well
 - Is not very hygienic
 
-##### Appearance
+#### Appearance
 
 - Has a big wound on his leg that is not treated properly
 
-#### Shipman (people)
+### Shipman (people)
 
 - Good at navigating
 - Courageous
 - Steals from the cargo of his ship
 - Speaks and looks sea-ish
 
-##### Appearance
+#### Appearance
 
 - Robe of coarse woolen cloth
 - Dagger around his neck
 - Sturdy
 
-#### Doctor of Physic (nobility)
+### Doctor of Physic (nobility)
 
 - Spiritual/astronomer
 - Greedy
@@ -388,7 +380,7 @@ Laywer.
 
 > Satire: he's a great doctor! BUT: he treats people with poop and charges them for it. Also his texts are outdated (ancient even) and he's better at atronomy then curing people.
 
-#### Wife of Bath (people)
+### Wife of Bath (people)
 
 Makes clothes.
 
@@ -399,14 +391,14 @@ Makes clothes.
 - Affairs
 - Is very sexual
 
-##### Appearance
+#### Appearance
 
 - Fancy expensive clothes
 - Gap-toothed
 - Fat
 - Has a giant hat
 
-#### Parson (clergy)
+### Parson (clergy)
 
 - Poor but wise
 - Good person
@@ -419,7 +411,7 @@ Makes clothes.
 
 > Note: the I-person barely spoke to the Parson, so the perspective might be warped.
 
-#### Ploughman (people)
+### Ploughman (people)
 
 Brother of the parson.
 
@@ -427,33 +419,33 @@ Brother of the parson.
 - Painful life
 - Fair, pays bills on time etc.
 
-##### Appearance
+#### Appearance
 
 - Coarse tunic
 - Horse: mare
 
-#### Miller (people)
+### Miller (people)
 
 - Strong but stupid
   - Buffoon
 - Dirty stories / whores
 - Dishonest: steals and then sells for his own profit
 
-##### Appearance
+#### Appearance
 
 - Sturdy
 - Wart on his nose
 - Ugly in general
 - White coat + blue hat
 
-#### Manciple (people)
+### Manciple (people)
 
 Business man.
 
 - Outsmarted his superiors
 - Very wise
 
-#### Reeve (people)
+### Reeve (people)
 
 - Good estate manager
 - Has complete control over the cattle
@@ -462,13 +454,13 @@ Business man.
 
 > Note: is always the last rider in the group, could be important later.
 
-##### Appearance
+#### Appearance
 
 - Slender (= gracefully thin)
 - Well-shaved
 - Dark blue coat
 
-#### Summoner (clergy)
+### Summoner (clergy)
 
 - Children are afraid of him
 - Alcoholist
@@ -476,7 +468,7 @@ Business man.
 - Pretends to be smart
 - Maybe a pedophile?
 
-##### Appearance
+#### Appearance
 
 - Ugly:
   - pimples
@@ -484,21 +476,21 @@ Business man.
   - swollen eyelids
   - scabby eyebrows
 
-#### Pardoner (clergy)
+### Pardoner (clergy)
 
 - Arrogant
 - Not manly
 - Greedy
 - Sings well
 
-##### Appearance
+#### Appearance
 
 - Thin hair
 - Bald
 - No hat (not fashionable in his opinion)
 - No beard
 
-#### Host (people)
+### Host (people)
 
 - Joyful
 - Good host
@@ -510,7 +502,7 @@ Business man.
 > - self-promotion
 > - fun?
 
-##### Appearance
+#### Appearance
 
 - Bright eyes
 - Attractive

@@ -2,7 +2,7 @@
 title: Gedichtanalyse
 ---
 
-***
+## November 
 
 > November
 > 
@@ -79,7 +79,7 @@ Het is een vrij somber gedicht. Hij benadrukt de hele tijd de herhaling van deze
 
 Ik denk dat dit gedicht gaat over eentonigheid, vergankelijkheid, aftakeling en eenzaamheid.
 
-***
+## Sprookje
 
 > Sprookje
 >
@@ -103,7 +103,7 @@ Ik denk dat dit gedicht gaat over eentonigheid, vergankelijkheid, aftakeling en 
 
 Het gedicht is geschreven door Margaretha Vasalis, en werd in 1947 gepubliceerd in haar bundel *De vogel Phoenix*. Het gedicht bestaat uit een losse regel en twee strofen: een kwatrijn en een sextet.
 
-## Rijm
+### Rijm
 
 Het rijmschema van de eerste strofe is ABBA, en die van de tweede strofe is ABBBBA. Je noemt dit omarmende rijnm. Dit zijn de soorten rijm uit het rijmschema:
 
@@ -127,16 +127,15 @@ Je vindt ook verschillende vormen van alliteratie:
 - zij-zijn
 - verloren-verzonken
 
-## Stijlfiguren
+### Stijlfiguren
 
 Het gedicht begint met een personificatie: "wondere dingen komen aangevolgen". De meeste dingen kunnen over het algemeen niet vliegen. Er is een repetitio van "geloof het maar" in de tweede strofe. Ook gebruikt de auteur "bloemen drijvend in een schaal" als metafoor voor de "wondere dingen [die] komen aangevlogen". Daarnaast is er een antithese in de tweede strofe: "het witte en het blonde haar", die als beeldspraak voor de oma en haar kleindochtertje fungeert.
 
-## Parafrase
+### Parafrase
 
 Oma vertelt een oud sprookje aan haar kleindochter, dat ze beide heel mooi vinden en helemaal voor zich zien.  
 Oma en haar kleindochter gaan beide helemaal op in het sprookje. De dochter zal nooit meer zoiets moois lezen dan hoe oma het sprookje voorlas.
 
-## Interpretatie
+### Interpretatie
 
 Het gedicht gaat over het mooie moment dat de interactie tussen oma en kleindochter is bij het voorlezen van een sprookje. Het is een magisch moment. Door het voorlezen scheppen oma en kleindochter een band die het verhaal veel mooier maakt. De schrijver laat de magie van het moment zien met woordgebruik, met "wondere dingen [die] komen aangevlogen" en "er is zachte spanning in hun wezen". De titel kan zowel verwijzen naar het verhaal dat voorgelezen wordt, als naar het moment zelf.
-

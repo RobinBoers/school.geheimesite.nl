@@ -111,8 +111,8 @@ Stoffen in het periodieksysteem die in een kolom staan lijken chemisch op elkaar
 
 ### Onstabiele isotopen
 
-- Te weinig neutronen => de protonen drukken elkaar weg
-- Teveel neutronen => kern te zwaar
+- Te weinig neutronen ⇒ de protonen drukken elkaar weg
+- Teveel neutronen ⇒ kern te zwaar
 
 In beide gevallen zal het atoom uit elkaar vallen. Je kan de stabiele isotopen in Binas 25A vinden.
 

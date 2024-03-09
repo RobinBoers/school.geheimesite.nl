@@ -162,7 +162,7 @@ De arm (r) is de afstand tot het draaipunt (in meters), loodrecht op de werklijn
 
 ![Een deur die draait onder invloed van de kracht (F)](deur.png)
 
-Voor dezelfde draaing (M) minder kracht gebruiken => grotere arm. Daarom is het efficiënter om loodrecht tegen de deur te duwen.
+Voor dezelfde draaing (M) minder kracht gebruiken ⇒ grotere arm. Daarom is het efficiënter om loodrecht tegen de deur te duwen.
 
 ![r1 > r2](loodrecht-deur.png)
 

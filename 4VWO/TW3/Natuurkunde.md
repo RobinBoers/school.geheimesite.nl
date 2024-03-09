@@ -27,33 +27,26 @@ Bij gassen gelden deze regels:
 Uit deze regels volgt:
 
 \\[p \cdot V = n \cdot R \cdot T\\]
-
-of
-
 \\[\frac{p_{1} \cdot V_{1}}{n_{1} \cdot T_{1}} = \frac{p_{2} \cdot V_{2}}{n_{2} \cdot T_{2}}\\]
 
 De luchtdruk is `1 bar`:
 
 \\[p_{\text{atmosfeer}} = 1.0 \text{ bar} = 1.0 \times 10^{5} \text{ Pa}\\]
 
----
-
-Opmerking: als een materiaal makkelijk vervormbaar is (zoals een ballon of fietsband), moet de luchtdruk binnen hetzelfde als buiten zijn, omdat anders het materiaal uit elkaar springt of implodeert:
-
-\\[p_{\text{binnen}} = p_{\text{buiten}}\\]
-
-Bij een steviger volume, zoals een ijzere doos, is dit niet het geval.
-
-Dus als je deeltjes toevoegt of de temperatuur verhoogt:
-
-- bij een ballon: de ballon wordt groter.
-- bij een ijzere doos: de druk aan de binnenkant neemt toe.
-
----
+> Opmerking: als een materiaal makkelijk vervormbaar is (zoals een ballon of fietsband), moet de luchtdruk binnen hetzelfde als buiten zijn, omdat anders het materiaal uit elkaar springt of implodeert:
+> 
+> \\[p_{\text{binnen}} = p_{\text{buiten}}\\]
+> 
+> Bij een steviger volume, zoals een ijzere doos, is dit niet het geval.
+> 
+> Dus als je deeltjes toevoegt of de temperatuur verhoogt:
+> 
+> - bij een ballon: de ballon wordt groter.
+> - bij een ijzere doos: de druk aan de binnenkant neemt toe.
 
 ### Temperatuur
 
-Zoals ik hierboven al zei is de temperatuur de maat voor de gemiddelde snelheid van de deeltjes uit het deeltjesmodel. Dat betekent dat hoe lager de temperatuur, hoe langzamer de deeltjes gemiddeld gaan. Dat is waarom 0 K = -273 °C de laagst mogelijke temperatuur is: op die temperatuur is de gemiddelde snelheid van de deeltjes 0. Lager kan dus niet[^1].
+Zoals ik hierboven al zei is de temperatuur de maat voor de gemiddelde snelheid van de deeltjes uit het deeltjesmodel. Dat betekent dat hoe lager de temperatuur, hoe langzamer de deeltjes gemiddeld gaan. Dat is waarom 0 K = -273 °C de laagst mogelijke temperatuur is: op die temperatuur is de gemiddelde snelheid van de deeltjes 0. Lager kan dus niet (want een negatieve snelheid is een positieve snelheid in tegengestelde richting.).
 
 ## Warmte
 
@@ -76,7 +69,7 @@ Er zijn een aantal verbanden tussen de dichtheid, chemische hoeveelheid en soort
     - Stoffen met lichte moleculen hebben meer deeltjes nodig voor dezelfde massa.
     - Lichtere deeltjes zijn met meer, dus met hetzelfde gewicht is het volume groter.
     - Het aantal deeltjes per kg is omgekeerd evenredig met de dichtheid.
-    - Lichtere deeltjes => meer deeltjes => lagere dichtheid.
+    - Lichtere deeltjes ⇒ meer deeltjes ⇒ lagere dichtheid.
     - De massa van een deeltje is evenredig met de dichtheid.
 
 3. 
@@ -151,10 +144,6 @@ Het elastische gebied in een σ,ε-diagram volgt vaak een (vrijwel) linear verba
 > E = de elasticiteitsmodulus in Pa  
 > ε = de relatieve rek (zonder eenheid) 
 
-
-[^1]: Want een negatieve snelheid is een positieve snelheid in tegengestelde richting.
-
-
 ## Uitzetten
 
 Als een materiaal wordt verhit kan het uizetten. Daarvoor gebruik je deze formule:
@@ -165,4 +154,3 @@ Als een materiaal wordt verhit kan het uizetten. Daarvoor gebruik je deze formul
 > α = de uitzettingscoëfficient in K⁻¹  
 > l₀ = de beginlengte in m  
 > ΔT = temperatuurverschil in graden Kelvin of Celcius
-

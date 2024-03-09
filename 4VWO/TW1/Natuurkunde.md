@@ -5,15 +5,10 @@ title: Elektriciteit
 ## Formules
 
 \\[P = U \cdot I\\]
-
 \\[R = \frac{U}{I}\\]
-
 \\[E = P \cdot t\\]
-
 \\[I = \frac{Q}{\delta t}\\]
-
 \\[U = \frac{J}{Q}\\]
-
 \\[R = ρ \cdot \frac{l}{A}\\]
 
 ## Veiligheid
@@ -27,13 +22,13 @@ Een gevolg van overbelasting kan zijn dat de isolatie om de koperdraden smelt.
 
 De zekering zet dan automatisch de groep uit.
 
-Als er stroom lekt (\\I_{in} - U_{uit} > 30 mA\\) zet de aardlekschakelaar automatisch de stroom uit.
+Als er stroom lekt \\(I\_{in} - U\_{uit} > 30 mA\\) zet de aardlekschakelaar automatisch de stroom uit.
 
 ## Soorten weerstanden
 
-- **NTC:** hoge temperatuur => lage weerstand
-- **PTC:** hoge temperatuur => hoge weerstand
-- **LDR:** meer licht => lage weerstand
+- **NTC:** hoge temperatuur ⇒ lage weerstand
+- **PTC:** hoge temperatuur ⇒ hoge weerstand
+- **LDR:** meer licht ⇒ lage weerstand
 
 ## Variabele weerstand
 
@@ -56,5 +51,4 @@ Let op:
 - Tussenuitkomsten niet (veel) afronden!
 - Getallen zonder meetonzekerheid (bijvoorbeeld het aantal lampjes of een symbool zoals π) tellen niet mee voor significantie.
 
-_Als je 1 significant cijfer moet gebruiken en op \\0.x\\ uitkomt wordt het natuurlijk \\x \cdot 10^{-1}\\
-
+Als je 1 significant cijfer moet gebruiken en op \\(0.x\\) uitkomt wordt het natuurlijk (\\x \cdot 10^{-1})\\.

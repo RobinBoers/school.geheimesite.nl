@@ -160,8 +160,8 @@ De [L] waarbij [R] = [LR] noemen we de dissociatieconstante (k<sub>D</sub>). Dat
 
 Als k<sub>D</sub>:
 
-- laag is: k<sub>1</sub> groter => een hoge [LR]. De ligand bindt dus goed.
-- hoog is: k<sub>2</sub> groter => dus een lage [LR]. De ligand bindt dus slecht.
+- laag is: k<sub>1</sub> groter ⇒ een hoge [LR]. De ligand bindt dus goed.
+- hoog is: k<sub>2</sub> groter ⇒ dus een lage [LR]. De ligand bindt dus slecht.
 
 k<sub>D</sub> is dus omgekeerd evenredig met de affiniteit. In andere woorden: bij een lage k<sub>D</sub> heb je weinig van een medicijn nodig, en werkt het dus goed.
 
@@ -233,7 +233,7 @@ Je kan maagzuurproductie met de volgende interventies aanpakken:
 - Histamine-receptor antagonist
 - PGE<sub>2</sub>-receptor agonist  
   (nadeel: PGE<sub>2</sub> receptoren zitten overal in je lichaam 
-  => veel bijwerkingen)
+  ⇒ veel bijwerkingen)
 - Gastrine-receptor antagonist
 
 ## Farmacokinetiek 
@@ -297,8 +297,8 @@ Als het medicijn het lichaam binnen komt gaat het meestal eerst via de darmen. D
 
 We gebruiken de biologische beschikbaarheid (F) om uit te drukken hoeveel origineel medicijn er nog over is als het voorbij de lever is. F is een getal tussen 0 en 1:
 
-- F = 0 => de lever heeft al het medicijn uit het bloed gefiltered; er is niks over.
-- F = 1 => de lever heeft geen medicijn uit het bloed gefiltered.
+- F = 0 ⇒ de lever heeft al het medicijn uit het bloed gefiltered; er is niks over.
+- F = 1 ⇒ de lever heeft geen medicijn uit het bloed gefiltered.
 
 In veel berekeningen doen we alsof de lever niet bestaat (F = 1), omdat dat de boel versimpelt.
 
