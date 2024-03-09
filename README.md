@@ -72,8 +72,6 @@ Success met leren!
 
 ## 3VWO
 
-- [Boekrecensie: 'De Gave – Sprong in het Duister'](3VWO/recensie-de-gave-sprong-in-het-duister)
-- [RE: 'Kom naar huis'](3VWO/reactie-op-kom-naar-huis)
 - [Maassluis, winter 1960](3VWO/po-50s-70s)
 - [En what about the ~~bitches~~ vrouwen?](3VWO/en-what-about-the-bitches)
 - [Samenvatting economie (H1)](3VWO/eco-h1-samenvatting)
@@ -125,11 +123,8 @@ Success met leren!
 
 ## 2VWO
 
-- [Best Friends 4 Ever!](2VWO/vriendschap)
 - [PO: De Franse Revolutie](2VWO/po-franse-revolutie)
 - [Tekstanalyze](2VWO/hoofd-en-bijzaken)
-- [Gezonde schoolkantine](2VWO/gezonde-schoolkantine)
-- [Eetdagboek](2VWO/eetdagboek)
 
 ### TW4
 
