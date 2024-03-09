@@ -10,13 +10,13 @@ De Renaissance is de periode die na de Middeleeuwen komt. Het begint in de 16e e
 
 In de overgang van de Middeleeuwen naar de Renaissance vinden veel veranderingen plaats. Een groot deel hiervan werden mogelijk of werden versterkt door de opkomst van de boekdrukkunst:
 
-| Middeleeuwen                                                         | Renaissance                                                                 |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Feodalisme                                                           | Centrale staat                                                              |
-| 3 standen:<ul><li>geestelijken</li><li>adel</li><li>boeren</li></ul> | Opkomst 4e stand: burgerij                                                  |
-| Theocentrisch (samenleving gericht op religie)                       | Antropocentrisch (mensgericht, gericht op leven op aarde)                   |
-| Een persoon heeft alles te danken aan de gemeenschap en aan God.     | Individualisme: Een persoon is zelf verantwoordelijk voor zijn verdiensten. |
-| Kunst is een vak.                                                    | Een kunstenaar is een geleerde.                                             |
+| Middeleeuwen                                                     | Renaissance                                                                 |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Feodalisme                                                       | Centrale staat                                                              |
+| 3 standen:<br>- geestelijken<br>- adel<br>- boeren               | Opkomst 4e stand: burgerij                                                  |
+| Theocentrisch (samenleving gericht op religie)                   | Antropocentrisch (mensgericht, gericht op leven op aarde)                   |
+| Een persoon heeft alles te danken aan de gemeenschap en aan God. | Individualisme: Een persoon is zelf verantwoordelijk voor zijn verdiensten. |
+| Kunst is een vak.                                                | Een kunstenaar is een geleerde.                                             |
 
 ### Humanisme
 
