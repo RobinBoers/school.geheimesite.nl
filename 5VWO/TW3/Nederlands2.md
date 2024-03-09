@@ -62,3 +62,40 @@ Spectators (of spectatoriale geschriften) was een nieuw soort blad. Het was de v
 ### Koffiehuizen
 
 In steden verschenen koffiehuizen. Dat waren plekken waar rijke burgers kennis en informatie konden uitwisselen. Er lagen kranten, pamfletten, tijdschriften en boeken. Ook werden er discussies over ethische en morele zaken gehouden, vaak aan de hand van spectators. Praten over politiek in een koffiehuis was taboe.
+
+### Planetarium
+
+Eise Eisinga bouwde in zijn huis een planetarium, om te bewijzen dat de planeten niet zouden botsen. Dat is typisch verlicht: de wereld proberen te begrijpen en de kennis met anderen delen.
+
+## Nieuwe genres
+
+### (Brief)roman
+
+Brieven waren de emails van vroeger (of eigenlijk zijn emails de brieven van nu). In het begin moest een brief nog een hele vaste structuur volgen, die je met een brievenboekje kon leren. Later werd dit losgelaten en werden brieven persoonlijker.
+
+De briefroman is een boek dat bestaat uit een collectie brieven. Dit was makkelijk omdat je geen rekening hoeft te houden met waar personages zich bevinden, het goed aansluit bij de werkelijkheid, en je duidelijk hun gedachtes en karakter in de brieven kan verwerken.
+
+In het begin was er angst dat het nieuwe genre tot moreel verval zou leiden. Later stapte men over de morele bezwaren heen omdat bleek dat dat niet het geval was, en een roman eigenlijk best op een klassiek heldendicht leek.
+
+De nadruk van een boek verschuift in de Verlichting ook van de gebeurtenissen (heldendaden) naar de persoonlijke ontwikkeling van de personages.
+
+### Imaginaire reisverhalen
+
+Een imaginair reisverhaal is een reisverhaal over een reis naar een verzonnen land. Je hebt een aantal soorten:
+
+- Robinsonade <small>(aanstranden op een onbewoond eiland met kannibalen)</small>
+- Satire
+- Utopie
+
+De laatste twee soorten waren een manier waarop zo'n reisverhaal als platform voor kritiek op de maatschappij gebruikt werd.
+
+<br><br><br><br>
+
+---
+
+<details>
+  <summary>Vragen</summary>
+  <ul>
+    <li>Wat is de didactische/kritische waarde van een Robinsonade?</li>
+  </ul>
+</details>

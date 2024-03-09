@@ -135,10 +135,9 @@ De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzi
 
 <details>
   <summary>Vragen</summary>
-
   <ul>
     <li>Hoe kan er godsdienstvrijheid zijn als er ook een geloofsstrijd is?</li>
     <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (voornamelijk de stromingen), maar het eerste stuk (geloofsstrijd) schetst juist een heel gelovig Europa?</li>
-    <li>Het lijkt me eigenlijk dat de meer wetenschappelijke dingen beter bij de verlichting passen? Waar hoort empirisme? --want die staat in mijn aantekeningen bij zowel Reneceasncecoewld (wat een kutwoord, typisch Franse onzin) en Verlichting; zelfde voor godsdienstvrijheid.
+    <li>Het lijkt me eigenlijk dat de meer wetenschappelijke dingen beter bij de verlichting passen? Waar hoort empirisme? --want die staat in mijn aantekeningen bij zowel Reneceasncecoewld (wat een kutwoord, typisch Franse onzin) en Verlichting; zelfde voor godsdienstvrijheid.</li>
   </ul>
 </details>
