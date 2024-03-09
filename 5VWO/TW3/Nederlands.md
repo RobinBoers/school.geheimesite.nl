@@ -24,6 +24,8 @@ In 1566 vond de beeldenstorm plaats.
 
 Willem van Oranje was een Duitse protestant die enkele Nederlandse gebieden had. De koning van het Spaanse rijk, waar Nederland onderdeel van was, wilde niet dat een protestant een deel van zijn katholieke rijk zou hebben. Daarom liet hij Willem op het Spaanse hof komen voor heropvoeding. Ze werden vrienden, maar nadat Karel dood ging en zijn zoon Filips II het rijk in handen kreeg ontstond er oolog. De oorlog duurde van 1568 tot 1648.
 
+Nederland won uiteindelijk de oorlog, en de Republiek der Nederlanden ontstond.
+
 ### Geuzenliederen
 
 De Geuzen waren opstandige edelen en andere aanhangers van Willem van Oranje. Ze hadden verschillende soort liedjes:
@@ -137,5 +139,6 @@ De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzi
   <ul>
     <li>Hoe kan er godsdienstvrijheid zijn als er ook een geloofsstrijd is?</li>
     <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (voornamelijk de stromingen), maar het eerste stuk (geloofsstrijd) schetst juist een heel gelovig Europa?</li>
+    <li>Het lijkt me eigenlijk dat de meer wetenschappelijke dingen beter bij de verlichting passen? Waar hoort empirisme? --want die staat in mijn aantekeningen bij zowel Reneceasncecoewld (wat een kutwoord, typisch Franse onzin) en Verlichting; zelfde voor godsdienstvrijheid.
   </ul>
 </details>
