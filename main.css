@@ -121,6 +121,10 @@ p:has(mjx-container[jax="CHTML"][display="true"]) {
   margin: 2.5em 0 2.5em;
 }
 
+ins {
+  text-decoration: none;
+}
+
 /* Header */
 
 header nav a {

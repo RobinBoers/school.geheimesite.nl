@@ -2,8 +2,6 @@
 title: Renaissance
 ---
 
-# Renaissance
-
 De Renaissance is de periode die na de Middeleeuwen komt. Het begint in de 16e eeuw en duurt tot het begin van de Verlichting. Het betekent "wedergeboorte", omdat de mens ontwaakt zou zijn uit de duistere tijden van de Middeleeuwen. Er was ook hernieuwde interesse in de cultuur van de klassieke oudheid, dus het kan ook daarop slaan.
 
 In de overgang van de Middeleeuwen naar de Renaissance vinden veel veranderingen plaats. Een groot deel hiervan werden mogelijk of werden versterkt door de opkomst van de boekdrukkunst:
@@ -61,6 +59,21 @@ Hierdoor ontstonden ook nieuwe genres:
 
 Door de opkomst van de boekdrukkunst wordt het verspreiden van informatie een stuk makkelijker. Daardoor krijgt de wetenschap een boost, en onstaat het empirisme. Het empirisme is gebaseerd op bewijs uit ervaringen; zelf uitvinden hoe het zit. Dit noemen we tegenwoordig dan ook emperisch bewijs.
 
+### Realisme
+
+In de Renaissance had realisme een andere betekenis dan nu. Als iets realistisch was moest het geloofwaardig zijn, maar hoefde het zich niet aan de natuurwetten te houden.
+
+Dus er mochten wel geesten in het verhaal zijn, als de mensen maar reageerde op de geesten zoals mensen in het echt ook zouden reageren als ze een geest zien.
+
+### Estheticisme
+
+Estheticisme was een literaire stroming die vond dat iets literatuur was als het "mooi" was, en tekst was "mooi" als het voldeed aan deze regels:
+
+- Behoort tot een genre
+- Bevat elegant en verfijnd taalgebruik
+- Volgt een metrum
+- Gebruik van ingewikkelde verstypen
+
 ## Gouden Eeuw
 
 De Gouden Eeuw is een periode die van de 16e tot het einde van de 17e eeuw duurde. In deze periode vergaarde Nederland (specifiek Holland en Zeeland) enorm veel rijkdommen met haar wereldreizen, handel en slavenarbeid.
@@ -89,17 +102,21 @@ Er waren twee rederijkerskamers in Amsterdam:
 - **De Eglantier**: voor Amsterdammers.
 - **Het Wit Lavendel**: voor vluchtelingen uit het zuiden.
 
+Je ziet in de Renaissance de focus van de rederijkerskamers verschuiven van literatuur met nadruk op dorp/stad naar literatuur met nadruk op het individu, onder invloed van het individualisme en humanisme.
+
 ### Nederduytsche Academie
 
 Een aantal leden van de Eglantier, waaronder Bredero en Hooft stichtten later de Nederduytsche Academie, een hogeschool/universiteit die onderwijs gaf in het Nederduits (het Nederlands van toen). Ze hoopten daarmee wetenschap te popaliseren, geinspireerd door vergelijkbare instituten in Italië.
 
 ### Taal
 
-In deze periode was Frans de (wereldwijde) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde (en dat is niet handig in een periode met veel oorlog). Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
+In deze periode was Frans de (internationale) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde (en dat is niet handig in een periode met veel oorlog). Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
 
 ### Rampjaar
 
 De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzie met Engeland, en helaas verloren we die oorlog.
+
+<br><br><br><br>
 
 ---
 
@@ -111,5 +128,3 @@ De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzi
     <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (voornamelijk de stromingen), maar het eerste stuk (geloofsstrijd) schetst juist een heel gelovig Europa?</li>
   </ul>
 </details>
-
-## Verlichting
