@@ -24,6 +24,17 @@ In 1566 vond de beeldenstorm plaats.
 
 Willem van Oranje was een Duitse protestant die enkele Nederlandse gebieden had. De koning van het Spaanse rijk, waar Nederland onderdeel van was, wilde niet dat een protestant een deel van zijn katholieke rijk zou hebben. Daarom liet hij Willem op het Spaanse hof komen voor heropvoeding. Ze werden vrienden, maar nadat Karel dood ging en zijn zoon Filips II het rijk in handen kreeg ontstond er oolog. De oorlog duurde van 1568 tot 1648.
 
+### Geuzenliederen
+
+De Geuzen waren opstandige edelen en andere aanhangers van Willem van Oranje. Ze hadden verschillende soort liedjes:
+
+- Liederen over hun heldendaden
+- Spotliederen
+- Strijdliederen
+- Religieuze liederen
+
+Ze werden gebundeld in _Het Geusen lieden Boecxken_, maar voor die tijd werden ze ook al verspreid op losse, "vliegende", blaadjes--dat is waar de term flyers vandaan komt.
+
 ## Stromingen
 
 ### Humanisme
