@@ -6,7 +6,7 @@ title: Literatuurgeschiedenis
 
 ## Renaissance
 
-De Renaissance is de periode die na de Middeleeuwen komt. Het begint in de 16e eeuw en duurt tot het begin van de Verlichting.
+De Renaissance is de periode die na de Middeleeuwen komt. Het begint in de 16e eeuw en duurt tot het begin van de Verlichting. Het betekent "wedergeboorte", omdat de mens ontwaakt zou zijn uit de duistere tijden van de Middeleeuwen. Er was ook hernieuwde interesse in de cultuur van de klassieke oudheid, dus het kan ook daarop slaan.
 
 In de overgang van de Middeleeuwen naar de Renaissance vinden veel veranderingen plaats. Een groot deel hiervan werden mogelijk of werden versterkt door de opkomst van de boekdrukkunst:
 
@@ -14,13 +14,25 @@ In de overgang van de Middeleeuwen naar de Renaissance vinden veel veranderingen
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Feodalisme                                                       | Centrale staat                                                              |
 | 3 standen:<br>- geestelijken<br>- adel<br>- boeren               | Opkomst 4e stand: burgerij                                                  |
-| Theocentrisch (samenleving gericht op religie)                   | Antropocentrisch (mensgericht, gericht op leven op aarde)                   |
-| Een persoon heeft alles te danken aan de gemeenschap en aan God. | Individualisme: Een persoon is zelf verantwoordelijk voor zijn verdiensten. |
+| Theocentrisch: samenleving gericht op religie                    | Antropocentrisch: mensgericht, gericht op leven op aarde                    |
+| Een persoon heeft alles te danken aan de gemeenschap en aan God. | Individualisme: een persoon is zelf verantwoordelijk voor zijn verdiensten. |
 | Kunst is een vak.                                                | Een kunstenaar is een geleerde.                                             |
+
+### Geloofsstrijd
+
+In het begin van de 16e eeuw kwam het protestantisme op. Luther had in 1517 zijn 95 stellingen gepubliceerd en mede door de boekdrukkunst verspreidde zijn ideeën snel. De protestanten waren vooral tegen de rijkdom van de kerk en de handel in aflaatbrieven. De paus was hier niet heel blij mee, dus verbande Luther uit de kerk. Hierop verklaarde Karel V (de koning van het Spaanse rijk), omdat hij bang was zijn macht kwijt te raken, Luther vogelvrij. Luther stichtte vervolgens een nieuwe kerk.
+
+In 1566 vond de beeldenstorm plaats.
+
+### Tachtig-jarige Oorlog
+
+Willem van Oranje was een Duitse protestant die enkele Nederlandse gebieden had. De koning van het Spaanse rijk, waar Nederland onderdeel van was, wilde niet dat een protestant een deel van zijn katholieke rijk zou hebben. Daarom liet hij Willem op het Spaanse hof komen voor heropvoeding. Ze werden vrienden, maar nadat Karel dood ging en zijn zoon Filips II het rijk in handen kreeg ontstond er oolog. De oorlog duurde van 1568 tot 1648.
 
 ### Humanisme
 
 Doordat godsdienst minder belangrijk wordt onststaat het humanisme. Het humanisme is een (filosofische) stroming die de nadruk legt op menselijke ontwikkeling en inzichten, in plaats van die van God. Volgens humanisten is de mens niet meer ondergeschikt aan God en het hiernamaals, en kunnen we ons eigen leven vormgeven.
+
+Het ideaal was de _homo universalis_: een alleskunner en -weter.
 
 Een bekende humanist is Desiderius Erasmus.
 
@@ -42,6 +54,7 @@ Hierdoor ontstonden ook nieuwe genres:
 - Sonnet
 - Puntdicht
 - Epigram
+- Reisverhalen
 
 ### Empirisme
 
@@ -49,26 +62,36 @@ Door de opkomst van de boekdrukkunst wordt het verspreiden van informatie een st
 
 ### Taal
 
-In deze periode was Frans de (wereldwijde) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde. Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
+In deze periode was Frans de (wereldwijde) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde (en dat is niet handig in een periode met veel oorlog). Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
 
 ### Gouden Eeuw
 
 De Gouden Eeuw is een periode die van de 16e tot het einde van de 17e eeuw duurde. In deze periode vergaarde Nederland (specifiek Holland en Zeeland) enorm veel rijkdommen met haar wereldreizen, handel en slavenarbeid.
 
-Amsterdam werd een migrantenstad:
+Deze periode was niet alleen goed voor de economie, maar ook voor kunst, cultuur en literatuur. Er waren namelijk veel rijke burgers met teveel geld en tijd.
+
+\\[\text{tijd} + \text{geld} = \text{cultuur} :)\\]
+
+Amsterdam was een migrantenstad:
 
 - Er waren veel vluchtelingen:
   - Geleerden, schrijvers en kunstenaars kwamen naar Amsterdam omdat ze daar niet voor hun ideeën vervolgd werden.
   - Nederland had godsdienstvrijheid, waardoor veel protestanten hierheen vluchtten.
   - Oorlogsvluchtelingen uit andere delen van Europa.
-- Werk:
+- En arbeidsmigranten:
   - Zeelieden, soldaten en andere werknemers voor de VOC.
   - Seizoensarbeiders.
+  - Duitsers die een ambacht wilde leren.
 
-De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzie met Engeland, en helaas verloren ze die oorlog.
+De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzie met Engeland, en helaas verloren we die oorlog.
 
-### Tachtig-jarige Oorlog
+<details>
+  <summary>Vragen</summary>
 
-De Tachtig-jarige Oorlog is een conflict tussen Willem van Oranje (protestant) en koning van Spanje, Filips II (katholiek). De oorlog duurde van 1568 tot 1648.
+  <ul>
+    <li>Hoe kan er godsdienstvrijheid zijn als er ook een geloofsstijg is?</li>
+    <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (humanisme, wetenschap, classicisme), maar is er toch nog steeds overal protestantisme?</li>
+  </ul>
+</details>
 
 ## Verlichting
