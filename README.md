@@ -35,16 +35,11 @@ Success met leren!
 
 ## 4VWO
 
-- [Werken met informatie](4VWO/werken-met-informatie)
-- [Eating insects: not a bug but a feature](4VWO/not-a-bug-but-a-feature)
 - [Mr. Bean](4VWO/mr-bean)
-- [Living healthier lives](4VWO/living-healthier-lives)
 - [Should we provide financial aid to former colonies?](4VWO/financial-aid-for-former-colonies)
-- [RE: Plans for the future?](4VWO/email-about-future)
 - [Cool Jazz](4VWO/cooljazz)
 - [H3: Wetenschappelijk onderzoek](4VWO/bio-h3-samenvatting)
 - [H1: Gedrag](4VWO/bio-h1-samenvatting)
-- [Big data](4VWO/big-data)
 
 ### TW4
 
