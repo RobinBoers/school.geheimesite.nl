@@ -4,7 +4,7 @@ title: Literatuurgeschiedenis
 
 **LET OP: NOG NIET AF**.
 
-## Renaissance
+# Renaissance
 
 De Renaissance is de periode die na de Middeleeuwen komt. Het begint in de 16e eeuw en duurt tot het begin van de Verlichting. Het betekent "wedergeboorte", omdat de mens ontwaakt zou zijn uit de duistere tijden van de Middeleeuwen. Er was ook hernieuwde interesse in de cultuur van de klassieke oudheid, dus het kan ook daarop slaan.
 
@@ -18,7 +18,7 @@ In de overgang van de Middeleeuwen naar de Renaissance vinden veel veranderingen
 | Een persoon heeft alles te danken aan de gemeenschap en aan God. | Individualisme: een persoon is zelf verantwoordelijk voor zijn verdiensten. |
 | Kunst is een vak.                                                | Een kunstenaar is een geleerde.                                             |
 
-### Geloofsstrijd
+## Geloofsstrijd
 
 In het begin van de 16e eeuw kwam het protestantisme op. Luther had in 1517 zijn 95 stellingen gepubliceerd en mede door de boekdrukkunst verspreidde zijn ideeën snel. De protestanten waren vooral tegen de rijkdom van de kerk en de handel in aflaatbrieven. De paus was hier niet heel blij mee, dus verbande Luther uit de kerk. Hierop verklaarde Karel V (de koning van het Spaanse rijk), omdat hij bang was zijn macht kwijt te raken, Luther vogelvrij. Luther stichtte vervolgens een nieuwe kerk.
 
@@ -28,9 +28,11 @@ In 1566 vond de beeldenstorm plaats.
 
 Willem van Oranje was een Duitse protestant die enkele Nederlandse gebieden had. De koning van het Spaanse rijk, waar Nederland onderdeel van was, wilde niet dat een protestant een deel van zijn katholieke rijk zou hebben. Daarom liet hij Willem op het Spaanse hof komen voor heropvoeding. Ze werden vrienden, maar nadat Karel dood ging en zijn zoon Filips II het rijk in handen kreeg ontstond er oolog. De oorlog duurde van 1568 tot 1648.
 
+## Stromingen
+
 ### Humanisme
 
-Doordat godsdienst minder belangrijk wordt onststaat het humanisme. Het humanisme is een (filosofische) stroming die de nadruk legt op menselijke ontwikkeling en inzichten, in plaats van die van God. Volgens humanisten is de mens niet meer ondergeschikt aan God en het hiernamaals, en kunnen we ons eigen leven vormgeven.
+Doordat godsdienst minder belangrijk werd onstond het humanisme. Het humanisme is een (filosofische) stroming die de nadruk legt op menselijke ontwikkeling en inzichten, in plaats van die van God. Volgens humanisten is de mens niet meer ondergeschikt aan God en het hiernamaals, en kunnen we ons eigen leven vormgeven.
 
 Het ideaal was de _homo universalis_: een alleskunner en -weter.
 
@@ -54,23 +56,20 @@ Hierdoor ontstonden ook nieuwe genres:
 - Sonnet
 - Puntdicht
 - Epigram
-- Reisverhalen
+
+(En er kwamen ook reisverhalen, zie zometeen).
 
 ### Empirisme
 
 Door de opkomst van de boekdrukkunst wordt het verspreiden van informatie een stuk makkelijker. Daardoor krijgt de wetenschap een boost, en onstaat het empirisme. Het empirisme is gebaseerd op bewijs uit ervaringen; zelf uitvinden hoe het zit. Dit noemen we tegenwoordig dan ook emperisch bewijs.
 
-### Taal
-
-In deze periode was Frans de (wereldwijde) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde (en dat is niet handig in een periode met veel oorlog). Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
-
-### Gouden Eeuw
+## Gouden Eeuw
 
 De Gouden Eeuw is een periode die van de 16e tot het einde van de 17e eeuw duurde. In deze periode vergaarde Nederland (specifiek Holland en Zeeland) enorm veel rijkdommen met haar wereldreizen, handel en slavenarbeid.
 
-Deze periode was niet alleen goed voor de economie, maar ook voor kunst, cultuur en literatuur. Er waren namelijk veel rijke burgers met teveel geld en tijd.
+Er ontstond ook een nieuw genre: reisverhalen. Dat waren verslagen van zeelieden die verre reizen maakten in bijvoorbeeld opdracht van de VOC. Ze werden gelezen door nieuwsgierige thuisblijvers.
 
-\\[\text{tijd} + \text{geld} = \text{cultuur} :)\\]
+### Amsterdam
 
 Amsterdam was een migrantenstad:
 
@@ -83,14 +82,35 @@ Amsterdam was een migrantenstad:
   - Seizoensarbeiders.
   - Duitsers die een ambacht wilde leren.
 
+### Rederijkerskamers
+
+De Gouden Eeuw was niet alleen goed voor de economie, maar ook voor kunst, cultuur en literatuur. Er waren namelijk veel rijke burgers met teveel geld en tijd. De mannen kwamen bij elkaar in rederijkerskamers. Dat is ~~bezigheidstherapie voor mensen met teveel geld~~ <ins>een plek waar ze oefende met het schrijven en voordragen van literatuur en het zingen of spelen van liederen en toneelstukken</ins>. Deze plekken ontwikkelde zich tot centra voor wetenschappen en kunsten.
+
+Er waren twee rederijkerskamers in Amsterdam:
+
+- **De Eglantier**: voor Amsterdammers.
+- **Het Wit Lavendel**: voor vluchtelingen uit het zuiden.
+
+### Nederduytsche Academie
+
+Een aantal leden van de Eglantier, waaronder Bredero en Hooft stichtten later de Nederduytsche Academie, een hogeschool/universiteit die onderwijs gaf in het Nederduits (het Nederlands van toen). Ze hoopten daarmee wetenschap te popaliseren, geinspireerd door vergelijkbare instituten in Italië.
+
+### Taal
+
+In deze periode was Frans de (wereldwijde) voertaal, zoals Engels dat nu is. Er werden veel Franse woorden gebruikt in het Nederlands. Maar er was ook taalpurisme: mensen vonden dat het gebruik van Frans voor minder eenheid binnen de Nederlandse bevolking zorgde (en dat is niet handig in een periode met veel oorlog). Daarom was er ook taalzuivering: woorden uit andere talen werden vervangen door neologismes.
+
+### Rampjaar
+
 De Gouden Eeuw duurde tot het rampjaar in 1672. In dat jaar kreeg Nederland ruzie met Engeland, en helaas verloren we die oorlog.
+
+---
 
 <details>
   <summary>Vragen</summary>
 
   <ul>
-    <li>Hoe kan er godsdienstvrijheid zijn als er ook een geloofsstijg is?</li>
-    <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (humanisme, wetenschap, classicisme), maar is er toch nog steeds overal protestantisme?</li>
+    <li>Hoe kan er godsdienstvrijheid zijn als er ook een geloofsstrijd is?</li>
+    <li>Aan de ene kant zie ik allemaal dingen die minder geloof duiden (voornamelijk de stromingen), maar het eerste stuk (geloofsstrijd) schetst juist een heel gelovig Europa?</li>
   </ul>
 </details>
 
