@@ -31,7 +31,7 @@ function generate_index() {
                 
                 index+="\n"
                 index+=$(printf "#%.0s" $(seq 1 $((indent + 1))))
-                index+=" $title\n\n"
+                index+=" ${title/TW/"Periode "}\n\n"
                 index+=$(generate_index "$item" $((indent + 1)))
             fi
         elif [ "${item##*.}" == "md" ] && [ "$(basename "$item")" != "README.md" ]; then
