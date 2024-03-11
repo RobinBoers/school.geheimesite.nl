@@ -11,7 +11,9 @@ Cultuur zijn gemeenschappelijke waarden, normen, gewoonten, en andere aangeleerd
 Cultuur heeft een aantal functies:
 
 - **Socialisatie**: je wordt gevormd door je cultuur.
+
 - **Gemeenschappelijk referentiekader**: door gedeelde normen en waarden begrijpen mensen elkaar beter.
+
 - **Gedragsregulatie**: het stuurt het gedrag van mensen, waardoor alles voorspelbaar en geordend verloopt.
 
 De **dominante cultuur** bestaat uit cultuurkenmerken die de meerderheid van de bevolking vertoont.
@@ -114,6 +116,26 @@ Het doel van socialisatie is internalisatie: het eigen maken van de normen en wa
 Door socialisatie ontwikkel je een zelfbeeld, je **persoonlijke identeit**. Je **sociale identiteit** is het deel daarvan dat is afgeleid van de groepen en culturen waarmee je je verbonden voelt.
 
 Je identiteit is een optelling van aangeboren eigenschappen en aangeleerd gedrag die samen voor iedereen een unieke persoonlijkheid vormen.
+
+## Wij-zijdenken
+
+Mensen horen graag bij een groep. Een groep bestaat altijd uit wie er wel bij hoort (de ingroup) en wie er niet bijhoort (de outgroup). De ingroup heeft een positief zelfbeeld en versterk eenheid door zich af te zetten van de outgroup, vaak dmv. stereotypen en vooroordelen.
+
+### Vooroordelen
+
+Vooroordelen hebben we omdat ons brein automatisch de wereld categoriseert. Dat indelen in hokjes gaat op basis van steorotypen die je tijdens het socialisatieproces en via de media meekrijgen. Een vooroordeel is dus het automatisch categoriseren van mensen op basis van stereotypen voordat je ze daadwerkelijk leert kennen.
+
+Vooroordelen kunnen leiden tot discriminatie, het ongelijk behandelen van mensen, op bijvoorbeeld huidskleur, leeftijd, afkomst, geloof, geaardheid of handicap. Dit kan onbewust (niet express, zonder dat je het door hebt) of bewust (met opzet).
+
+### Rascisme
+
+Rascisme is het indelen en discrimineren van mensen op basis van "ras" (ookal bestaan mensenrassen biologisch en genetisch gezien helemaal niet).
+
+Institutioneel rascisme is rascisme dat is vastgelegd in formele regels en procedures, of gewoontes, ongeschreven regels of tradities. Het is niet incidenteel of door bewust handelen van een individu, maar structureel. Een voorbeeld is etnisch profileren van de politie.
+
+### Gevolgen
+
+Discriminatie, bedoeld of onbedoeld, zorgt voor een grotere sociale ongelijkheid en houdt die in staat. Ook zorgt het voor slachtoffers voor psychische klachten, een negatief zelfbeeld en haatgevoelens tegenover de discriminerende groep.
 
 ## Dilemma van eenheid
 
