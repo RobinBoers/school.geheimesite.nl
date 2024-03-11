@@ -133,9 +133,35 @@ Rascisme is het indelen en discrimineren van mensen op basis van "ras" (ookal be
 
 Institutioneel rascisme is rascisme dat is vastgelegd in formele regels en procedures, of gewoontes, ongeschreven regels of tradities. Het is niet incidenteel of door bewust handelen van een individu, maar structureel. Een voorbeeld is etnisch profileren van de politie.
 
+### Xenofobie
+
+Xenofobie is angt voor vreemden, gekenmerkd door vijandig en haatdragend gedrag tegenover mensen die niet tot eigen etnische groep behoren. Dit komt voor als mensen zich door een andere groep bedreigd voelen in hun identiteit.
+
+### Polarisatie
+
+Polarisatie is wanneer twee groepen steeds meer tegenover elkaar komen te staan.
+
+Om social media zie je meestal alleen de uitspraken van de extremen. Het **stille midden** heeft namelijk meestal niet zo'n uitgesproken mening, twijfelt nog of heeft een meer genuanceerde mening. <small>(En is drama goed voor engagement en de algoritmes van platforms schuiven dus polariserende content naar voren.)</small>
+
+Hoe meer gepolariseerd een onderwerp is, hoe moeilijk het gesprek is. Beide polen werken als echo-chambers waarin mensen alleen hun eigen mening bevestigd horen; in hun beleving is hun mening de enige waarheid.
+
+Soms is polarisatie goed. Bijvoorbeeld om maatschappelijke verandering te beginnen of om tegengestelde belangen duidelijk te maken. <small>(Persoonlijk vindt ik dit de grootste <em>bullshit</em> die ik ooit gehoord heb, maar ok.)</small>
+
 ### Gevolgen
 
 Discriminatie, bedoeld of onbedoeld, zorgt voor een grotere sociale ongelijkheid en houdt die in staat. Ook zorgt het voor slachtoffers voor psychische klachten, een negatief zelfbeeld en haatgevoelens tegenover de discriminerende groep.
+
+Er zijn (als outgroup) een aantal mogelijke reacties:
+
+- Naar de rechter stappen
+- Terugtrekken in eigen groep (verzwakt sociale cohesie)
+- Vormen een tegencultuur (leidt tot radicalisering en extremisme)
+
+### Inclusieve samenleving
+
+Wij-zij denken is dus slecht voor de samenleving, maar het zorgt ook voor verbinding in de ingroup. Er is discussie of dit op het niveau van de samenleving kan worden benut.
+
+We moeten in ieder geval van de negatieve kant van wij-zij denken af en een inclusieve samenleving, een samenleving waar iedereen onvoorwaardelijk bijhoort, creeëren.
 
 ## Dilemma van eenheid
 
