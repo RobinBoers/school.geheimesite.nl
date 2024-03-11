@@ -182,17 +182,16 @@ In de vorige eeuw waren dit de grootste bronnen van immigratie in Nederland:
 - Jongeren uit de Nederlandse Antillen, vooral voor een betere toekomst.
 - Gastarbeiders voor de wederopbouw van Europa.
 
-Er zijn twee soorten redenen om te migreren:
+Factoren om te migreren kan je op twee manieren indelen. Ten eerste of de factor in het land van herkomst ligt of in Nederland:
 
 - **Pushfactor**: een reden om te emigreren.
-
-  - **Economische**: werkeloosheid, armoede.
-  - **Politiek**: oorlog of vervolging.
-
 - **Pullfactor**: een reden om te immigreren.
 
-  - **Economisch**: werken in een internationale organisatie.
-  - **Sociaal**: gezinshereniging, gezinsvorming.
+Ten tweede de reden waarom je migreert:
+
+- **Economische**: werkeloosheid, armoede, werken in een internationale organisatie.
+- **Politiek**: oorlog of vervolging.
+- **Sociaal**: gezinshereniging, gezinsvorming.
 
 Nederland moet zich houden aan internationale verdragen, maar daarbinnen voeren ze een restrictief toelatingsbeleid, immigratie beperken.
 
