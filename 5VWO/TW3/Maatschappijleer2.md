@@ -22,7 +22,9 @@ Een **tegencultuur** gaat juist helemaal tegen de dominante cultuur in, en wil d
 
 Cultuur verandert voortdurend, omdat onze opvattingen over de maatschappij veranderen. Onder invloed van subculturen en tegenculturen verandert de dominante cultuur ook.
 
-### Cultuurverschillen
+## Cultuurverschillen
+
+### Oorzaken
 
 Cultuurverschillen worden vooral veroorzaakt door verschillen in referentiekader.
 
@@ -38,16 +40,56 @@ Cultuurverschillen worden vooral veroorzaakt door verschillen in referentiekader
 
 - **Godsdienst en levensbeschouwing**: vanuit een religie komen vaak normen en waarden mee, in oa. de vorm van geloofsregels.
 
-## Dilemma van eenheid
+### Dimensies
 
-Voor een goede samenleving moeten mensen voelen dat ze bij elkaar horen. Die eenheid noem je sociale cohesie, en is essentieel voor het functioneren van de maatschappij. Maar:
+#### Machtsafstand
 
-- Teveel eenheid ⇒ minder persoonlijke vrijheid om eigen normen en waarden te hebben.
-- Te weinig eenheid ⇒ gaat ten koste van sociale cohesie.
+De machtsafstand gaat over hoeverre mensen de autoriteit van een meerdere accepteren. Denk aan de machtsverhoudingen tussen:
 
-Het is dus belangrijk hier een balans in te vinden.
+- Ouders-kinderen
+- Werkgevers-nemers
+- Leraren-leerlingen
+- Politie-burgers
 
-## Identiteit
+In een cultuur met een grote machtsafstand zijn bijv. gehoorzaamheid en respect belangrijke waarden, en in een cultuur met een kleine machtsafstand assertiviteit en gelijkwaardigheid. Nederland heeft een relatief kleine machtsafstand.
+
+#### Individualisme vs collectivisme
+
+In een individualistische samenleving zijn persoonlijke vrijheid en zelfontplooing belangrijke waarden. In een collectivistische samenleving ligt de nadruk meer op de gemeenschap: loyaliteit en familie-eer wegen zwaarder.
+
+#### Masculiniteit vs feminiteit
+
+Dit gaat over de rolverdeling tussen mannen en vrouwen. In een masculine samenleving wordt verwacht dat de mannen dominant en werk-gefocusst zijn en vrouwen bescheiden en familie-gericht. In een feminiene samenleving zijn mannen en vrouwen gelijkwaardiger.
+
+> Vraag: het eerste deel van de tekst laat het lijken alsof het vooral om gedrag gaat: feminine is zorgzaam en geduldig en masculine is hard en direct, terwijl het tweede stuk echt over rolpatronen gaat. Ik vindt dat het nogal onduidelijk geschreven is.
+
+#### Onzekerheidsvermijding
+
+Als mensen onzeker over de toekomst zijn hebben ze meer behoefte aan (informele en formele) regels.
+
+> Voorbeelden?? Ik niet snap...
+
+#### Korte- vs langetermijngericht
+
+In een toekomstgerichte samenleving zal men verder vooruit plannen en wordt meer gespaard. Een belangrijke waarde is dan geduld. In een kortetermijngerichte gebeurt dat niet.
+
+#### Hedonisme vs soberheid
+
+Hedonisme gaat over plezier ervaren in het leven. Vrijheid, plezier en genieten zijn belangrijk.
+
+Soberheid gaat juist meer over zelfcontrole. Het leven is hard en kut. Doe je werk (het mag niet leuk zijn!) en je plicht. Houd je in!
+
+### Oordelen
+
+Je kan vanuit een aantal perspectieven over andere culturen nadenken:
+
+- **Etnocentrisme**: je bekijkt een andere cultuur _vanuit de normen en waarden van je eigen cultuur_. Met andere woorden: jou cultuur is het beste en als de andere cultuur niet strookt met jou normen en waarden zitten ze fout.
+
+- **Cultuurrelativisme**: je gaat ervanuit dat alle culturen gelijk zijn en bekijkt een andere cultuur vanuit _hun eigen normen en waarden_.
+
+- **Cultuuruniversalisme**: je gaat er nog steeds vanuit dat alle culturen gelijk zijn, maar je denkt ook dat er universele normen en waarden zijn (zoals: geen moord pls).
+
+## Socialisatie
 
 Socialisatie is een fancy woord voor cultuuroverdracht. Socialisatie vindt plaats in socialiserende instituties, zoals je gezin, school, sportclub, werk, vriendengroep, media en de overheid. Al die groepen hebben hun eigen normen en waarden die worden overgedragen.
 
@@ -64,3 +106,20 @@ Socialisatie werkt dankzij sociale controle: het stimuleren of dwingen van ander
 | -------- | ------------------- | ---------------------------------------- |
 | Positief | Een diploma krijgen | Een compliment krijgen                   |
 | Negatief | Een boete krijgen   | Aangesproken worden op iets dat niet kan |
+
+Het doel van socialisatie is internalisatie: het eigen maken van de normen en waarden, en je ernaar gedragen.
+
+## Identiteit
+
+Door socialisatie ontwikkel je een zelfbeeld, je **persoonlijke identeit**. Je **sociale identiteit** is het deel daarvan dat is afgeleid van de groepen en culturen waarmee je je verbonden voelt.
+
+Je identiteit is een optelling van aangeboren eigenschappen en aangeleerd gedrag die samen voor iedereen een unieke persoonlijkheid vormen.
+
+## Dilemma van eenheid
+
+Voor een goede samenleving moeten mensen voelen dat ze bij elkaar horen. Die eenheid noem je sociale cohesie, en is essentieel voor het functioneren van de maatschappij. Maar:
+
+- Teveel eenheid ⇒ minder persoonlijke vrijheid om eigen normen en waarden te hebben.
+- Te weinig eenheid ⇒ gaat ten koste van sociale cohesie.
+
+Het is dus belangrijk hier een balans in te vinden.
