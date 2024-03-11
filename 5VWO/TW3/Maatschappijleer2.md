@@ -171,3 +171,39 @@ Voor een goede samenleving moeten mensen voelen dat ze bij elkaar horen. Die een
 - Te weinig eenheid ⇒ gaat ten koste van sociale cohesie.
 
 Het is dus belangrijk hier een balans in te vinden.
+
+## Migratie
+
+In de vorige eeuw waren dit de grootste bronnen van immigratie in Nederland:
+
+- Indische Nederlanders nadat Indonesië onafhankelijk werd.
+- Molukkers die niet veilig meer waren in Indonesië.
+- Surinamers, zowel voor als na onafhankelijkheid.
+- Jongeren uit de Nederlandse Antillen, vooral voor een betere toekomst.
+- Gastarbeiders voor de wederopbouw van Europa.
+
+Er zijn twee soorten redenen om te migreren:
+
+- **Pushfactor**: een reden om te emigreren.
+
+  - **Economische**: werkeloosheid, armoede.
+  - **Politiek**: oorlog of vervolging.
+
+- **Pullfactor**: een reden om te immigreren.
+
+  - **Economisch**: werken in een internationale organisatie.
+  - **Sociaal**: gezinshereniging, gezinsvorming.
+
+Nederland moet zich houden aan internationale verdragen, maar daarbinnen voeren ze een restrictief toelatingsbeleid, immigratie beperken.
+
+Je hebt een aantal soorten migranten:
+
+- **Vluchtelingen** (politieke pushfactor): mensen die vluchtten voor vervolging of oorlogsgeweld in hun land van herkomst, worden toegelaten na grondig onderzoek. In de toekomst zullen er ook mensen vluchten vanwege klimaatverandering, maar die worden momenteel nog niet erkend.
+
+- **Arbeidsmigranten** (economische push- of pullfactor): binnen de EU mag je vrij reizen, wonen en werken. We hebben ze hard nodig omdat Nederlanders zich te goed doen om hun werk te doen, of omdat er door vergrijzing simpelweg te weinig Nederlanders zijn.
+
+- **Kennismigranten** (economische pullfactor): er komen veel hoogopgeleiden mensen in bijv. de IT, zorg of techniek met werkvisums naar Nederland, omdat wij hun kennis goed kunnen gebruiken. Deze mensen noem je expats.
+
+- **Volgmigranten** (sociale pullfactor): gezinshereneging of gezinsvorming. Hiervoor moet je partner minimaal 21 zijn en 120% procent van het minimuminkomen verdienen. Ook moet hij/zij slagen voor het basisexamen inburgering. Kinderen worden alleen toegelaten als ze (bij aanvraag) jonger dan 18 zijn.
+
+Als je niet wordt toegelaten heb je 28 dagen om Nederland te verlaten. Als je toch in Nederland blijft zonder verblijfsvergunning behoor je tot de illegalen. Soms is het ook zo dat het land van herkomst de migranten ook weigert.
