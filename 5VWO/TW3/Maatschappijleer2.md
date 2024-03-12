@@ -206,3 +206,24 @@ Je hebt een aantal soorten migranten:
 - **Volgmigranten** (sociale pullfactor): gezinshereneging of gezinsvorming. Hiervoor moet je partner minimaal 21 zijn en 120% procent van het minimuminkomen verdienen. Ook moet hij/zij slagen voor het basisexamen inburgering. Kinderen worden alleen toegelaten als ze (bij aanvraag) jonger dan 18 zijn.
 
 Als je niet wordt toegelaten heb je 28 dagen om Nederland te verlaten. Als je toch in Nederland blijft zonder verblijfsvergunning behoor je tot de illegalen. Soms is het ook zo dat het land van herkomst de migranten ook weigert.
+
+### Europa
+
+Opvang van vluchtelingen, vooral irreguliere migratie (migratie zonder geldige reisdocumenten), is niet alleen in Nederland een probleem, maar ook in de EU. Vluchtelingen zijn erg ongelijk verdeeld door:
+
+- **Verschillen in pluriformiteit**: in het westen heb je veel landen met een koloniaal verleden en gastarbeiders, die daardoor een diverse samenleving hebben. In het oosten zijn de samenlevingen veel meer uniform/homogeen, waardoor er een angst voor culturele diversiteit is.
+
+- **Slechte solidariteit**: in Europa zijn er geen binnengrenzen. De grenzen van de lidstaten aan de rand zijn dus ook gelijk Europese grenzen. In de Dublin-verordering is afgesproken dat het land waar een vluchteling de EU binnenkomt, de asielprocedure moet verwerken. Hierdoor raken landen zoals Griekenland en Italië overbelast. Daarom zijn er solidariteitsafspraken, om vluchtelingen over de EU te verspreiden, maar veel landen werken daar niet (voldoende) aan mee.
+
+- **Verschillen in integratiebeleid**: elke lidstaat mag zelf zijn integratiebeleid bepalen. Landen die een minder goed integratiebeleid hebben, en dus minder kansen mbt. een baan, onderwijs en woning, krijgen minder asielaanvragen.
+
+Dat komt deels omdat het onderwerp erg gepolariseerd is. Er zijn een aantal perspectieven:
+
+|          | Meer migratie | Minder migratie |
+| -------- | ------------- | --------------- |
+| Moreel   |               |                 |
+| Belangen |               |                 |
+| Onmacht  |               |                 |
+| Recht    |               |                 |
+
+> TODO: invullen!!
