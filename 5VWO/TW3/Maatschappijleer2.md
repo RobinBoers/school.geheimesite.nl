@@ -203,7 +203,7 @@ Je hebt een aantal soorten migranten:
 
 - **Kennismigranten** (economische pullfactor): er komen veel hoogopgeleiden mensen in bijv. de IT, zorg of techniek met werkvisums naar Nederland, omdat wij hun kennis goed kunnen gebruiken. Deze mensen noem je expats.
 
-- **Volgmigranten** (sociale pullfactor): gezinshereneging of gezinsvorming. Hiervoor moet je partner minimaal 21 zijn en 120% procent van het minimuminkomen verdienen. Ook moet hij/zij slagen voor het basisexamen inburgering. Kinderen worden alleen toegelaten als ze (bij aanvraag) jonger dan 18 zijn.
+- **Volgmigranten** (sociale pullfactor): gezinshereneging of gezinsvorming. Hiervoor moet je partner minimaal 21 zijn en 120% procent van het minimuminkomen verdienen. Ook moet hij/zij slagen voor het basisexamen inburgering. Kinderen worden alleen toegelaten als ze (bij aanvraag) jonger dan 18 zijn. Voor gezinsvorming moet het huwelijk geldig zijn voor de wet.
 
 Als je niet wordt toegelaten heb je 28 dagen om Nederland te verlaten. Als je toch in Nederland blijft zonder verblijfsvergunning behoor je tot de illegalen. Soms is het ook zo dat het land van herkomst de migranten ook weigert.
 
@@ -213,18 +213,18 @@ Opvang van vluchtelingen, vooral irreguliere migratie (migratie zonder geldige r
 
 - **Verschillen in pluriformiteit**: in het westen heb je veel landen met een koloniaal verleden en gastarbeiders, die daardoor een diverse samenleving hebben. In het oosten zijn de samenlevingen veel meer uniform/homogeen, waardoor er een angst voor culturele diversiteit is.
 
-- **Slechte solidariteit**: in Europa zijn er geen binnengrenzen. De grenzen van de lidstaten aan de rand zijn dus ook gelijk Europese grenzen. In de Dublin-verordering is afgesproken dat het land waar een vluchteling de EU binnenkomt, de asielprocedure moet verwerken. Hierdoor raken landen zoals Griekenland en Italië overbelast. Daarom zijn er solidariteitsafspraken, om vluchtelingen over de EU te verspreiden, maar veel landen werken daar niet (voldoende) aan mee.
+- **Slechte solidariteit**: in Europa zijn er geen binnengrenzen (voor de landen binnen het Schenge-verdrag). De grenzen van de lidstaten aan de rand zijn dus ook gelijk Europese grenzen. In de Dublin-verordering is afgesproken dat het land waar een vluchteling de EU binnenkomt, de asielprocedure moet verwerken. Hierdoor raken landen zoals Griekenland en Italië overbelast. Daarom zijn er solidariteitsafspraken, om vluchtelingen over de EU te verspreiden, maar veel landen werken daar niet (voldoende) aan mee.
 
 - **Verschillen in integratiebeleid**: elke lidstaat mag zelf zijn integratiebeleid bepalen. Landen die een minder goed integratiebeleid hebben, en dus minder kansen mbt. een baan, onderwijs en woning, krijgen minder asielaanvragen.
 
 Dat komt deels omdat het onderwerp erg gepolariseerd is. Er zijn een aantal perspectieven:
 
-|          | Meer migratie | Minder migratie |
-| -------- | ------------- | --------------- |
-| Moreel   |               |                 |
-| Belangen |               |                 |
-| Onmacht  |               |                 |
-| Recht    |               |                 |
+|          | Meer migratie                                                    | Minder migratie                                                                                                                                        |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Moreel   | Het is onze plicht te zorgen voor mensen in nood.                | Grenzeloze opvang gaat ten kosten van welzijn van eigen bevolking.                                                                                     |
+| Belangen | Vluchtelingen zijn nodig als arbeidskrachten.                    | Vluchtelingen zorgen voor grotere druk op voorzieningen, zoals woningen, onderwijs en zorg.                                                            |
+| Onmacht  | We kunnen de buitengrenzen toch niet sluiten, mensen komen toch. | Grenzen controlleren kan wel als er meer moeite wordt gedaan.                                                                                          |
+| Recht    | We zijn verplicht door internationale verdragen.                 | Internationale verdragen worden al willekeurig toegepast, Ze kunnen ons toch niet dwingen. Desnoods veranderen we de wet of stappen we uit het verdrag |
 
 Er gebeuren bij de Europese grenzen ook veel pushbacks: het terugduwen van bootjes en uitzetten van mensen. Dit is illegaal (omdat vluchtelingen recht op het aanvragen van asiel hebben) en onethisch.
 
