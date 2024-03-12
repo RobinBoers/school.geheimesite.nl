@@ -63,13 +63,11 @@ In een individualistische samenleving zijn persoonlijke vrijheid en zelfontplooi
 
 Dit gaat over de rolverdeling tussen mannen en vrouwen. In een masculine samenleving wordt verwacht dat de mannen dominant en werk-gefocusst zijn en vrouwen bescheiden en familie-gericht. In een feminiene samenleving zijn mannen en vrouwen gelijkwaardiger.
 
-> Vraag: het eerste deel van de tekst laat het lijken alsof het vooral om gedrag gaat: feminine is zorgzaam en geduldig en masculine is hard en direct, terwijl het tweede stuk echt over rolpatronen gaat. Ik vindt dat het nogal onduidelijk geschreven is.
+Daarnaast gaat het ook over de omgang tussen mensen. In een feminieme samenleving zijn mensen zorgzamer en leven zich meer in in anderen.
 
 #### Onzekerheidsvermijding
 
-Als mensen onzeker over de toekomst zijn hebben ze meer behoefte aan (informele en formele) regels.
-
-> Voorbeelden?? Ik niet snap...
+Als mensen onzeker over de toekomst zijn hebben ze meer behoefte aan (informele en formele) regels. Ook worden er in een samenleving met een hoge risicovermijding meer dingen verzekerd en is er meer structuur (door de regels).
 
 #### Korte- vs langetermijngericht
 
@@ -104,10 +102,10 @@ Socialisatie gaat op twee manieren:
 
 Socialisatie werkt dankzij sociale controle: het stimuleren of dwingen van anderen om zich aan de geldende normen en waarden te houden. Vaak werkt dit door middel van sancties:
 
-|          | Formeel             | Informeel                                |
-| -------- | ------------------- | ---------------------------------------- |
-| Positief | Een diploma krijgen | Een compliment krijgen                   |
-| Negatief | Een boete krijgen   | Aangesproken worden op iets dat niet kan |
+|              | **Formeel**         | **Informeel**                            |
+| ------------ | ------------------- | ---------------------------------------- |
+| **Positief** | Een diploma krijgen | Een compliment krijgen                   |
+| **Negatief** | Een boete krijgen   | Aangesproken worden op iets dat niet kan |
 
 Het doel van socialisatie is internalisatie: het eigen maken van de normen en waarden, en je ernaar gedragen.
 
@@ -123,7 +121,7 @@ Mensen horen graag bij een groep. Een groep bestaat altijd uit wie er wel bij ho
 
 ### Vooroordelen
 
-Vooroordelen hebben we omdat ons brein automatisch de wereld categoriseert. Dat indelen in hokjes gaat op basis van steorotypen die je tijdens het socialisatieproces en via de media meekrijgen. Een vooroordeel is dus het automatisch categoriseren van mensen op basis van stereotypen voordat je ze daadwerkelijk leert kennen.
+Vooroordelen hebben we omdat ons brein automatisch de wereld categoriseert. Dat indelen in hokjes gaat op basis van steorotypen--een overdreven vaststaand beeld van een groep--die je tijdens het socialisatieproces en via de media meekrijgt. Een vooroordeel is dus het automatisch categoriseren van mensen op basis van stereotypen voordat je ze daadwerkelijk leert kennen.
 
 Vooroordelen kunnen leiden tot discriminatie, het ongelijk behandelen van mensen, op bijvoorbeeld huidskleur, leeftijd, afkomst, geloof, geaardheid of handicap. Dit kan onbewust (niet express, zonder dat je het door hebt) of bewust (met opzet).
 
@@ -272,3 +270,27 @@ Door integratie veranderd dus zowel de dominante (Nederlandse) cultuur en de cul
 - **Aanvaarding**: mensen lossen de conflicten op en er ontstaat een nieuw maatschappelijk evenwicht.
 
 Migratie gaat gepaard met gevoelens van vervreemding en verlies voor beide groepen. Meestal worden conflicten via de rechtsorde opgelost, maar soms is er ook radicalisering: het gedachtegoed en gedrag van een groep wordt steeds extremer en gaat tegen de normen en waarden van de rechtsstaat in.
+
+## Verandering in Nederland
+
+### Vroeger
+
+- De samenleving was verzuild.
+- Ouders, leraren en politie hadden meer gezag (de machtsafstand was groter).
+- De samenleving was vooral christelijk.
+
+### Nu
+
+- **Ontkerkeling en ontzuiling** door het ontstaan van de verzorgingsstaat, waardoor een seculiere samenleving, waarin religie een kleinere rol speelt en privé is, ontstond.
+
+- **Individualisme**: de samenleving is meer individualistisch, hierdoor is er wel meer keuze- en prestratiestress, en eenzaamheid neemt toe.
+
+- **Globalisering**: We zijn wereldwijd meer verbonden door de opkomst van het internet, internationale handel en goedkoop vliegen. Hierdoor is onze cultuur verrijkt (shoarma, valentijnsdag etc.) <small>We hebben eigenlijk vooral de Amerikaanse cultuur overgenomen, net als de rest van de wereld, maar ok.</small> We zijn ook afhankelijker van andere landen.
+
+- **Vrouwenemancipatie**: stemrecht in 1919, rolpatronen veranderen in 60s, introductie anticonceptiepil, abortuswet. Maar: nog steeds loonkloof en niet altijd financieel onafhankelijk.
+
+- **LGBTIQ+**: homohuwelijk in 2001, meer maatschappelijk geaccepteerd (maar nog niet volledig). Ook kan je je paspoort laten aanpassen en zijn er meer genderneutrale toiletten.
+
+- **Emancipatie van minderheden**: nog lang niet afgerond, maar in ieder geval begonnen. Black Lives Matter was een stap I guess.
+
+- **Versplintering** van het parlement: er waren 19 fracties in de Tweede Kamer (toen het boek geschreven werd).
