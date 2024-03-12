@@ -207,7 +207,7 @@ Je hebt een aantal soorten migranten:
 
 Als je niet wordt toegelaten heb je 28 dagen om Nederland te verlaten. Als je toch in Nederland blijft zonder verblijfsvergunning behoor je tot de illegalen. Soms is het ook zo dat het land van herkomst de migranten ook weigert.
 
-### Europa
+## Vluchtelingenopvang in Europa
 
 Opvang van vluchtelingen, vooral irreguliere migratie (migratie zonder geldige reisdocumenten), is niet alleen in Nederland een probleem, maar ook in de EU. Vluchtelingen zijn erg ongelijk verdeeld door:
 
@@ -226,4 +226,26 @@ Dat komt deels omdat het onderwerp erg gepolariseerd is. Er zijn een aantal pers
 | Onmacht  |               |                 |
 | Recht    |               |                 |
 
+Er gebeuren bij de Europese grenzen ook veel pushbacks: het terugduwen van bootjes en uitzetten van mensen. Dit is illegaal (omdat vluchtelingen recht op het aanvragen van asiel hebben) en onethisch.
+
 > TODO: invullen!!
+
+## Integratie
+
+Als mensen in Nederland immigreren ontstaat de vraag hoe mensen zich aan elkaar moeten aanpassen.
+
+- **Assimilatie**: loslaten van eigen cultuur, identiteit en taal.
+- **Integratie**: het samenvoegen van culturen door wederzijdse aanpassing.
+
+Bij integratie is het wel zo dat de groep die immigreert zich moet aanpassen aan de taal en de (grond)wetten moet respecteren.
+
+In Nederland stimuleren we integratie vanuit het ideaal van de open samenleving:
+
+- Discriminatie verboden
+- Godsdienstvrijheid
+- Recht van meningsuiting
+- Vrijheid van onderwijs
+
+Door integratie veranderd dus zowel de dominante (Nederlandse) cultuur en de cultuur van de migranten. Daarop zijn drie reacties:
+
+...
