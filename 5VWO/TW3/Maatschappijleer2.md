@@ -234,8 +234,8 @@ Er gebeuren bij de Europese grenzen ook veel pushbacks: het terugduwen van bootj
 
 Als mensen in Nederland immigreren ontstaat de vraag hoe mensen zich aan elkaar moeten aanpassen.
 
-- **Assimilatie**: loslaten van eigen cultuur, identiteit en taal.
-- **Integratie**: het samenvoegen van culturen door wederzijdse aanpassing.
+- **Assimilatie** (nationalistisch): loslaten van eigen cultuur, identiteit en taal.
+- **Integratie** (kosmopolitisch): het samenvoegen van culturen door wederzijdse aanpassing.
 
 Bij integratie is het wel zo dat de groep die immigreert zich moet aanpassen aan de taal en de (grond)wetten moet respecteren.
 
@@ -246,6 +246,29 @@ In Nederland stimuleren we integratie vanuit het ideaal van de open samenleving:
 - Recht van meningsuiting
 - Vrijheid van onderwijs
 
-Door integratie veranderd dus zowel de dominante (Nederlandse) cultuur en de cultuur van de migranten. Daarop zijn drie reacties:
+Door integratie veranderd dus zowel de dominante (Nederlandse) cultuur en de cultuur van de migranten. Daarop zijn drie reacties, die vaak door elkaar voorkomen:
 
-...
+- **Vermijding**: doen alsof de andere groep niet bestaat door je terug te trekken in je eigen cultuur, vaak door gescheiden te leven (segregatie). Dit kan een vrijwillige keuze zijn of een gevolg van beleidskeuzes.
+
+  Segregatie heeft een aantal functies:
+
+  - Vermindering conflict
+  - Eigen cultuur en identiteit behouden
+  - Makkelijkere sociale controle (binnen eigen groep)
+  - Geeft een stem in de politiek doordat je als etnische groep een gedeelde vertegenwoordiger kan hebben
+
+- **Conflicten**: als mensen de verschillen niet langer ontkennen kunnen ruzies ontstaan.
+
+  Er zijn drie soorten conflicten:
+
+  - **Sociaal-cultureel**: over waarden, normen, opvattingen en gewoonten, vanuit angt voor verlies van eigen cultuur. Soms is er ook sprake van tegenstrijdige ambities als ouders hun eigen normen en waarden behouden maar hun kinderen de normen en waarden van de dominante cultuur overnemen.
+
+  - **Sociaal-economisch**: angt voor verdringing op de arbeidsmarkt. Ook vinden sommige mensen dat migranten geen recht hebben op sociale zekerheid via "onze" voorzieningen, uitkeringen en huurwoningen.
+
+    Er is ook discriminatie op de arbeidsmarkt en in het onderwijs. Migranten krijgen minder makkelijk een baan, stageplek en krijgen een lager schooladvies.
+
+  - **Politiek-juridisch**: gaat over macht (_alles gaat altijd over geld macht politiek, ugh_). Nederlanders zien zichzelf als de "eigenaren" van het land, terwijl migranten ook mede-eigenaar willen zijn (en daar ook recht op hebben).
+
+- **Aanvaarding**: mensen lossen de conflicten op en er ontstaat een nieuw maatschappelijk evenwicht.
+
+Migratie gaat gepaard met gevoelens van vervreemding en verlies voor beide groepen. Meestal worden conflicten via de rechtsorde opgelost, maar soms is er ook radicalisering: het gedachtegoed en gedrag van een groep wordt steeds extremer en gaat tegen de normen en waarden van de rechtsstaat in.
