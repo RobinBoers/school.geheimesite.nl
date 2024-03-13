@@ -12,7 +12,7 @@ Nederland heeft twee rivieren:
 
 Hieronder zie je een schematische weergave van het rivierengebied met mijn fantastische tekenkunsten:
 
-> TODO: invoegen.
+![Een artiestieke impressie van het rivierengebied in Nederland](rivierengebied.png)
 
 **Het debiet** van een rivier is de waterafvoer in een dwarsdoorsnede van een rivier in m³/s. **Het regiem** is hetzelfde, maar dan in m³/jaar.
 
@@ -38,16 +38,24 @@ Een delta is een stuk door neergelegd sediment ontstaan land (in zee). Delta's z
 
 In een rivier is de stroomsnelheid in de buitenbocht het snelst en in de binnenbocht het kleinst. Daardoor is er erosie in de buitenbocht en sedimentatie in de binnenbocht, en worden de bochten dus steeds scherpen. Op den duur snijden ze hierdoor af en wordt de rivier weer een (enigzins) rechte lijn. De hoefijzervorm die overblijft noem je een _verlaten meander_.
 
-> TODO: invoegen :)
+![Een dwarsdoorsnede van een bocht in de rivier](dwarsdoorsnede-bocht.png)
+
+![De eerste stap bij meanderen: de bochten worden steeds scherper](meander1.png)
+
+![De tweede stap bij meanderen: de bochten snijden door en er ontstaan hoefijzervormige verlaten meanders.](meander2.png)
 
 ### Gereguleerde rivieren
 
 Door het meanderen verlegt de rivier zichzelf. Dit was zo tot ongeveer het jaar 1000, toen we dijken begonnen te bouwen. Voor die tijd leefde mensen op terpen (zelfgemaakte heuvels).
 
+![Een dwarsdoorsnede van een bedijkte rivier](regulatie.png)
+
 Kribben zijn een soort uitstekeingen vanaf de oever. Ze:
 
 - voorkomen erosie.
 - zorgen ervoor dat de stroomdraad (watersnelheid en diepte) in het midden blijft.
+
+![Een bovenaanzicht van kribben](kribben.png)
 
 Een andere manier om rivieren te regulieren is het kanaliseren (rechttrekken). Hierdoor voeren ze sneller water af en zijn ze beter bevaarbaar.
 
