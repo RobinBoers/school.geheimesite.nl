@@ -14,6 +14,7 @@ Success met leren!
 - [Renaissance](5VWO/TW3/Nederlands)
 - [Verlichting](5VWO/TW3/Nederlands2)
 - [Politiek](5VWO/TW3/Maatschappijleer)
+- [PO: Partij der Future (PDF)](5VWO/TW3/Maatschappijleer3)
 - [Pluriforme samenleving](5VWO/TW3/Maatschappijleer2)
 
 ### Periode 2
