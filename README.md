@@ -10,6 +10,7 @@ Success met leren!
 ### Periode 3
 
 - [Rekenen met zuur-base](5VWO/TW3/Scheikunde)
+- [Ruimte voor de Rivier](5VWO/TW3/NLT)
 - [Renaissance](5VWO/TW3/Nederlands)
 - [Verlichting](5VWO/TW3/Nederlands2)
 - [Politiek](5VWO/TW3/Maatschappijleer)
