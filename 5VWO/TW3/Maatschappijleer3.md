@@ -2,11 +2,6 @@
 title: "PO: Partij der Future (PDF)"
 ---
 
-<hgroup>
-  <h1>Partij der Future</h1>
-  <p>Totaal serieuze politieke partij van Robin en Sean</p>
-</hgroup>
-
 ## Inleiding
 
 Dit verslag beschrijft de Partij der Future, een politieke partij die Sean Ham en Robin Boers hebben bedacht voor een praktische opdracht maatschappijleer, waarin we een politieke partij moeten oprichten. Hier is een smiley =)
@@ -49,7 +44,7 @@ Jongeren hebben momenteel geen kiesrecht waardoor de politiek geen goede afspieg
 
 Als we de leeftijd waarop burgers kiesrecht krijgen verlagen tot 16, zorgen we voor een grotere politieke diversiteit, verminderen we de kans op radicalisering en verhogen we de opkomst bij toekomstige verkiezingen.
 
-Zie <https://school.geheimesite.nl/5VWO/stermrecht-voor-jongeren> voor meer informatie.
+Zie <https://school.geheimesite.nl/5VWO/TW2/Maatschappijleer3> voor meer informatie.
 
 ### Klimaat
 
@@ -105,6 +100,6 @@ Planbureau voor de Leefomgeving. (2024) Stikstof- en natuuraanpak toont vooruitg
 
 Ravesloot, M. & de Rooij, B. (2019) Groen: goed voor de gezondheid. <i>Wageningen University & Research</i>. <https://www.wur.nl/nl/show-longread/groen-goed-voor-de-gezondheid.htm>
 
-Ham, S. & Boers, R. (2023) Stemrecht voor jongeren. <i>School shtuff</i>. <https://school.geheimesite.nl/5VWO/stermrecht-voor-jongeren>
+Ham, S. & Boers, R. (2023) Stemrecht voor jongeren. <i>School shtuff</i>. <https://school.geheimesite.nl/5VWO/TW2/Maatschappijleer3>
 
 Boers, R. (2024) The role of generative AI in writing. <i>lil notes</i>. <https://roblog.nl/blog/gpt>
