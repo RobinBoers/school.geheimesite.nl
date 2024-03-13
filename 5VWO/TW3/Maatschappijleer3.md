@@ -6,7 +6,7 @@ title: Partij der Future (PDF)
 
 _Dit verslag beschrijft de Partij der Future, een politieke partij die Sean Ham en Robin Boers hebben bedacht voor een praktische opdracht maatschappijleer, waarin we een politieke partij moeten oprichten._
 
-# Opdracht 1: Stemwijzer
+# Stemwijzer
 
 Als voorbereiding op de opdracht moesten we de stemwijzer invullen, zodat we een beetje een beeld kregen van onze standpunten en in welke stromingen die het beste pasten. Hieronder zie je de resultaten van het invullen van de stemwijzer voor de Tweede Kamerverkiezingen van 2023.
 
@@ -16,13 +16,13 @@ Als voorbereiding op de opdracht moesten we de stemwijzer invullen, zodat we een
 
 <small>De resultaten zien er anders uit omdat de ene op een laptop en de ander op een telefoon gemaakt is :)</small>
 
-# Opdracht 2: Partij en ideologie
+# Partij en ideologie
 
 Onze partij is sociaal-democratische, en ligt het meest in de buurt van de andere linkse partijen in de kamer, zoals GL-PvdA, Volt, PvdD (wat goed overeenkomt met de uitkomsten van onze stemwijzer).
 
 We vinden dat de overheid een actieve rol moet hebben bij het oplossen van maatschappelijke vraagstukken. Zo willen we bijvoorbeeld dat de overheid de economie beter reguleert met als doel het aanpakken van ongelijkheid en het beter verdelen van de welvaart. We willen kwetsbare groepen in onze samenleving beschermen en gelijke kansen voor iedereen realiseren. We zijn uiteindelijk allemaal gewoon mensen; we vinden dat iedereen dus ook zo behandeld moet worden. Verder hebben we een progressieve, vooruitstrevende visie op het gebied van bijvoorbeeld medisch-ethische kwesties, seksuele diversiteit en morele vraagstukken. Ook zijn we een partij die het klimaat erg belangrijk vindt; we willen onze planeet in goede staat aan de volgende generaties kunnen overdragen.
 
-# Opdracht 3: Het logo van onze partij
+# Het logo van onze partij
 
 Onze partij heet de Partij der Future (PDF), omdat we een vooruitstrevende visie hebben voor de toekomst van ons land. Hieronder zie je ons logo.
 
@@ -34,7 +34,7 @@ In ons logo komt de partijmascotte Frederico terug, onze geliefde flamingo. De p
 
 We wilden eerst het logo rood maken, omdat dat de kleur is die in de logo's van veel sociaal-democratische partijen terugkomt. Maar we vonden dat we het logo ook een beetje onze eigen stijl moesten geven. Daarom hebben we besloten het logo roze te maken. En het sluit ook goed aan bij onze flamingo :)
 
-# Opdracht 4: Standpunten
+# Standpunten
 
 We willen de levenskwaliteit voor iedereen verbeteren. Om dit te realiseren wordt de belasting voor inkomens boven de €57.000 een stuk hoger.
 
@@ -82,11 +82,11 @@ Ten slotte vinden we het belangrijk dat het gebruik van generative AI geen negat
 
 Zie <https://roblog.nl/blog/gpt> voor meer informatie.
 
-# Opdracht 5: Woordweb
+# Woordweb
 
 Ik heb geen zin om ze te copy-pasten.
 
-# Opdracht 6: Poster
+# Poster
 
 Hieronder zie je onze verkiezingsposter. Als het nog niet duidelijk was, zie je een jongere die stemt. Want dat is wat we willen :D
 
