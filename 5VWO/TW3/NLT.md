@@ -36,6 +36,12 @@ Het dieptste punt van de rivier, waar de watersnelheid het grootst is, noem je d
 
 Een rivier neemt sediment mee en zet het weer af (sedimentatie). De rivier legt dit sediment gesorteerd neer: hoe groter de sedimentdeeltjes, hoe makkelijker ze afgezet kunnen worden, dus grote sedimentdeeltjes, zoals zand en kiezels, worden dus dichtbij de stroomdraad al afgezet, terwijl kleine sedimentdeeltjes, zoals klei, pas worden afgezet als de stroomsnelheid veel lager is.
 
+Er zijn in Nederland twee soorten rivierlandschappen:
+
+- **Westelijk rivierkleilandschap**: in de buurt van de kust speelt het getij van de zee een rol. Het water staat er meer stil, waardoor klei en zand sedimenteert aan de oevers. Verder weg vindt je veen (half verteert plantmateriaal).
+
+- **Oostelijk rivierkleilandschap**: ver weg van de zee is deze invloed afwezig. Daardoor sedimenteert hier alleen zand aan de oevers. Klei vindt je alleen verderop (komgronden), waar het sedimenteert als de rivier overstroomt en buiten haar oevers treedt.
+
 ![Sedimentafzetting in een rivier vormt oeverwallen en komgronden](dwarsdoorsnede-rivier.png)
 
 ### Delta
@@ -46,15 +52,24 @@ Een delta is een stuk door neergelegd sediment ontstaan land (in zee). Delta's z
 
 In een rivier is de stroomsnelheid in de buitenbocht het snelst en in de binnenbocht het kleinst. Daardoor is er erosie in de buitenbocht en sedimentatie in de binnenbocht, en worden de bochten dus steeds scherpen. Op den duur snijden ze hierdoor af en wordt de rivier weer een (enigzins) rechte lijn. De hoefijzervorm die overblijft noem je een _verlaten meander_.
 
+In een meanderende rivier hangt de vorm van de bedding af van:
+
+- Het gemiddelde debiet (meer afvoer ⇒ bredere bedding).
+- De variaties in het debiet (dus het regiem).
+
 ![Een dwarsdoorsnede van een bocht in de rivier](dwarsdoorsnede-bocht.png)
 
 ![De eerste stap bij meanderen: de bochten worden steeds scherper](meander1.png)
 
 ![De tweede stap bij meanderen: de bochten snijden door en er ontstaan hoefijzervormige verlaten meanders.](meander2.png)
 
+### Vlechten
+
+Een rivier kan ook vlechten. Dan heeft de rivier meerdere (paralelle) beddingen. Dat is momenteel niet het geval in Nederland, maar was tijdens de ijstijd door de onregelmatige waterafvoer en grote hoeveelheden sediment (die de bedding konden verstoppen) wel zo.
+
 ### Gereguleerde rivieren
 
-Door het meanderen verlegt de rivier zichzelf. Dit was zo tot ongeveer het jaar 1000, toen we dijken begonnen te bouwen. Voor die tijd leefde mensen op terpen (zelfgemaakte heuvels).
+Door het meanderen verlegt de rivier zichzelf. Dit was zo tot ongeveer het jaar 1000, toen we dijken begonnen te bouwen. Voor die tijd leefde mensen op terpen (= woonheuvels).
 
 ![Een dwarsdoorsnede van een bedijkte rivier](regulatie.png)
 
@@ -95,7 +110,9 @@ flowchart BT
     D --> A
 ```
 
-## Paradigmaverschuiving
+## Bescherming tegen overstroming
+
+### Paradigmaverschuiving
 
 Na het hoogwater in 1995 moest er iets gedaan worden, maar we wilden niet de dijken blijven verhogen. Er vondt toen een paradigma (= zienswijze/perspectief) wisseling plaats van mitigatie naar adaptatie:
 
@@ -104,3 +121,27 @@ Na het hoogwater in 1995 moest er iets gedaan worden, maar we wilden niet de dij
 - **Adaptatie**: we omarmen het water; het biedt mogelijkheden. We kijken naar opties voor dynamisch waterbeheer.
 
 Vanuit adaptatie is het plan _Ruimte voor de Rivier_ ontstaan, waar deze NLT module naar vernoemd is.
+
+### Maatregelen
+
+- Kribverlaging
+- Uiterwaardvergraving (zeer effectief)
+- Verdiepen zomerbed (zeer effectief)
+- Aanleg nevengeul (bypass)
+- Obstakelverwijdering (zoals dichte bruggen 🠆 pijlers)
+- Verwijderen zomerdijk
+- Verwijderen terpen (etc.)
+- Dijkverlegging
+- Dijkverhoging
+- Toevoer water naar rivier beperken
+- Natuurontwikkeling (vergroot vertragingstijd)
+
+### Drietrapsstrategie
+
+1. **Vasthouden** in/op de bodem door het te laten infiltreren. Bijvoorbeeld in een wadi: een kuil met planten die regen vasthoudt (er was een filmpje over in de les).
+
+2. **Bergen** (= opslaan) op een andere plek (oppervlaktewater), zoals sloten of plassen. De opslagplek noem je een **retentiegebied**.
+
+3. **Afvoeren**/lozen in de rivier. Dit wil je zo lang mogelijk uitstellen om de rivier te ontlasten.
+
+**LET OP: KOMT IN DE TOETS.**
