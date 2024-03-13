@@ -93,6 +93,14 @@ In andere landen worden stuwmeren gebruikt voor hydroelectriciteit, maar in Nede
 - Stuwmeren houden sediment tegen waardoor er minder deltaopbouw is.
 - Stuwmeren hopen water op waardoor er stroomafwaarts minder water beschikbaar is (als stroomafwaarts in een ander land is, kan dit voor geopolitieke conflicten zorgen--wateroorlog).
 
+### Dijkdoorbraak
+
+Als een dijk doorbreekt komt er veel water door een kleine opening en begint het te kolken (hard stromen). Daardoor maakt het een groot gat in de grond. Dat noemen we een wiel of kolkgat.
+
+Meestal laten ze het zitten en bouwen ze de nieuwe dijk er in een bocht omheen.
+
+![Het ontstaan van een kolkgat](kolkgat.png)
+
 ## Hydrologische kringloop
 
 In de hydrologische kringloop vinden er steeds faseovergangen plaats tussen de _aggregatietoestanden_ van water:
@@ -122,6 +130,14 @@ Na het hoogwater in 1995 moest er iets gedaan worden, maar we wilden niet de dij
 
 Vanuit adaptatie is het plan _Ruimte voor de Rivier_ ontstaan, waar deze NLT module naar vernoemd is.
 
+Hierin combineren we verschillende aspecten (integraal waterbeheer):
+
+- Veiligheid
+- Wateroverlast
+- Verdroging
+- Watervervuiling
+- Verzilting
+
 ### Maatregelen
 
 - Kribverlaging
@@ -136,7 +152,29 @@ Vanuit adaptatie is het plan _Ruimte voor de Rivier_ ontstaan, waar deze NLT mod
 - Toevoer water naar rivier beperken
 - Natuurontwikkeling (vergroot vertragingstijd)
 
+### Vertragingstijd
+
+De piekafvoer van een rivier is het moment dat het debiet het grootst is. Als de piekafvoer te groot is kunnen de rivieren het water niet snel genoeg afvoeren en overstromen ze. Daarom willen we de piekafvoer beperken.
+
+Dit doen we door de vertragingstijd te vergroten. De vertragingstijd is de tijd tussen het moment van neerslag en het moment dat het water door de rivier wordt afgevoerd. Daardoor komt het water niet allemaal tegelijk in de rivier.
+
+![Vertragingstijd](vertragingstijd.png)
+
+De vertragingstijd wordt beïnvloed door:
+
+- **Verstening**: door verstedelijking is er steeds minder mogelijkheid voor water om te infiltreren in de grond, waardoor het via het riool direct wordt afgevoerd.
+
+- **Ontbossing**: hierdoor neemt het sponskarakter van een (natuur)gebied af en houdt het dus minder lang water vast.
+
+- **Aanpassen grondwaterspiegel** (ivm landbouw) zorgt voor inklinking waardoor het sponskarakter van veen afneemt en water minder lang wordt vastgehouden
+
+- **Drainage**: afvoersystemen voor overtollig water in de grond. Al infiltreert het water in de grond, wordt het dan alsnog afgevoerd.
+
+- **Kanalisatie**: door het aanleggen van kanalen wordt het water juist sneller afgevoerd.
+
 ### Drietrapsstrategie
+
+Om de vertragingstijd zo groot mogelijk te maken en daarmee de rivier te ontlasten gebruik je deze stappen:
 
 1. **Vasthouden** in/op de bodem door het te laten infiltreren. Bijvoorbeeld in een wadi: een kuil met planten die regen vasthoudt (er was een filmpje over in de les).
 
@@ -144,4 +182,17 @@ Vanuit adaptatie is het plan _Ruimte voor de Rivier_ ontstaan, waar deze NLT mod
 
 3. **Afvoeren**/lozen in de rivier. Dit wil je zo lang mogelijk uitstellen om de rivier te ontlasten.
 
-**LET OP: KOMT IN DE TOETS.**
+> **LET OP: KOMT IN DE TOETS.**
+
+### Zeespiegelstijging
+
+De zeespiegel stijgt door klimaatverandering. Dat noem je transgressie.
+
+- **Absolute zeespiegelstijging** (E) is dus de afstand die de zeespiegel omhoog gaat.
+- **Relatieve zeespiegelstijging** (R) is de afstand die de zeespiegel omhoog gaat _plus de afstand die de grond omlaag of omhoog gaat (b)_.
+
+\\[R = E + b\\]
+
+In Nederland daalt de grond namelijk door inklinking. Het grootste deel van onze grond is veen, en omdat we een verlaagde grondwaterspiegel hebben ivm landbouw, is het bovenste deel van het veen blootgesteld aan zuurstof. Het veen (halfverteerd plantenmateriaal) zal daardoor verder verteren en compacter worden, waardoor de bodem daalt.
+
+In Scandinavië is het juist andersom: daar is \\(b\\) negatief. De bodem gaat daar dus omhoog, vanwege platentectoniek.
