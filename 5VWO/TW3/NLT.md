@@ -2,8 +2,6 @@
 title: Ruimte voor de Rivier
 ---
 
-## Rivieren
-
 Nederland heeft twee grote rivieren:
 
 - **De Maas**: een regenrivier. Het **stroomgebied** van zo'n rivier is de oppervlakte van het land waarvan de rivier het water afvoert. Stroomgebieden van rivieren worden meestal gescheiden door waterscheidingen (reliëf).
@@ -18,11 +16,7 @@ Hieronder zie je een schematische weergave van het rivierengebied met mijn fanta
 
 ![Een artiestieke impressie van het rivierengebied in Nederland](rivierengebied.png)
 
-### Delta
-
-Een delta is een stuk door neergelegd sediment ontstaan land (in zee). Delta's zijn net als de gebieden rond de rivier erg vruchtbaar, vanwege het sediment.
-
-### Functies van rivieren
+## Functies van rivieren
 
 - Vervoeren van water
 - Drinkwaterbron
@@ -35,6 +29,18 @@ Een delta is een stuk door neergelegd sediment ontstaan land (in zee). Delta's z
 - Verdediging (Hollandse Waterlinie):
   - Door land onderwater te zetten (= inunderen) onbegaanbaar maken.
   - Tegenwoordig nutteloos vanwege vliegtuigen.
+
+## Rivierlandschap
+
+Het dieptste punt van de rivier, waar de watersnelheid het grootst is, noem je de **stroomdraad**.
+
+Een rivier neemt sediment mee en zet het weer af (sedimentatie). De rivier legt dit sediment gesorteerd neer: hoe groter de sedimentdeeltjes, hoe makkelijker ze afgezet kunnen worden, dus grote sedimentdeeltjes, zoals zand en kiezels, worden dus dichtbij de stroomdraad al afgezet, terwijl kleine sedimentdeeltjes, zoals klei, pas worden afgezet als de stroomsnelheid veel lager is.
+
+![Sedimentafzetting in een rivier vormt oeverwallen en komgronden](dwarsdoorsnede-rivier.png)
+
+### Delta
+
+Een delta is een stuk door neergelegd sediment ontstaan land (in zee). Delta's zijn net als de gebieden rond de rivier erg vruchtbaar, vanwege het sediment.
 
 ### Meanderen
 
@@ -55,7 +61,7 @@ Door het meanderen verlegt de rivier zichzelf. Dit was zo tot ongeveer het jaar 
 Kribben zijn een soort uitstekeingen vanaf de oever. Ze:
 
 - voorkomen erosie.
-- zorgen ervoor dat de stroomdraad (watersnelheid en diepte) in het midden blijft.
+- zorgen ervoor dat de stroomdraad in het midden blijft.
 
 ![Een bovenaanzicht van kribben](kribben.png)
 
@@ -72,7 +78,7 @@ In andere landen worden stuwmeren gebruikt voor hydroelectriciteit, maar in Nede
 - Stuwmeren houden sediment tegen waardoor er minder deltaopbouw is.
 - Stuwmeren hopen water op waardoor er stroomafwaarts minder water beschikbaar is (als stroomafwaarts in een ander land is, kan dit voor geopolitieke conflicten zorgen--wateroorlog).
 
-### Hydrologische kringloop
+## Hydrologische kringloop
 
 In de hydrologische kringloop vinden er steeds faseovergangen plaats tussen de _aggregatietoestanden_ van water:
 
