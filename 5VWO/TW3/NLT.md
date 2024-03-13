@@ -4,17 +4,19 @@ title: Ruimte voor de Rivier
 
 ## Rivieren
 
-Nederland heeft twee rivieren:
+Nederland heeft twee grote rivieren:
 
-- **De Maas**: een regenrivier. Het stroomgebied van zo'n rivier is de oppervlakte van het land waarvan de rivier het water afvoert. Stroomgebieden van rivieren worden meestal gescheiden door waterscheidingen (reliëf).
+- **De Maas**: een regenrivier. Het **stroomgebied** van zo'n rivier is de oppervlakte van het land waarvan de rivier het water afvoert. Stroomgebieden van rivieren worden meestal gescheiden door waterscheidingen (reliëf).
 
 - **De Rijn**: een gemengde rivier. Een deel van het water komt van smeltwater van sneeuw en gletsjers, en de rest van regenwater. De Rijn voert ongeveer 10x zoveel water af.
+
+Het **debiet** van een rivier is de waterafvoer in een dwarsdoorsnede van een rivier in m³/s. Het **regiem** is hetzelfde, maar dan in m³/jaar.
+
+Het **verhang** van een rivier is hoe steil hij is: het hoogteverschil per afstandseenheid. Het **verval** is het totale hoogteverschil tussen bron en monding.
 
 Hieronder zie je een schematische weergave van het rivierengebied met mijn fantastische tekenkunsten:
 
 ![Een artiestieke impressie van het rivierengebied in Nederland](rivierengebied.png)
-
-**Het debiet** van een rivier is de waterafvoer in een dwarsdoorsnede van een rivier in m³/s. **Het regiem** is hetzelfde, maar dan in m³/jaar.
 
 ### Delta
 
@@ -87,7 +89,7 @@ flowchart BT
     D --> A
 ```
 
-### Paradigmaverschuiving
+## Paradigmaverschuiving
 
 Na het hoogwater in 1995 moest er iets gedaan worden, maar we wilden niet de dijken blijven verhogen. Er vondt toen een paradigma (= zienswijze/perspectief) wisseling plaats van mitigatie naar adaptatie:
 
