@@ -124,19 +124,17 @@ flowchart BT
 
 Na het hoogwater in 1995 moest er iets gedaan worden, maar we wilden niet de dijken blijven verhogen. Er vondt toen een paradigma (= zienswijze/perspectief) wisseling plaats van mitigatie naar adaptatie:
 
-- **Mitigatie**: water wordt gezien als de vijand. Om ervan af te komen moeten we het zo snel mogelijk afvoeren. We gaan uit van maakbaarheid van het landschap.
+- **Mitigatie**: water wordt gezien als de vijand, het tegengestelde van land. Om ervan af te komen moeten we het zo snel mogelijk afvoeren. We gaan uit van maakbaarheid van het landschap. Het waterbeheer is statisch: we doen één ding, namelijk water weghouden.
 
-- **Adaptatie**: we omarmen het water; het biedt mogelijkheden. We kijken naar opties voor dynamisch waterbeheer.
+- **Adaptatie**: we omarmen het water; het biedt mogelijkheden. We kijken naar opties voor dynamisch waterbeheer, waarin we verschillende dingen doen. Ook combineren we aspecten (integraat waterbeheer):
+
+  - Veiligheid
+  - Wateroverlast
+  - Verdroging
+  - Watervervuiling
+  - Verzilting
 
 Vanuit adaptatie is het plan _Ruimte voor de Rivier_ ontstaan, waar deze NLT module naar vernoemd is.
-
-Hierin combineren we verschillende aspecten (integraal waterbeheer):
-
-- Veiligheid
-- Wateroverlast
-- Verdroging
-- Watervervuiling
-- Verzilting
 
 ### Maatregelen
 
@@ -193,6 +191,20 @@ De zeespiegel stijgt door klimaatverandering. Dat noem je transgressie.
 
 \\[R = E + b\\]
 
-In Nederland daalt de grond namelijk door inklinking. Het grootste deel van onze grond is veen, en omdat we een verlaagde grondwaterspiegel hebben ivm landbouw, is het bovenste deel van het veen blootgesteld aan zuurstof. Het veen (halfverteerd plantenmateriaal) zal daardoor verder verteren en compacter worden, waardoor de bodem daalt.
+In Nederland daalt de grond namelijk door inklinking. Het grootste deel van onze grond is veen, en omdat we een verlaagde grondwaterspiegel hebben ivm landbouw, is het bovenste deel van het veen blootgesteld aan zuurstof. Het veen (halfverteerd plantenmateriaal) zal daardoor verder verteren en compacter worden, waardoor de bodem daalt. Daarnaast zorgen gasboring in Groningen daar ook voor bodemdaling.
 
 In Scandinavië is het juist andersom: daar is \\(b\\) negatief. De bodem gaat daar dus omhoog, vanwege platentectoniek.
+
+### Wat als?
+
+Naast de paradigmawisseling van mitigatie naar adaptatie is er ook iets anders:
+
+- Vroeger beschermde de overheid door de burger tegen overstromingen. Een dijkdoorbraak is het gevolg van falend menselijk handelen.
+
+- In de toekomst wordt de kans op dijkdoorbraken groter, ook al doen we ons best het risico zoveel mogelijk te beperken. Momenteel schatten burgers het risico van een overstroming (risicoperceptie) heel laag in, maar dat moet anders. Burgers moeten in geval van een overstroming weten wat ze moeten en kunnen doen (handelingsperspectief) en hoe ze zich kunnen voorbereiden.
+
+De overheid heeft plannen klaarliggen genaamd Meerlaagse Veiligheid:
+
+- Preventie: dijkinspectie, deltawerken.
+- Ruimtelijke ordening: in het ontwerp van steden moet rekening worden gehouden met overstromingen.
+- Crisisbeheersing: in het geval van een overstroming moeten _geteste_ rampen- en evacuatieplannen klaarliggen.
