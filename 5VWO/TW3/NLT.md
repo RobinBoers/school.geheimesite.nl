@@ -73,6 +73,10 @@ Door het meanderen verlegt de rivier zichzelf. Dit was zo tot ongeveer het jaar 
 
 ![Een dwarsdoorsnede van een bedijkte rivier](regulatie.png)
 
+<small>
+(je moet op de toets de bovenstaande afbeelding kunnen natekenen)
+</small>
+
 Kribben zijn een soort uitstekeingen vanaf de oever. Ze:
 
 - voorkomen erosie.
@@ -170,7 +174,7 @@ De vertragingstijd wordt beïnvloed door:
 
 - **Kanalisatie**: door het aanleggen van kanalen wordt het water juist sneller afgevoerd.
 
-### Drietrapsstrategie
+### Drietrapsstrategie <small>(komt op de toets)</small>
 
 Om de vertragingstijd zo groot mogelijk te maken en daarmee de rivier te ontlasten gebruik je deze stappen:
 
@@ -180,18 +184,16 @@ Om de vertragingstijd zo groot mogelijk te maken en daarmee de rivier te ontlast
 
 3. **Afvoeren**/lozen in de rivier. Dit wil je zo lang mogelijk uitstellen om de rivier te ontlasten.
 
-> **LET OP: KOMT IN DE TOETS.**
-
 ### Zeespiegelstijging
 
-De zeespiegel stijgt door klimaatverandering. Dat noem je transgressie.
+Door klimaatverandering stijgt de zeespiegel (transgressie) door het smelten van van landijs en het uitzetten van zeewater onder invloed van de hogere temperatuure (thermische expansie).
 
-- **Absolute zeespiegelstijging** (E) is dus de afstand die de zeespiegel omhoog gaat.
+- **Absolute zeespiegelstijging** (E) is de afstand die de zeespiegel omhoog gaat.
 - **Relatieve zeespiegelstijging** (R) is de afstand die de zeespiegel omhoog gaat _plus de afstand die de grond omlaag of omhoog gaat (b)_.
 
 \\[R = E + b\\]
 
-In Nederland daalt de grond namelijk door inklinking. Het grootste deel van onze grond is veen, en omdat we een verlaagde grondwaterspiegel hebben ivm landbouw, is het bovenste deel van het veen blootgesteld aan zuurstof. Het veen (halfverteerd plantenmateriaal) zal daardoor verder verteren en compacter worden, waardoor de bodem daalt. Daarnaast zorgen gasboring in Groningen daar ook voor bodemdaling.
+In Nederland daalt de grond namelijk door inklinking. Het grootste deel van onze grond is veen, en omdat we een verlaagde grondwaterspiegel hebben ivm landbouw, is het bovenste deel van het veen blootgesteld aan zuurstof. Het veen (halfverteerd plantenmateriaal) zal daardoor verder verteren (oxidatie) en compacter worden, waardoor de bodem daalt. Daarnaast zorgen gasboring in Groningen daar ook voor bodemdaling.
 
 In Scandinavië is het juist andersom: daar is \\(b\\) negatief. De bodem gaat daar dus omhoog, vanwege platentectoniek.
 
@@ -199,12 +201,37 @@ In Scandinavië is het juist andersom: daar is \\(b\\) negatief. De bodem gaat d
 
 Naast de paradigmawisseling van mitigatie naar adaptatie is er ook iets anders:
 
-- Vroeger beschermde de overheid door de burger tegen overstromingen. Een dijkdoorbraak is het gevolg van falend menselijk handelen.
+- Vroeger beschermde de overheid door de burger tegen overstromingen. Een dijkdoorbraak is het gevolg van falend menselijk handelen in de overheid.
 
 - In de toekomst wordt de kans op dijkdoorbraken groter, ook al doen we ons best het risico zoveel mogelijk te beperken. Momenteel schatten burgers het risico van een overstroming (risicoperceptie) heel laag in, maar dat moet anders. Burgers moeten in geval van een overstroming weten wat ze moeten en kunnen doen (handelingsperspectief) en hoe ze zich kunnen voorbereiden.
 
 De overheid heeft plannen klaarliggen genaamd Meerlaagse Veiligheid:
 
-- Preventie: dijkinspectie, deltawerken.
-- Ruimtelijke ordening: in het ontwerp van steden moet rekening worden gehouden met overstromingen.
-- Crisisbeheersing: in het geval van een overstroming moeten _geteste_ rampen- en evacuatieplannen klaarliggen.
+1. **Preventie**: dijkinspectie, deltawerken.
+2. **Ruimtelijke ordening**: in het ontwerp van steden moet rekening worden gehouden met overstromingen.
+3. **Crisisbeheersing**: in het geval van een overstroming moeten _geteste_ rampen- en evacuatieplannen klaarliggen.
+
+## Klimaat
+
+Klimaat is het gemiddelde weer (= staat van de dampkring) over een periode van ongeveer 30 jaar gemeten over een groot gebied.
+
+De wereldwijde gemiddelde temperatuur wordt bepaald door de stralingsbalans: de verhouding tussen de hoeveelheid straling die onze atmosfeer binnenkomt en dan weer verlaat. Daarvoor zijn broeikasgassen, die warmtestraling vasthouden, erg belangrijk.
+
+Het IPCC en KNMI doen veel klimaatonderzoek en maken scenario's: voorspellingen over de toekomst aan de hand van modellen.
+
+### Klimaatakkoord van Parijs
+
+Om klimaatverandering te beperken hebben we het klimaatakkoord van Parijs ondertekent. Dat houdt in:
+
+- **Doel**: maximale opwarming van 2 graden en streven naar 1,5 graden.
+- **Uitstoot** van broeikasgassen verminderen.
+- **Evaluatie**: er wordt in 2018 en 2023 gecontrolleerd of landen de klimaatdoelen halen <small>(spoiler: ze halen 't niet)</small>.
+- **Financieel**: landen moeten een bijdrage leveren aan onderzoek naar klimaatadaptatie en steun aan armere landen (die zegmaar nog geen industriële revolutie gehad hebben en dat nu van ons ook niet meer mogen).
+
+### Onregelmatiger weer
+
+Door klimaatverandering wordt het weer onvoorspelbaarder. De jaarlijkse neerslagsom neemt toe: de winters worden natter en de zomers droger, maar met een hogere neerslagintensiteit. Dat betekent dat het in de zomer soms héél hard stormt waardoor ze gemiddeld gezien toch "natter" zijn.
+
+Hierdoor wordt het regiem van een rivier (fluctuaties van het debiet over een jaar gezien) een stuk onregelmatiger.
+
+<small>Let op: het regiem/debiet neemt dus niet toe of af. Het wordt onregelmatiger!</small>
