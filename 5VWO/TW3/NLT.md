@@ -217,7 +217,27 @@ Klimaat is het gemiddelde weer (= staat van de dampkring) over een periode van o
 
 De wereldwijde gemiddelde temperatuur wordt bepaald door de stralingsbalans: de verhouding tussen de hoeveelheid straling die onze atmosfeer binnenkomt en dan weer verlaat. Daarvoor zijn broeikasgassen, die warmtestraling vasthouden, erg belangrijk.
 
-Het IPCC en KNMI doen veel klimaatonderzoek en maken scenario's: voorspellingen over de toekomst aan de hand van modellen.
+Het IPCC (EU) en KNMI (NL) doen veel klimaatonderzoek en maken scenario's: voorspellingen over de toekomst aan de hand van modellen.
+
+### Tipping points
+
+In de klimaatverandering zijn er zogenaamde tipping points (of kantelpunten) dat zijn punten waarop er een positieve terugkoppeling ontstaat, waardoor de verandering heel moeilijk terug te draaien is.
+
+- **Positieve terugkoppeling**: de verandering gaat zichzelf versterken. De aarde warmt sneller op.
+
+- **Negatieve terugkoppeling**: de verandering maakt zichzelf ongedaan. De aarde koelt af.
+
+### Invloed van de mens
+
+Het klimaat wordt door de uitstoot van broeikasgassen door de mens warmer. Dat noem je het versterkt broeikaseffect. Er zijn twee soorten invloeden op het klimaat:
+
+- **Conditionerend**: een voorwaarde voor een verandering.
+- **Sturend**: versterkt of remt een verandering af:
+
+  - Ontbossing
+  - Verstedelijking
+  - Industrie
+  - Veeteelt
 
 ### Klimaatakkoord van Parijs
 
