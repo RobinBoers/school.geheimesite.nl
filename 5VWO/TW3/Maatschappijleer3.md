@@ -2,8 +2,6 @@
 title: Partij der Future (PDF)
 ---
 
-# Inleiding
-
 _Dit verslag beschrijft de Partij der Future, een politieke partij die Sean Ham en Robin Boers hebben bedacht voor een praktische opdracht maatschappijleer, waarin we een politieke partij moeten oprichten._
 
 # Stemwijzer
