@@ -32,6 +32,8 @@ De formule van de gravitatiekracht is:
 
 \\[F_g = G\frac{Mm}{r^2}\\]
 
+> De maan is 81x zo zwaar, maar je bent er maar 6x zo licht. Dat komt omdat op de maan \\(r\\) veel kleiner is.
+
 ### Hemellichamen
 
 Voor hemellichamen die om elkaar draaien is de gravitatiekracht de \\(F_{mpz}\\). Daarvoor kan je de volgende formule afleiden:
@@ -45,11 +47,13 @@ Aan deze formule kan je ook zien dat bij een grote cirkelbaan, de baansnelheid k
 \\[r = \frac{GM}{v^2}\\]
 \\[\text{want  } GM = c\\]
 
-<!--Je kan trouwens zo ook de omlooptijd berekenen:
+Voor planeten in een baan rond de zon gelden nog drie andere wetten:
 
-\\[\frac{2\pi r}{T} = \sqrt\frac{GM}{r}\\]
-\\[\frac{2\pi^2 r^2}{T^2} = \frac{GM}{r}\\]
-\\[\frac{2\pi^2 r^3}{T^2} = GM]-->
+1. Ze bewegen in een ellipsbaan en de zon ligt op één van de brandpunten.
+2. Planeten hebben een grotere snelheid als ze dichter bij de zon zijn.
+3. De derde wet van Kepler:
+
+   \\[\frac{r^3}{T^2} = \frac{GM}{4\pi^2}\\]
 
 ### Zwaartekracht
 
@@ -59,6 +63,32 @@ Tussen twee normale voorwerpen is de gravitatiekracht verwaarloosbaar klein. Maa
 
 Als je dicht bij de aarde bent is je hoogte verwaarloosbaar tenopzichte van \\(r_{\text{aarde}}\\), maar als je berekeningen op grote hoogte uitvoert moet je daar wel rekening mee houden.
 
+### Geostationaire baan
+
+Een geostationaire baan is een baan rond de aarde waarmee een sateliet met de aarde meedraait en dus altijd boven een vast punt blijft hangen.
+
+Dat kan alleen op een hele specifieke hoogte en een hele specifieke snelheid, recht boven en evenwijdig aan de evenaar.
+
 ## Gravitatie-energie
 
-\\[E_g = -G\frac{Mm}{r}]
+De gravitatie-energie is de arbeid die \\(F_g\\) verricht over de afstand \\(r\\) en is gelijk aan de oppervlakte onder een \\(F_g\\),\\(r\\)-diagram. De formule kan je afleiden van de formule voor \\(F_g\\):
+
+\\[E_g = F_g \cdot r = -G\frac{Mm}{r}\\]
+
+Het nulpunt van \\(E_z\\) mag je zelf kiezen, maar voor \\(E_g\\) hebben we afgesproken dat het nulpunt op oneindig grote afstand van het zwaartepunt ligt. Dus dicht bij het zwaartepunt is \\(E_g\\) héél negatief, en super ver van het zwaartepunt is \\(E_g\\) juist veel minder negatief (bijna nul).
+
+### Ontspanningssnelheid
+
+De ontsnappingssnelheid is de snelheid die nodig is om buiten het bereik van de gravitatiekracht te komen. De formule daarvan is zo af te leiden:
+
+- In het oneindige is \\(E_g\\) nul en geldt ook \\(v = 0\\).
+- Dus in het oneindige geldt \\(E_g + E_{\text{kin}} = 0\\).
+- Er kan geen energie verloren gaan; wet van behoud van energie.
+- Dus ook op aarde geldt \\(E_g + E_{\text{kin}} = 0\\).
+
+Daaruit kan je de formule van \\(v_0\\) bepalen:
+
+\\[E_{\text{kin}} = -E_g\\]
+\\[\frac{1}{2}mv_0^2 = G\frac{Mm}{r}\\]
+\\[v_0^2 = 2\frac{GM}{r}\\]
+\\[v_0 = \sqrt{2\frac{GM}{r}}\\]

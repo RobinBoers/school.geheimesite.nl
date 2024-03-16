@@ -13,8 +13,9 @@ Success met leren!
 - [Ruimte voor de Rivier](5VWO/TW3/NLT)
 - [Renaissance](5VWO/TW3/Nederlands)
 - [Verlichting](5VWO/TW3/Nederlands2)
+- [Zonnestelsel & cirkelbewegingen](5VWO/TW3/Natuurkunde)
 - [Politiek](5VWO/TW3/Maatschappijleer)
-- [PO: Partij der Future (PDF)](5VWO/TW3/Maatschappijleer3)
+- [Partij der Future (PDF)](5VWO/TW3/Maatschappijleer3)
 - [Pluriforme samenleving](5VWO/TW3/Maatschappijleer2)
 
 ### Periode 2
