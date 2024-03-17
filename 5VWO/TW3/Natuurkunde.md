@@ -67,7 +67,14 @@ Als je dicht bij de aarde bent is je hoogte verwaarloosbaar tenopzichte van \\(r
 
 Een geostationaire baan is een baan rond de aarde waarmee een sateliet met de aarde meedraait en dus altijd boven een vast punt blijft hangen.
 
-Dat kan alleen op een hele specifieke hoogte en een hele specifieke snelheid, recht boven en evenwijdig aan de evenaar.
+Dat kan alleen op een hele specifieke hoogte en een hele specifieke snelheid, recht boven en evenwijdig aan de evenaar, omdat:
+
+- Het middenpunt van de baan moet het middenpunt van de aarde zijn.
+- De baan moet loodrecht op de as van de aarde staan.
+
+### Polaire baan
+
+In een polaire baan vliegt een satelliet op relatief kleine hoogte in 1 tot 2 uur over beide polen. Doordat de aarde ook draait "ziet" de satelliet dus elk stukje aarde.
 
 ## Gravitatie-energie
 
