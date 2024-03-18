@@ -17,6 +17,7 @@ Success met leren!
 - [Politiek](5VWO/TW3/Maatschappijleer)
 - [Partij der Future (PDF)](5VWO/TW3/Maatschappijleer3)
 - [Pluriforme samenleving](5VWO/TW3/Maatschappijleer2)
+- [Duits is kut](5VWO/TW3/Duits)
 
 ### Periode 2
 
