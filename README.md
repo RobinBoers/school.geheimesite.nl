@@ -7,6 +7,10 @@ Success met leren!
 ## 5VWO
 
 
+### Periode 4
+
+- [Magnetisme](5VWO/TW3/Natuurkunde)
+
 ### Periode 3
 
 - [Rekenen met zuur-base](5VWO/TW3/Scheikunde)
@@ -40,7 +44,6 @@ Success met leren!
 
 ## 4VWO
 
-- [Mr. Bean](4VWO/mr-bean)
 
 ### Periode 4
 
