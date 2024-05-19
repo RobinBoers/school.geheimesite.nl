@@ -112,11 +112,11 @@ Je kan de Lorentzkracht met de volgende formule berekenen:
 
 Hierin is B de component van de magnetische veldsterkte die loodrecht op de stroomdraad staat. Stel je hebt dus de volgende situatie:
 
-[Een stroomdraad die niet loodrecht door een magneetveld gaat, maar schuin](magneetveld-schuin.png)
+![Een stroomdraad die niet loodrecht door een magneetveld gaat, maar schuin](magneetveld-schuin.png)
 
 Je moet dan alleen de loodrechte component van de magnetische veldsterkte nemen. Dit doe je door hem te ontleden, net als een kracht (want het is een vectorgrootheid):
 
-[De magnetische veldsterkte is ontleedt in een verticaal en horizontaal component](magneetveld-ontleed.png)
+![De magnetische veldsterkte is ontleedt in een verticaal en horizontaal component](magneetveld-ontleed.png)
 
 In het geval van een spoel kan je ook de volgende formule gebruiken:
 
