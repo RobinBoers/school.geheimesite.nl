@@ -118,7 +118,35 @@ Je moet dan alleen de loodrechte component van de magnetische veldsterkte nemen.
 
 [De magnetische veldsterkte is ontleedt in een verticaal en horizontaal component](magneetveld-ontleed.png)
 
+In het geval van een spoel kan je ook de volgende formule gebruiken:
+
+\\[F_l = NBIl\\]
+
+Daarin is N het aantal windingen. Op elke winding oefent zich namelijk een Lorentzkracht uit. Je moet daarom de Lorentzkracht keer het aantal windingen van de spoel doen, om de totale Lorentzkracht op de spoel te berekenen.
+
 ## Inductie
+
+Je kan met stroom een magneetveld opwekken (bijvoorbeeld met een spoel). Maar het kan ook andersom: door de verandering van een magneetveld kan je spanning opwekken en dus stroom laten lopen. Dat noem je inductie.
+
+Die verandering van het magneetveld kan je uitdrukken met de flux. De magnetische flux is het aantal veldlijnen dat door een denkbeeldige cirkel gaat. In het geval van inductie is die cirkel het midden van de spoel.
+
+![Uitbeelding van de flux](flux.png)
+
+Als je een magneet beweegt en op die manier de flux veranderd, reageert de spoel door of een *meeflux* of een *tegenflux* op te wekken. De spoel wordt dus tijdelijk ook een magneet.
+
+Of het een mee- of tegenflux wordt kan je bepalen aan de hand van de *Wet van Lenz*:
+
+1. Bepaal de richting van het uitwendige magneetveld (het magneetveld van de magneet die je beweegt) door de spoel.
+
+2. Kijk of er een toename of afname van de flux is (beweegt de magneet van de spoel af of er naartoe?)
+
+3. Bij een toename van de flux wordt een tegenflux opgewekt. Het opgewekte magneetveld is dus tegengesteld aan de richting van het uitwendige magneetveld.
+
+4. Bij een afname van de flux wordt een meeflux opgewekt. Het opgewekte magneetveld heeft dus dezelfde richting als het uitwendig magneetveld.
+
+Doordat hij een magneet wordt gaat er stroom lopen. De spoel wordt dus een *spanningsbron*. De richting van de stroom kan je vervolgens bepalen met de rechterhandregel voor spoelen.
+
+Je kan vervolgens bepalen welke kant van de spoel de plus- en welke kant de minpool wordt (van de spanningsbron). De stroom loopt binnen de spanningsbron van - naar +.
 
 
 
