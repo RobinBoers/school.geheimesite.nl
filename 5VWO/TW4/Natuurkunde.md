@@ -136,7 +136,7 @@ Je kan de flux zo berekenen:
 
 Als de flux groter of kleiner wordt, veranderd het magneetveld en vindt er inductie plaats. De inductiespanning (U<sub>ind</sub>) is dus evenredig met de *afgeleide van de flux*. Daaruit volgt de volgende formule:
 
-\\[U_{\text{ind}} = N \cdot \frac{d\phi}{dt}\\]
+\\[U_{\text{ind}} \propto N \cdot \frac{d\phi}{dt}\\]
 
 ### Wet van Lenz
 
