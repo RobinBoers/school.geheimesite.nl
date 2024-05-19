@@ -138,6 +138,8 @@ Als de flux groter of kleiner wordt, veranderd het magneetveld en vindt er induc
 
 \\[U_{\text{ind}} \propto N \cdot \frac{d\phi}{dt}\\]
 
+<small>Wiskundig gezien kan je er ook een vergelijking met een factor <i>p</i> van maken: \\(U_{\text{ind}} = p \cdot N \cdot \frac{d\phi}{dt}\\)</small>
+
 ### Wet van Lenz
 
 Als je een magneet beweegt en op die manier de flux veranderd, reageert de spoel door of een *meeflux* of een *tegenflux* op te wekken. De spoel wordt dus tijdelijk ook een magneet.
