@@ -2,6 +2,8 @@
 title: Magnetisme
 ---
 
+**NOG NIET AF**
+
 Een voorwerp heeft heel veel kleine magnetische gebiedjes. Normaal staan die in random richtingen, waardoor ze elkaar opheffen. Als alle magnetische gebiedjes in dezelfde richting staan, is een voorwerp magnetisch.
 
 Een magneet heeft een noord- en een zuidpool. Noord-zuid trekt elkaar aan en noord-noord of zuid-zuid stoten elkaar af. De noordpool van een magneet wordt vaak aangegeven met rood, en de zuidpool met blauw.
@@ -60,18 +62,40 @@ Boven en onder de spoel liggen de veldlijnen verder uit elkaar, en is het veld d
 
 Als je stroom door een rechte stroomdraad laat lopen wekt die ook een magnetisch veld op. Alleen een dat veld heeft geen noord- of zuidpolen. De lijnen lopen in oneindige cirkels op een vlak dat loodrecht op de stroomdraad staat.
 
-![Een spoel als elektromagneet](elektromagneet-draad.jpg)
+![Een draad als elektromagneet](elektromagneet-draad.jpg)
 
 Hoe verder van de stroomdraad, hoe verder ze uit elkaar liggen, en dus hoe zwakker het magneetveld.
 
+### Lorentzkracht
+
 ### Homogeen vs inhomogeen
 
-Binnen de spoel is het magneetveld homogeen: de lijnen lopen evenwijdig en even ver van elkaar. Buiten de spoel is dat niet zo (dus is het veld daar inhomogeen).
+In een homogeen magneetveld lopen de veldlijnen evenwijdig en even ver van elkaar. Dat is bijvoorbeeld binnen een spoel zo.
+
+Lopen de lijnen niet evenwijdig, of is de afstand tussen de veldlijnen niet consistent? Dan is het veld inhomogeen.
 
 ### Rechterhandregels
 
 Je kan de richting van een magneetveld dat wordt opgewekt door een spoel of stroomdraad bepalen aan de hand van de richting van de stroom. Dit doe je met twee *rechterhandregels*:
 
-![Rechterhandregel bij spoelen](rechterhandregel-spoelen.png)
-![Rechterhandregel bij draden](rechterhandregel-draden.png)
+#### Voor spoelen
 
+- **Gekromde vingers**: geven de richting van de stroomsterkte (I) aan. Gaan de stroom van voor-achter, dan gaat je hand van je af, en van achter-voor naar je toe.
+- **Duim**: de richting van het magneetveld (B) binnen de spoel, wijst naar de noordpool van de magneet.
+
+![Rechterhandregel bij spoelen](rechterhandregel-spoel.png)
+
+#### Voor stroomdraden
+
+- **Duim**: geeft de richting van de stroomsterkte (I) aan.
+- **Gekromde vingers** beschrijven de draaiing van de veldlijnen  (B) rondom de stroomdraad.
+
+![Rechterhandregel bij draden](rechterhandregel-draad.png)
+
+#### Voor de Lorentzkracht
+
+- **Gestrekte vingers** geven de richting van het magneetveld (B) aan.
+- **Duim** geeft de richting van de stroomsterkte (I) aan.
+- Loodrecht uit je **handpalm** komt nu de Lorentzkracht.
+
+![Rechterhandregel voor Lorentzkracht](rechterhandregel-fl.png)

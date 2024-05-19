@@ -9,7 +9,7 @@ Success met leren!
 
 ### Periode 4
 
-- [Magnetisme](5VWO/TW3/Natuurkunde)
+- [Magnetisme](5VWO/TW4/Natuurkunde)
 
 ### Periode 3
 
