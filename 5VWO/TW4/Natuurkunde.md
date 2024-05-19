@@ -66,36 +66,62 @@ Als je stroom door een rechte stroomdraad laat lopen wekt die ook een magnetisch
 
 Hoe verder van de stroomdraad, hoe verder ze uit elkaar liggen, en dus hoe zwakker het magneetveld.
 
-### Lorentzkracht
+## Lorentzkracht
 
-### Homogeen vs inhomogeen
+Een stoomdraad in een magnetisch veld ondervindt een kracht genaamd de Lorentzkracht. Die kracht staat loodrecht op zowel de stroomrichting als de veldlijnen.
+
+Als de stroomsterkte en magnetische veldsterkte evenwijdig zijn, is er geen Lorentzkracht.
+
+## Homogeen vs inhomogeen
 
 In een homogeen magneetveld lopen de veldlijnen evenwijdig en even ver van elkaar. Dat is bijvoorbeeld binnen een spoel zo.
 
 Lopen de lijnen niet evenwijdig, of is de afstand tussen de veldlijnen niet consistent? Dan is het veld inhomogeen.
 
-### Rechterhandregels
+## Rechterhandregels
 
 Je kan de richting van een magneetveld dat wordt opgewekt door een spoel of stroomdraad bepalen aan de hand van de richting van de stroom. Dit doe je met twee *rechterhandregels*:
 
-#### Voor spoelen
+### Voor spoelen
 
 - **Gekromde vingers**: geven de richting van de stroomsterkte (I) aan. Gaan de stroom van voor-achter, dan gaat je hand van je af, en van achter-voor naar je toe.
 - **Duim**: de richting van het magneetveld (B) binnen de spoel, wijst naar de noordpool van de magneet.
 
-![Rechterhandregel bij spoelen](rechterhandregel-spoel.png)
+![Rechterhandregel bij spoelen](rechterhandregel-spoel.jpeg)
 
-#### Voor stroomdraden
+### Voor stroomdraden
 
 - **Duim**: geeft de richting van de stroomsterkte (I) aan.
 - **Gekromde vingers** beschrijven de draaiing van de veldlijnen  (B) rondom de stroomdraad.
 
 ![Rechterhandregel bij draden](rechterhandregel-draad.png)
 
-#### Voor de Lorentzkracht
+### Voor de Lorentzkracht
 
 - **Gestrekte vingers** geven de richting van het magneetveld (B) aan.
 - **Duim** geeft de richting van de stroomsterkte (I) aan.
 - Loodrecht uit je **handpalm** komt nu de Lorentzkracht.
 
 ![Rechterhandregel voor Lorentzkracht](rechterhandregel-fl.png)
+
+## Rekenen
+
+Je kan de Lorentzkracht met de volgende formule berekenen:
+
+\\[F_l = BIl\\]
+
+Hierin is B de component van de magnetische veldsterkte die loodrecht op de stroomdraad staat. Stel je hebt dus de volgende situatie:
+
+[Een stroomdraad die niet loodrecht door een magneetveld gaat, maar schuin](magneetveld-schuin.png)
+
+Je moet dan alleen de loodrechte component van de magnetische veldsterkte nemen. Dit doe je door hem te ontleden, net als een kracht (want het is een vectorgrootheid):
+
+[De magnetische veldsterkte is ontleedt in een verticaal en horizontaal component](magneetveld-ontleed.png)
+
+## Inductie
+
+
+
+
+
+
