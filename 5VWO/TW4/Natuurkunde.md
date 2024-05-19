@@ -2,8 +2,6 @@
 title: Magnetisme
 ---
 
-**NOG NIET AF**
-
 Een voorwerp heeft heel veel kleine magnetische gebiedjes. Normaal staan die in random richtingen, waardoor ze elkaar opheffen. Als alle magnetische gebiedjes in dezelfde richting staan, is een voorwerp magnetisch.
 
 Een magneet heeft een noord- en een zuidpool. Noord-zuid trekt elkaar aan en noord-noord of zuid-zuid stoten elkaar af. De noordpool van een magneet wordt vaak aangegeven met rood, en de zuidpool met blauw.
@@ -131,6 +129,16 @@ Je kan met stroom een magneetveld opwekken (bijvoorbeeld met een spoel). Maar he
 Die verandering van het magneetveld kan je uitdrukken met de flux. De magnetische flux is het aantal veldlijnen dat door een denkbeeldige cirkel gaat. In het geval van inductie is die cirkel het midden van de spoel.
 
 ![Uitbeelding van de flux](flux.png)
+
+Je kan de flux zo berekenen:
+
+\\[\phi = B_{\bot} \cdot A\\]
+
+Als de flux groter of kleiner wordt, veranderd het magneetveld en vindt er inductie plaats. De inductiespanning (U<sub>ind</sub>) is dus evenredig met de *afgeleide van de flux*. Daaruit volgt de volgende formule:
+
+\\[U_{\text{ind}} = N \cdot \frac{d\phi}{dt}\\]
+
+### Wet van Lenz
 
 Als je een magneet beweegt en op die manier de flux veranderd, reageert de spoel door of een *meeflux* of een *tegenflux* op te wekken. De spoel wordt dus tijdelijk ook een magneet.
 
