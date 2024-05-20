@@ -164,8 +164,26 @@ Doordat hij een magneet wordt gaat er stroom lopen. De spoel wordt dus een *span
 
 Je kan vervolgens bepalen welke kant van de spoel de plus- en welke kant de minpool wordt (van de spanningsbron). De stroom loopt binnen de spanningsbron van - naar +.
 
+## Toepassingen
 
+### Luidspreker
 
+Een luidspreker is een E-vormige magneet met daarin een spoel:
 
+![E-vormige magneet met daarin een spoel](luidspreker.png)
 
+Als we daarin de veldlijnen intekenen ziet dat er zo uit:
 
+![E-vormige magneet met daarin een spoel](luidspreker-veldlijnen.png)
+
+En dan vervolgens een uitsnede van het bovenaanzicht maken en daarin de Lorentzkracht intekenen (afhankelijk van de stroomrichting):
+
+![E-vormige magneet met daarin een spoel](luidspreker-uitsnede1.png)
+![E-vormige magneet met daarin een spoel](luidspreker-uitsnede2.png)
+
+De spoel zal dus naar voren of achter bewegen, afhankelijk van de stroomrichting:
+
+![E-vormige magneet met daarin een spoel](luidspreker-bew1.png)
+![E-vormige magneet met daarin een spoel](luidspreker-bew2.png)
+
+Door de stroomrichting dus om te draaien (mbv wisselspanning), kan je de spoel laten trillen en op die manier geluidsgolven maken.
