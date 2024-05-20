@@ -56,6 +56,12 @@ Als je stroom door een spoel laat lopen wekt die een magnetisch veld op.
 
 Boven en onder de spoel liggen de veldlijnen verder uit elkaar, en is het veld dus zwakker.
 
+Voor het magneetveld van een spoel geldt:
+
+\\[B = \mu_0 \cdot \frac{NI}{l_{\text{spoel}}}\\]
+
+Waarin N het aantal windingen van de spoel is, en I de stroomsterkte door de spoel. Je hoeft deze formule niet uit je hoofd te kennen, maar het is wel verdomd handig als je hem toch kent. De waarde van \\(\mu_0\\) krijg je.
+
 ### Stroomdraad
 
 Als je stroom door een rechte stroomdraad laat lopen wekt die ook een magnetisch veld op. Alleen een dat veld heeft geen noord- of zuidpolen. De lijnen lopen in oneindige cirkels op een vlak dat loodrecht op de stroomdraad staat.
