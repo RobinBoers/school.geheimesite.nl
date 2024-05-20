@@ -187,3 +187,7 @@ De spoel zal dus naar voren of achter bewegen, afhankelijk van de stroomrichting
 ![E-vormige magneet met daarin een spoel](luidspreker-bew2.png)
 
 Door de stroomrichting dus om te draaien (mbv wisselspanning), kan je de spoel laten trillen en op die manier geluidsgolven maken.
+
+## Microfoon
+
+Een microfoon werkt hetzelfde maar dan andersom. In plaatsvan dat er stroom door een spoel wordt gestuurd die daardoor gaat trillen, zorgt het trillen van de spoel (door het opvangen van geluidsgolven) voor inductie en dus een meetbare spanning die je in digitaal geluid kan omzetten.,
