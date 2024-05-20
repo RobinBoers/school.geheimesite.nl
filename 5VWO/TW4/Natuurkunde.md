@@ -130,7 +130,7 @@ Die verandering van het magneetveld kan je uitdrukken met de flux. De magnetisch
 
 ![Uitbeelding van de flux](flux.png)
 
-Je kan de flux zo berekenen:
+Je kan de flux (in Wb) zo berekenen:
 
 \\[\phi = B_{\bot} \cdot A\\]
 
