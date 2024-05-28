@@ -16,7 +16,7 @@ In formulevorm ziet dat er zo uit:
 
 \\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
 
-De hoofdletter sigma (\\\Sigma\\) is het opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.
+De hoofdletter sigma (\\(\Sigma\\)) is het opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.
 
 ## Soorten energie
 
