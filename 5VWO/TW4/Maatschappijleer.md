@@ -41,11 +41,11 @@ Sommige zaken, zoals thuiszorg en zorgsverzekeringen laat de overheid over aan d
 
 ## Soorten verzorgingsstaten
 
-|                      | Waarden                                      | Rol overheid | Sociale voorzieningen | Belastingen | Voorbeeld           |
-|----------------------|----------------------------------------------|--------------|-----------------------|-------------|---------------------|
-| Liberaal             | Individualisme en eigen verantwoordelijkheid | klein        | weinig                | laag        | De Verenigde Staten |
-| Sociaal-democratisch | Gelijkheid                                   | groot        | veel                  | hoog        | Scandinavie         |
-| Corporatistisch      | Samenwerking                                 | aanvullend   | gemiddeld             | hoog        | Duitsland           |
+|                      | Waarden                    | Rol overheid | Sociale voorzieningen | Belastingen |
+|----------------------|----------------------------|--------------|-----------------------|-------------|
+| Liberaal             | Eigen verantwoordelijkheid | klein        | weinig                | laag        |
+| Sociaal-democratisch | Gelijkheid                 | groot        | veel                  | hoog        |
+| Corporatistisch      | Samenwerking               | aanvullend   | gemiddeld             | hoog        |
 
 In een corporatische verzorgingsstaat maakt de overheid afspraken met het sociale middenveld, en werkt samen met vakbonden om regels voor de vrije markt op te stellen.
 
