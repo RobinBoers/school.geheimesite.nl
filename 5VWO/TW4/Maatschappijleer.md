@@ -37,17 +37,17 @@ Bestaat uit organisaties die tussen de overheid en burger staan en verschillende
 
 ### Bedrijven
 
-Sommige zaken, zoals thuiszorg en zorgsverzekeringen laat de overheid over aan de marktwerking. Hiervoor stelt de overheid wel regels op, om bijvoorbeeld betaalbaarheid voor iedereen te waarborgen.
+Sommige zaken, zoals thuiszorg en zorgsverzekeringen laat de overheid over aan de vrije markt. Hiervoor stelt de overheid wel regels op, om bijvoorbeeld betaalbaarheid voor iedereen te waarborgen.
 
 ## Soorten verzorgingsstaten
 
-|                      | Waarden                    | Rol overheid | Sociale voorzieningen | Belastingen |
-|----------------------|----------------------------|--------------|-----------------------|-------------|
-| Liberaal             | Eigen verantwoordelijkheid | klein        | weinig                | laag        |
-| Sociaal-democratisch | Gelijkheid                 | groot        | veel                  | hoog        |
-| Corporatistisch      | Samenwerking               | aanvullend   | gemiddeld             | hoog        |
+|                      | Waarden         | Rol overheid | Sociale voorzieningen | Belastingen |
+|----------------------|-----------------|--------------|-----------------------|-------------|
+| Liberaal             | Zeldredzaamheid | klein        | weinig                | laag        |
+| Sociaal-democratisch | Gelijkheid      | groot        | veel                  | hoog        |
+| Corporatistisch      | Samenwerking    | aanvullend   | gemiddeld             | hoog        |
 
-In een corporatische verzorgingsstaat maakt de overheid afspraken met het sociale middenveld, en werkt samen met vakbonden om regels voor de vrije markt op te stellen.
+In een corporatische verzorgingsstaat maakt de overheid afspraken met het sociale middenveld, en werkt samen met vakbonden om regels voor de vrije markt op te stellen (een gereguleerde marktwerking).
 
 Er zijn ook landen waarin de overheid niet de financiële middelen heeft voor het onderhouden van de verzorgingsstaat. Daar zijn mensen op zichzelf en hun naasten aangewezen als het leven tegenzit. Dat zie je vaak ook terug in grote ongelijkheid en een lage levensverwachting.
 
@@ -94,6 +94,50 @@ Je sociaal-economische status (en dus kansen) wordt voornamelijk bepaald door mi
 De kansengelijkheid gaat nog niet helemaal lekker:
 
 - Leerlingen van hoger opgeleide ouders krijgen gemiddeld een hoger advies, want: ze vechten vaker het advies aan en leraren schatten het kind hoger in (en gaan ervanuit dat de ouders kunnen helpen op de middelbare).
+
 - Het schooladvies in groep 8 is te vroeg, waardoor leerlingen niet de kans krijgen zich voldoende te ontwikkelen.
+
 - De kwaliteit van het onderwijs verschilt enorm van school tot school.
+
 - De eisen om door te stromen naar een hoger niveau zijn te hoog.
+
+## Zorg
+
+Goede zorg is goed voor de welzijn van het volk. Ook is het goed voor de welvaart van het land, omdat je niet kan werken als je uitvalt door ziekte of arbeidsongeschiktheid.
+
+### Participatiewet
+
+Vanwege vergrijzing is de verzorgingsstaat steeds duurder, omdat er minder werkende mensen betalen voor een grotere groep grijze dakduiven die langzaam allemaal omvallen en dus hoge zorgkosten hebben. Daarom wil de regering sinds 2013 een participatiesamenleving, wat neerkomt op: *regel 't zelluf maar*.
+
+Bijvoorbeeld mantelzorg: het zorgen voor een langdurig zieke persoon in je omgeving, zoals familie of je partner. Het is niet verplicht en je wordt er niet voor betaald.
+
+De overheid heeft ook veel taken overgedragen aan de gereguleerde vrije markt. Een voorbeeld is zorgverzekeraars: zij maken afspraken met bijv. huisartsen, apotheken, tandarts, fysiotherapie over de prijs.
+
+<details>
+  <summary>Voor/nadelen</summary>
+  <dl>
+    <dt>Voordeel</dt>
+    <dd>Het maakt de zorg efficiënter: de wachtlijsten zijn korter geworden (behalve in de GGZ apparently), medicijnen goedkoper en er is een ruimere keuze voor patiënten dankzij particuliere klinieken.</dd>
+    <dt>Nadeel</dt>
+    <dd>De zorgverleners hebben nu een economisch belang bij de zorg, waardoor ze bijvoorbeeld meer pillen voorschrijven. Daarnaast worden ziekenhuispatiënten sneller naar huis gestuurd, wat de kans op herhaling vergroot. Ook stimuleert het om de goedkoopste zorg te kiezen ipv de beste.</dd>
+  </dl>
+</details>
+
+### Zorgverzekering
+
+In Nederland is een zorgverzekering verplicht. Tot je 18e ben je gratis meeverzekerd met je ouders, maar vanaf je 18e moet je het zelf regelen.
+
+Iedereen met een zorgverzekering heeft toegang tot het basispakket (dat vanuit de overheid is vastgesteld), zoals ziekenhuisopnames, medicijnen, huisartsbezoek. Daarnaast kan je je voor een hogere premie aanvullend laten verzekeren, zodat ook bijv. de tandarts en fysiotherapie worden vergoed.
+
+Ook heeft iedereen een eigen risico. Dat betekent dat de eerste paar hondered euro aan gemaakte zorgkosten niet vergoed worden (met als uitzondering huisartsbezoeken, en zwangerschappen).
+
+<details>
+  <summary>Voor/nadelen</summary>
+  <dl>
+    <dt>Voordeel</dt>
+    <dd>Mensen zoeken niet té snel hulp, waardoor er geen onnodige zorgkosten zijn.</dd>
+    <dt>Nadeel</dt>
+    <dd>Sommige mensen mijden een doktersbezoek uit angst voor een hoge rekening, en lopen daardoor te lang door met klachten, wat later voor nóg hogere zorgkosten kan lijden.</dd>
+  </dl>
+</details>
+
