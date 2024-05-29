@@ -107,9 +107,9 @@ Goede zorg is goed voor de welzijn van het volk. Ook is het goed voor de welvaar
 
 ### Participatiewet
 
-Vanwege vergrijzing is de verzorgingsstaat steeds duurder, omdat er minder werkende mensen betalen voor een grotere groep grijze dakduiven die langzaam allemaal omvallen en dus hoge zorgkosten hebben. Daarom wil de regering sinds 2013 een participatiesamenleving, wat neerkomt op: *regel 't zelluf maar*.
+Vanwege vergrijzing is de verzorgingsstaat steeds duurder, omdat er minder werkende mensen betalen voor een grotere groep grijze dakduiven die langzaam allemaal omvallen en dus hoge zorgkosten hebben. Ook zijn er relatief steeds meer welvaartsziektes onder jongeren, zoals obesitas (extreem overgewicht), diabetes type 1, en slagaderverkalking. Daarom wil de regering sinds 2013 een participatiesamenleving, wat neerkomt op: *regel 't zelluf maar*.
 
-Bijvoorbeeld mantelzorg: het zorgen voor een langdurig zieke persoon in je omgeving, zoals familie of je partner. Het is niet verplicht en je wordt er niet voor betaald.
+Bijvoorbeeld mantelzorg: het zorgen voor een langdurig zieke persoon in je omgeving (in plaats van verzorgingstehuizen of zorginstellingen), zoals familie of je partner. Het is niet verplicht en je wordt er niet voor betaald. Helaas wonen familieleden steeds vaker ver uit elkaar en werken we steeds meer, wat mantelzorg voor ouderen lastig maakt.
 
 De overheid heeft ook veel taken overgedragen aan de gereguleerde vrije markt. Een voorbeeld is zorgverzekeraars: zij maken afspraken met bijv. huisartsen, apotheken, tandarts, fysiotherapie over de prijs.
 
@@ -123,11 +123,15 @@ De overheid heeft ook veel taken overgedragen aan de gereguleerde vrije markt. E
   </dl>
 </details>
 
+Tot slot probeert de overheid overgewicht, roken en alcoholgebruik tegen te gaan in het Nationaal Preventieakkoord, waarin afspraken met verschillende organisaties zoals scholem, sportverenigingen en supermarkten werden gemaakt.
+
 ### Zorgverzekering
 
 In Nederland is een zorgverzekering verplicht. Tot je 18e ben je gratis meeverzekerd met je ouders, maar vanaf je 18e moet je het zelf regelen.
 
-Iedereen met een zorgverzekering heeft toegang tot het basispakket (dat vanuit de overheid is vastgesteld), zoals ziekenhuisopnames, medicijnen, huisartsbezoek. Daarnaast kan je je voor een hogere premie aanvullend laten verzekeren, zodat ook bijv. de tandarts en fysiotherapie worden vergoed.
+Iedereen met een zorgverzekering heeft toegang tot het basispakket, met daarin ziekenhuisopnames, medicijnen, huisartsbezoek. Daarnaast kan je je voor een hogere premie aanvullend laten verzekeren, zodat ook bijv. de tandarts en fysiotherapie worden vergoed.
+
+De overheid bepaalt wat er in het basispakket komt. Het is ethisch gezien moeilijk te besluiten wanneer de extra zorgkosten de extra levensjaren voor de patiënt waard zijn. Daarvoor heeft de overheid een richtlijn: als een behandeling meer dan €80,000 kost voor één extra levensjaar, wordt deze niet vergoed. Dit noemen we de quality-adjusted life year (qaly).
 
 Ook heeft iedereen een eigen risico. Dat betekent dat de eerste paar hondered euro aan gemaakte zorgkosten niet vergoed worden (met als uitzondering huisartsbezoeken, en zwangerschappen).
 
