@@ -109,15 +109,15 @@ precies?
 Als je alle ingewikkelde technische aspecten wegstript en houd je het volgende concept
 over. Een blockchain is een lijst–een chain–, van gegevens: blokken met een uniek ID, dat
 gebaseerd is op de inhoud van het vorige blok. Hiervoor wordt een stukje ingewikkelde
-wiskunde gebruikt, dat we cryptografie noemen (de oorsprong van de term crypto). De
+wiskunde gebruikt, dat we *cryptografie* noemen (de oorsprong van de term crypto). De
 blockchain werd al ver voor de introductie van Bitcoin ontwikkeld, met als doel het bijhouden
-van lijsten die niet te veranderen zijn. De reden dat blockchains niet aan te passen zijn is als
+van lijsten die *niet te veranderen zijn*. De reden dat blockchains niet aan te passen zijn is als
 volgt: het ID is onderdeel van het blok, en gebaseerd op het vorige blok. Als je dus een blok
 aanpast, verandert het ID van het blok daarna ook, waardoor dit blok ook aangepast is.
 Daardoor verandert het ID van het blok daarna weer, enzovoort, helemaal tot het einde van
 de chain. Om een gegeven in de blockchain aan te passen, moet je dus de volledige
 blockchain herschrijven. Hierdoor is alles wat in een blockchain wordt vastgelegd
-permanent. Deze eigenschap van de blockchain noemen we immutability.
+permanent. Deze eigenschap van de blockchain noemen we *immutability*.
 
 Naast het gebruik van de blockchain wordt Bitcoins decentrale netwerk gekenmerkt door
 nog een ander principe: proof-of-work. Kort gezegd komt het op het volgende neer: een blok
