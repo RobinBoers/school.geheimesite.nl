@@ -11,6 +11,8 @@ Success met leren!
 
 - [Magnetisme](5VWO/TW4/Natuurkunde)
 - [Verzorgingsstaat](5VWO/TW4/Maatschappijleer)
+- [Cryptobros (v2)](5VWO/TW4/Maatschappijleer2)
+- [Cryptobros](5VWO/TW4/Maatschappijleer3)
 
 ### Periode 3
 
@@ -48,6 +50,7 @@ Success met leren!
 
 ### Periode 4
 
+- [Hoe werkt nepnieuws en wat kan er tegen gedaan worden?](4VWO/TW4/NLT2)
 - [Hersenen en leren](4VWO/TW4/NLT)
 - [Argumenteren](4VWO/TW4/Nederlands)
 - [Straling](4VWO/TW4/Natuurkunde)
