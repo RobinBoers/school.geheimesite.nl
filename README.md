@@ -10,6 +10,7 @@ Success met leren!
 ### Periode 4
 
 - [Magnetisme](5VWO/TW4/Natuurkunde)
+- [Verzorgingsstaat](5VWO/TW4/Maatschappijleer)
 
 ### Periode 3
 
