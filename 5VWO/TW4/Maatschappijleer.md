@@ -37,7 +37,9 @@ Bestaat uit organisaties die tussen de overheid en burger staan en verschillende
 
 ### Bedrijven
 
-Sommige zaken, zoals thuiszorg en zorgsverzekeringen laat de overheid over aan de vrije markt (= marktwerking).  Hiervoor stelt de overheid wel regels op, om bijvoorbeeld betaalbaarheid voor iedereen te waarborgen.
+Sommige zaken, zoals thuiszorg en zorgsverzekeringen laat de overheid over aan de marktwerking. Hiervoor stelt de overheid wel regels op, om bijvoorbeeld betaalbaarheid voor iedereen te waarborgen.
+
+## Soorten verzorgingsstaten
 
 |                      | Waarden                                      | Rol overheid | Sociale voorzieningen | Belastingen | Voorbeeld           |
 |----------------------|----------------------------------------------|--------------|-----------------------|-------------|---------------------|
