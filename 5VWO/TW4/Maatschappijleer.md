@@ -105,13 +105,15 @@ De kansengelijkheid gaat nog niet helemaal lekker:
 
 Goede zorg is goed voor de welzijn van het volk. Ook is het goed voor de welvaart van het land, omdat je niet kan werken als je uitvalt door ziekte of arbeidsongeschiktheid.
 
-### Participatiewet
+### Mantelzorg
 
-Vanwege vergrijzing is de verzorgingsstaat steeds duurder, omdat er minder werkende mensen betalen voor een grotere groep grijze dakduiven die langzaam allemaal omvallen en dus hoge zorgkosten hebben. Ook zijn er relatief steeds meer welvaartsziektes onder jongeren, zoals obesitas (extreem overgewicht), diabetes type 1, en slagaderverkalking. Daarom wil de regering sinds 2013 een participatiesamenleving, wat neerkomt op: *regel 't zelluf maar*.
+Mantelzorg is als een langdurig zieke persoon wordt verzorgd door een naaste, zoals een familielid of partner, in plaats van opgenomen te worden in een zorginstelling. Het is niet verplicht mantelzorger te worden, en je wordt er niet voor betaald.
 
-Bijvoorbeeld mantelzorg: het zorgen voor een langdurig zieke persoon in je omgeving (in plaats van verzorgingstehuizen of zorginstellingen), zoals familie of je partner. Het is niet verplicht en je wordt er niet voor betaald. Helaas wonen familieleden steeds vaker ver uit elkaar en werken we steeds meer, wat mantelzorg voor ouderen lastig maakt.
+Helaas wonen familieleden steeds vaker ver uit elkaar en werken we steeds meer, wat mantelzorg voor ouderen lastig maakt.
 
-De overheid heeft ook veel taken overgedragen aan de gereguleerde vrije markt. Een voorbeeld is zorgverzekeraars: zij maken afspraken met bijv. huisartsen, apotheken, tandarts, fysiotherapie over de prijs.
+### Zorgverzekering
+
+De overheid heeft veel taken overgedragen aan zorgverzekeraars, via een gereguleerde vrije markt. Zij maken afspraken met bijv. huisartsen, apotheken, tandarts, fysiotherapie over de prijs van behandelingen.
 
 <details>
   <summary>Voor/nadelen</summary>
@@ -122,10 +124,6 @@ De overheid heeft ook veel taken overgedragen aan de gereguleerde vrije markt. E
     <dd>De zorgverleners hebben nu een economisch belang bij de zorg, waardoor ze bijvoorbeeld meer pillen voorschrijven. Daarnaast worden ziekenhuispatiënten sneller naar huis gestuurd, wat de kans op herhaling vergroot. Ook stimuleert het om de goedkoopste zorg te kiezen ipv de beste.</dd>
   </dl>
 </details>
-
-Tot slot probeert de overheid overgewicht, roken en alcoholgebruik tegen te gaan in het Nationaal Preventieakkoord, waarin afspraken met verschillende organisaties zoals scholem, sportverenigingen en supermarkten werden gemaakt.
-
-### Zorgverzekering
 
 In Nederland is een zorgverzekering verplicht. Tot je 18e ben je gratis meeverzekerd met je ouders, maar vanaf je 18e moet je het zelf regelen.
 
@@ -145,3 +143,78 @@ Ook heeft iedereen een eigen risico. Dat betekent dat de eerste paar hondered eu
   </dl>
 </details>
 
+## Sociale zekerheid
+
+<table><thead>
+  <tr>
+    <th colspan="4">Sociale zekerheid</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Sociale voorzieningen<br><small>minimaal sociaal vangnet<br>(betaald uit belastingen)</small></td>
+    <td colspan="2">Sociale verzekeringen<br><small>voor mensen die zich verzekeren<br>(betaald uit premies)</small></td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">Bijstand, Wajong</td>
+    <td>Volksverzekeringen<br><small>(</small></td>
+    <td>Werknemersverzekeringen<br><small>(gelden alleen voor werknemers)</small></td>
+  </tr>
+  <tr>
+    <td>AOW, kinderbijslag, nabestaande</td>
+    <td>WW (werkeloosheid), WIA (langdurige ziekte)</td>
+  </tr>
+</tbody>
+</table>
+
+Werknemersverzekeringen zijn verplicht als je in loondienst werkt. De premie wordt ingehouden op je loon. Een volksverzekering is verplicht voor iedereen met een inkomen. Je draagt dan maandelijks een bedrag af.
+
+Sociale voorzieningen worden betaald uit belastingen, en dienen als minimaal sociaal vangnet, voor als je niet verzekered bent. De algemene bijstand is voor mensen die nooit hebben gewerkt, of geen recht hebben op een WW. Je krijgt wat er minimaal nodig is voor je levensonderhoud. Voor plotselinge kosten, zoals een kapotte auto, kan je eventueel nog bijzondere bijstand aanvragen.
+
+## Verzorgingsstaat onder druk
+
+De verzorgingsstaat is steeds lastiger te betalen. Dat komt door vier factoren:
+
+### Vergrijzing en ontgroening
+
+De levensverwachting in Nederland is vrij hoog, maar er worden steeds minder kinderen geboren. Daardoor is de verhouding jong:oud nogal ongelijk, en moeten dus weinig werknemers betalen voor de AOW en zorgkosten van al die grijze dakduiven.
+
+Ook zijn er relatief steeds meer welvaartsziektes onder jongeren, zoals obesitas (extreem overgewicht), diabetes type 1 en slagaderverkalking.
+
+### Veranderingen op de arbeidsmarkt
+
+Er zijn twee belangrijke ontwikkelingen:
+
+- **Meer tijdelijk werk**: steeds meer mensen worden tijdelijk ingehuurd als uitzend- of oproepkracht. Dit noem je flexwerk. Het nadeel hiervan is dat er vaak periodes van werkeloosheid zijn, waarin deze mensen een uitkering nodig hebben.
+
+- **Meer ZZP'ers**: ZZP'ers beginnen in hun uppie een bedrijf. Soms bewust, maar soms ook omdat ze geen vast contract kunnen krijgen. Ze betalen geen premies voor werknemersverzekeringen en kunnen daar dus geen aanspraak op doen.
+
+### Blijvende afhankelijkheid
+
+Soms loont het om niet te werken. Als je een uitkering krijgt en daarbovenop ook nog extra toeslagen, heb je soms een prima inkomen. Daarnaast is het vaak zo dat je totale inkomen *lager* wordt als je wel gaat werken, doordat de extra toeslagen wegvallen. Als er geen financiële prikkel is om te werken, of je er op achteruit gaat door te werken, bevindt je je in een armoedeval.
+
+Ook vinden mensen met een uitkering minder makkelijk werk, omdat ze een minder groot netwerk hebben dan werkenden, en werkgevers liever iemand zonder uitkering aannemen.
+
+Daardoor blijven ze afhankelijk van de uitkeringen.
+
+### Fraude
+
+Soms ontvangen mensen een uitkering terwijl ze daar helemaal geen recht op hebben. Als ze express foute gegevens hebben doorgeven omdat ze dan zouden hebben op een uitkering of toeslag, noem je dat fraude.
+
+Maar niet alle fout doorgegeven informatie is gelijk fraude. De belastingformulieren zijn berucht vanwege hun complexiteit, dus een foutje is snel gemaakt. Je zou daar niet gelijk keihard op afgestraft moeten worden.
+
+### Oplossingen?
+
+De overheid heeft in 2013 de participatiewet ingevoerd, wat neerkomt op: *regel 't zelluf maar*. In die wet worden een aantal dingen gedaan:
+
+- Mantelzorg wordt aangemoedigd, over opname in zorginstellingen.
+- Er worden meer taken aan zorgverzekeraars overgedragen via gereguleerde marktwerking.
+
+Ook probeert de overheid overgewicht, roken en alcoholgebruik tegen te gaan in het Nationaal Preventieakkoord, waarin afspraken met verschillende organisaties zoals scholem, sportverenigingen en supermarkten werden gemaakt.
+
+Tot slot wordt er ge-experimenteerd met andere oplossingen:
+
+- Verhogen AOW-leeftijd
+- Vast werk stimuleren
+- Verkorten uitkering
+- Begeleiding bieden
+- Beter controleren op fraude
