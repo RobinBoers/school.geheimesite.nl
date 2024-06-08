@@ -103,7 +103,7 @@ De kansengelijkheid gaat nog niet helemaal lekker:
 
 ## Zorg
 
-Goede zorg is goed voor de welzijn van het volk. Ook is het goed voor de welvaart van het land, omdat je niet kan werken als je uitvalt door ziekte of arbeidsongeschiktheid.
+Goede zorg is goed voor de welzijn van het volk. Ook is het goed voor de welvaart van het land, omdat er minder mensen uitvallen door ziekte of arbeidsongeschiktheid.
 
 ### Mantelzorg
 
@@ -155,13 +155,13 @@ Ook heeft iedereen een eigen risico. Dat betekent dat de eerste paar hondered eu
     <td colspan="2">Sociale verzekeringen<br><small>voor mensen die zich verzekeren<br>(betaald uit premies)</small></td>
   </tr>
   <tr>
-    <td colspan="2" rowspan="2">Bijstand, Wajong</td>
-    <td>Volksverzekeringen<br><small>(</small></td>
-    <td>Werknemersverzekeringen<br><small>(gelden alleen voor werknemers)</small></td>
+    <td colspan="2" rowspan="2">Bijstand,<br>Wajong</td>
+    <td>Volksverzekeringen<br><small>(voor mensen met een inkomen)</small></td>
+    <td>Werknemersverzekeringen<br><small>(alleen voor werknemers)</small></td>
   </tr>
   <tr>
-    <td>AOW, kinderbijslag, nabestaande</td>
-    <td>WW (werkeloosheid), WIA (langdurige ziekte)</td>
+    <td>AOW,<br>kinderbijslag,<br>nabestaande</td>
+    <td>WW <small>(werkeloosheid)</small>,<br>WIA <small>(langdurige ziekte)</small></td>
   </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@ Er zijn twee belangrijke ontwikkelingen:
 
 - **Meer tijdelijk werk**: steeds meer mensen worden tijdelijk ingehuurd als uitzend- of oproepkracht. Dit noem je flexwerk. Het nadeel hiervan is dat er vaak periodes van werkeloosheid zijn, waarin deze mensen een uitkering nodig hebben.
 
-- **Meer ZZP'ers**: ZZP'ers beginnen in hun uppie een bedrijf. Soms bewust, maar soms ook omdat ze geen vast contract kunnen krijgen. Ze betalen geen premies voor werknemersverzekeringen en kunnen daar dus geen aanspraak op doen.
+- **Meer ZZP'ers**: ZZP'ers beginnen in hun uppie een bedrijf. Soms bewust, maar soms ook noodgedwongen, omdat ze geen vast contract kunnen krijgen. Ze betalen geen premies voor werknemersverzekeringen en kunnen daar dus geen aanspraak op doen.
 
 ### Blijvende afhankelijkheid
 
