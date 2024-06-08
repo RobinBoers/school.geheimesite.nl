@@ -1,108 +1,4 @@
-/* General CSS (split into library later) */
-
-body,
-html {
-  box-sizing: border-box;
-  height: fit-content;
-}
-
-*,
-:after,
-:before {
-  box-sizing: inherit;
-}
-
-body {
-  font-size: 1.1rem;
-  line-height: 1.5;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-}
-
-a {
-  color: currentColor;
-}
-
-img {
-  max-width: 100%;
-  user-select: none;
-}
-
-h1 a,
-h2 a,
-h3 a {
-  text-decoration: none !important;
-}
-
-h2 {
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 5px;
-}
-
-h4,
-h5,
-h6 {
-  margin-bottom: 0;
-}
-
-h4 + p,
-h5 + p,
-h6 + p {
-  margin-top: 0;
-}
-
-pre {
-  max-width: 100%;
-  width: 100%;
-  overflow-x: auto;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-pre::-webkit-scrollbar {
-  display: none;
-}
-
-pre:has(code:not([class="language-mermaid"])) {
-  background: black;
-  color: white;
-  padding: 0.5em;
-  border-radius: 8px;
-}
-
-kbd {
-  border: 1px solid gray;
-  background: white;
-  border-radius: 6px;
-  padding: 2px 6px;
-  font-family: sans-serif;
-  color: #111121;
-}
-
-table {
-  border-collapse: collapse;
-  max-width: 100%;
-  width: 100%;
-  overflow-x: auto;
-}
-
-td,
-th {
-  padding: 0.2em;
-  text-align: left;
-}
-
-tr {
-  border-bottom: 1px solid #ccc;
-}
-
-blockquote {
-  border-left: 2px solid #ccc;
-  font-style: italic;
-  opacity: 0.7;
-  padding-left: 1.2em;
-  margin: auto 0;
-}
+@import url("https://roblog.nl/base.css");
 
 /* Site-specific */
 
@@ -141,7 +37,7 @@ header nav a {
 /* Footer */
 
 footer {
-  color: rgb(87, 87, 87);
+  color: light-dark(rgb(87, 87, 87), rgb(168, 168, 168));
   font-size: 80%;
   font-family: sans-serif;
   margin-top: 30px;
@@ -152,12 +48,13 @@ footer {
 }
 
 footer a {
-  color: rgb(69, 69, 69);
+  color: light-dark(rgb(69, 69, 69), rgb(205, 205, 205));
 }
 
 footer svg {
   height: 1em;
   vertical-align: middle;
+  fill: light-dark(black, white);
 }
 
 footer .author {
