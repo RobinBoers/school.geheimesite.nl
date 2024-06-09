@@ -2,12 +2,16 @@
 
 set -e
 
-if [ -z "$1" ]; then
-    echo "Usage: $0 <PATH>"
-    exit 1
-fi
+usage() {
+    echo "Usage: $(basename $0) <PATH>"
+    exit
+}
 
-root_directory="$1"
+case "${1:-}" in
+    -h|--help) usage ;;
+    "") root_directory="." ;;
+    *) root_directory="$1" ;;
+esac
 
 function extract_title() {
     local frontmatter=$(awk '/^---/{flag=1; next}/^---/{flag=0}flag' "$1")
@@ -54,4 +58,3 @@ out="$root_directory/README.md"
 
 index=$(generate_index "$root_directory" 1)
 echo -e "$index" >> "$out"
-
