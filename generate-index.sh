@@ -2,10 +2,6 @@
 
 set -euo pipefail
 
-if [[ "$(uname)" == "Darwin" ]]; then
-    err "this script only supports GNU/Linux, as it needs some options which are only provided by the GNU coreutils. I know, it sucks :("
-fi
-
 usage() {
     echo "Usage: $(basename $0) <PATH>"
     exit
@@ -13,9 +9,13 @@ usage() {
 
 case "${1:-}" in
     -h|--help) usage ;;
-    "") root_directory="." ;;
-    *) root_directory="$1" ;;
+    "") ROOT="." ;;
+    *) ROOT="$1" ;;
 esac
+
+if [[ "$(uname)" == "Darwin" ]]; then
+    err "MacOS is unsupported"
+fi
 
 function extract_title() {
     local frontmatter=$(awk '/^---/{flag=1; next}/^---/{flag=0}flag' "$1")
@@ -45,7 +45,7 @@ function generate_index() {
         elif [ "${item##*.}" == "md" ] && [ "$(basename "$item")" != "README.md" ]; then
             local title=$(extract_title "$item")
             if [ -n "$title" ]; then
-                local link=$(realpath --relative-to="$root_directory" "$item" | sed 's/\.md$//')
+                local link=$(realpath --relative-to="$ROOT" "$item" | sed 's/\.md$//')
                 index+="- [$title]($link)\n"
             fi
         fi
@@ -55,10 +55,10 @@ function generate_index() {
 }
 
 
-template="$root_directory/README.template"
-out="$root_directory/README.md"
+TEMPLATE="$ROOT/_layOUTs/README.TEMPLATE"
+OUT="$ROOT/README.md"
     
-[[ -f "$template" ]] && cat "$template" > "$out" || touch "$out"
+[[ -f "$TEMPLATE" ]] && cat "$TEMPLATE" > "$OUT" || touch "$OUT"
 
-index=$(generate_index "$root_directory" 1)
-echo -e "$index" >> "$out"
+index=$(generate_index "$ROOT" 1)
+echo -e "$index" >> "$OUT"
