@@ -6,3 +6,14 @@ description: >-
 baseurl: "/"		
 url: "https://school.geheimesite.nl"		
 github_username: RobinBoers
+exclude:
+  - Bakefile
+  - generate-index.sh 
+plugins:
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-commonmark-ghpages
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-sitemap
