@@ -1,5 +1,5 @@
 # Set default charset and language
-AddDefaultCharset UTF-8
+AddDefaultCharset utf-8
 DefaultLanguage nl
 
 # Limit file uploads to 100K
