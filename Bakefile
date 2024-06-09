@@ -1,0 +1,58 @@
+#!/bin/bash
+
+required ruby
+
+DIST=_site
+REMOTE=s11
+DOMAIN=school.geheimesite.nl
+
+FORMAT="prettier --log-level warn --write"
+JEKYLL="bundle exec jekyll"
+
+setup() {
+  gem install bundler
+  bundle install
+}
+
+deploy() {
+  if [ -d $DIST ]; then
+    $DEPLOY $DIST/ $REMOTE:domains/$DOMAIN/public_html
+  else
+    err "'$DIST' does not exist."
+  fi
+}
+
+format() {
+  $FORMAT *VWO/**/*.md
+}
+
+build() {
+  printf "Generating index... "
+  ./generate-index.sh && finish || echo "warning: couldn't regenerate index; old index kept as-is."
+
+  printf "Building site... "
+  $JEKYLL build --quiet && finish
+
+  printf "Formatting... "
+  $FORMAT $DIST && finish
+}
+
+serve() {
+  cd $DIST
+  waiter --dev
+}
+
+dev() {
+  $JEKYLL server --quiet --watch --livereload
+}
+
+clean() {
+  rm -rf $DIST
+}
+
+finish() {
+  GREEN="\033[1;32m"
+  CLEAR="\033[0m"
+
+  printf "${GREEN}done${CLEAR}\n"
+}
