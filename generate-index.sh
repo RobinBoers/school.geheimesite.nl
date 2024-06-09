@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
-set -e
+set -euo pipefail
+
+if [[ "$(uname)" == "Darwin" ]]; then
+    err "this script only supports GNU/Linux, as it needs some options which are only provided by the GNU coreutils. I know, it sucks :("
+fi
 
 usage() {
     echo "Usage: $(basename $0) <PATH>"
