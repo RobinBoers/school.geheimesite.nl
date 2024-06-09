@@ -8,6 +8,7 @@ DOMAIN=school.geheimesite.nl
 
 FORMAT="prettier --log-level warn --write"
 JEKYLL="bundle exec jekyll"
+DEPLOY="rsync -ciavuP --delete"
 
 setup() {
   gem install bundler
