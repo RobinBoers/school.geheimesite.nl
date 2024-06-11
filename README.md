@@ -14,6 +14,7 @@ Success met leren!
 - [Cryptobros (v2)](5VWO/TW4/Maatschappijleer2)
 - [Cryptobros](5VWO/TW4/Maatschappijleer3)
 - [ITER reactor](5VWO/TW4/NLT)
+- [Polymeren en groene chemie](5VWO/TW4/Scheikunde)
 
 ### Periode 3
 
