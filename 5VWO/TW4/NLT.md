@@ -55,7 +55,6 @@ title: Examenopdracht ITER-reactor
 
 De ITER-reactor in *Saint-Paul-lès-Durance, Frankrijk* is een internationaal onderzoeksproject waar verscheidene landen waaronder de EU, China, Japan en de VS in samenwerkingsverband een functionele kernfusiecentrale pogen te ontwikkelen. De plasmainhoud van de fusiereactor bedraagd \\(840 \text { } \text{m}^3\\). De opsluittijd van de deeltjes is zo'n 16 minuten.
 
-
 <ol>
   <li>Bereken aan de hand van de plasmainhoud de deeltjesdichtheid als de fusiereactor draait op 2 gram tritium en 3 gram deuterium.</li>
   <li>Bereken op welke temperatuur in graden Celcius de fusiereactie zou moeten plaatsvinden om de elektriciteitcentrale rendabel te maken. Het Lawsoncriterium voor \(Q = 1\) behoudt \(5.0 \cdot10^{20} \text{ } \text{keV} \text{ } \text{m}^{-3} \text{ } \text{s}\).</li>
