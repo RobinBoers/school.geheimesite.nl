@@ -1,5 +1,5 @@
 ---
-title: Natuurkunde (H1-H10)
+title: Natuurkunde (H1-H11)
 ---
 
 <style>
@@ -14,7 +14,7 @@ h1:not(:first-child) {
 .toc {
   max-width: 240px;
   width: 100%;
-  background: #ededed;
+  background: light-dark(#ededed, #00000033);
   padding: 18px;
   float: right;
 }
@@ -41,14 +41,15 @@ details.li {
 <details class="toc" open>
   <summary><h3>Table of contents</h3></summary>
   <ul>
-    <li><a href="#h1-elektriciteit">H1: Elektriciteit</a></li>
-    <li><a href="#h2-sport-en-beweging">H2: Sport en beweging</a></li>
+    <li><a href="#elektriciteit">Elektriciteit</a></li>
+    <li><a href="#krachten-en-beweging">Krachten en beweging</a></li>
+    <li><a href="#materialen">Materialen</a></li>
   </ul>
 </details>
 
 **NOG NIET AF!!**
 
-# H1: Elektriciteit
+# Elektriciteit
 
 ## Basisbegrippen
 
@@ -209,7 +210,7 @@ Het is ook gevaarlijk als je onder stroom komt te staan. De stroom loopt dan doo
 
 - **Geaarde stopcontacten en apparaten**. De meeste stopcontacten en apparaten zijn geaard. Dat betekent dat er een draad met hele lage weerstand direct naar de grond loopt (via het stopcontact dan), waardoor, als er kortsluiting is en een (metalen) apparaat onder stroom komt te staan, die stroom direct via de aarddraad loopt en niet via een mens (want een mens heeft een veel hogere weerstand).
 
-# H2: Sport en beweging
+# Krachten en beweging
 
 ## Krachten
 
@@ -248,7 +249,7 @@ De snelheid (\\(v\\)) is de verandering van de plaats (\\(x\\)) per seconde. De 
 
 Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgeleide van de plaats.
 
-## Soorten bewegingen
+### Soorten bewegingen
 
 <details class="li"><summary><strong>Eenparig</strong>: \(v \text{ is constant } \implies a = 0 \text{ en dus ook } F_{res} = 0\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparige beweging" src="eenparig.png"></details>
 
@@ -256,8 +257,41 @@ Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgelei
 
 <details class="li"><summary><strong>Eenparige cirkelbeweging</strong>: grootte van \(v\) is constant, maar de richting veranderd continue; \(F_{res}\) is constant en loodrecht op de bewegingsrichting.</summary><img alt="Een schematische tekening van de snelheid met loodrecht daarop de resulterende kracht" src="eenparige-cirkel.png"></details>
 
-<details class="li"><summary><strong>Vrije val</strong>: \(F_z\) is de enige kracht; daardoor geldt \(a = 9.81 \text{ m/s}^2\).</summary></details>
+<details class="li"><summary><strong>Vrije val</strong>: \(F_z\) is de enige kracht; daardoor geldt \(a = 9.81 \text{ m/s}^2\).</summary>sorry, geen plaatje :(</details>
 
+# Materialen
+
+## Basisbegrippen
+
+### Dichtheid
+
+De dichtheid (\\(\rho\\)) bepaalt de massa van een voorwerp per volume-eenheid; met andere woorden: hoe zwaar een voorwerp is.
+
+\\[\rho = m / V\\]
+
+### (Gas)druk
+
+Druk (p) geeft de kracht aan die een gas of vloeistof over \\(1 \text{ m}^2\\) uitoefent:
+
+\\[p = F/A\\]
+
+We meten druk in Pascal (Pa), wat gelijk is aan Netwon per vierkante meter (\\(\text{N/m}^2\\)).
+
+## Fasen
+
+Alle stoffen bestaan uit deeltjes die trillen. De temperatuur is de maat voor de snelheid van de deeltjes (hoe hard ze trillen).
+
+Naarmate de temperatuur stijgt en de deeltjes meer trillen zullen ze verder uit elkaar bewegen. Daardoor heb je drie fasen:
+
+- **Vast**: de deeltjes trillen (niet zo snel) dicht op elkaar in een vast rooster.
+- **Vloeibaar**: de deeltjes bewegen verder van elkaar, maar worden nog steeds door elkaar aangetrokken en blijven daardoor bij elkaar.
+- **Gas**: de deeltjes zweven vrij rond.
+
+## Deeltjesmodel <small>(voor gassen in gesloten ruimtes)</small>
+
+Een gas in een gesloten ruimte bestaat uit heel veel kleine deeltjes. Het grootste deel van het gasvolume is leeg, en de deeltjes zijn zo klein dat je ze kan verwaarlozen tenopzichte van de lege ruimte.
+
+De deeltjes bewegen in random richtingen en botsen daarbij tegen elkaar en tegen de wand. Door de botsingen veranderen de deeltjes steeds van snelheid, maar de gemiddelde snelheid blijft ongeveer constant. Die gemiddelde snelheid (micro) is de maat voor de temperatuur van het gas (macro). De bostingen tegen de wand (micro) veroorzaken de gasdruk (macro).
 
 # Toepassingen
 
@@ -294,3 +328,7 @@ Als je iets omhoog gooit zonder luchtweerstand en daar v,t- en h,t-diagrammen va
 - Wat is een spanningsdeler? Wat is het verschil tussen het gebruiken van een schuifweerstand als variable weerstand vs spanningsdeler?
 
 - Waarom loopt stroom altijd naar de aarde? Wat aan de aarde maakt dat elektronen er door worden aangetrokken? Is de aarde positief geladen?
+
+- Wat maakt dat een component meer stroom "trekt"? Heeft het dan juist niet een grotere weerstand?
+
+- Als een deeltje tegen de wand van het gasvolume botst, raak het dan zijn energie niet kwijt? En zo ja, hoe komt het dan dat het gas niet de hele tijd afkoelt en uiteindelijk vloeistof wordt? Wat zorgt ervoor dat de deeltjes weer meer bew. energie krijgen?
