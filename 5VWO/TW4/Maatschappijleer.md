@@ -13,7 +13,7 @@ De verzorgingsstaat is gebaseerd op twee belangrijke waarden:
 
 - **Gelijkwaardigheid**: iedereen verdient gelijke kansen op een menswaardig bestaan en om zichzelf te ontwikkelen.
 
-Deze waarden zie je terug in de sociale grondrechten, zoals recht op onderwijs, zorg, werkgelegendheid, huisvesting. De overheid moet hiervoor zorgen, maar de rechten zijn niet af te dwingen bij de rechter.
+Deze waarden zie je terug in de sociale grondrechten, zoals recht op onderwijs, zorg, werkgelegendheid, huisvesting. De overheid moet hiervoor zorgen (inspanningsplicht), maar de rechten zijn niet af te dwingen bij de rechter.
 
 Naast rechten heb je ook plichten. Je moet belasting, BTW en premies betalen, en als werkloze heb je sollicitatieplicht.
 
@@ -170,6 +170,43 @@ Werknemersverzekeringen zijn verplicht als je in loondienst werkt. De premie wor
 
 Sociale voorzieningen worden betaald uit belastingen, en dienen als minimaal sociaal vangnet, voor als je niet verzekered bent. De algemene bijstand is voor mensen die nooit hebben gewerkt, of geen recht hebben op een WW. Je krijgt wat er minimaal nodig is voor je levensonderhoud. Voor plotselinge kosten, zoals een kapotte auto, kan je eventueel nog bijzondere bijstand aanvragen.
 
+## Werk
+
+We werken om in onze behoeften te voorzien:
+
+- **Materiële behoeften**: in ons levensonderhoud voorzien; eten, drinken, woonruimte etc.
+- **Immateriële behoeften**: sociaal contact, waardering, zelfontplooiing etc.
+
+Ook ontlenen veel mensen (een deel van) hun identiteit aan hun werk.
+
+### Arbeidsethos
+
+Arbeidsethos is hoe we tegen werk aankijken. In onze maatschapppij vinden we werk heel belangrijk. Dat zie je aan:
+
+- de meeste mensen vinden dat iedereen zou moeten werken
+- we vinden werken een morele plicht tegenover de maatschappij<br><small>(omdat anderen laten werken zodat jij achteruit kan hangen niet solidair is; <em>iemand</em> moet de verzorgingsstaat betalen)</small>
+
+### Sociale mobiliteit
+
+Sociale mobiliteit is het opklimmen op de sociaal-economische ladder en zo je maatschappelijke status en inkomen verhogen. Niet iedereen kan dat; er is een grote sociale ongelijkheid. Die ongelijkheid wordt veroorzaakt door:
+
+- de omgeving waarin je opgroeit; het kapitaal dat je vanuit huis meekrijgt
+- kansenongelijkheid in het onderwijs
+- aangeboren talenten
+- oneerlijke discriminatie op basis van geslacht of afkomst
+
+Oplossingen zouden zijn:
+
+- Voorkeurselectie op vrouwen en minderheden bij sollicitaties ("positieve discriminatie").
+- Subsidies voor werknemers die werknemers met arbeidsbeperkingen in dienst hebben.
+- Een bindend vrouwenquotem: een minimaal aantal vrouwen dat in een bedrijf moet werken.
+
+### Veranderingen op de arbeidsmarkt
+
+- **Automatisering**: door autotisering verdwijnen er banen en komen er nieuwe banen bij.
+- **Flexibilisering**: steeds meer mensen worden tijdelijk ingehuurd als uitzend- of oproepkracht of zijn zzp'er. Dit noem je flexwerk.
+- **Globalisering**: we kunnen arbeidskrachten uit andere landen halen en arbeid uitbesteden naar andere landen, waardoor hier potentieel banen verloren gaan.
+
 ## Verzorgingsstaat onder druk
 
 De verzorgingsstaat is steeds lastiger te betalen. Dat komt door vier factoren:
@@ -182,11 +219,9 @@ Ook zijn er relatief steeds meer welvaartsziektes onder jongeren, zoals obesitas
 
 ### Veranderingen op de arbeidsmarkt
 
-Er zijn twee belangrijke ontwikkelingen:
+Door de flexibilisering van de arbeidsmarkt zijn werknemers soms voor langere periodes werkloos, waardoor die mensen een uitkering nodig hebben.
 
-- **Meer tijdelijk werk**: steeds meer mensen worden tijdelijk ingehuurd als uitzend- of oproepkracht. Dit noem je flexwerk. Het nadeel hiervan is dat er vaak periodes van werkeloosheid zijn, waarin deze mensen een uitkering nodig hebben.
-
-- **Meer ZZP'ers**: ZZP'ers beginnen in hun uppie een bedrijf. Soms bewust, maar soms ook noodgedwongen, omdat ze geen vast contract kunnen krijgen. Ze betalen geen premies voor werknemersverzekeringen en kunnen daar dus geen aanspraak op doen.
+Zzp'ers betalen geen premies voor werknemersverzekeringen en kunnen daar dus ook geen aanspraak op doen, en vallen daarom terug op sociale voorzieningen.
 
 ### Blijvende afhankelijkheid
 
