@@ -143,11 +143,9 @@ Ook heeft iedereen een eigen risico. Dat betekent dat de eerste paar hondered eu
   </dl>
 </details>
 
-## Sociale zekerheid
-
 <table><thead>
   <tr>
-    <th colspan="4">Sociale zekerheid</th>
+    <th colspan="4"><h2>Sociale zekerheid</h2></th>
   </tr></thead>
 <tbody>
   <tr>
