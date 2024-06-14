@@ -275,7 +275,7 @@ Druk (p) geeft de kracht aan die een gas of vloeistof over \\(1 \text{ m}^2\\) u
 
 \\[p = F/A\\]
 
-We meten druk in Pascal (Pa), wat gelijk is aan Netwon per vierkante meter (\\(\text{N/m}^2\\)).
+We meten druk in Pascal (Pa), wat gelijk is aan Netwon per vierkante meter (\\(\text{N/m}^2\\)). Daarnaast wordt voor luchtdruk vaak bar gebruikt: \\(1 \text{  bar} = 1 \cdot 10^5 \text{ Pa}\\). De atmosferische luchtdruk is (op aarde) 1 bar.
 
 ## Fasen
 
@@ -287,11 +287,33 @@ Naarmate de temperatuur stijgt en de deeltjes meer trillen zullen ze verder uit 
 - **Vloeibaar**: de deeltjes bewegen verder van elkaar, maar worden nog steeds door elkaar aangetrokken en blijven daardoor bij elkaar.
 - **Gas**: de deeltjes zweven vrij rond.
 
+De laagst mogelijke temperatuur is als de deeltjes niet bewegen maar stilstaan. Dat absolute nulpunt ligt op 0 Kelvin (\\(= -273 \text{ } ^{\circ}C\\)).
+
 ## Deeltjesmodel <small>(voor gassen in gesloten ruimtes)</small>
 
 Een gas in een gesloten ruimte bestaat uit heel veel kleine deeltjes. Het grootste deel van het gasvolume is leeg, en de deeltjes zijn zo klein dat je ze kan verwaarlozen tenopzichte van de lege ruimte.
 
 De deeltjes bewegen in random richtingen en botsen daarbij tegen elkaar en tegen de wand. Door de botsingen veranderen de deeltjes steeds van snelheid, maar de gemiddelde snelheid blijft ongeveer constant. Die gemiddelde snelheid (micro) is de maat voor de temperatuur van het gas (macro). De bostingen tegen de wand (micro) veroorzaken de gasdruk (macro).
+
+### Algemene gaswet
+
+De algemene gaswet is opgebouwd uit twee componenten:
+
+- **Wet van Gay-Lussac**: de gasdruk is evenredig met de temperatuur, mits het volume gelijk blijft: \\(p = c \cdot T\\)
+
+- **Wet van Boyle**: de gasdruk is omgekeerd-evenredig met het volume, mits de temperatuur constant blijft: \\(p = \frac{c}{V}\\)
+
+Samen geeft dat de algemene gaswet, waarin \\(R\\) de gasconstante is (\\(R = 6.02 \cdot 10^{23}\\) voor alle gassen) en \\(n\\) het aantal deeltjes gas (in mol):
+
+\\[\frac{pV}{T} = nR\\]
+
+Als je twee gassen met elkaar moet vergelijken kan je \\(R\\) wegdelen. <small>(Omdat de formule die je overhoudt een verhouding is, maakt de eenheid die je gebruikt niet uit, als hij maar aan beide kanten hetzelfde is.)</small>
+
+\\[\frac{p_1 V_1}{T_1 n_1} = \frac{p_2 V_2}{T_2 n_2}\\]
+
+### Ideaal gas
+
+De algemene gaswet geldt alleen voor ideale gassen. Dat zijn gassen waarin de deeltjes elkaar niet kunnen aantrekken. In de praktijk is dat geen enkel gas, maar in veel gassen(mengsels), zoals bijv. lucht, is de afstand tussen de deeltjes zo groot dat het eigenlijk niet uitmaakt.
 
 # Toepassingen
 
@@ -320,6 +342,10 @@ Als je valt en de luchtweerstandskracht niet verwaarloost:
 Als je iets omhoog gooit zonder luchtweerstand en daar v,t- en h,t-diagrammen van maakt:
 
 ![De v,t-diagram is een rechte lijn met een negatief RC, en v=0 op het hoogste punt. De h,t-diagram is een berg-parabool waarbij de top natuurlijk het hoogste punt is](omhoog-gooien.png) -->
+
+## Vloeistofmanometer
+
+Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(\p_{\text{gas}} = p_{\text{vloeistof} + p_{\text{buiten}}}).
 
 ---
 
