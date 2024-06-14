@@ -78,11 +78,6 @@ Options +FollowSymLinks
 		Header set Cache-Control "max-age=604800, stale-while-revalidate"
 	</FilesMatch>
 
-	# Cache content for a day
-	<FilesMatch "\.(html|pdf|txt)$">
-		Header set Cache-Control "max-age=43200"
-	</FilesMatch>
-
 	# Explicitly disable caching for scripts and other dynamic files
 	<FilesMatch "\.(pl|cgi|spl|scgi|fcgi|php)$">
 		Header set Cache-Control "no-cache"
