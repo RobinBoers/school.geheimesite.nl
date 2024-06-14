@@ -63,6 +63,8 @@ In een stroomkring bewegen negatief geladen (vrije) elektronen.
 
 ### Stroomkring
 
+Een stof geleidt stroom als er geladen deeltjes vrij doorheen kunnen lopen. In veel metalen zijn dit vrije elektronen (in het metaalrooster), maar sommige (zout-)oplossingen zijn het ionen.
+
 Als er een gesloten stroomkring met spanningsbron is, lopen er vrije elektronen van de min- naar pluspool. Dat begrepen natuurkundigen eerst niet, en is daarom de regel dat de *elektronen van min naar plus lopen*, maar de *stroom van plus naar min* (andersom).
 
 ### Stroomsterkte
@@ -277,19 +279,31 @@ Druk (p) geeft de kracht aan die een gas of vloeistof over \\(1 \text{ m}^2\\) u
 
 We meten druk in Pascal (Pa), wat gelijk is aan Netwon per vierkante meter (\\(\text{N/m}^2\\)). Daarnaast wordt voor luchtdruk vaak bar gebruikt: \\(1 \text{  bar} = 1 \cdot 10^5 \text{ Pa}\\). De atmosferische luchtdruk is (op aarde) 1 bar.
 
-## Fasen
+## Deeltjesmodel
 
-Alle stoffen bestaan uit deeltjes die trillen. De temperatuur is de maat voor de snelheid van de deeltjes (hoe hard ze trillen).
+Alle stoffen bestaan uit deeltjes die trillen. De temperatuur (T) is de maat voor de gemiddelde bewegingsenergie van de deeltjes (hoe hard ze trillen).
 
-Naarmate de temperatuur stijgt en de deeltjes meer trillen zullen ze verder uit elkaar bewegen. Daardoor heb je drie fasen:
+<details><summary>Let op!</summary><p>In een mengsel van stoffen hebben alle deeltjes ongeveer dezelfde <em>bewegingsenergie</em>. Dat betekent dat de <em>gemiddelde snelheid</em> niet altijd gelijk is; zwaardere deeltjes zoals \(\ce{CO2}\) bewegen minder snel dan lichtere deeltjes zoals \(\ce{H2O}\) bij dezelfde bewegingsenergie.</p></details>
 
-- **Vast**: de deeltjes trillen (niet zo snel) dicht op elkaar in een vast rooster.
+### Fasen
+
+Naarmate de temperatuur stijgt krijgen de deeltjes een hogere snelheid waardoor ze verder uit elkaar verspreiden. Daardoor heb je drie fasen:
+
+- **Vast**: de deeltjes trillen dicht op elkaar in een vast rooster.
 - **Vloeibaar**: de deeltjes bewegen verder van elkaar, maar worden nog steeds door elkaar aangetrokken en blijven daardoor bij elkaar.
 - **Gas**: de deeltjes zweven vrij rond.
 
 De laagst mogelijke temperatuur is als de deeltjes niet bewegen maar stilstaan. Dat absolute nulpunt ligt op 0 Kelvin (\\(= -273 \text{ } ^{\circ}C\\)).
 
-## Deeltjesmodel <small>(voor gassen in gesloten ruimtes)</small>
+### Verdampen en condenseren
+
+In een vloeistof worden de deeltjes bij elkaar gehouden door onderlinge aantrekkingskracht. Als een deeltje te snel beweegt ontsnapt het aan de aantrekkingskracht van de andere deeltjes en komt het dus "vrij". Dat verschijnsel noemen we verdamping.
+
+Andersom kan een gasdeeltje dat vrij rondzweeft ook "gevangen" worden in de vloeistof. Dat noemen we condensatie.
+
+De hoeveelheid verdamping is afhankelijk van de temperatuur (snelheid van de deeltjes) van de vloeistof. De condensatie is afhankelijk van de concentratie gasdeeltjes in de ruimte.
+
+## Gassen
 
 Een gas in een gesloten ruimte bestaat uit heel veel kleine deeltjes. Het grootste deel van het gasvolume is leeg, en de deeltjes zijn zo klein dat je ze kan verwaarlozen tenopzichte van de lege ruimte.
 
@@ -314,6 +328,40 @@ Als je twee gassen met elkaar moet vergelijken kan je \\(R\\) wegdelen. <small>(
 ### Ideaal gas
 
 De algemene gaswet geldt alleen voor ideale gassen. Dat zijn gassen waarin de deeltjes elkaar niet kunnen aantrekken. In de praktijk is dat geen enkel gas, maar in veel gassen(mengsels), zoals bijv. lucht, is de afstand tussen de deeltjes zo groot dat het eigenlijk niet uitmaakt.
+
+## Warmte
+
+### Warmtetransport
+
+- In een vaste stof trillen de deeltjes zo dicht tegen elkaar dat ze hun trillingsenergie aan hun buren kunnen doorgeven (warmtetransport door geleiding).
+
+- In vloeistoffen en gassen kunnen de deeltjes met extra trillingsenergie die meenemen door ergens anders heen te bewegen (warmtetransport door stroming).
+
+- Warmde voorwerpen stralen warmtestraling (IR) uit. De fotonen dragen dan de warmte-energie mee, en geven die af als ze botsen met andere deeltjes (warmtegeleiding door straling). Er is geen tussenstof (medium) nodig.
+
+#### Isolatoren
+
+Bij sommige stoffen zijn de krachten tussen de deeltjes klein, waardoor trillingsenergie slecht wordt doorgegeven. Dit noemen we isolatoren.
+
+#### Metalen
+
+Metalen zijn hele goede warmtegeleiders omdat de vrije elektronen (die ook voor goede stroomgeleiding zorgen), de trillingsenergie kunnen vervoeren.
+
+### Soortelijke warmte
+
+Soortelijke warmte (c) is de energie die nodig is om een stof 1 graden Kelvin <small>(of Celcius; de stapgrootte is gelijk en het nulpunt is irrelevant bij veranderingen)</small> op te warmen.
+
+\\[Q = cm \Delta T \text{ met } Q = E_{\text{warmte}}\\]
+
+De soortelijke warmte is omgekeerd evenredig met de dichtheid. Het kost namelijk meer energie om een de bewegingsenergie van een grote hoeveelheid lichte deeltjes te verhogen, dan een kleine hoeveelheid zwaardere deeltjes.
+
+### Warmtestroom
+
+Warmte-energie (Q) wil altijd van een plek met een hoge temperatuur naar een plek met een lage temperatuur. De warmtestroom (P) is hoeveel warmte er per seconde van plaats veranderd:
+
+\\[P = \lambda A \Delta T \frac{1}{d}\\]
+
+De warmtegeleidingscoëfficient (\\(\lambda\\)) geeft aan hoe groot P is bij een oppervlakte (A) van \\(1 \text{ m}^2\\), een dikte van \\(1 \text{ m}\\) en een temperatuurverschil (\\(\Delta T\\)) van 1 graden Kelvin.
 
 # Toepassingen
 
@@ -345,7 +393,7 @@ Als je iets omhoog gooit zonder luchtweerstand en daar v,t- en h,t-diagrammen va
 
 ## Vloeistofmanometer
 
-Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(\p_{\text{gas}} = p_{\text{vloeistof} + p_{\text{buiten}}}).
+Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(p_{\text{gas}} = p_{\text{vloeistof}} + p_{\text{buiten}}\\).
 
 ---
 
@@ -358,3 +406,9 @@ Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in 
 - Wat maakt dat een component meer stroom "trekt"? Heeft het dan juist niet een grotere weerstand?
 
 - Als een deeltje tegen de wand van het gasvolume botst, raak het dan zijn energie niet kwijt? En zo ja, hoe komt het dan dat het gas niet de hele tijd afkoelt en uiteindelijk vloeistof wordt? Wat zorgt ervoor dat de deeltjes weer meer bew. energie krijgen?
+
+- Is luchtvochtigheid belangrijk?
+
+- Waarom is lucht een slecht opslagmedium voor warmte?
+
+- Mag warmtestroom in Watt?
