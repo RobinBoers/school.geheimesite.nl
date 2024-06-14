@@ -279,6 +279,18 @@ Druk (p) geeft de kracht aan die een gas of vloeistof over \\(1 \text{ m}^2\\) u
 
 We meten druk in Pascal (Pa), wat gelijk is aan Netwon per vierkante meter (\\(\text{N/m}^2\\)). Daarnaast wordt voor luchtdruk vaak bar gebruikt: \\(1 \text{  bar} = 1 \cdot 10^5 \text{ Pa}\\). De atmosferische luchtdruk is (op aarde) 1 bar.
 
+### Spanning
+
+Spanning (\\(\sigma\\)) is de verdeling van een kracht over een oppervlakte *binnen een materiaal* (zelfde vorm en eenheden als de drukformule).
+
+\\[\sigma = F / A\\]
+
+### Relatieve rek
+
+Als een materiaal uitgerekt wordt wordt het langer (duh!). De relatieve rek (\\(\epsilon\\)) is de lenteverandering van het materiaal tenopzichte van de originele lengte:
+
+\\[\epsilon = \Delta l / l_0\\]
+
 ## Deeltjesmodel
 
 Alle stoffen bestaan uit deeltjes die trillen. De temperatuur (T) is de maat voor de gemiddelde bewegingsenergie van de deeltjes (hoe hard ze trillen).
@@ -363,6 +375,19 @@ Warmte-energie (Q) wil altijd van een plek met een hoge temperatuur naar een ple
 
 De warmtegeleidingscoëfficient (\\(\lambda\\)) geeft aan hoe groot P is bij een oppervlakte (A) van \\(1 \text{ m}^2\\), een dikte van \\(1 \text{ m}\\) en een temperatuurverschil (\\(\Delta T\\)) van 1 graden Kelvin.
 
+## Vervorming
+
+De deeltjes in stoffen oefenen onderling (VDW) krachten op elkaar uit. Normaal stoten de deeltjes elkaar even hard af als ze elkaar aantrekken.
+
+Als je een materiaal uitrekt, komen de deeltjes in de uitrekrichting verder uit elkaar te liggen, waardoor de aantrekkende kracht van de deeltjes in die riching groter wordt. Hetzelfde geldt voor indrukken; dan wordt de afstotende kracht in de indrukrichting groter.
+
+In stuggere materialen zoals metaal of steen neemt die tegenwerkende kracht snel toe. In een flexibeler materiaal, zoals rubber, is dat niet zo.
+
+Je hebt twee soorten vervorming:
+
+- **Elastisch**: het materiaal neemt zijn originele vorm aan als de vervormende kracht wordt weggenomen.
+- **Plastisch**: het materiaal blijft permanent vervormd na het wegnemen van de vervormende kracht, omdat de deeltjes een nieuwe structuur hebben gevormd.
+
 # Toepassingen
 
 ## Stroboscoop
@@ -412,3 +437,5 @@ Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in 
 - Waarom is lucht een slecht opslagmedium voor warmte?
 
 - Mag warmtestroom in Watt?
+
+- Hoe leg je het verschil tussen druk en spanning uit?
