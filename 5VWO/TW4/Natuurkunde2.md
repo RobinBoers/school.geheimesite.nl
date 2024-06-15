@@ -44,6 +44,10 @@ details:not(.li) {
     -webkit-user-select: none;
     font-weight: bolder;
   }
+
+  & :last-child {
+    margin-bottom: 0;
+  }
 }
 </style>
 
@@ -53,6 +57,7 @@ details:not(.li) {
     <li><a href="#elektriciteit">Elektriciteit</a></li>
     <li><a href="#krachten-en-beweging">Krachten en beweging</a></li>
     <li><a href="#materialen">Materialen</a></li>
+    <li><a href="#straling">Straling</a></li>
   </ul>
 </details>
 
@@ -246,6 +251,10 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
 ### Soorten
 
 - **Zwaartekracht**: \\(F_z = m \cdot g\\)
+- **Gewicht**: de kracht die jij uitoefent op de ondergrond;  
+  in de meeste gevallen geldt \\(F_z = \text{gewicht}\\).
+- **Normaalkracht**: de (reactie)kracht van een voorwerp,  
+  loodrecht op de oppervlakte; let op de hoek!
 - **Veerkracht**: \\(F_v = C \cdot u\\)  
   waar \\(C =\\) veerconstante  
   en \\(u =\\) uitzetting in m  
@@ -253,6 +262,14 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
   waar \\(\rho =\\) luchtdichtheid  
   \\(C_W =\\) weerstandscoëfficient (krijg je)  
   \\(A =\\) frontaal oppervlakte
+- **Schuifweerstandkracht**: \\(F_{w,s,max} = f \cdot F_n\\),  
+  waar \\(f =\\) wrijvingscoëfficient (ruwheid ondergrond)
+
+<details><summary>Maximale schuifweerstandskracht</summary><p>
+De schuifweerstandkracht is een reactiekracht op het de spierkracht die een voorwerp verschuift. Hij is tot op de maximumwaarde (\(F_{w,s,max}\)) gelijk en tegengesteld aan de actiekracht. Vanaf de maximumwaarde blijft de hij constant:</p>
+<p>\[F_{w,s} = F_{\text{actie}} \text{ mits } F_{\text{actie}} < F_{w,s,max}\]</p>
+<p>Dat is waarom een boek niet verschuif als je er maar een beetje tegen duwt, maar het wel verschuift als je harder duwt.</p>
+</details>
 
 ## Snelheid en versnelling
 
@@ -435,6 +452,9 @@ Als een materiaal verhit wordt kan het uitzetten. Hierbij is het uitzettingscoë
 
 \\[\Delta l = \alpha \cdot l_0 \cdot \Delta T\\]
 
+# Straling
+
+TODO :)
 
 # Toepassingen
 
