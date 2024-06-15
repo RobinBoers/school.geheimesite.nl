@@ -27,14 +27,23 @@ h1:not(:first-child) {
   padding-inline-start: 1em;
 }
 
-details summary {
-  cursor: pointer;
-  user-select: none;
-  -webkit-user-select: none;
-}
-
 details.li {
   margin-left: 1.25em;
+}
+
+details:not(.li) {
+  margin-left: .5em;
+  padding: .5em;
+  background: light-dark(#ededed, #00000033);
+  font-style: italic;
+  opacity: .8;
+
+  & summary {
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    font-weight: bolder;
+  }
 }
 </style>
 
@@ -222,7 +231,7 @@ Krachten (F) zijn een vector-eenheid. Dat betekent dat ze precies werken zoals v
 - Een richting
 - Een grootte (in N)
 
-> **Let op!** Je mag het aangrijpingspunt van een vector vrij bewegen. Bij een kracht mag je het aangrijpingspunt alleen verplaatsen langs de richting waarin de kracht werkt.
+<details><summary>Let op!</summary>Je mag het aangrijpingspunt van een vector vrij bewegen. Bij een kracht mag je het aangrijpingspunt alleen verplaatsen langs de richting waarin de kracht werkt.</details>
 
 Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zou optellen), krijg je de resulterende kracht.
 
@@ -236,11 +245,11 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
 
 ### Soorten
 
-- **Zwaartekracht**: \\(F_z = mg\\)
-- **Veerkracht**: \\(F_v = Cu\\)  
+- **Zwaartekracht**: \\(F_z = m \cdot g\\)
+- **Veerkracht**: \\(F_v = C \cdot u\\)  
   waar \\(C =\\) veerconstante  
   en \\(u =\\) uitzetting in m  
-- **Luchtweerstandskracht**: \\(F_{w,l} = \frac{1}{2} \rho C_W A v^2\\)  
+- **Luchtweerstandskracht**: \\(F_{w,l} = \frac{1}{2} \rho \cdot C_W \cdot A \cdot v^2\\)  
   waar \\(\rho =\\) luchtdichtheid  
   \\(C_W =\\) weerstandscoëfficient (krijg je)  
   \\(A =\\) frontaal oppervlakte
@@ -253,9 +262,9 @@ Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgelei
 
 ### Soorten bewegingen
 
-<details class="li"><summary><strong>Eenparig</strong>: \(v \text{ is constant } \implies a = 0 \text{ en dus ook } F_{res} = 0\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparige beweging" src="eenparig.png"></details>
+<details class="li"><summary><strong>Eenparig</strong>: \(v \text{ is constant} \implies a = 0 \text{ en dus ook } F_{res} = 0\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparige beweging" src="eenparig.png"></details>
 
-<details class="li"><summary><strong>Eenparig versneld</strong>: \(v \text{ neemt constant toe } \implies a = c \text{ en dus ook } F_{res} = c\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparig versnelde beweging" src="eenparig-versneld.png"></details>
+<details class="li"><summary><strong>Eenparig versneld</strong>: \(v \text{ neemt constant toe} \implies a = c \text{ en dus ook } F_{res} = c\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparig versnelde beweging" src="eenparig-versneld.png"></details>
 
 <details class="li"><summary><strong>Eenparige cirkelbeweging</strong>: grootte van \(v\) is constant, maar de richting veranderd continue; \(F_{res}\) is constant en loodrecht op de bewegingsrichting.</summary><img alt="Een schematische tekening van de snelheid met loodrecht daarop de resulterende kracht" src="eenparige-cirkel.png"></details>
 
@@ -295,8 +304,6 @@ Als een materiaal uitgerekt wordt wordt het langer (duh!). De relatieve rek (\\(
 
 Alle stoffen bestaan uit deeltjes die trillen. De temperatuur (T) is de maat voor de gemiddelde bewegingsenergie van de deeltjes (hoe hard ze trillen).
 
-<details><summary>Let op!</summary><p>In een mengsel van stoffen hebben alle deeltjes ongeveer dezelfde <em>bewegingsenergie</em>. Dat betekent dat de <em>gemiddelde snelheid</em> niet altijd gelijk is; zwaardere deeltjes zoals \(\ce{CO2}\) bewegen minder snel dan lichtere deeltjes zoals \(\ce{H2O}\) bij dezelfde bewegingsenergie.</p></details>
-
 ### Fasen
 
 Naarmate de temperatuur stijgt krijgen de deeltjes een hogere snelheid waardoor ze verder uit elkaar verspreiden. Daardoor heb je drie fasen:
@@ -317,9 +324,19 @@ De hoeveelheid verdamping is afhankelijk van de temperatuur (snelheid van de dee
 
 ## Gassen
 
-Een gas in een gesloten ruimte bestaat uit heel veel kleine deeltjes. Het grootste deel van het gasvolume is leeg, en de deeltjes zijn zo klein dat je ze kan verwaarlozen tenopzichte van de lege ruimte.
+- Een gas bestaat uit verwaarloosbaar kleine deeltjes met daartussen niks.
+- De deeltjes bewegen vrij en botsen daarbij tegen elkaar en de wand.
+- Door botsingen schommelt de snelheid van elk deeltje rond een gemiddelde.
 
-De deeltjes bewegen in random richtingen en botsen daarbij tegen elkaar en tegen de wand. Door de botsingen veranderen de deeltjes steeds van snelheid, maar de gemiddelde snelheid blijft ongeveer constant. Die gemiddelde snelheid (micro) is de maat voor de temperatuur van het gas (macro). De bostingen tegen de wand (micro) veroorzaken de gasdruk (macro).
+Die gemiddelde snelheid is de temperatuur van het gas. De botsingen (met de wand) veroorzaken de gasdruk. De druk wordt groter als:
+
+- meer deeltjes \\(\implies\\) meer botsingen
+- hogere temperatuur \\(\implies\\) hardere botsingen
+- kleiner volume \\(\implies\\) meer botsingen
+
+<details><summary>Let op!</summary><p>Als een materiaal makkelijk vervormbaar is (zoals een ballon of fietsband), moet de luchtdruk binnen hetzelfde als buiten zijn, omdat anders het materiaal uit elkaar springt of implodeert:</p><p>\[p_{\text{binnen}} = p_{\text{buiten}}\]</p><p>Bij een steviger volume, zoals een ijzere doos, is dit niet het geval.</p><p>Dus als je deeltjes toevoegt of de temperatuur verhoogt:</p>
+<ul><li>bij een ballon: de ballon wordt groter.</li><li>bij een ijzere doos: de druk aan de binnenkant neemt toe.</li></ul>
+</details>
 
 ### Algemene gaswet
 
@@ -345,11 +362,11 @@ De algemene gaswet geldt alleen voor ideale gassen. Dat zijn gassen waarin de de
 
 ### Warmtetransport
 
-- In een vaste stof trillen de deeltjes zo dicht tegen elkaar dat ze hun trillingsenergie aan hun buren kunnen doorgeven (warmtetransport door geleiding).
+- **Geleiding**: in een vaste stof trillen de deeltjes zo dicht tegen elkaar dat ze hun trillingsenergie aan hun buren kunnen doorgeven.
 
-- In vloeistoffen en gassen kunnen de deeltjes met extra trillingsenergie die meenemen door ergens anders heen te bewegen (warmtetransport door stroming).
+- **Stroming**: in vloeistoffen en gassen kunnen de deeltjes met extra trillingsenergie die meenemen door ergens anders heen te bewegen.
 
-- Warmde voorwerpen stralen warmtestraling (IR) uit. De fotonen dragen dan de warmte-energie mee, en geven die af als ze botsen met andere deeltjes (warmtegeleiding door straling). Er is geen tussenstof (medium) nodig.
+- **Straling**: warmde voorwerpen stralen warmtestraling (IR) uit. De fotonen dragen dan de warmte-energie mee, en geven die af als ze botsen met andere deeltjes. Er is geen tussenstof (medium) nodig.
 
 #### Isolatoren
 
@@ -361,32 +378,63 @@ Metalen zijn hele goede warmtegeleiders omdat de vrije elektronen (die ook voor 
 
 ### Soortelijke warmte
 
-Soortelijke warmte (c) is de energie die nodig is om een stof 1 graden Kelvin <small>(of Celcius; de stapgrootte is gelijk en het nulpunt is irrelevant bij veranderingen)</small> op te warmen.
+Warmte (Q) is een vorm van energie die nodig is om de temperatuur te veranderen. Hoeveel energie dit kost verschilt per stof. De soortelijke warmte is de energie die nodig is om 1 kg van een stof 1 graden Kelvin <small>(of Celcius; de stapgrootte is gelijk en het nulpunt is irrelevant bij veranderingen)</small> op te warmen.
 
-\\[Q = cm \Delta T \text{ met } Q = E_{\text{warmte}}\\]
+\\[Q = cm \cdot \Delta T \text{ met } Q = E_{\text{warmte}}\\]
 
-De soortelijke warmte is omgekeerd evenredig met de dichtheid. Het kost namelijk meer energie om een de bewegingsenergie van een grote hoeveelheid lichte deeltjes te verhogen, dan een kleine hoeveelheid zwaardere deeltjes.
+<details><summary>De soortelijke warmte is omgekeerd evenredig met de dichtheid</summary><ul>
+<li>In een mengsel van stoffen hebben alle deeltjes ongeveer dezelfde <em>bewegingsenergie</em></li>
+<li>Een zwaarder deeltje gaat slomer dan een lichter deeltje bij dezelfde bewegingsenergie.</li>
+<li>Stoffen met lichte deeltjes hebben meer deeltjes nodig voor dezelfde massa.</li>
+<li>Het opwarmen van een stof is het verhogen van de gemiddelde bewegingsenergie van de deeltjes.</li>
+<li>Je moet daarvoor aan elk deeltje een beetje bewegingsenergie toevoegen.<br>\(\implies E_{\text{tot}} = n \cdot \Delta E\)</li>
+<li>Het verhogen van de bewegingsenergie van veel (lichte) deeltjes kost meer energie dan bij weinig (zwaardere) deeltjes.</li>
+<li>Dus het verwarmen van een stof met een hoge dichtheid kost minder energie.</li>
+<li>De soortelijke warmte is omgekeerd evenredig met de dichtheid.</li>
+</ul></details>
 
 ### Warmtestroom
 
-Warmte-energie (Q) wil altijd van een plek met een hoge temperatuur naar een plek met een lage temperatuur. De warmtestroom (P) is hoeveel warmte er per seconde van plaats veranderd:
+Warmte wil altijd naar een plek met een lagere temperatuur. Het is dus relatief; een object met een hogere temperatuur dan je eigen temperatuur voelt warm aan omdat er warmte van het object naar jou wordt getransporteerd. De hoeveelheid warmte die per seconde wordt getransporteerd noem je de warmtestroom:
 
-\\[P = \lambda A \Delta T \frac{1}{d}\\]
+\\[P = \lambda \cdot A \cdot \Delta T \cdot \frac{1}{d}\\]
 
 De warmtegeleidingscoëfficient (\\(\lambda\\)) geeft aan hoe groot P is bij een oppervlakte (A) van \\(1 \text{ m}^2\\), een dikte van \\(1 \text{ m}\\) en een temperatuurverschil (\\(\Delta T\\)) van 1 graden Kelvin.
 
 ## Vervorming
 
-De deeltjes in stoffen oefenen onderling (VDW) krachten op elkaar uit. Normaal stoten de deeltjes elkaar even hard af als ze elkaar aantrekken.
+<!--De deeltjes in stoffen oefenen onderling krachten op elkaar uit. Normaal stoten de deeltjes elkaar even hard af als ze elkaar aantrekken.
 
 Als je een materiaal uitrekt, komen de deeltjes in de uitrekrichting verder uit elkaar te liggen, waardoor de aantrekkende kracht van de deeltjes in die riching groter wordt. Hetzelfde geldt voor indrukken; dan wordt de afstotende kracht in de indrukrichting groter.
 
-In stuggere materialen zoals metaal of steen neemt die tegenwerkende kracht snel toe. In een flexibeler materiaal, zoals rubber, is dat niet zo.
+In stuggere materialen zoals metaal of steen neemt die tegenwerkende kracht snel toe. In een flexibeler materiaal, zoals rubber, is dat niet zo.-->
 
 Je hebt twee soorten vervorming:
 
-- **Elastisch**: het materiaal neemt zijn originele vorm aan als de vervormende kracht wordt weggenomen.
+- **Elastisch**: na vervormen neemt het materiaal zijn originele vorm weer aan.
 - **Plastisch**: het materiaal blijft permanent vervormd na het wegnemen van de vervormende kracht, omdat de deeltjes een nieuwe structuur hebben gevormd.
+
+### Uitrekken
+
+In een \\(\sigma\\),\\(\epsilon\\)-diagram zijn twee belangrijke grenzen:
+
+- **Elasticiteitsgrens**: tot dit punt is de grafiek nagenoeg linear en geldt de elasticiteitmodulus.
+- **Treksterkte**: de maximale spanning die een materiaal aankan; de top van een \\(\sigma\\),\\(\epsilon\\)-diagram.
+
+In de onderstaande grafiek zie je eerst elastische vervorming (E), dan, vanaf de elasticiteitsgrens, plastische vervorming (P) en tenslotte, nadat de treksterkte is bereikt, insnoering (I). De grafiek stop op het moment dat de stof breekt.
+
+![Spanning,rek-diagram](spanning-rek.png)
+
+In het elastisch gebied van de diagram geldt de volgende formule, waarin de elasticiteitsmodulus (E), verschilt per stof; eenheid is Pa.
+
+\\[\sigma = E \cdot \epsilon\\]
+
+### Uitzetten
+
+Als een materiaal verhit wordt kan het uitzetten. Hierbij is het uitzettingscoëfficient (\\(\alpha\\)) in \\(\text{K}^{-1}\\).
+
+\\[\Delta l = \alpha \cdot l_0 \cdot \Delta T\\]
+
 
 # Toepassingen
 
@@ -419,6 +467,8 @@ Als je iets omhoog gooit zonder luchtweerstand en daar v,t- en h,t-diagrammen va
 ## Vloeistofmanometer
 
 Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(p_{\text{gas}} = p_{\text{vloeistof}} + p_{\text{buiten}}\\).
+
+![Schematische tekening van een vloeistofmanometer waarin je het hierboven beschreven evenwicht visueel ziet](manometer.png)
 
 ---
 
