@@ -30,7 +30,7 @@ Een kerndeeltje heeft de volgende eigenschappen:
 - Soort (X)
 - Leptongetal (L)
 
-Je noteert een kerndeeltje zo: \\(\ce{^{A}_\{Z}X}\\). 
+Je noteert een kerndeeltje zo: \\(\ce{^{A}_\{Z}X}\\).
 
 ### Atoomkernen
 
@@ -40,15 +40,23 @@ Daarmee kan je vervolgens het symbool (X) van de atoomsoort opzoeken in Binas.
 
 ### Soorten deeltjes
 
-- Atoomkernen (\\(\ce{^{A}_\{Z}X}\\))
-- Losse neutronen (\\(\ce{^1_0n}\\))
-- Losse protonen (\\(\ce{^1_1p}\\) of \\(\ce{^1_1H}\\))
-- Elektronen (\\(\ce{^0_{-1}e}\\) of \\(\beta^-\\))
-- Positronen (\\(\ce{^0_1e}\\) of \\(\beta^+\\))
-- Elektron-neutrino (\\(\ce{^0_0\nu}\\))
-- Elektron-antineutrino (\\(\ce{^0_0\bar{\nu}}\\))
+| Symbool                              | Deeltje               |
+|--------------------------------------|-----------------------|
+| \\(\ce{^{A}_\{Z}X}\\)                | Atoomkern             |
+| \\(\ce{^1_0n}\\)                     | Losse neutronen       |
+| \\(\ce{^1_1p}\\) of \\(\ce{^1_1H}\\) | Losse protonen        |
+| \\(\ce{^0_{-1}e}\\) of \\(\beta^-\\) | Elektronen            |
+| \\(\ce{^0_1e}\\) of \\(\beta^+\\)    | Positronen            |
+| \\(\ce{^0_0\nu}\\)                   | Elektron-neutrino     |
+| \\(\ce{^0_0\bar{\nu}}\\)             | Elektron-antineutrino |
 
-He-4 kernen komen zo vaak voor dat we er een speciaal symbool voor hebben: je mag altijd \\(\alpha\\) schrijven in plaats van \\(\ce{^4_2He}\\).
+### Pick-me deeltjes<br><small>(aka speciale symbolen voor veelvoorkomende deeltjes)</small>
+
+| Symbool      | Deeltje               |
+|--------------|-----------------------|
+| \\(\alpha\\) | \\(\ce{^4_2He}\\)     |
+| \\(\ce{D}\\) | \\(\ce{^2_1H}\\)      |
+| \\(\ce{T}\\) | \\(\ce{^3_1H}\\)      |
 
 ### Neutrino's
 
@@ -87,6 +95,28 @@ Bij kernsplijting bekogel je een atoom met neutronen, waardoor de atoomkernen ui
 \\[\ce{^1_0n + ^{235}\_{92}U -> ^{92}\_36Kr + ^{141}\_{56}Ba + 3 ^1_0n}\\]
 
 Zoals je ziet komen hier ook weer op hoge snelheid neutronen vrij, die vervolgens nóg meer kernsplijtingen veroorzaken; de reactie is exponentiëel. Helemaal toppie in bijvoorbeeld in een kernbom--in een energiecentrale *not so much*.
+
+### Kernfusie
+
+In een fusiereactie schiet je twee waterstofatomen met grote snelheid op elkaar af, zodat de kernen samensmelten tot één kern:
+
+\\[\ce{^1_1H + ^1_1H -> ^2_1H + ^0_1e + ^0_0\nu}\\]
+
+<small>De neutrino zorgt ervoor dat het leptopngetal aan beide kanten van de reactie nul is; de positron heeft namelijk een leptongetal van 1.</small>
+
+## Bindingsenergie
+
+- **Chemisch**: houdt de atomen in een molecuul bij elkaar.  
+  Basically gwn [de \\(\Delta E\\) van scheikunde](/5VWO/TW1/Scheikunde.md).
+
+- **Nucleair**: houdt de kerndeeltjes in een atoomkern bij elkaar,  
+  door middel van een aantal krachten.
+
+### Krachten binnen een atoomkern
+
+- **Coulombkracht**: tussen geladen deeltjes; gelijke ladingen stoten elkaar af.
+- **Sterke kernkracht**: aantrekkende kracht tussen alle subatomaire deeltjes--houdt de deeltjes in een kern bij elkaar; iets met quarks en gluonen.
+- **Zwakke kernkracht**: zorgt voor instabiliteit...?
 
 # Energieverlies bij fusiereacties
 
