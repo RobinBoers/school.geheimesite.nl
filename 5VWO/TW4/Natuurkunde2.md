@@ -58,6 +58,7 @@ details:not(.li) {
     <li><a href="#krachten-en-beweging">Krachten en beweging</a></li>
     <li><a href="#materialen">Materialen</a></li>
     <li><a href="#straling">Straling</a></li>
+    <li><a href="#energie">Energie</a></li>
   </ul>
 </details>
 
@@ -590,6 +591,17 @@ Ook moet je soms nog corrigeren voor achtergrondstraling uit:
 - bouwmaterialen
 - ons eigen lichaam
 - de bodem
+
+# Energie
+
+## Soorten energie
+
+- Chemische energie (opgeslagen in atoombindingen)
+- Elektrische energie (bewegende lading)
+- Bewegingsenergie
+- Warmte (verschil in temperatuur)
+- Kernenergie (opgeslagen in atoomkernen)
+- Gravitatie-energie
 
 # Toepassingen
 
