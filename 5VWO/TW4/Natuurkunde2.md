@@ -454,7 +454,142 @@ Als een materiaal verhit wordt kan het uitzetten. Hierbij is het uitzettingscoë
 
 # Straling
 
-TODO :)
+## Radioactiviteit
+
+Radioactieve stoffen zijn isotopen waarvan de kernen instabiel zijn omdat er teveel of te weinig neutronen aanwezig zijn. Die kernen kunnen uit elkaar vallen en zenden daarbij straling uit.
+
+Omdat de kernen steeds uit elkaar vallen blijft er steeds minder van de radioactieve stof over. Na de halveringstijd (\\(t_{1/2}\\)) is de helft van de kernen vervallen.
+
+Het aantal vervallen kernen per seconde noem je de activiteit (A) in Bq. Die kan je voor een een bepaald tijdstip uitrekenen:
+
+\\[A = A_0 \cdot (\frac{1}{2})^{t/t_{1/2}}\\]
+
+De activiteit neemt door verloop van de tijd af, omdat er steeds minder kernen over zijn (en dus ook minder kernen tegelijk vervallen).
+
+Het aantal overgebleven kernen bereken je zo:
+
+\\[N = N_0 \cdot (\frac{1}{2})^{t/t_{1/2}}\\]
+
+<details><summary>Massa berekenen</summary>Aan de hand van het aantal kernen (N), kan je de massa te berekenen door te vermenigvuldigen met de atoommassa (in u) van het isotoop. Je kan dat dan omrekenen naar kilogram.</details>
+
+## Vervalkromme
+
+![Een vervalkromme](/4VWO/TW4/vervalkromme.png)
+
+Een vervalkromme is een N,t-diagram. De helling op elk punt in de grafiek is de activiteit op dat moment. Je kan ook de gemiddelde activiteit berekenen <small>(de min is omdat de lijn daalt)</small>:
+
+\\[A_{gem} = - \frac{\Delta N}{\Delta t}\\]
+
+Met fancy wiskunde differentiatie magie kan je deze formule ombouwen naar een formule om de activiteit te berekenen aan de hand van het aantal deeltjes en de halveringstijd:
+
+\\[A = \frac{N \cdot \ln(2)}{t_{1/2}}\\]
+
+## Soorten straling
+
+<table><thead>
+  <tr>
+    <th rowspan="2">Soort straling</th>
+    <th colspan="2">Deeltjes</th>
+    <th colspan="2">Elektromagnetisch<br></th>
+  </tr>
+  <tr>
+    <th>α</th>
+    <th>β</th>
+    <th>𝛾<br></th>
+    <th>röntgen</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Soort deeltje</td>
+    <td>\(\ce{He-4}\) kern</td>
+    <td>\(e^-\) of \(e^+\)</td>
+    <td>foton</td>
+    <td>foton</td>
+  </tr>
+  <tr>
+    <td>Doordringend vermogen</td>
+    <td>klein<br></td>
+    <td>matig<br></td>
+    <td>groot</td>
+    <td>groot<br></td>
+  </tr>
+  <tr>
+    <td>Ioniserend vermogen</td>
+    <td>groot</td>
+    <td>matig</td>
+    <td>klein</td>
+    <td>klein</td>
+  </tr>
+</tbody>
+</table>
+
+### Deeltjesstraling
+
+- Deeltjes worden uitgezonden op hoge snelheid.
+- Als de deeltjes botsen raken ze hun (bewegings)energie kwijt en stoppen ze.
+- Hoe ver de deeltjes komen noem je de dracht.
+
+### EM-straling
+
+Elektromagnetische straling bestaat uit energiepakketjes (fotonen) die met de lichtsnelheid (\\(c\\)) bewegen. De energie van een foton is:
+
+\\[E_{\text{foton}} = h \cdot f\\]
+
+Waarbij \\(f\\) de frequentie van de straling in Hz is en \\(h\\) de planckconstante (zie Binas).
+
+Als fotonen door een stof heen gaan kunnen de atomen van die stof de energie van het foton opnemen. Dan verdwijnt het foton. Dat noemen we absorptie. Als de fotonen door de stof gaan zonder geabsorbeerd te worden, noemen we dat transmissie.
+
+De transmissie meten we met de intensiteit: de hoeveelheid energie die per \\(\text{m}^2\\) wordt doorgelaten. Hangt af van:
+
+- Soort materiaal
+- Dikte van het materiaal
+
+De halveringsdikte (\\(d_{1/2}\\)) is de dikte waarop de intensiteit van de transmissie gehalveerd is (verschilt per materiaal):
+
+\\[I = I_0 \cdot (\frac{1}{2})^{d/d_{1/2}}\\]
+
+## Bestraling vs besmetting
+
+Bij bestraling wordt je blootgesteld aan radioactieve straling. Je wordt daar zelf niet radioactief van, maar het is wel schadelijk. Maatregelen:
+
+- neem afstand van de bron
+- gebruik afschermende materialen zoals lood
+- tijd van blootstelling beperken
+
+Bij besmetting komt er een radioactief isotoop op of in je lichaam. Daardoor wordt je zelf een soort radioactieve bron. Maatregelen:
+
+- Wassen
+- Isolatie
+- Evacuatie (in geval van nuclaire ramp)
+
+## (Equivalente) dosis
+
+Het ioniserend vermogen van straling hangt af van:
+
+- de hoeveelheid deeltjes
+- de deeltjesgrootte
+- de (bewegings)energie van de deeltjes
+- hoe veel deeltjes geabsorbeerd worden
+
+De dosis (in Gy) is de hoeveelheid energie die per lichaamseenheid wordt geabsorbeerd:
+
+\\[D = \frac{E_{abs}}{m_{\text{lichaam}}}\\]
+
+Niet alle soorten straling zijn even schadelijk, waardoor de dosis soms een slechte indicatie van gevaar of schade kan zijn. Daarom hebben we de equivalente dosis (in Sv), die corrigeert voor de schadelijkheid van de straling:
+
+\\[H = W_R \cdot D\\]
+
+Waarbij de weegfactor \\(W_R = 20\\) voor \\(\alpha\\)-straling, en 1 voor alle andere soorten straling.
+
+#### Achtergrondstaling
+
+Ook moet je soms nog corrigeren voor achtergrondstraling uit:
+
+- de ruimte
+- deeltjes in de lucht
+- bouwmaterialen
+- ons eigen lichaam
+- de bodem
 
 # Toepassingen
 
@@ -509,3 +644,5 @@ Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in 
 - Mag warmtestroom in Watt?
 
 - Hoe leg je het verschil tussen druk en spanning uit?
+
+- Moeten we alle verschillende vormen van medische beeldvorming + kenmerken ook kennen?
