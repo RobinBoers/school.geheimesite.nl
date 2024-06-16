@@ -45,7 +45,7 @@ function generate_index() {
         elif [ "${item##*.}" == "md" ] && [ "$(basename "$item")" != "README.md" ]; then
             local title=$(extract_title "$item")
             if [ -n "$title" ]; then
-                local link=$(realpath --relative-to="$ROOT" "$item" | sed 's/\.md$//')
+                local link=$(realpath --relative-to="$ROOT" "$item")
                 index+="- [$title]($link)\n"
             fi
         fi
