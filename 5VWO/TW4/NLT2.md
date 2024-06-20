@@ -136,6 +136,14 @@ Bij annihilatie heffen een elektron en positron elkaar op. Het massadeffect is d
 
 \\[\ce{\beta^+ + \beta^- -> 2 \gamma}\\]
 
+### Reactieproducten
+
+Bij een fusiereactie wordt de vrijgekomen energie zo verdeelt over de reactieproducten dat de lichtste deeltjes de meeste energie krijgen. Dit heeft te maken met impuls, maar dat hoef je niet te kennen voor de toets.
+
+Je kan zo de vrijgekomen energie per reactieproduct berekenen (waarbij \\(m_n\\) de relatieve atoommassa van het deeltje, in kg, is):
+
+\\[E_n = \frac{E_{tot} m_n}{m_{tot}}\\]
+
 ## Bindingsenergie
 
 - **Chemisch**: houdt de atomen in een molecuul bij elkaar.  
@@ -198,6 +206,12 @@ Voor kernfusie is plasma relevant. In een plasma worden de elektronen losgerukt 
 - Het **straalt licht uit**, <small>omdat elektronen licht kunnen invangen en uitstralen</small>.
 
 Voorbeelden van een plasma zijn bliksem en het noorderlicht.
+
+### Verhitting
+
+- **Ohmse verhitting**: door de weerstand van het plasma zelf.
+- **Microgolf verhitting**: door resonantie tussen de cyclotronfrequentie van de elektronen en microgolfstraling.
+- **Neutrale bundel verhitting**: door extra geladen deeltjes met hoge snelheid het plasma in te schieten.
 
 ## Velden
 
@@ -274,6 +288,8 @@ Daarom zit er aan de binnenkant van de reactor een wand van Lithium. Die heeft d
 - Productie van tritium (\\(\ce{^1_0n + ^6_3Li -> T + \alpha}\\))
 - Opwekken warmte (kan worden omgezet in elektriciteit)
 
+De Lithium remt de neutronen af, en na het afremmen worden de neutronen ingevangen in de kern. De kern wordt daardoor instabiel, en de wand wordt radioactief (alfaverval), waardoor hij tritium en alphadeeltjes uitzendt. Ook wordt de wand warm (de bewegingsenergie van de neutronen) wordt overgedragen aan de deeltjes van de wand) en dat wordt gebruikt voor het opwekken van elektriciteit.
+
 ## Q-factor
 
 De Q-factor geeft de verhouding tussen hoeveel een fusiereactor kost aan energie om te draaien, en hoeveel energie hij genereert:
@@ -314,3 +330,34 @@ Als \\(Q < 1\\), moeten we continue (linksboven) energie toevoeren. Als \\(Q = 1
 De energie van de helium-4 kern wordt ook teruggevoerd naar het plasma. Als de energie van de heliumkernen genoeg is om het plasma op temperatuur te houden, houdt de reactie *zichzelf in stand*, en hoeft er geen energie meer toegevoerd te worden. Alle gegenereerde elektriciteit is dan voor ons.
 
 Je spreekt in dat geval van een brandend plasma. In een brandend plasma geldt \\(E_{in} = 0 \implies Q = \infty\\). Het Lawson-criterium voor \\(Q = \infty\\) is \\(3.0 \cdot 10^{21}\\).
+
+<br>
+----------
+<br><br><br><br><br><br><br><br><br>
+
+Also dit moet je kennen, maar je weet het probs al want het is basisshit:
+
+### Energiesoorten
+
+- Straling
+- Kinetisch
+- Warmte
+- Chemisch
+- Gravitatie
+- Nucleair
+- Elektriciteit
+
+### Formules
+
+\\[E = P \cdot t\\]
+\\[W = F \cdot s\\]
+\\[E_{kin} = \frac{1}{2}mv^2\\]
+\\[E_{z} = mg \Delta h\\]
+\\[\eta = \frac{P_{nut}}{P_{tot}} \cdot 100 \%\\]
+
+### Energietransitie
+
+- Fossiele brandstoffen vervangen (want eindig)
+- Minder energie gebruiken
+- Energie opslaan
+- Lokaal produceren
