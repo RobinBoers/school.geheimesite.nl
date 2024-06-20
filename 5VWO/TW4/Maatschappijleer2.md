@@ -397,7 +397,7 @@ is geen hypothese, onderzoeksplan, uitwerking etc.</small>
 Bogan, V. (N.D.). _Greater Fools Theory: What is it?_ Hartford Funds.
 <http://bogan.dyson.cornell.edu/doc/Hartford/Bogan-9_GreaterFools.pdf>
 
-Olson, D. (2022). The Line Goes Up. <https://www.youtube.com/watch?v=YQ_xWvX1n9g>
+Olson, D. (2022). _The Line Goes Up_. <https://www.youtube.com/watch?v=YQ_xWvX1n9g>
 
 Roberts, E. (1998). _Game Theory._ Sophomore College.
 <https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/>
