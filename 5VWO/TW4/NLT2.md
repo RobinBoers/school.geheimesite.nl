@@ -291,7 +291,7 @@ Als \\(Q > 1\\), kan je succesvol energie opwekken. Yay!
 Het tripelproduct (\\(nT\tau\\)) is het product van drie eigenschappen van een fusiereactor:
 
 - Deeltjesdichtheid (\\(n\\)) in \\(\text{m}^3\\)
-- Temperatuur (\\(T\\)) in Kelvin
+- Temperatuur (\\(T\\)) in keV
 - Opsluittijd (\\(\tau\\)) in seconden
 
 Het Lawson-criterium bepaald welke tripelwaarde nodig is voor een bepaalde Q-factor. Het Lawson-criterium voor \\(Q = 1\\) is \\(5.0 \cdot 10^{20}\\).
