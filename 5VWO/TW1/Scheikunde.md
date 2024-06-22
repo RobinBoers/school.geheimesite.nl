@@ -21,7 +21,7 @@ botsingen tussen deeltjes waarbij de deeltjes reageren. Dit hangt af van:
   - sneller deeltjes botsen.
   - harder deeltjes botsen.
 
-  Over het algemeen geldt: 10 graden warmer ⇒ 2x sneller.
+  Over het algemeen geldt: 10 graden warmer \\(\implies\\) 2x sneller.
 
 - **Druk**: bij een hogere druk willen er zo min mogelijk deeltjes zijn.
 
