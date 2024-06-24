@@ -306,6 +306,8 @@ In een cirkelbeweging kan je aan de hand van de omlooptijd (T) en straal (r) de 
 
 \\[v = \frac{\Delta x}{\Delta t} = \frac{2\pi r}{T}\\]
 
+De omlooptijd is de tijd die nodig is voor één rondje.
+
 ## Zonnestelsel
 
 ### Gravitatiekracht
@@ -325,7 +327,7 @@ Voor planeten in een baan rond de zon gelden de drie wetten van Kepler:
 De ontsnappingsnelheid is de snelheid waarmee je een voorwerp moet wegschieten om volledig aan de gravitatiekracht van het hemellichaam te ontsnappen. De formule kan herleidt worden met:
 
 \\[E_{kin,0} + E_{g,0} = E_{kin,\infty} = E_{g,\infty}\\]
-\\[E_{kin,0} + E_{g,0} = 0 \implies v_0 = \sqrt{\frac{2GM_{\text{planeet}}}{R_{\text{planeet}}}}\\]
+\\[E_{kin,0} + E_{g,0} = 0 \implies v_0 = \sqrt{\frac{2GM}{R}}\\]
 
 ### Geostationaire baan
 
@@ -336,6 +338,10 @@ Een geostationaire baan is een satellietbaan waarin de satelliet op een vast pun
 - moet de baan loodrecht op de as van de aarde staan.
 
 Daarom is een geostationaire baan alleen mogelijk op één hele specifieke snelheid en hoogte, recht boven de evenaar.
+
+### Polaire baan
+
+In een polaire baan vliegt een satelliet op relatief kleine hoogte in 1 tot 2 uur over beide polen. Doordat de aarde ook draait “ziet” de satelliet dus elk stukje aarde.
 
 # Materialen
 
