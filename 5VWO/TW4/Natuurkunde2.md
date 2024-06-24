@@ -737,6 +737,22 @@ Als \\(\varphi_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt verste
 
 Bij elk ander faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dat noem je zwevingen.
 
+## Soorten golven
+
+- Longitudinaal: beweegt door het samenpersen en uitrekken van het medium (een drukgolf). De trillingsrichting is hetzelfde als de voortplantingsrichting. Een voorbeeld is een geluidsgolf.
+
+- Transversaal: beweegt op en neer. De trillingsrichting is loodrecht op de voorplantingsrichting. Een voorbeeld zijn golven in water.
+
+Dit zijn beide voorbeelden van lopende golven. Dat zijn volgen waarbij de maxima bewegen:
+
+![Een lopende golf, geanimeerd](/5VWO/TW1/lopende-golf.gif)
+
+Als je twee lopende golven met gelijke frequentie en amplitude tegen elkaar in laat lopen krijg je op vaste punt volledige uitdoving en maximale versterking:
+
+![Een staande golf, geanimeerd](/5VWO/TW1/staande-golf-met-subgolven.gif)
+
+De maxima blijven nu op een vaste plaats. Daarom noemen we dit een staande golf (want hij "staat stil").
+
 # Magnetisme
 
 # Toepassingen
