@@ -681,9 +681,19 @@ Bij geluidsgolven noemen we de amplitude ookwel het volume en de frequentie die 
 
 ## Diagrammen
 
-### u,t-diagram
+### u,t-diagram <small>= oscillogram</small>
 
 In een u,t-diagram zet je de uitwijking (u) uit tegen de tijd. Je krijgt dan een grafiek waarin je de uitwijking van *een punt op de lijn* door de tijd ziet veranderen.
+
+![Een voorbeeld van een u,t-diagram](/5VWO/TW1/ut-diagram2.png)
+
+De formule voor een u,t-diagram is een sinus met amplitude A en periode T:
+
+\\[u(t) = A \cdot sin(\frac{2\pi}{T}\cdot t)\\]
+
+De maximale snelheid van het punt <small>(let op: *het punt*, niet *de golf*)</small>, is als hij door de evenwichtsstand gaat (want daar is de helling het stijlst):
+
+\\[v_{max} = \frac{2\pi A}{T}\\]
 
 ### u,x-diagram
 
@@ -693,6 +703,7 @@ In een u,x-diagram zet je de uitwijking (u) af tegen een punt op de lijn (x). Je
   <summary>Haal deze concepten niet door elkaar!</summary>
   Een u,t-diagram en u,x-diagram zien er misschien hetzelfde uit, maar het zijn <strong>twee verschillende concepten</strong>. Een u,t-diagram laat zien hoe <strong>één punt op en neer beweegt</strong> door de tijd, terwijl een u,x-diagram laat zien <strong>waar alle punten zich op één specifiek tijdstip bevinden</strong>.
 </details>
+
 ## Zuivere en samengestelde tonen
 
 Een zuivere of harmonische trilling is een golf met één vaste periode en steeds dezelfde amplitude. Het u,t-diagram is dan een sinus:
@@ -703,6 +714,28 @@ Een samengestelde golf bestaat uit een optelling van andere (zuivere) golven. Ee
 
 ![Een u,t-diagram van een samengestelde toon](/5VWO/TW1/ut-diagram-samengesteld.jpg)
 
+De frequentie van een samengestelde toon wordt bepaald door de frequentie van de laagste toon die er in voorkomt, die je de grondtoon noemt.
+
+## Fase
+
+De fase (\\(\varphi\\)) van een golf is het aantal afgelegde trillingen sinds het beginpunt van de golf.
+
+De gereduceerde fase (\\(\varphi_{red}\\)) is de fase vanaf het begin van de huidige trilling. Je telt dus alle volledige trillingen niet mee:
+
+\\[\varphi_{red} < 1\\]
+
+Het faseverschil (\\(\Delta \varphi\\)) is het verschil in fase tussen twee trillingen. Het gereduceerde faseverschil (\\(\Delta \varphi_{red}\\)) is het verschil in gereduceerde fase.
+
+\\[\Delta \varphi = \frac{\Delta t}{t}\\]
+\\[\Delta \varphi = \frac{\Delta x}{\lambda}\\]
+
+### In fase en tegenfase
+
+Als \\(\varphi_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt versterken ze elkaar. Als \\(\varphi_{red} = \frac{1}{2}\\), zijn de golven in tegenfase. Bij optellen heffen ze elkaar dan op.
+
+![](/5VWO/TW1/faseverschil.png)
+
+Bij elk ander faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dat noem je zwevingen.
 
 # Magnetisme
 
@@ -713,10 +746,6 @@ Een samengestelde golf bestaat uit een optelling van andere (zuivere) golven. Ee
 Met een stroboscoop kan je de verandering van de snelheid zien. Het is een soort camera die met gelijke tussenpozen de lens exposed en daardoor meerdere foto's op elkaar layered:
 
 ![Een stuiterende bal gefotografeerd met een stroboscopische flits met 25 flitsen per seconde](stroboscopische-foto.jpg)
-
-## Oscilloscoop
-
-Een oscilloscoop meet en visualiseert geluidstrillingen in een oscillogram:
 
 ## Maximale snelheid in val
 
