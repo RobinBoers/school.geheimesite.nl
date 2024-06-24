@@ -37,6 +37,7 @@ details:not(.li) {
   background: light-dark(#ededed, #00000033);
   font-style: italic;
   opacity: .8;
+  margin-bottom: .2em;
 
   & summary {
     cursor: pointer;
@@ -253,6 +254,7 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
 ### Soorten
 
 - **Zwaartekracht**: \\(F_z = m \cdot g\\)
+- **Gravitatiekracht**: \\(F_g = G \frac{m_1 m_2}{r^2}\\)
 - **Gewicht**: de kracht die jij uitoefent op de ondergrond;  
   in de meeste gevallen geldt \\(F_z = \text{gewicht}\\).
 - **Normaalkracht**: de (reactie)kracht van een voorwerp,  
@@ -273,6 +275,15 @@ De schuifweerstandkracht is een reactiekracht op het de spierkracht die een voor
 <p>Dat is waarom een boek niet verschuif als je er maar een beetje tegen duwt, maar het wel verschuift als je harder duwt.</p>
 </details>
 
+<details><summary>Middelpuntzoekende kracht</summary><p>
+De middelpuntzoekende kracht is geen losse kracht, maar een rol die een kracht kan vervullen. Net als dat de resulterende kracht geen echte kracht is, maar een rol die meerdere krachten samen vervullen.</p>
+<p>De middelpuntzoekende kracht is een kracht die loodrecht op de bewegingsrichting staat:
+</p>
+<p>\[F_{mpz} = \frac{mv^2}{r}\]</p>
+<p>Door de middelpuntzoekende kracht is er een versnelling loodrecht op de snelheid. Daardoor veranderd de grootte van de snelheid niet, maar de richting wel.
+</p>
+</details>
+
 ## Snelheid en versnelling
 
 De snelheid (\\(v\\)) is de verandering van de plaats (\\(x\\)) per seconde. De versnelling  (\\(a\\)) is de verandering van de snelheid per seconde.
@@ -288,6 +299,43 @@ Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgelei
 <details class="li"><summary><strong>Eenparige cirkelbeweging</strong>: grootte van \(v\) is constant, maar de richting veranderd continue; \(F_{res}\) is constant en loodrecht op de bewegingsrichting.</summary><img alt="Een schematische tekening van de snelheid met loodrecht daarop de resulterende kracht" src="eenparige-cirkel.png"></details>
 
 <details class="li"><summary><strong>Vrije val</strong>: \(F_z\) is de enige kracht; daardoor geldt \(a = 9.81 \text{ m/s}^2\).</summary>sorry, geen plaatje :(</details>
+
+### Cirkelbewegingen
+
+In een cirkelbeweging kan je aan de hand van de omlooptijd (T) en straal (r) de snelheid berekenen:
+
+\\[v = \frac{\Delta x}{\Delta t} = \frac{2\pi r}{T}\\]
+
+## Zonnestelsel
+
+### Gravitatiekracht
+
+De gravitatiekracht is een wisselwerking tussen twee massa's. Hij werkt op afstand en de krachten van de massa’s op elkaar zijn even groot. Het aangrijpingspunt van de kracht is het zwaartepunt van de massa. Bij een bol is dat het middenpunt.
+
+### Planeetbanen
+
+Voor planeten in een baan rond de zon gelden de drie wetten van Kepler:
+
+1. Ze bewegen in een ellipsbaan en de zon ligt op één van de brandpunten.
+2. Planeten hebben een grotere snelheid als ze dichter bij de zon zijn.
+3. De derde wet van Kepler: \\[\frac{r^3}{T^2} = \frac{GM}{4\pi^2}\\]
+
+### Ontsnappingssnelheid
+
+De ontsnappingsnelheid is de snelheid waarmee je een voorwerp moet wegschieten om volledig aan de gravitatiekracht van het hemellichaam te ontsnappen. De formule kan herleidt worden met:
+
+\\[E_{kin,0} + E_{g,0} = E_{kin,\infty} = E_{g,\infty}\\]
+\\[E_{kin,0} + E_{g,0} = 0 \implies v_0 = \sqrt{\frac{2GM_{\text{planeet}}}{R_{\text{planeet}}}}\\]
+
+### Geostationaire baan
+
+Een geostationaire baan is een satellietbaan waarin de satelliet op een vast punt boven de aarde blijft hangen. Dan:
+
+- is de omlooptijd gelijk aan de omlooptijd van de aarde.
+- is het middenpunt van de cirkelbaan het middenpunt van de aarde.
+- moet de baan loodrecht op de as van de aarde staan.
+
+Daarom is een geostationaire baan alleen mogelijk op één hele specifieke snelheid en hoogte, recht boven de evenaar.
 
 # Materialen
 
@@ -810,3 +858,5 @@ Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in 
 - Hoe leg je het verschil tussen druk en spanning uit?
 
 - Moeten we alle verschillende vormen van medische beeldvorming + kenmerken ook kennen?
+
+- Is de Fmpz altijd Fres, of is het toeval dat dat in alle situaties die ik tot nu toe heb gezien zo is?
