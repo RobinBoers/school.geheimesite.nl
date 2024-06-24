@@ -59,10 +59,11 @@ details:not(.li) {
     <li><a href="#materialen">Materialen</a></li>
     <li><a href="#straling">Straling</a></li>
     <li><a href="#energie">Energie</a></li>
+    <li><a href="#golven">Golven</a></li>
+    <li><a href="#magnetisme">Magnetisme</a></li>
   </ul>
+  <p><strong>NOG NIET AF!!</strong></p>
 </details>
-
-**NOG NIET AF!!**
 
 # Elektriciteit
 
@@ -610,13 +611,29 @@ De mechanische energie is de som van kinetische en zwaarte-energie:
 
 \\[E_m = E_{kin} + E_z\\]
 
+### Vermogen
+
+Het vermogen (P) dat iets levert is de arbeid (W) per seconde (t):
+
+\\[P = \frac{W}{t} = \frac{F \cdot s}{t} = F \frac{s}{t} = F \cdot v\\]
+
 ### Verbrandingswarmte
 
 De verbrandingswarmte (\\(r_v\\)) is de hoeveelheid (chemische) energie die vrijkomt bij het verbranden van 1 \\(\text{m}^3\\) of 1 L van een brandstof.
 
-We meten de verbrandingswarmte in \\(\text{J/m}^3\\) (voor gassen en vaste stoffen) of \\(\text{J/L}\\) (voor vloeistoffen).
+We meten de verbrandingswarmte in \\(\text{J/kg}\\) (voor vaste stoffen), \\(\text{J/m}^3\\) (voor gassen) of \\(\text{J/L}\\) (voor vloeistoffen).
 
-## Soorten energie
+## Energie
+
+### Wet van behoud van energie
+
+Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
+
+\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
+
+<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
+
+### Soorten
 
 - Elektrische energie <small>(bewegende lading)</small>
 - Warmte <small>(verschil in temperatuur)</small>
@@ -630,6 +647,7 @@ We meten de verbrandingswarmte in \\(\text{J/m}^3\\) (voor gassen en vaste stoff
 - Stralingsenergie, <small>waaronder licht</small>
 
 \\[E_{ch} = r_v V\\]
+\\[E_{ch} = r_v m\\]
 \\[E_{kin} = \frac{1}{2}mv^2\\]
 \\[E_z = F_z \cdot s = mg\Delta h\\]
 \\[E_g = -G \frac{m_1 m_2}{r}\\]
@@ -643,13 +661,50 @@ We meten de verbrandingswarmte in \\(\text{J/m}^3\\) (voor gassen en vaste stoff
 
 Bij de meeste energiesoorten mag je het nulpunt zelf besluiten. Bij de gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt. De gravitatie-energie is dus altijd negatief, en naarmate hij groter wordt nadert hij nul (wordt hij minder negatief).
 
-## Wet van behoud van energie
+# Golven
 
-Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
+Een golf heeft een aantal eigenschappen:
 
-\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
+- **Frequentie** (f): aantal trillingen per seconde.
+- **Periode / trillingstijd** (T): de tijd waarin precies 1 trilling plaatsvindt.
+- **Amplitude** (A): de maximale uitwijking van een golf.
+- **Golflengte** (\\(\lambda\\)): de afstand die de golf in 1 trilling aflegt.
+- **Golfsnelheid** (\\(v_{golf}\\)): de snelheid waarmee de golf zich voortplant.
 
-<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
+![Grafiek met daarin een sinusgolf, waarin de amplitude en golflengte zijn ingetekend](/5VWO/TW1/ut-diagram.png)
+
+Bij geluidsgolven noemen we de amplitude ookwel het volume en de frequentie die toonhoogte. De golfsnelheid van geluidsgolven is de geluidssnelheid. In lucht is dat \\(343 \text{ m/s}\\).
+
+\\[f = 1/T\\]
+\\[\lambda = v_{golf} \cdot T \text{ } \text{ want } \text{ } s = vt\\]
+\\[\implies v_{golf} = f \cdot \lambda\\]
+
+## Diagrammen
+
+### u,t-diagram
+
+In een u,t-diagram zet je de uitwijking (u) uit tegen de tijd. Je krijgt dan een grafiek waarin je de uitwijking van *een punt op de lijn* door de tijd ziet veranderen.
+
+### u,x-diagram
+
+In een u,x-diagram zet je de uitwijking (u) af tegen een punt op de lijn (x). Je krijgt dan een soort *snapshot van de lijn op dat vaste tijdstip*, waarop je de uitwijking van elk punt (op dat tijdstip) kan aflezen.
+
+<details open>
+  <summary>Haal deze concepten niet door elkaar!</summary>
+  Een u,t-diagram en u,x-diagram zien er misschien hetzelfde uit, maar het zijn <strong>twee verschillende concepten</strong>. Een u,t-diagram laat zien hoe <strong>één punt op en neer beweegt</strong> door de tijd, terwijl een u,x-diagram laat zien <strong>waar alle punten zich op één specifiek tijdstip bevinden</strong>.
+</details>
+## Zuivere en samengestelde tonen
+
+Een zuivere of harmonische trilling is een golf met één vaste periode en steeds dezelfde amplitude. Het u,t-diagram is dan een sinus:
+
+![Een u,t-diagram van een zuivere toon](/5VWO/TW1/ut-diagram-zuiver.jpg)
+
+Een samengestelde golf bestaat uit een optelling van andere (zuivere) golven. Een samengestelde golf zou er bijvoorbeeld zo uit kunnen zien:
+
+![Een u,t-diagram van een samengestelde toon](/5VWO/TW1/ut-diagram-samengesteld.jpg)
+
+
+# Magnetisme
 
 # Toepassingen
 
@@ -658,6 +713,10 @@ Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken
 Met een stroboscoop kan je de verandering van de snelheid zien. Het is een soort camera die met gelijke tussenpozen de lens exposed en daardoor meerdere foto's op elkaar layered:
 
 ![Een stuiterende bal gefotografeerd met een stroboscopische flits met 25 flitsen per seconde](stroboscopische-foto.jpg)
+
+## Oscilloscoop
+
+Een oscilloscoop meet en visualiseert geluidstrillingen in een oscillogram:
 
 ## Maximale snelheid in val
 
