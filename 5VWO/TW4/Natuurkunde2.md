@@ -594,14 +594,62 @@ Ook moet je soms nog corrigeren voor achtergrondstraling uit:
 
 # Energie
 
+## Basisbegrippen
+
+### Arbeid
+
+Arbeid (W) is een energieomzetting of overdracht over een afstand veroorzaakt door een kracht:
+
+\\[W = F \cdot s\\]
+
+We meten arbeid in Newtonmeter (Nm), wat gelijk is aan Joule (J).
+
+### Mechanische energie
+
+De mechanische energie is de som van kinetische en zwaarte-energie:
+
+\\[E_m = E_{kin} + E_z\\]
+
+### Verbrandingswarmte
+
+De verbrandingswarmte (\\(r_v\\)) is de hoeveelheid (chemische) energie die vrijkomt bij het verbranden van 1 \\(\text{m}^3\\) of 1 L van een brandstof.
+
+We meten de verbrandingswarmte in \\(\text{J/m}^3\\) (voor gassen en vaste stoffen) of \\(\text{J/L}\\) (voor vloeistoffen).
+
 ## Soorten energie
 
-- Chemische energie (opgeslagen in atoombindingen)
-- Elektrische energie (bewegende lading)
-- Bewegingsenergie
-- Warmte (verschil in temperatuur)
-- Kernenergie (opgeslagen in atoomkernen)
-- Gravitatie-energie
+- Elektrische energie <small>(bewegende lading)</small>
+- Warmte <small>(verschil in temperatuur)</small>
+- Chemische energie <small>(opgeslagen in atoombindingen)</small>
+- Kernenergie <small>(opgeslagen in atoomkernen)</small>
+- Kinetische energie <small>= bewegingsenergie</small>
+- Gravitatie-energie <small>= arbeid van de gravitatiekracht</small>
+- Zwaarte-energie <small>= arbeid van de zwaartekracht</small>
+- Veerenergie <small>= arbeid van de veerkracht</small>
+- Trillingsenergie, <small>waaronder geluid</small>
+- Stralingsenergie, <small>waaronder licht</small>
+
+\\[E_{ch} = r_v V\\]
+\\[E_{kin} = \frac{1}{2}mv^2\\]
+\\[E_z = F_z \cdot s = mg\Delta h\\]
+\\[E_g = -G \frac{m_1 m_2}{r}\\]
+\\[E_v = \frac{1}{2}Cu^2\\]
+
+<details open>
+  <summary>Let op!</summary>De bovenstaande formule voor veerenergie geldt alleen bij een ideale veer.
+</details>
+
+### Nulpunt van de gravitatie-energie
+
+Bij de meeste energiesoorten mag je het nulpunt zelf besluiten. Bij de gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt. De gravitatie-energie is dus altijd negatief, en naarmate hij groter wordt nadert hij nul (wordt hij minder negatief).
+
+## Wet van behoud van energie
+
+Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
+
+\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
+
+<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
 
 # Toepassingen
 
