@@ -63,7 +63,6 @@ details:not(.li) {
     <li><a href="#golven">Golven</a></li>
     <li><a href="#magnetisme">Magnetisme</a></li>
   </ul>
-  <p><strong>NOG NIET AF!!</strong></p>
 </details>
 
 # Elektriciteit
