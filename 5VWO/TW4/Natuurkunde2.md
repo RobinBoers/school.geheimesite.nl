@@ -758,6 +758,10 @@ In een u,x-diagram zet je de uitwijking (u) af tegen een punt op de lijn (x). Je
   Een u,t-diagram en u,x-diagram zien er misschien hetzelfde uit, maar het zijn <strong>twee verschillende concepten</strong>. Een u,t-diagram laat zien hoe <strong>één punt op en neer beweegt</strong> door de tijd, terwijl een u,x-diagram laat zien <strong>waar alle punten zich op één specifiek tijdstip bevinden</strong>.
 </details>
 
+## Superpositie
+
+Superpositie is het optellen van golven. Stel dat je twee geluidsgolven hebt die elkaar kruisen met de één een overdruk van 4 en de ander een onderdruk van 1, dan wordt de uiteindelijke druk dus een overdruk van 3.
+
 ## Zuivere en samengestelde tonen
 
 Een zuivere of harmonische trilling is een golf met één vaste periode en steeds dezelfde amplitude. Het u,t-diagram is dan een sinus:
@@ -790,6 +794,20 @@ Als \\(\varphi_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt verste
 ![](/5VWO/TW1/faseverschil.png)
 
 Bij elk ander faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dat noem je zwevingen.
+
+## Interferentie
+
+Als je twee puntbronnen (met dezelfde frequentie!) naast elkaar zet, krijg je op de overlap van de toppen een extra hoge top, op de overlap van de dalen een extra laag dal en op de overlap van een top en een dal volledige uitdoving.
+
+Hierdoor ontstaat een **interferentiepatroon**. Daarin zie je (buik)lijnen waar de toppen en dalen elkaar versterken, en (knoop)lijnen waarop volledige uitdoving is.
+
+![Een voorbeeld van een interferentiepatroon](/5VWO/TW1/interferentie.png)
+
+<small>In de bovenstaande afbeelding zijn de doorgetrokken lijnen de toppen, en de gestippelde lijnen de dalen. Het tweede plaatje geeft maximale versterking aan (de buiklijnen), en het derde plaatje volledige uitdoving (de knooplijnen).</small>
+
+Er kan alleen een interferentiepatroon komen als de geluidsbronnen **coherent** zijn: ze hebben dezelfde constante frequentie en een constant faseverschil.
+
+Als je de puntbronnen naar elkaar toebeweegt divergeren de knoop en buiklijnen. Als je de bronnen juist van elkaar af beweegt convergeren ze.
 
 ## Lopende golven
 
@@ -864,6 +882,8 @@ De frequentie is omgekeerd evenredig met de golflengte (\\(f = v / \lambda\\)), 
 
 # Magnetisme
 
+Zie voor nu [de vorige samenvatting](/5VWO/TW4/Natuurkunde.md).
+
 # Toepassingen
 
 ## Stroboscoop
@@ -898,26 +918,18 @@ Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in 
 
 ![Schematische tekening van een vloeistofmanometer waarin je het hierboven beschreven evenwicht visueel ziet](manometer.png)
 
----
+## Doppler-effect
 
-# HELP
+Het Doppler-effect is het verschijnsel dat geluid van een bewegend voorwerp verbogen wordt. Dat komt omdat geluidsgolven *voor* het object worden *samengedrukt*, en *achter* het voorwerp worden *uitgerekt*.
 
-- Wat is een spanningsdeler? Wat is het verschil tussen het gebruiken van een schuifweerstand als variable weerstand vs spanningsdeler?
+### Rekenen
 
-- Waarom loopt stroom altijd naar de aarde? Wat aan de aarde maakt dat elektronen er door worden aangetrokken? Is de aarde positief geladen?
+Om de golflengte van de golven *achter* het object te berekenen:
 
-- Wat maakt dat een component meer stroom "trekt"? Heeft het dan juist niet een grotere weerstand?
+- Bereken de afstand die het object in 1T (1 trillingstijd) heeft afgelegd.
+- Tel de berekende afstand bij de golflengte op.
 
-- Als een deeltje tegen de wand van het gasvolume botst, raak het dan zijn energie niet kwijt? En zo ja, hoe komt het dan dat het gas niet de hele tijd afkoelt en uiteindelijk vloeistof wordt? Wat zorgt ervoor dat de deeltjes weer meer bew. energie krijgen?
+Om de golflengte *voor* het object te berekenen:
 
-- Is luchtvochtigheid belangrijk?
-
-- Waarom is lucht een slecht opslagmedium voor warmte?
-
-- Mag warmtestroom in Watt?
-
-- Hoe leg je het verschil tussen druk en spanning uit?
-
-- Moeten we alle verschillende vormen van medische beeldvorming + kenmerken ook kennen?
-
-- Is de Fmpz altijd Fres, of is het toeval dat dat in alle situaties die ik tot nu toe heb gezien zo is?
+- Bereken weer de afgelegde afstand in 1T.
+- Trek dat van de golflengte af.
