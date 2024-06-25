@@ -791,21 +791,76 @@ Als \\(\varphi_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt verste
 
 Bij elk ander faseverschil versterken de golven elkaar soms en heffen ze elkaar soms op. Dat noem je zwevingen.
 
-## Soorten golven
+## Lopende golven
 
-- Longitudinaal: beweegt door het samenpersen en uitrekken van het medium (een drukgolf). De trillingsrichting is hetzelfde als de voortplantingsrichting. Een voorbeeld is een geluidsgolf.
+- **Longitudinaal**: beweegt door het samenpersen en uitrekken van het medium (een drukgolf). De trillingsrichting is hetzelfde als de voortplantingsrichting. Een voorbeeld is een geluidsgolf.
 
-- Transversaal: beweegt op en neer. De trillingsrichting is loodrecht op de voorplantingsrichting. Een voorbeeld zijn golven in water.
+- **Transversaal**: beweegt op en neer. De trillingsrichting is loodrecht op de voorplantingsrichting. Een voorbeeld zijn golven in water.
 
 Dit zijn beide voorbeelden van lopende golven. Dat zijn volgen waarbij de maxima bewegen:
 
 ![Een lopende golf, geanimeerd](/5VWO/TW1/lopende-golf.gif)
 
+## Staande golven
+
 Als je twee lopende golven met gelijke frequentie en amplitude tegen elkaar in laat lopen krijg je op vaste punt volledige uitdoving en maximale versterking:
 
 ![Een staande golf, geanimeerd](/5VWO/TW1/staande-golf-met-subgolven.gif)
 
-De maxima blijven nu op een vaste plaats. Daarom noemen we dit een staande golf (want hij "staat stil").
+De maxima blijven nu op een vaste plaats. Daarom noemen we dit een staande golf (want hij "staat stil"). De maxima noemen we buiken, en de nulpunten noemen we knopen.
+
+De afstand tussen twee knopen (of twee buiken) is \\(\frac{1}{2} \lambda\\), dus de afstand tussen een buik en een knoop is  \\(\frac{1}{4} \lambda\\).
+
+### In buizen
+
+Je kan in een buis staande golven krijgen. Dat kan alleen als de buis de juiste lengte heeft. Dan gaan de golven resoneren en komen ze zo terug dat er staande golven ontstaan.
+
+Een staande golf in een buis heeft altijd een buik bij de opening van de buis en een knoop bij een gesloten uiteinde van de buis.
+
+De grondtoon van een staande golf in een buis is de toon met de minimale hoeveelheid knopen en buiken:
+
+```
+-----------
+ B   K   B
+-----------
+|----------
+| K      B
+|----------
+```
+
+Er kunnen oneindig veel boventonen bij komen. Dan komt er steeds een buik en een knoop bij:
+
+```
+-----------
+ B K B K B
+-----------
+|----------
+| K B K B
+|----------
+```
+
+De lengte (\\(l\\)) van een open buis is altijd \\(\frac{1}{2} \lambda_1\\) (van de grondtoon), omdat er twee buiken zijn. Voor een gesloten buis geldt \\(l = \frac{1}{4} \lambda_1\\), want er is een buik minder.
+
+Je kan hiermee de lengte van de buis uitdrukken in de golflengte van iedere willekeurige boventoon. Voor open buizen:
+
+\\[l = n \cdot \frac{1}{2} \lambda_n\\]
+
+En gesloten buizen:
+
+\\[l = n \cdot \frac{1}{2} \lambda_n - \frac{1}{4} \lambda_n\\]
+
+<small>Waarin \\(n = 1\\) voor de grondtoon, \\(n = 2\\) voor de eerste boventoon enzovoort.
+</small>
+
+### Verhoudingen
+
+Voor open buizen: \\(\lambda_1 : \lambda_2 : \lambda_3 : \lambda_4 = \frac{1}{2} : \frac{2}{2} : \frac{3}{2} : \frac{4}{2}\\)  
+Voor gesloten buizen: \\(\lambda_1 : \lambda_2 : \lambda_3 : \lambda_4 = \frac{1}{4} : \frac{3}{4} : \frac{5}{4} : \frac{7}{4}\\)
+
+De frequentie is omgekeerd evenredig met de golflengte (\\(f = v / \lambda\\)), dus hieruit volgt de verhouding:
+
+\\(f_1 : f_2 : f_3 : f_4 = 1 : 2 : 3 : 4\\) voor open buizen  
+\\(f_1 : f_2 : f_3 : f_4 = 1 : 3 : 5 : 7\\) voor gesloten buizen
 
 # Magnetisme
 
