@@ -157,17 +157,21 @@ Halfgeleiders zijn materialen die uit zichzelf weinig vrije elektronen hebben en
 
 - **PTC** (Positive Temperature Coefficient): precies andersom: de weerstand wordt groter als de temperatuur hoger wordt. Een hogere temperatuur betekent dus dat de PTC minder goed stroom doorlaat.
 
-### Variabele (schuif)weerstand
+### Schuifweerstand
+
+#### Als variabele weerstand
 
 Met een schuifweerstand kan je zelf de weerstand van de weerstand bepalen (ja ik vind het ook kut dat ze voor die twee dingen hetzelfde woord hebben gekozen). Alleen door het stuk tussen de pijl en de "uitgang" van de schuifweerstand loopt stroom. 
 
 Door de schuifweerstand kleiner te maken verlaag je dus de weerstand.
 
-![Een schuifweerstand](schuifweerstand.png)
+![Een schuifweerstand als variabele weerstand](schuifweerstand.png)
 
-<!--#### Als spanningsregelaar
+#### Als spanningsdeler
 
-Je kan een variable weerstand als spanningsregelaar gebruiken. Stel je hebt een spanningsbron met een vermogen van 18W (9V op 2A), maar je lampje kan maar maximaal 6V aan. Je kan dan de schuifweerstand instellen op \\(1.5 \Omega\\) (want \\(R = U / I = 3 / 2 = 1.5\\)).-->
+Als je een schuifweerstand als spanningsdeler gebruikt gebruik je alle drie de aansluitingen. Daardoor komt er een deel van de weerstand in parallel te staan:
+
+![Een schuifweerstand als spanningsdeler](/4VWO/TW1/variabele-weerstand-spanningsdeler.png)
 
 ## Schakelingen
 
