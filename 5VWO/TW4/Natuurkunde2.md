@@ -57,7 +57,6 @@ details:not(.li) {
   <ul>
     <li><a href="#elektriciteit">Elektriciteit</a></li>
     <li><a href="#krachten-en-beweging">Krachten en beweging</a></li>
-    <li><a href="#materialen">Materialen</a></li>
     <li><a href="#straling">Straling</a></li>
     <li><a href="#energie">Energie</a></li>
     <li><a href="#golven">Golven</a></li>
@@ -342,6 +341,7 @@ Daarom is een geostationaire baan alleen mogelijk op één hele specifieke snelh
 
 In een polaire baan vliegt een satelliet op relatief kleine hoogte in 1 tot 2 uur over beide polen. Doordat de aarde ook draait “ziet” de satelliet dus elk stukje aarde.
 
+<!--
 # Materialen
 
 ## Basisbegrippen
@@ -475,12 +475,6 @@ De warmtegeleidingscoëfficient (\\(\lambda\\)) geeft aan hoe groot P is bij een
 
 ## Vervorming
 
-<!--De deeltjes in stoffen oefenen onderling krachten op elkaar uit. Normaal stoten de deeltjes elkaar even hard af als ze elkaar aantrekken.
-
-Als je een materiaal uitrekt, komen de deeltjes in de uitrekrichting verder uit elkaar te liggen, waardoor de aantrekkende kracht van de deeltjes in die riching groter wordt. Hetzelfde geldt voor indrukken; dan wordt de afstotende kracht in de indrukrichting groter.
-
-In stuggere materialen zoals metaal of steen neemt die tegenwerkende kracht snel toe. In een flexibeler materiaal, zoals rubber, is dat niet zo.-->
-
 Je hebt twee soorten vervorming:
 
 - **Elastisch**: na vervormen neemt het materiaal zijn originele vorm weer aan.
@@ -505,7 +499,9 @@ In het elastisch gebied van de diagram geldt de volgende formule, waarin de elas
 
 Als een materiaal verhit wordt kan het uitzetten. Hierbij is het uitzettingscoëfficient (\\(\alpha\\)) in \\(\text{K}^{-1}\\).
 
-\\[\Delta l = \alpha \cdot l_0 \cdot \Delta T\\]
+\\[\Delta l = \alpha \cdot l_0 \cdot \Delta T\\]>
+
+-->
 
 # Straling
 
