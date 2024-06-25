@@ -298,7 +298,7 @@ Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgelei
 
 <details class="li"><summary><strong>Eenparig versneld</strong>: \(v \text{ neemt constant toe} \implies a = c \text{ en dus ook } F_{res} = c\)</summary><img alt="De x,t- v,t- en a,t-diagrammen van een eenparig versnelde beweging" src="eenparig-versneld.png"></details>
 
-<details class="li"><summary><strong>Eenparige cirkelbeweging</strong>: grootte van \(v\) is constant, maar de richting veranderd continue; \(F_{res}\) is constant en loodrecht op de bewegingsrichting.</summary><img alt="Een schematische tekening van de snelheid met loodrecht daarop de resulterende kracht" src="eenparige-cirkel.png"></details>
+<details class="li"><summary><strong>Eenparige cirkelbeweging</strong>: grootte van \(v\) is constant, maar de richting veranderd continue; \(F_{res} = F_{mpz}\): constant en loodrecht op de bewegingsrichting.</summary><img alt="Een schematische tekening van de snelheid met loodrecht daarop de resulterende kracht" src="eenparige-cirkel.png"></details>
 
 <details class="li"><summary><strong>Vrije val</strong>: \(F_z\) is de enige kracht; daardoor geldt \(a = 9.81 \text{ m/s}^2\).</summary>sorry, geen plaatje :(</details>
 
