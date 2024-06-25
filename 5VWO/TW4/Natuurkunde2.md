@@ -141,7 +141,7 @@ De weerstand van een draad hangt af van:
 
 \\[R_{\text{draad}} = \rho \frac{l}{A} \text{ met } A = \frac{1}{4}\pi d^2\\]
 
-Je ziet in de formule geen T, omdat het per materiaal verschilt hoe de draad op temperatuur reageert. Dit is meegenomen in de soortelijke weerstand (\\(\rho\\)). Let dus wel op dat je de soortelijke warmte van de juiste temperatuur neemt.
+Je ziet in de formule geen T, omdat het per materiaal verschilt hoe de draad op temperatuur reageert. Dit is meegenomen in de soortelijke weerstand (\\(\rho\\)). Let dus wel op dat je de soortelijke weerstand van de juiste temperatuur neemt.
 
 ### Halfgeleiders
 
