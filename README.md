@@ -4,8 +4,13 @@ Dit is een website die ik aan elkaar heb geducktapet voor mijn school shtuff. Ik
 
 Success met leren!
 
-## 5VWO
+## 6VWO
 
+### Periode 1
+
+- [Lading en elektrische velden](6VWO/TW1/Natuurkunde.md)
+
+## 5VWO
 
 ### Periode 4
 
@@ -51,7 +56,6 @@ Success met leren!
 
 ## 4VWO
 
-
 ### Periode 4
 
 - [Hoe werkt nepnieuws en wat kan er tegen gedaan worden?](4VWO/TW4/NLT2.md)
@@ -87,7 +91,6 @@ Success met leren!
 - [H1: Gedrag](4VWO/TW1/Biologie2.md)
 
 ## 3VWO
-
 
 ### Periode 4
 
@@ -139,7 +142,6 @@ Success met leren!
 
 ## 2VWO
 
-
 ### Periode 4
 
 - [Inhoud berekenen](2VWO/TW4/Wiskunde.md)
@@ -159,4 +161,3 @@ Success met leren!
 - [Verlichting](2VWO/TW3/Geschiedenis.md)
 - [Beeldende vormgeving](2VWO/TW3/BV.md)
 - [Voeding](2VWO/TW3/Biologie.md)
-
