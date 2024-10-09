@@ -145,7 +145,7 @@ In een lineare versneller wordt een proton versneld in een aantal cilindervormig
 
 ### Cyclotron
 
-Een cyclotron bestaat uit twee halve cirkels met daarin een spiraalvormige baan voor de deeltjes. Tussen de halve cirkels bevindt zich een elektrisch veld om de deeltjes te versnellen. Door het cyclotron heen gaat een homogeen magnetisch veld dat ervoor zorgt dat de deeltjes in een cirkelbaan blijven.
+Een cyclotron bestaat uit twee halve cirkels (vacuum) met daarin een spiraalvormige baan voor de deeltjes. Tussen de halve cirkels bevindt zich een elektrisch veld om de deeltjes te versnellen. Door het cyclotron heen gaat een homogeen magnetisch veld dat ervoor zorgt dat de deeltjes in een cirkelbaan blijven.
 
 De deeltjes beginnen in het midden en behalen hun maximale snelheid aan de rand van het cyclotron. Tijdens het versnellen krijgen ze een steeds grotere baanstraal (de baanstraal is de Larmorstraal in dit geval), want:
 
@@ -157,7 +157,20 @@ Met cyclotrons kunnen bijvoorbeeld radioactieve stoffen voor tracers geprodceerd
 
 ### Massaspectrometer
 
-TODO
+Met een massaspectrometer kan je de samenstelling van een gas bepalen. Hij werkt zo:
+
+1. De deeltjes uit het gas worden geioniseerd, met allemaal dezelfde lading.
+2. De deeltjes worden dan versneld door een elektrisch veld.
+3. De deeltjes worden afgebogen door een magnetisch veld (in een halve cirkel).
+4. De deeltjes botsen op een detector.
+
+Hoe sterk de deeltjes worden afgebogen (dus de grootte van de Larmorstraal) hangt af van de massa van het deeltje, want:
+
+\\[r = \frac{mv}{Bq}\\]
+
+\\(B\\) en \\(q\\) constant. \\(v\\) is ook constant, want er zijn geen weerstandskrachten (want vacuum). De Larmorstraal is dus evenredig met de massa van het deeltje: zwaardere deeltjes worden sterker afgebogen.
+
+Door de afstand tussen het deeltjeskanon en de botsing op de detector te meten, kan je bepalen wat de massa van het deeltje was. Daarmee kan je vervolgens de samenstelling van het gasmengsel bepalen.
 
 ### Noorderlicht
 
