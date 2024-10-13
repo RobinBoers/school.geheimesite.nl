@@ -2,6 +2,8 @@
 
 set -euo pipefail
 
+required rg
+
 usage() {
     echo "Usage: $(basename $0) <PATH>"
     exit
@@ -13,13 +15,9 @@ case "${1:-}" in
     *) ROOT="$1" ;;
 esac
 
-if [[ "$(uname)" == "Darwin" ]]; then
-    err "MacOS is unsupported"
-fi
-
 function extract_title() {
     local frontmatter=$(awk '/^---/{flag=1; next}/^---/{flag=0}flag' "$1")
-    local title=$(echo "$frontmatter" | grep -oP 'title: \K.*' | tr -d '"')
+    local title=$(echo "$frontmatter" | rg -oP 'title: \K.*' | tr -d '"')
     echo "$title"
 }
 
@@ -28,7 +26,7 @@ function generate_index() {
     local indent=$2
     local index=""
 
-    for item in $(ls -l --group-directories-first "$directory" | sort -k 1,1r -k 9,9r); do
+    for item in $(ls -l "$directory" | sort -k 1,1r -k 9,9r); do
         item="$directory/$item"
 
         if [ -d "$item" ]; then 
@@ -62,3 +60,7 @@ OUT="$ROOT/README.md"
 
 index=$(generate_index "$ROOT" 1)
 echo -e "$index" >> "$OUT"
+
+if has prettier; then
+  prettier --write "$OUT" 2>&1 >/dev/null
+fi
