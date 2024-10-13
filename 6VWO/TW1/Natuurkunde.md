@@ -59,7 +59,7 @@ De \\(r\\) drukt de afstand tussen de _middenpunten_ van de ladingen uit (in het
 
 ## Deeltjesversnellers
 
-In een elektrisch veld kan je deeltjes versnellen. Er is namelijk een constante elektrische kracht op deeltjes in een elektrisch veld. Elektronen versnellen richting de kathode (pluspool) en protonen riching de anode (minpool). De spanning tussen de + en - polen noemen we de versnelspanning (\\(U_v\\)).
+In een elektrisch veld kan je deeltjes versnellen. Er is namelijk een constante elektrische kracht op deeltjes in een elektrisch veld. Elektronen versnellen richting de pluspool en protonen riching de minpool. De spanning tussen de + en - polen noemen we de versnelspanning (\\(U_v\\)).
 
 Bij het versnellen van geladen deeltjes zetten we hun elektrische energie om in kinetische energie. Elektrische energie is een vorm van potentiële energie, omdat het net als gravitatie-energie een gevolg is van de werking van een krachtveld <small>(@Tuur ja ik weet het gravitatie is geen veld maar whatever)</small>.
 
@@ -126,7 +126,7 @@ Door de inluentie bewegen de vrije elektronen naar beneden. Daardoor worden beid
 
 In een röntgenbuis worden elektronen versneld en tegen een (tref)plaatje aan gesmasht, waardoor röntgenstraling ontstaat.
 
-De elektronen komen vrij door het verhitten van de anode, en worden versneld richting de kathode. Hoe harder ze botsen met het trefplaatje, hoe groter de fotonenergie van de röntgen.
+De elektronen komen vrij door het verhitten van de minpool, en worden versneld richting de pluspool. Hoe harder ze botsen met het trefplaatje, hoe groter de fotonenergie van de röntgen.
 
 Je hebt "harde" en "zachte" röntgen. De "hardheid" van röntgenstraling is evenredig met de fotonenergie, en dus ook evenredig met de versnelspanning.
 
