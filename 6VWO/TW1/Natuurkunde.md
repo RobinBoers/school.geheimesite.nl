@@ -101,7 +101,7 @@ Geladen deeltjes in een magnetisch veld worden afgebogen door de Lorentzkracht. 
 
 De richting van de Lorentzkracht kan je ook bepalen aan de hand van de rechterhandregel voor stroomdraden. De stroomrichting gelijk is aan de richting van een positief deeltje, en dus tegengesteld aan de richting van een negatief deeltje.
 
-De Lorentzkracht werkt alleen op *bewegende* deeltjes en staat loodrecht op de snelheid van het deeltje. Daardoor maakt het deeltje een eenparige cirkelbeweging, waarbij geldt:
+De Lorentzkracht werkt alleen op _bewegende_ deeltjes en staat loodrecht op de snelheid van het deeltje. Daardoor maakt het deeltje een eenparige cirkelbeweging, waarbij geldt:
 
 \\[F_l = F_{mpz}\\]
 \\[Bqv = \frac{mv^2}{r} \implies Bqr = mv\\]
@@ -111,7 +111,7 @@ De \\(r\\) van de cirkelbeweging noemen we de Larmorstraal.
 ### Verschillen tussen magnetische (B) en elektrische (E) velden:
 
 - Een elektrisch veld kan een monopool hebben, een magnetisch veld niet.
-- \\(F_l\\) werkt alleen op *bewegende* lading, \\(F_{el}\\) werkt op *alle* lading.
+- \\(F_l\\) werkt alleen op _bewegende_ lading, \\(F_{el}\\) werkt op _alle_ lading.
 - \\(F_{el}\\) werkt in de richting van de snelheid, \\(F_l\\) loodrecht daarop. Daardoor kan een elektrisch veld deeltjes versnellen, maar een magnetisch veld alleen deeltjes afbuigen.
 
 ## Toepassingen
