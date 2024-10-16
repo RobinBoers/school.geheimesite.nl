@@ -163,3 +163,12 @@ De energiebalans is erg afhankelijk van grondgebruik, want:
 - De begroeiing is belangrijk omdat vegatatie zorgt voor meer verdamping.
 - De vochtigheid van de grond is ook belangrijk (Bowen-verhouding).
 -->
+
+```huh
+dus LvE => meer verdamping => minder T stijging (want H lager)
+                (maar ook) => hogere luchtvochtigheid => hogere gevoelstemperatuur
+
+meer planten => meer verdamping => hogere of lagere temperatuur?
+  (maar ook) => minder wind => minder verdamping??
+  (maar ook) => meer schadow => lagere temperatuur
+```
