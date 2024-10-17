@@ -57,6 +57,11 @@ De elektrische kracht op twee deeltjes bereken je met de Coulombwet. Hij werkt e
 
 De \\(r\\) drukt de afstand tussen de _middenpunten_ van de ladingen uit (in het kwadraat omdat de kracht twee kanten op gaat). De \\(f\\) in \\(\text{N} \text{m}^2 \text{C}^{-2}\\) <small>(credits: Tuur)</small> is een constant die je kan vinden in Binas 7A.
 
+Je kan deze formules ook combineren. Je krijgt dan een formule waarmee je gegeven een afstand \\(r\\) tot het middenpunt van een radiaal elektrisch veld, de veldsterkte in een punt kan berekenen:
+
+\\[\vec{E} \cdot q = f \frac{qQ}{r^2}\\]
+\\[\implies \vec{E} = f \frac{Q}{r^2}\\]
+
 ## Deeltjesversnellers
 
 In een elektrisch veld kan je deeltjes versnellen. Er is namelijk een constante elektrische kracht op deeltjes in een elektrisch veld. Elektronen versnellen richting de pluspool en protonen riching de minpool. De spanning tussen de + en - polen noemen we de versnelspanning (\\(U_v\\)).
