@@ -62,6 +62,12 @@ Je kan deze formules ook combineren. Je krijgt dan een formule waarmee je gegeve
 \\[\vec{E} \cdot q = f \frac{qQ}{r^2}\\]
 \\[\implies \vec{E} = f \frac{Q}{r^2}\\]
 
+### Elektrische energie
+
+De elektrische energie (E<sub>el</sub>) is de arbeid van de elektrische kracht:
+
+\\[E_{el} = F_{el} \cdot s = q \vec{E} s\\]
+
 ## Deeltjesversnellers
 
 In een elektrisch veld kan je deeltjes versnellen. Er is namelijk een constante elektrische kracht op deeltjes in een elektrisch veld. Elektronen versnellen richting de pluspool en protonen riching de minpool. De spanning tussen de + en - polen noemen we de versnelspanning (\\(U_v\\)).
