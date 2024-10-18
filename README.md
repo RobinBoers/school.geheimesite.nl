@@ -10,6 +10,7 @@ Success met leren!
 
 - [Lading en elektrische velden](6VWO/TW1/Natuurkunde.md)
 - [Steden & klimaat](6VWO/TW1/NLT.md)
+- [Literature 'n shtuff](6VWO/TW1/Engels.md)
 - [Duits is nog steeds kut](6VWO/TW1/Duits.md)
 
 ## 5VWO
