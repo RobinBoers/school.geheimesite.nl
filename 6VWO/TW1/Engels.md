@@ -20,7 +20,7 @@ title: Literature 'n shtuff
 - Armand doesn't want her anymore, and encourages her to leave.
 - Désirée leaves. She doesn't go home, suicide is hinted. What happens to her, we don't know.
 - Armand burns all Désirée's and the baby's stuff on a Bonfire.
-- Armand finds out his mother was black.
+- Armand finds out his mother was black from a letter she wrote to his dad.
 - Thus he was the non-white parent that "turned the baby black".
 
 ### Characters
@@ -31,7 +31,7 @@ title: Literature 'n shtuff
 
 - **Old Aubigny**: father of Armand, easy-going, not very strict for his slaves.
 
-- **Armand Aubigny**: passionate, high social status, indifferent about social status initially. Inherited the plantation L'Abri, rules it with a iron fist. The baby makes him very happy (partially because it's a boy), and he changes his attitude (he becomes more kind, "softended"). When he finds out the Baby isn't (fully) white, he "hardens" and starts acting mean towards Désirée (he doesn't love her anymore because she hurt him).
+- **Armand Aubigny**: passionate, high social status, indifferent about social status initially. Inherited the plantation L'Abri, rules it with a iron fist. The baby makes him very happy (partially because it's a boy), and he changes his attitude (he becomes more kind, "softended"). When he finds out the baby isn't (fully) white, he "hardens" and starts acting mean towards Désirée (he doesn't love her anymore because she hurt him).
 
 - **Zandrine**: maid at L'Abri, takes care of the baby.
 
@@ -50,11 +50,47 @@ title: Literature 'n shtuff
 
 ### Symbols
 
-- **Stone pillar**: represents Désirée's unknown heritage.
-- **Fine clothes**: represents the wealth of the Aubigny family, and in turn, slavery.
-- **L'Abri**: the plantation represents tradegy, despair; it's not a place you'd want to be: people get treated awfully, the place is "sad-looking", there's unresolved feelings.
-- **Bonfire**: represents Armand's attempt to "purify" himself, to forget Désirée; a cleansing. It also leads to him finding the letters his mother wrote.
+- **Stone pillar:** represents Désirée's unknown heritage.
+- **Fine clothes:** represents the wealth of the Aubigny family, and in turn, slavery.
+- **L'Abri:** the plantation represents tradegy, despair; it's not a place you'd want to be: people get treated awfully, the place is "sad-looking", there's unresolved feelings.
+- **Bonfire:** represents Armand's attempt to "purify" himself, to forget Désirée; a cleansing. It also leads to him finding the letters his mother wrote.
 
 ## Frankenstein
 
-...
+### Plot summary
+
+- The creature escapes from the lab and takes Frankenstein's journal.
+- It ends up in a village and is chased by the villagers.
+- It finds refuge in an hovel nearby a cottage.
+- It watches the cottagers, and likes their kindness towards eachother. They are sad, but it cannot figure out why. After a while, it finds out it's poverty. It tries to help them at night.
+- The creature learns about language and wants to learn it.
+- It develops empathy, and notices Felix is more down than the rest.
+- The creature figures out that books contain written language, conveying information.
+
+---
+
+- Dr. Frankenstein is hiking in the mountains.
+- He walks into the creature there. They are threatening eachother.
+- The creature convinces Frankenstein to hear his story.
+
+### Characters
+
+- **Dr. Frankenstein:** ...
+
+- **The creature:** created by Franeknstein. Exiled and rejected. In a lot of ways like a baby or alien; doesn't know how to read emotions, doesn't know language. Admires humans and wants to be like them, and wants approval and validation<!-- (actually, that sounds more like a teenager LOL)-->. In his head, he develops a (parasocial) relationship with the cottagers (calling them "friends").
+
+- **De Lacy** (old man): father of Felix and Agatha. Blind, lives in the cottage with his children. Is very respected.
+
+- **Felix**:
+
+- ***Agatha*:
+
+### Themes
+
+- **(Power of) Knowledge:** the creature's appearance in mirror starts its self-doubt and self-hate.
+- Solitude
+- Revenge
+- Prejudice
+- Rejection
+- Romanticism
+- **Irony:** the cottagers name the "invisible" hand that helps them a "good spirit", while in reality, the creature resembles more of the devil.
