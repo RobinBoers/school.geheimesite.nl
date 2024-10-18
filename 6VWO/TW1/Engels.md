@@ -59,6 +59,12 @@ title: Literature 'n shtuff
 
 ### Plot summary
 
+- Dr. Frankenstein is hiking in the mountains.
+- He walks into the creature there. They are threatening eachother.
+- The creature convinces Frankenstein to hear his story.
+
+---
+
 - The creature escapes from the lab and takes Frankenstein's journal.
 - It ends up in a village and is chased by the villagers.
 - It finds refuge in an hovel nearby a cottage.
@@ -66,31 +72,83 @@ title: Literature 'n shtuff
 - The creature learns about language and wants to learn it.
 - It develops empathy, and notices Felix is more down than the rest.
 - The creature figures out that books contain written language, conveying information.
+- Sofie arrives, and starts getting language lessons, which the creature also uses to learn the language (French, ew!), which it does well.
+- Felix reads *Ruins of Empires* to Safie (and thus also the creature).
+- The creature finds books in the woods.
+- The creature reads the papers he stole from the lab, and blames Frankenstein for making him so horrendous.
+- It decides he wants to present himself to the cottagers, but wants to wait a few more months.
+- The creatures devises a plan to introduce himself to De Lacy first. It is very nervous.
+- The meeting fails horribly. De Lacy accepts him ("there is something in your words that persuades me that you are sincere"), but when the children come in, the creature gets beaten up and kicked out.
+- The creature thinks the family might still accept him if he approaches them more carefully.
+- The cottage is deserted. Felix comes back and sells the house even tho they cannot afford to live elsewhere.
+- The creature burns the house out of revenge and ruins the garden.
+- Not knowing where to go, it decides to go find Frankenstein in Geneva. <small>(Question: how did it get all the way to France *on foot*, from the lab, if it's such a long journey??)</small>
+- On the way, he saves the life of a girl and gets rewarded for it by being shot.
+- The creature arrives in Geneva.
+- It sees a kid in the woods and hopes to turn him into a companion (thinking children are innocent and non-prejudiced).
+- It murders the kid (choked) because <small>a)</small> it's Frankenstein's brother, and <small>b)</small> he gets rejected <small>(again)</small>.
+- He tries to frame the babysitter for it (by putting a photo from the boys jacket into hers).
 
 ---
 
-- Dr. Frankenstein is hiking in the mountains.
-- He walks into the creature there. They are threatening eachother.
-- The creature convinces Frankenstein to hear his story.
+- The creature demands Frankenstein to create him a wife (Eve). If Frankenstein does not do that, the creature will haunt him for the rest of his life.
+
+---
+
+- Frankenstein does create an Eve, but just before bringing her to life, he destroys her.
+- The creature is mad, and kills both Frankenstein's friend (Henry) and his bride (Elizabeth).
+- Frankenstein decides to hunt the monster down and ends up on a ship in the artic.
+- He dies from a fever. The creature commits suicide.
+
+The whole story is actually told from the perspective of the captain of that ship.
 
 ### Characters
 
-- **Dr. Frankenstein:** ...
+- **Victor Frankenstein:** ...
 
-- **The creature:** created by Franeknstein. Exiled and rejected. In a lot of ways like a baby or alien; doesn't know how to read emotions, doesn't know language. Admires humans and wants to be like them, and wants approval and validation<!-- (actually, that sounds more like a teenager LOL)-->. In his head, he develops a (parasocial) relationship with the cottagers (calling them "friends").
+- **The creature** (nameless): created by Frankenstein. Superhuman. Exiled and rejected. Initially, in a lot of ways like a baby or alien; doesn't know how to read emotions, doesn't know language. Admires humans and wants to be like them, and wants approval and validation<!-- (actually, that sounds more like a teenager LOL)-->. In his head, he develops a (parasocial) relationship with the cottagers (calling them "friends", "protectors", and "his"). He adores and almost worships them. After getting repeatedly rejected, he turns evil.
 
-- **De Lacy** (old man): father of Felix and Agatha. Blind, lives in the cottage with his children. Is very respected.
+- **De Lacy:** old blind man. Lives in the cottage with his children, Felix and Agatha. Is very respected by the them, and plays the guitar a lot.
 
-- **Felix**:
+- **Felix:** young man that lives in the cottage. Works somewhere else during the day. In the beginning of the story he is very sad, but he becomes happy once Safie arrives.
 
-- ***Agatha*:
+- **Agatha:** we don't know a lot about her, but she seems very caring and thoughtful.
+
+- **Safie:** Felix's girlfriend. Married away? (Suggested, because she had "different feelings" when arriving at the cottage, and didn't speak the language initially). Can sing very beautifully; not sure of the significance.
+
+- **William Frankenstein**: the little brother of Frankenstein. Gets murdered by the creature.
+
+- **Dr. Frankenstein (Sr.):** father of Frankenstein. A renowned Syndic (aka works in the government).
+
+### Intertextuality
+
+- From *Ruins of Empires*, the creature learns history, government, religion, nations and society. It also confuses him, because he cannot understand how man can be both beautiful and powerful, as well as cruel.
+
+- From *Sorrows of Werter*, it learns about domestic life, death and darker emotions. It also made him <del>further question himself and the reason for his existence</del> <ins>have an existential crisis</ins>.
+
+- From *Plutarch*, it learns more about society and the importance of perspective and education (the law-givers vs soldiers argument).
+
+- From *Paradise Lost*, the creature learns about religion and spirituality. It however, takes the story as a "true history", rather than fiction. It compares himself to both Adam (being created from nothing and having nothing) and Satan (being neglected and despised).
+
+### Criticisms of society
+
+- Why are people cruel? Why murder?
+- Why inequality in wealth and status? Why property and money so important?
 
 ### Themes
 
-- **(Power of) Knowledge:** the creature's appearance in mirror starts its self-doubt and self-hate.
-- Solitude
-- Revenge
-- Prejudice
-- Rejection
-- Romanticism
-- **Irony:** the cottagers name the "invisible" hand that helps them a "good spirit", while in reality, the creature resembles more of the devil.
+- **(Power of) Knowledge:** the creature's appearance in mirror starts its self-doubt and self-hate. *Ruins of Empires* makes him question himself, since he does not have *anything* (wealth, status, friends), so what *is* he in society? The only thing he has is a horrifying body. Reading *Sorrows of Werter*, he contemplates the significance of his existance (would anyone miss him if he wouldn't exist?), and *Paradise Lost* further solidified his position of an outcast.
+
+- **Solitude and rejection:** the creature is alone and isolated, because he is *literally* one-of-a-kind. Furthermore, he gets rejected by everyone and thus lives in complete isolation.
+
+- **Corruption**: the creature has a well-functioning moral compass throughout the story and is able to empathise with humans. However, as the story progresses, he repeatedly gets rejected and hurt by humans. This turns him evil; leading to revenge.
+
+- **Revenge:** the creature takes revenge (for being emotionally hurt) in three ways: <small>1)</small> burning the cottage down, <small>2)</small> murdering Frankenstein's brother, <small>3)</small> framing the babysitter for it.
+
+- **Prejudice:** throughout the story, characters judge and villainize the creature because of his appearance, with complete disregard for his personality or feelings.
+
+- **Romanticism:** ...
+
+- **Seasons:** the first change represents the arrival of Safie, and for the creature, the mastering of language. Autumn represents the failed attempt to befriend the cottagers. Spring, then, represents new beginnings, and hope for the future (which is quickly crushed tho).
+
+- **Irony:** the cottagers name the "invisible hand" that helps them a "*good spirit*", while in reality, the creature resembles more of the devil. Also, De Lacy says it would be a "true pleasure to be in any way serviceable to a *human creature*".
