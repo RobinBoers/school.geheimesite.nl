@@ -185,7 +185,7 @@ The whole story is actually told from the perspective of the captain of that shi
 - John becomes very famous. Bernard becomes very popular by association, and guards John like some kind of trophy. John feels used, and refuses to show up to one of Bernards parties, causing Bernard to lose all his new-gained social status.
 - Lenina and John go to the "feelies" together; John hates it. Afterwards, they confess they're feelings to eachother, and John has a hard time making a grand gesture in a society where everything is *convient*. Lenina tries to seduce him, but John gets very mad because it reminds him of his mother, which he disapproves of.
 - Linda dies, and John starts a riot at the Hospital for the Dying. Bernard and Helmholtz try to help him; they all get arrested.
-- They get brought to the World Controller and debate the World State. Would you rather be unhappy and free than happy and enslaved for the rest of your life?
+- They get brought to the World Controller and debate the World State.
 - Bernard and Helmholtz are exiled to an island. Helmholtz likes this, as it provides him with more intellectual challenge. Bernard pities himself.
 - John moves to an abondened lighthouse in search of a simpeler lifestyle. He attempts to purify himself by self-flagellation.
 - A paparatzi-filmmaker captures it and turns it into a "feely", causing a media storm around the lighthouse.
@@ -199,30 +199,30 @@ The whole story is actually told from the perspective of the captain of that shi
 - Any strong emotions or feelings are drowned out by a constant stream of entertainment and soma. Furthermore, Solitairy Service is there to make sure no-one steps out of line. Emotions are bad; they undermine social stability. Don't you *want* to be happy, *always*?
 - Relationships and family would cause instability, thus they are forbidden. Everyone belongs to everyone, and humans are (mass) produced in factories. Human childbirth is considered a taboo.
 - Society is centered around consumption. Citizens are encouraged to buy new products instead of repairing broken things. Every free moment is filled up by entertainment, but great care is taken to make sure this entertainment requires as much materials and accessories as possible. Humans themselves are mass-produced and thought of as disposable and replaceble. Mere cogs in the machine that is Society.
-- There's not many laws to enforce these things. Rather, they are enforced through social conditioning and indoctrination. Outcasts are exiled to islands, where they live together with other outcasts, but cannot hurt the social order of the mainland.
 - In the World State, no-one ages, because aging would emphasise the past, and history is forbidden. Citizens are conditioned to be indifferent of death. One day, they suddenly die, and no-one around them is even bothered about it.
+- There cannot be progression or science, because progress would imply the present is not perfected. Technology was needed to establish the World State, but is also a major threat to its continued existance. Science is the search for truth, which undermines the State's control. Therefore, science cannot exist.
+- The totalitarian State is not enforced through violence, but rather through social conditioning and indoctrination. Outcasts are exiled to islands, where they live together with other outcasts, but cannot hurt the social order of the mainland.
+- In Brave New World, there is no place for science, art, literature, love, self-expression. In this totalitarian dystopia, it's not human rights that are lost, but humanity itself.
 
 ### Characters
 
 - **John the Savage:** child of Linda and Thomas, born and raised in the Reservation. Gets bullied in the Reservation for being an "outsider" and because his mom has "had" every man in town. His worldview is based on the works of Shakespeare and traditions he picked up from the tribe he grew up in. He does not fit in anywhere. "He is himself a Shakespearean character in a world where any poetry that does not sell a product is prohibited." His name refers to religion (being baptised).
 - **Henry Foster:** \\(\alpha^+\\) male, works at the Hatchery. Model citizen of the World State.
+- **Fanny Crowne:** \\(\beta^-\\) female, works at the Hatchery. Model citizen of the World State.
 - **Bernard Marx:** \\(\alpha^+\\) male, works at the Hatchery. Outcast from society because of his inferior physique (rumoured to be caused by a mistake during production) and unorthodox ideas about relationships, freedom and individuality. He is frustrated by the World State, not because of any real ideological reason, but more his frustration of not fitting in (but wanting to). His name refers to marxism (critique of capitalism).
 - **Helmholtz Watson:** \\(\alpha^+\\) male, writes for hypnopaedia (sleep) conditioning. His frustration with the World State (on a ideological level) stem from intellectual boredom and lack of meaning. He looks down at Bernard for his petty boasting and moaning. His name means "thinker".
 - **Lenina Crowne:** \\(\beta^+\\) female, works at the Hatchery. There's a constant struggle between her as a person, and her as a conditioned World State citizen; on the one hand she entertains unorthodox ideas like monogamy. She feels attracted to Bernard and John, both unconventional men in the World State. But she also rejects other "anti-social" behaviours when presented them by Bernard, and cannot understand Bernard or John. She also illustrates why strong emotions such as love cause instability in the World State. Her name refers to Lenin (yay, communism again!)
-- **Thomas (Director):** ...
-- **Fanny Crowne:** ...
+- **Thomas:** Director of the Hatchery. A very orthodox citizen, be it for the fact he accidentally had a baby with Linda in Malpais and then lost her there and left without her.
 - **Linda:** Name means "beautiful", but only ugly things happen to her (and her appearance).
-- **Mustapha Mond:**
+- **Mustapha Mond:** gave up on being a scientist to become World Controller. Has a nuanced understanding of literature, science and history, and uses it to defend the values of the World State. Reads the Bible and classical literature, but also censors new, independent ideas. Believes stability and happiness are the ultimate goal for humanity, even if it means we'd have to sacrifice creativity, literature, science, art, and individuality.
 
 ### Themes
 
-- Mass production & industry
-- Totalitarianism
-- Enforced utilitarianism
-- Consumption
-- Happiness and freedom
-- Individuality
-- Power of knowledge
+- **Mass production & consumption:** see Worldbuilding.
+- **Totalitarianism:** see Worldbuilding.
+- **Enforced utilitarianism:** the philosophy of maximizing happiness no matter the means. (Anything that makes you sad is automatically bad, anything that makes you happy is good.) In Brave New World, people are happy because they are conditioned to love their lives. They all suffer from "deliberately incuded attachment disorder" and hypersexuality as a result of conditioning and child abuse--but it makes them happy.
+- **Individuality, Happiness and Freedom/Truth:** in the book, happiness and freedom are presented as opposites. Would you rather be unhappy and free than happy and enslaved for the rest of your life? The prevelant use of soma throughout the story is a form of "willful self-delusion" the characters use to escape the truth of the situations they are in. Truth hurts, so the World State eliminated it. Scientific truth, as well as human truths (love, friendship, family). Because an individual search for truth is a danger to social stability as a whole.
+- **Power of knowledge:** see Worldbuilding.
 
 ### Symbols
 
