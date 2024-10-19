@@ -78,7 +78,7 @@ title: Literature 'n shtuff
 - The creature reads the papers he stole from the lab, and blames Frankenstein for making him so horrendous.
 - It decides he wants to present himself to the cottagers, but wants to wait a few more months.
 - The creatures devises a plan to introduce himself to De Lacy first. It is very nervous.
-- The meeting fails horribly. De Lacy accepts him ("there is something in your words that persuades me that you are sincere"), but when the children come in, the creature gets beaten up and kicked out.
+- The meeting fails horribly. De Lacy accepts him, but when the children come in, the creature gets beaten up and kicked out.
 - The creature thinks the family might still accept him if he approaches them more carefully.
 - The cottage is deserted. Felix comes back and sells the house even tho they cannot afford to live elsewhere.
 - The creature burns the house out of revenge and ruins the garden.
@@ -87,7 +87,7 @@ title: Literature 'n shtuff
 - The creature arrives in Geneva.
 - It sees a kid in the woods and hopes to turn him into a companion (thinking children are innocent and non-prejudiced).
 - It murders the kid (choked) because <small>a)</small> it's Frankenstein's brother, and <small>b)</small> he gets rejected <small>(again)</small>.
-- He tries to frame the babysitter for it (by putting a photo from the boys jacket into hers).
+- He tries to frame the nanny for it (by putting a photo from the boys jacket into hers).
 
 ---
 
@@ -141,7 +141,7 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - **Solitude and rejection:** the creature is alone and isolated, because he is *literally* one-of-a-kind. Furthermore, he gets rejected by everyone and thus lives in complete isolation.
 
-- **Corruption**: the creature has a well-functioning moral compass throughout the story and is able to empathise with humans. However, as the story progresses, he repeatedly gets rejected and hurt by humans. This turns him evil; leading to revenge.
+- **Corruption** (or **Lost innocence**): the creature has a well-functioning moral compass throughout the story and is able to empathise with humans. However, as the story progresses, he repeatedly gets rejected and hurt by humans. This turns him evil; leading to revenge.
 
 - **Revenge:** the creature takes revenge (for being emotionally hurt) in three ways: <small>1)</small> burning the cottage down, <small>2)</small> murdering Frankenstein's brother, <small>3)</small> framing the babysitter for it.
 
@@ -149,6 +149,22 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - **Romanticism:** ...
 
-- **Seasons:** the first change represents the arrival of Safie, and for the creature, the mastering of language. Autumn represents the failed attempt to befriend the cottagers. Spring, then, represents new beginnings, and hope for the future (which is quickly crushed tho).
-
 - **Irony:** the cottagers name the "invisible hand" that helps them a "*good spirit*", while in reality, the creature resembles more of the devil. Also, De Lacy says it would be a "true pleasure to be in any way serviceable to a *human creature*".
+
+### Symbols
+
+- **De Lacy:** the old man represents prejudice, because he cannot see, and thus not judge the creature by, its appearance. Exemplified by the line "there is something in your words that persuades me that you are sincere".
+
+- **Light:** represents birth/creation, discovery and purity. In other places it represents danger, as the creature cannot be seen at day (because humans are mean and pitchforks are sharp).
+
+- **Knowledge:** as creature learns about the world, his "sorrow only increased with the knowledge". It further isolates him and solidifies his position as an outcast. "Of what a strange nature is knowledge! It clings to the mind, when it has once seized on it, like a lichen on the rock." Paradise is being blissfully ignorant; the cursed apple of knowledge casts you out.
+
+- **Fire:** represents the duality of creation and destruction. Fire provides light, but it also burns. It can be seen as a metaphor for the creature, who can be both empathic, "benevolent and good", as well as vengeful and violent. Furthermore, fire can also represent the double-edged nature of knowledge.
+
+- **Ice:** the artic (where the entire story is set) represents isolation, desolation, and (emotional) coldness.
+
+- **The creature:** represents careless science; doing before thinking about the consequences. Once created, the creature terrifies Frankenstein, and (while not inherently evil) it turns violent due to his lack of responsibility, neglect and abandonment by its creator. The creature can also represent marginalised and dehumanized groups in society, and how they are treated.
+
+- **Nature:** vividly described (an example of Romantic elements) in the story, and mirrors the emotions of the characters.
+
+- **Seasons:** the first change represents the arrival of Safie, and for the creature, the mastering of language. Autumn represents the failed attempt to befriend the cottagers. Spring, then, represents new beginnings, and hope for the future (which is quickly crushed tho).
