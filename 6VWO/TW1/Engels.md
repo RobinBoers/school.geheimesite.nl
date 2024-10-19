@@ -2,7 +2,7 @@
 title: Literature 'n shtuff
 ---
 
-*Nog niet helemaal af :))*
+_Nog niet helemaal af :))_
 
 ## Désirée's Baby
 
@@ -73,7 +73,7 @@ title: Literature 'n shtuff
 - It develops empathy, and notices Felix is more down than the rest.
 - The creature figures out that books contain written language, conveying information.
 - Sofie arrives, and starts getting language lessons, which the creature also uses to learn the language (French, ew!), which it does well.
-- Felix reads *Ruins of Empires* to Safie (and thus also the creature).
+- Felix reads _Ruins of Empires_ to Safie (and thus also the creature).
 - The creature finds books in the woods.
 - The creature reads the papers he stole from the lab, and blames Frankenstein for making him so horrendous.
 - It decides he wants to present himself to the cottagers, but wants to wait a few more months.
@@ -82,7 +82,7 @@ title: Literature 'n shtuff
 - The creature thinks the family might still accept him if he approaches them more carefully.
 - The cottage is deserted. Felix comes back and sells the house even tho they cannot afford to live elsewhere.
 - The creature burns the house out of revenge and ruins the garden.
-- Not knowing where to go, it decides to go find Frankenstein in Geneva. <small>(Question: how did it get all the way to France *on foot*, from the lab, if it's such a long journey??)</small>
+- Not knowing where to go, it decides to go find Frankenstein in Geneva. <small>(Question: how did it get all the way to France _on foot_, from the lab, if it's such a long journey??)</small>
 - On the way, he saves the life of a girl and gets rewarded for it by being shot.
 - The creature arrives in Geneva.
 - It sees a kid in the woods and hopes to turn him into a companion (thinking children are innocent and non-prejudiced).
@@ -122,13 +122,13 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ### Intertextuality
 
-- From *Ruins of Empires*, the creature learns history, government, religion, nations and society. It also confuses him, because he cannot understand how man can be both beautiful and powerful, as well as cruel.
+- From _Ruins of Empires_, the creature learns history, government, religion, nations and society. It also confuses him, because he cannot understand how man can be both beautiful and powerful, as well as cruel.
 
-- From *Sorrows of Werter*, it learns about domestic life, death and darker emotions. It also made him <del>further question himself and the reason for his existence</del> <ins>have an existential crisis</ins>.
+- From _Sorrows of Werter_, it learns about domestic life, death and darker emotions. It also made him <del>further question himself and the reason for his existence</del> <ins>have an existential crisis</ins>.
 
-- From *Plutarch*, it learns more about society and the importance of perspective and education (the law-givers vs soldiers argument).
+- From _Plutarch_, it learns more about society and the importance of perspective and education (the law-givers vs soldiers argument).
 
-- From *Paradise Lost*, the creature learns about religion and spirituality. It however, takes the story as a "true history", rather than fiction. It compares himself to both Adam (being created from nothing and having nothing) and Satan (being neglected and despised).
+- From _Paradise Lost_, the creature learns about religion and spirituality. It however, takes the story as a "true history", rather than fiction. It compares himself to both Adam (being created from nothing and having nothing) and Satan (being neglected and despised).
 
 ### Criticisms of society
 
@@ -137,9 +137,9 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ### Themes
 
-- **(Power of) Knowledge:** the creature's appearance in mirror starts its self-doubt and self-hate. *Ruins of Empires* makes him question himself, since he does not have *anything* (wealth, status, friends), so what *is* he in society? The only thing he has is a horrifying body. Reading *Sorrows of Werter*, he contemplates the significance of his existance (would anyone miss him if he wouldn't exist?), and *Paradise Lost* further solidified his position of an outcast.
+- **(Power of) Knowledge:** the creature's appearance in mirror starts its self-doubt and self-hate. _Ruins of Empires_ makes him question himself, since he does not have _anything_ (wealth, status, friends), so what _is_ he in society? The only thing he has is a horrifying body. Reading _Sorrows of Werter_, he contemplates the significance of his existance (would anyone miss him if he wouldn't exist?), and _Paradise Lost_ further solidified his position of an outcast.
 
-- **Solitude and rejection:** the creature is alone and isolated, because he is *literally* one-of-a-kind. Furthermore, he gets rejected by everyone and thus lives in complete isolation.
+- **Solitude and rejection:** the creature is alone and isolated, because he is _literally_ one-of-a-kind. Furthermore, he gets rejected by everyone and thus lives in complete isolation.
 
 - **Corruption** (or **Lost innocence**): the creature has a well-functioning moral compass throughout the story and is able to empathise with humans. However, as the story progresses, he repeatedly gets rejected and hurt by humans. This turns him evil; leading to revenge.
 
@@ -149,7 +149,7 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - **Romanticism:** ...
 
-- **Irony:** the cottagers name the "invisible hand" that helps them a "*good spirit*", while in reality, the creature resembles more of the devil. Also, De Lacy says it would be a "true pleasure to be in any way serviceable to a *human creature*".
+- **Irony:** the cottagers name the "invisible hand" that helps them a "_good spirit_", while in reality, the creature resembles more of the devil. Also, De Lacy says it would be a "true pleasure to be in any way serviceable to a _human creature_".
 
 ### Symbols
 
@@ -175,15 +175,15 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - Educational tour through the Hatchery, students get an explanation of birth, human conditioning and the caste system.
 - Fanny and Lenina discuss relationships ("everyone belongs to everyone"). Meanwhile Bernard angrily overhears a conversation between Henry and another guy about "having" Lenina.
-- Mond explains the of origins of the New World State: strong emotions undermine social stability, so the New World State ensures its citizens stay in line using <small>1)</small> drugs, <small>2)</small> free sex, <small>3)</small> social conditioning to make them *enjoy* their miserable lifes.
+- Mond explains the of origins of the New World State: strong emotions undermine social stability, so the New World State ensures its citizens stay in line using <small>1)</small> drugs, <small>2)</small> free sex, <small>3)</small> social conditioning to make them _enjoy_ their miserable lifes.
 - Bernard participates in Solitairy Service (orgy porgy), but it doesn't make him feel anything. This makes him feel like an outcast.
 - Bernard visits Helmholtz and they express their frustration with the World State. Bernard pities himself for his physique. Helmholtz however, is dissatisfied with the World State because he feels intellectually bored.
-- Bernard goes on a date with Lenina and attempts "deep talk" about freedom and individuality, but she is *not* having it.
-- Bernard asks the Director for permission to take Lenina to Mailpais ("bad lands" in Spanish). The Director (accidentally) tells Bernard about the time *he himself* went there and lost Linda in a storm.
+- Bernard goes on a date with Lenina and attempts "deep talk" about freedom and individuality, but she is _not_ having it.
+- Bernard asks the Director for permission to take Lenina to Mailpais ("bad lands" in Spanish). The Director (accidentally) tells Bernard about the time _he himself_ went there and lost Linda in a storm.
 - Bernard and Lenina meet John and Linda in the Reservation, and decide to take them to London.
 - The Director exile Bernard to an island for being an "enemy of Society", but Bernard counters by showing them John and Linda.
 - John becomes very famous. Bernard becomes very popular by association, and guards John like some kind of trophy. John feels used, and refuses to show up to one of Bernards parties, causing Bernard to lose all his new-gained social status.
-- Lenina and John go to the "feelies" together; John hates it. Afterwards, they confess they're feelings to eachother, and John has a hard time making a grand gesture in a society where everything is *convient*. Lenina tries to seduce him, but John gets very mad because it reminds him of his mother, which he disapproves of.
+- Lenina and John go to the "feelies" together; John hates it. Afterwards, they confess they're feelings to eachother, and John has a hard time making a grand gesture in a society where everything is _convient_. Lenina tries to seduce him, but John gets very mad because it reminds him of his mother, which he disapproves of.
 - Linda dies, and John starts a riot at the Hospital for the Dying. Bernard and Helmholtz try to help him; they all get arrested.
 - They get brought to the World Controller and debate the World State.
 - Bernard and Helmholtz are exiled to an island. Helmholtz likes this, as it provides him with more intellectual challenge. Bernard pities himself.
@@ -196,11 +196,11 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - Caste system: Alpha, Beta, Gamma, Delta, Epsilon. Each caste being dumbded down to perform their "inescapable social destiny".
 - History, knowledge, and art are forbidden, because they would empower citizens to rise up against the World State, and thus undermine social stability.
-- Any strong emotions or feelings are drowned out by a constant stream of entertainment and soma. Furthermore, Solitairy Service is there to make sure no-one steps out of line. Emotions are bad; they undermine social stability. Don't you *want* to be happy, *always*?
+- Any strong emotions or feelings are drowned out by a constant stream of entertainment and soma. Furthermore, Solitairy Service is there to make sure no-one steps out of line. Emotions are bad; they undermine social stability. Don't you _want_ to be happy, _always_?
 - Relationships and family would cause instability, thus they are forbidden. Everyone belongs to everyone, and humans are (mass) produced in factories. Human childbirth is considered a taboo.
 - Society is centered around consumption. Citizens are encouraged to buy new products instead of repairing broken things. Every free moment is filled up by entertainment, but great care is taken to make sure this entertainment requires as much materials and accessories as possible. Humans themselves are mass-produced and thought of as disposable and replaceble. Mere cogs in the machine that is Society.
 - In the World State, no-one ages, because aging would emphasise the past, and history is forbidden. Citizens are conditioned to be indifferent of death. One day, they suddenly die, and no-one around them is even bothered about it.
-- There cannot be progression or science, because progress would imply the present is not perfected. Technology was needed to establish the World State, but is also a major threat to its continued existance. Science is the search for truth, which undermines the State's control. Therefore, science cannot exist.
+- There cannot be progression or science, because progress would imply the present is not already perfected. Technology was needed to establish the World State, but is also a major threat to its continued existance. Science is the search for truth, which undermines the State's control. Therefore, science cannot exist.
 - The totalitarian State is not enforced through violence, but rather through social conditioning and indoctrination. Outcasts are exiled to islands, where they live together with other outcasts, but cannot hurt the social order of the mainland.
 - In Brave New World, there is no place for science, art, literature, love, self-expression. In this totalitarian dystopia, it's not human rights that are lost, but humanity itself.
 
@@ -227,7 +227,7 @@ The whole story is actually told from the perspective of the captain of that shi
 ### Symbols
 
 - **Ford Model T:** symbolizes industry and mass production<!-- (because it's the first mass-produced car in the US)--><!-- and also functions as a way to ridicule religion-->.
-- **Shakespeare:** symbolizes deep feelings, emotions, high art, knowledge and science. The title *Brave New World* is also derived from a Shakespeare play ("The Tempest").
+- **Shakespeare:** symbolizes deep feelings, emotions, high art, knowledge and science. The title _Brave New World_ is also derived from a Shakespeare play ("The Tempest").
 
 ## The Great Gatsby
 
@@ -269,7 +269,7 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ### Themes
 
-- **The American Dream:** the American Dream is the idea that *anyone*, given enough work, can become succesfull (aka rich) in America. In the story, we can see this in literal wealth: "old money" (aka inheriting wealth) and "new money" (aka people who earned it through hard work), and the divide between East and West. Furthermore, Gatsby's quest for Daisy is the personification of the American Dream. <!--Problems like systemic racism and sexism, misogyny, and income inequality can prevent marginalized groups from obtaining the American Dream, and so did the class hierachy between "old" and "new" money prevent Gatsby from building a life with Daisy.-->
+- **The American Dream:** the American Dream is the idea that _anyone_, given enough work, can become succesfull (aka rich) in America. In the story, we can see this in literal wealth: "old money" (aka inheriting wealth) and "new money" (aka people who earned it through hard work), and the divide between East and West. Furthermore, Gatsby's quest for Daisy is the personification of the American Dream. <!--Problems like systemic racism and sexism, misogyny, and income inequality can prevent marginalized groups from obtaining the American Dream, and so did the class hierachy between "old" and "new" money prevent Gatsby from building a life with Daisy.-->
 
 - **Corruption**: the story portrays the corruption of the American Dream. Gatsby's fortune turned out not to be earned through hard word, but by crime. Additionally, the focus (of the ultra rich) seems to be putting wealth on display; it's is no longer building an ideal life with an ideal family, but "getting rich".
 
@@ -280,4 +280,82 @@ The whole story is actually told from the perspective of the captain of that shi
 - **West:** working in businesses for money. It also represents a less wealthy segment of the population.
 - **East:** making money with money, through investing, trading, and complicated financial instruments such as bonds. It represents wealth.
 - **Green light:** symbolizes Gatsby's love for Daisy, and his hopes for the future. Daisy is, just like the green light at the end of her dock, something he can reach toward, but never quite reaches. His love for Daisy can be a metaphor for the American Dream, and thus the green light can be a metaphor for how immigrants see the US.
-- **Dr. TJ Eckleburg's faded eyes:** the eyes on the billboard can represent God staring down at and "judging American society as a moral wasteland." The weathering can represent the breakdown of religious institutions, and the secularisation of society. The weathered advert can also represent the "superficiality of wealth and fame"; Gatsby seemed to have *everything*, but in the end he only has one friend who bothered to call (Nick).
+- **Dr. TJ Eckleburg's faded eyes:** the eyes on the billboard can represent God staring down at and "judging American society as a moral wasteland." The weathering can represent the breakdown of religious institutions, and the secularisation of society. The weathered advert can also represent the "superficiality of wealth and fame"; Gatsby seemed to have _everything_, but in the end he only has one friend who bothered to call (Nick).
+
+## Animal Farm
+
+### Plot summary
+
+- Old Major gives a speech about a dream he had where all animals are equal and the humans gone. He teaches them the song "Beasts of England". He predicts the Rebellion, but does not know when it will come.
+- Old Major dies in his sleep.
+- Napoleon, Snowball and Squealer develop Animalism.
+- The pigs learn to read and write.
+- Mr. Jones loses a lawsuit and develops an alcholism problem.
+- The animals are neglected and hungry, and break out. Mr. Jones tries to get them in order again, but they revolt against him (The Rebellion).
+- The animals decide to make the farmhouse a museum.
+- The pigs paint the Seven Commandments on the wall.
+- Someone has stolen the milk.
+- The other animals try to learn language; some better than others.
+- The Seven Commandments are reduced to 'Four legs good, two legs bad'.
+- Napolean takes the puppies and hides them, the rest of the animals forget about their existance.
+- The pigs take the milk and the apples for themselves.
+- Animal Farm sends out pigeons calling other farms to join them.
+- The neighbouring human farms spread false rumours of the horrible conditions on Animal Farm.
+- The humans try to recapture the farm, but the animals fight them off, thanks to Snowball's defensive strategies (Battle of the Cowshed).
+- The animals create a military decoration, 'Animal Hero, 1st or 2nd Class', which is given to Snowball and Boxer, and also to a sheep that died during the battle.
+- They also establish holidays to remember the Rebellion and the Battle of the Cowshed.
+- Mollie leaves Animal Farm and goes to live on a human farm instead.
+- The pigs now decide all farm policy, but a majority vote of _all animals_ is required to ratify decisions.
+- Snowball begins working on his plans for the windmill.
+- Napoleon opposes said plans.
+- Napoleon overthrows the democratic order of Animal Farm using his army of indoctrinated dogs (no longer puppies, eh). Snowball is exiled.
+- Napolean claims the plans for the windmill were actually his.
+- The farm experiences some setbacks in harvest.
+- Animal Farm begins trading with humans, which is against the principles of Animalism.
+- The pigs go live in the farm house, which was meant to be an uninhabited museum.
+- The pigs also sleep in beds, and changed the 4th commandment to allow it.
+- The pigs get an extra hour sleep now too.
+- The windmill breaks due to a heavy storm. However, Snowball is blamed for supposedly sabotaging it.
+- The harvest fails again. Starvation possibly. Napolean does some tricks to convince the humans things are actually going _better_.
+- Extra food needs to be bought, and the money for that has to come from the sale of the hen's eggs.
+- The hens rebell against Napoleon, but it doesn't work.
+- Napoleon convinces everyone Snowball actually sided with Jones, and casually rewrites the history of Animal Farm.
+- Napolean and his dogs execute other animals at the farm for forced confessions. He changes the commandments to allow it.
+- The animals are sad and sing "Beasts of England". Napoleon bans it.
+- Squealer convinces everyone that stuff is actually going much better than it did under Jones, while in reality, things are going worse.
+- A new song, centered around Napoleon, is written to replace "Beasts of England".
+- The windmill is completed.
+- Napoleon pretends to sell the pile of wood to Pilkington, but the changes his mind at the last moment and sells it to Frederick anyway. They get scammed, the money is fake.
+- The farm is attacked by Frederick. A lot of animals die, and the humans blow the windmill up.
+- The pigs drink alcohol now, and changed the commandments to allow it.
+- The pigs and dogs get more food than the other animals now.
+- Boxer overworks himself. The pigs tell the other animals they sent him to the hospital, but in reality he was slauthered. The pigs use the money to buy more alcohol for themselves.
+- The pigs start walking on two legs and wearing clothes.
+- The Seven Commandments are changed to "All animals are equal, but some are more equal than others".
+- The pigs are now indistinguishable from humans.
+
+### Characters
+
+- **Old Major:** Karl Marx and Vladimir Lenin, the fathers of Communism.
+- **Mr. Jones:** the Russian Tsar in the early 20th century.
+- **Napoleon:** Stalin, who led the Soviet Union.
+- **Snowball:** Trotsky, a rival of Stalinn, exiled from Russia and assasinated on Stalin's order in Mexico.
+- **Squealer:** the Soviet press, which Stalin controller throughout his rule.
+- **The dogs:** the Soviet secret police (KGB).
+- **Mollie:** the selfish and materialistic middle class; bourguousie.
+- **Boxer:** the male working class and peasants of the Soviet Union.
+- **Clover:** the female working class and peasants of the Soviet Union.
+- **Benjamin:** those who were aware of Stalin's unjust and oppresive policies but did nothing to stop them.
+- **Muriel:** educated individuals who are able to interpret what's going on, but cannot do anything.
+- **Mr. Pilkington:** the Allies before WWII.
+- **Mr. Frederick:** the fascist Germans, and Hitler in particular.
+- **The sheep:** the duped citizens of the totalitarian state (disagree: they actually support it).
+
+### Themes
+
+- Totalitarianism
+- Surveillance and opression
+- Inequality
+- Propaganda
+- Revolution
+- Corruption
