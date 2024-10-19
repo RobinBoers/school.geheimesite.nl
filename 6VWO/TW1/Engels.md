@@ -168,3 +168,63 @@ The whole story is actually told from the perspective of the captain of that shi
 - **Nature:** vividly described (an example of Romantic elements) in the story, and mirrors the emotions of the characters.
 
 - **Seasons:** the first change represents the arrival of Safie, and for the creature, the mastering of language. Autumn represents the failed attempt to befriend the cottagers. Spring, then, represents new beginnings, and hope for the future (which is quickly crushed tho).
+
+## Brave New World
+
+### Plot summary
+
+- Educational tour through the Hatchery, students get an explanation of birth, human conditioning and the caste system.
+- Fanny and Lenina discuss relationships ("everyone belongs to everyone"). Meanwhile Bernard angrily overhears a conversation between Henry and another guy about "having" Lenina.
+- Mond explains the of origins of the New World State: strong emotions undermine social stability, so the New World State ensures its citizens stay in line using <small>1)</small> drugs, <small>2)</small> free sex, <small>3)</small> social conditioning to make them *enjoy* their miserable lifes.
+- Bernard participates in Solitairy Service (orgy porgy), but it doesn't make him feel anything. This makes him feel like an outcast.
+- Bernard visits Helmholtz and they express their frustration with the World State. Bernard pities himself for his physique. Helmholtz however, is dissatisfied with the World State because he feels intellectually bored.
+- Bernard goes on a date with Lenina and attempts "deep talk" about freedom and individuality, but she is *not* having it.
+- Bernard asks the Director for permission to take Lenina to Mailpais ("bad lands" in Spanish). The Director (accidentally) tells Bernard about the time *he himself* went there and lost Linda in a storm.
+- Bernard and Lenina meet John and Linda in the Reservation, and decide to take them to London.
+- The Director exile Bernard to an island for being an "enemy of Society", but Bernard counters by showing them John and Linda.
+- John becomes very famous. Bernard becomes very popular by association, and guards John like some kind of trophy. John feels used, and refuses to show up to one of Bernards parties, causing Bernard to lose all his new-gained social status.
+- Lenina and John go to the "feelies" together; John hates it. Afterwards, they confess they're feelings to eachother, and John has a hard time making a grand gesture in a society where everything is *convient*. Lenina tries to seduce him, but John gets very mad because it reminds him of his mother, which he disapproves of.
+- Linda dies, and John starts a riot at the Hospital for the Dying. Bernard and Helmholtz try to help him; they all get arrested.
+- They get brought to the World Controller and debate the World State. Would you rather be unhappy and free than happy and enslaved for the rest of your life?
+- Bernard and Helmholtz are exiled to an island. Helmholtz likes this, as it provides him with more intellectual challenge. Bernard pities himself.
+- John moves to an abondened lighthouse in search of a simpeler lifestyle. He attempts to purify himself by self-flagellation.
+- A paparatzi-filmmaker captures it and turns it into a "feely", causing a media storm around the lighthouse.
+- Lenina comes to the lighthouse and gets assaulted by John.
+- John hangs himself.
+
+### World building
+
+- Caste system: Alpha, Beta, Gamma, Delta, Epsilon. Each caste being dumbded down to perform their "inescapable social destiny".
+- History, knowledge, and art are forbidden, because they would empower citizens to rise up against the World State, and thus undermine social stability.
+- Any strong emotions or feelings are drowned out by a constant stream of entertainment and soma. Furthermore, Solitairy Service is there to make sure no-one steps out of line. Emotions are bad; they undermine social stability. Don't you *want* to be happy, *always*?
+- Relationships and family would cause instability, thus they are forbidden. Everyone belongs to everyone, and humans are (mass) produced in factories. Human childbirth is considered a taboo.
+- Society is centered around consumption. Citizens are encouraged to buy new products instead of repairing broken things. Every free moment is filled up by entertainment, but great care is taken to make sure this entertainment requires as much materials and accessories as possible. Humans themselves are mass-produced and thought of as disposable and replaceble. Mere cogs in the machine that is Society.
+- There's not many laws to enforce these things. Rather, they are enforced through social conditioning and indoctrination. Outcasts are exiled to islands, where they live together with other outcasts, but cannot hurt the social order of the mainland.
+- In the World State, no-one ages, because aging would emphasise the past, and history is forbidden. Citizens are conditioned to be indifferent of death. One day, they suddenly die, and no-one around them is even bothered about it.
+
+### Characters
+
+- **Henry Foster:** \\(\alpha^+\\) male, works at the CHC.
+- **Bernard Marx:** \\(\alpha^+\\) male, works at the CHC. Name refers to marxism (flavour of communism).
+- **Helmholtz Watson:** Name means "thinker".
+- **John the Savage:** Name refers to religion (baptised).
+- **Lenina Crowne:** \\(\beta^+\\) female, works at the CHC. Name refers to Lenin (communism again).
+- Fanny
+- **Linda:** Name means "beautiful", but only ugly things happen to her (and her appearance).
+- Thomas
+- **Mustapha Mond:**
+
+### Themes
+
+- Mass production & industry
+- Totalitarianism
+- Enforced utilitarianism
+- Consumption
+- Happiness and freedom
+- Individuality
+- Power of knowledge
+
+### Symbols
+
+- **Ford Model T:** symbolizes industry and mass production<!-- (because it's the first mass-produced car in the US)--><!-- and also functions as a way to ridicule religion-->.
+- **Shakespeare:** symbolizes deep feelings, emotions, high art, knowledge and science. The title *Brave New World* is also derived from a Shakespeare play ("The Tempest").
