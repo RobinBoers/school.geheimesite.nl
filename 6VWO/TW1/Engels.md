@@ -342,11 +342,13 @@ The whole story is actually told from the perspective of the captain of that shi
 - **Snowball:** Trotsky, a rival of Stalinn, exiled from Russia and assasinated on Stalin's order in Mexico.
 - **Squealer:** the Soviet press, which Stalin controller throughout his rule.
 - **The dogs:** the Soviet secret police (KGB).
+- **Moses:** the Russian Orthodox Church.
 - **Mollie:** the selfish and materialistic middle class; bourguousie.
-- **Boxer:** the male working class and peasants of the Soviet Union.
+- **Boxer:** the male working class and peasants of the Soviet Union; stakhanovite.
 - **Clover:** the female working class and peasants of the Soviet Union.
 - **Benjamin:** those who were aware of Stalin's unjust and oppresive policies but did nothing to stop them.
 - **Muriel:** educated individuals who are able to interpret what's going on, but cannot do anything.
+- **The cat:** opportunistic, underground criminals who persisted after the Rebellion.
 - **Mr. Pilkington:** the Allies before WWII.
 - **Mr. Frederick:** the fascist Germans, and Hitler in particular.
 - **The sheep:** the duped citizens of the totalitarian state (disagree: they actually support it).
