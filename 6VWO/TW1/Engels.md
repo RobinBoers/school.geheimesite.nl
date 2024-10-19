@@ -19,7 +19,7 @@ title: Literature 'n shtuff
 - Désirée writes a letter to her "mom", who replies she can come back (with the baby).
 - Armand doesn't want her anymore, and encourages her to leave.
 - Désirée leaves. She doesn't go home, suicide is hinted. What happens to her, we don't know.
-- Armand burns all Désirée's and the baby's stuff on a Bonfire.
+- Armand burns all Désirée's and the baby's stuff in a Bonfire.
 - Armand finds out his mother was black from a letter she wrote to his dad.
 - Thus he was the non-white parent that "turned the baby black".
 
@@ -204,14 +204,14 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ### Characters
 
-- **Henry Foster:** \\(\alpha^+\\) male, works at the CHC.
-- **Bernard Marx:** \\(\alpha^+\\) male, works at the CHC. Name refers to marxism (flavour of communism).
-- **Helmholtz Watson:** Name means "thinker".
-- **John the Savage:** Name refers to religion (baptised).
-- **Lenina Crowne:** \\(\beta^+\\) female, works at the CHC. Name refers to Lenin (communism again).
-- Fanny
+- **John the Savage:** child of Linda and Thomas, born and raised in the Reservation. Gets bullied in the Reservation for being an "outsider" and because his mom has "had" every man in town. His worldview is based on the works of Shakespeare and traditions he picked up from the tribe he grew up in. He does not fit in anywhere. "He is himself a Shakespearean character in a world where any poetry that does not sell a product is prohibited." His name refers to religion (being baptised).
+- **Henry Foster:** \\(\alpha^+\\) male, works at the Hatchery. Model citizen of the World State.
+- **Bernard Marx:** \\(\alpha^+\\) male, works at the Hatchery. Outcast from society because of his inferior physique (rumoured to be caused by a mistake during production) and unorthodox ideas about relationships, freedom and individuality. He is frustrated by the World State, not because of any real ideological reason, but more his frustration of not fitting in (but wanting to). His name refers to marxism (critique of capitalism).
+- **Helmholtz Watson:** \\(\alpha^+\\) male, writes for hypnopaedia (sleep) conditioning. His frustration with the World State (on a ideological level) stem from intellectual boredom and lack of meaning. He looks down at Bernard for his petty boasting and moaning. His name means "thinker".
+- **Lenina Crowne:** \\(\beta^+\\) female, works at the Hatchery. There's a constant struggle between her as a person, and her as a conditioned World State citizen; on the one hand she entertains unorthodox ideas like monogamy. She feels attracted to Bernard and John, both unconventional men in the World State. But she also rejects other "anti-social" behaviours when presented them by Bernard, and cannot understand Bernard or John. She also illustrates why strong emotions such as love cause instability in the World State. Her name refers to Lenin (yay, communism again!)
+- **Thomas (Director):** ...
+- **Fanny Crowne:** ...
 - **Linda:** Name means "beautiful", but only ugly things happen to her (and her appearance).
-- Thomas
 - **Mustapha Mond:**
 
 ### Themes
@@ -228,3 +228,56 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - **Ford Model T:** symbolizes industry and mass production<!-- (because it's the first mass-produced car in the US)--><!-- and also functions as a way to ridicule religion-->.
 - **Shakespeare:** symbolizes deep feelings, emotions, high art, knowledge and science. The title *Brave New World* is also derived from a Shakespeare play ("The Tempest").
+
+## The Great Gatsby
+
+### Plot summary
+
+- Gatsby and Daisy meet and fall in love in Louisville before Gatsby leaves for the army.
+- Daisy waits for Gatsby to return from the war, but he doesn't. She marries Tom instead.
+- Tom starts cheating with Myrtle.
+- George suspects it, but doesn't know who his wife is cheating with.
+- Gatsby returns and lives an extravagant lifestyle to impress Daisy.
+- Nick moves from the West to the New York (East) and is now neighbours with Gatsby.
+- Tom and Daisy introduce Nick to Jordan and they start a relationship.
+- Nick and Jordan meet Gatsby at one of his Saturday parties.
+- Gatsby asks Jordan to ask Nick to ask Daisy to have a cup of tea together.
+- Nick invites both Gatsby and Daisy to his house. Daisy doesn't know Gatsby is coming.
+- Gatsby and Daisy begin an affair.
+- Tom and Daisy have a fancy dinner. Daisy invites Gatsby, and Tom gets suspicious.
+- Tom tells everyone Gatsby is a criminal, and that his business is merely a front for a criminal operation for bootlegging alcohol (the story takes place during the Prohibition, a period in which alcohol was banned by the federal government).
+- Gatsby loses his temper, causing Daisy to lose faith in him.
+- Gatsby and Daisy go home together (why?). Gatsby lets Daisy drive and she runs over Myrtle.
+- Nick, Jordan, and Tom find out about the accident on their way home.
+- Nick learns from Gatsby that he intends to take the blame.
+- Tom tells George that Gatsby killed his wife.
+- George thinks Gatsby must have been the one his wife was cheating with.
+- George shoots Gatsby by the pool and then commits suicide.
+- The media concludes the murder must have been about Gatsby's criminal background.
+- Nick has a small funeral for Gatsby.
+- Nick breaks up with Jordan and moves West again, because he does not want to be reminded of Gatsby anymore.
+
+### Characters
+
+- **Nick Carraway:** from the East, where his family has "old money", moves West to learn about bond business. He knows Tom from college (Yale) and thus has connections with the more wealthy people in New York. Nick narrates the story.
+- **Gatsby:** neighbours with Nick. In love with Daisy, but missed out on marrying her. Now attempts to get back in touch with her (which is why he bought the house). Made his money with his own business ("new money"), which turns out to be a front for a criminal organisation.
+- **Tom Buchanan:** comes from a wealthy family (old money). Daisy's husband. Great football player, reached his peak at around age 21; the rest of his life would be an "anti-climax". This makes him a restless character.
+- **Daisy:** love interest of Gatsby, cousin of Nick, married to Tom.
+- **Jordan Baker:** Nick's girlfriend.
+- **Myrtle Wilson:** misstress of Tom.
+- **George Wilson:** husband of Myrtle, owner of tank station. Murders Gatsby in the end.
+
+### Themes
+
+- **The American Dream:** the American Dream is the idea that *anyone*, given enough work, can become succesfull (aka rich) in America. In the story, we can see this in literal wealth: "old money" (aka inheriting wealth) and "new money" (aka people who earned it through hard work), and the divide between East and West. Furthermore, Gatsby's quest for Daisy is the personification of the American Dream. <!--Problems like systemic racism and sexism, misogyny, and income inequality can prevent marginalized groups from obtaining the American Dream, and so did the class hierachy between "old" and "new" money prevent Gatsby from building a life with Daisy.-->
+
+- **Corruption**: the story portrays the corruption of the American Dream. Gatsby's fortune turned out not to be earned through hard word, but by crime. Additionally, the focus (of the ultra rich) seems to be putting wealth on display; it's is no longer building an ideal life with an ideal family, but "getting rich".
+
+- **Honesty & Betrayal:** there's a lot of lying in the story. Gatsby's past; criminality; affairs; secrets.
+
+### Symbols
+
+- **West:** working in businesses for money. It also represents a less wealthy segment of the population.
+- **East:** making money with money, through investing, trading, and complicated financial instruments such as bonds. It represents wealth.
+- **Green light:** symbolizes Gatsby's love for Daisy, and his hopes for the future. Daisy is, just like the green light at the end of her dock, something he can reach toward, but never quite reaches. His love for Daisy can be a metaphor for the American Dream, and thus the green light can be a metaphor for how immigrants see the US.
+- **Dr. TJ Eckleburg's faded eyes:** the eyes on the billboard can represent God staring down at and "judging American society as a moral wasteland." The weathering can represent the breakdown of religious institutions, and the secularisation of society. The weathered advert can also represent the "superficiality of wealth and fame"; Gatsby seemed to have *everything*, but in the end he only has one friend who bothered to call (Nick).
