@@ -2,9 +2,9 @@
 title: SQL
 ---
 
-SQL staat voor _Structured Query Language_. Het is een taal om informatie in en uit databases te halen. Een database is te vergelijken met een spreadsheet (omdat spreadsheets eigenlijk gebaseerd zijn op databases). Het is een collectie tabellen. Een tabel heeft kolommen, zoals "Naam", "Email", "Geboortedatum", "Bio" etc. en rijen. 
+SQL staat voor _Structured Query Language_. Het is een taal om informatie in en uit databases te halen. Een database is te vergelijken met een spreadsheet (omdat spreadsheets eigenlijk gebaseerd zijn op databases). Het is een collectie tabellen. Een tabel heeft kolommen, zoals "Naam", "Email", "Geboortedatum", "Bio" etc. en rijen.
 
-De rijen noem je soms entities of results. De kolommen noem je soms keys of velden. 
+De rijen noem je soms entities of results. De kolommen noem je soms keys of velden.
 
 ## Opbouw van een query
 
@@ -88,7 +88,7 @@ x <= y    # x smaller or equal to y
 
 Je kan voorwaarden ook combineren:
 
-```
+```sql
 a AND b
 c OR d
 ```
@@ -97,7 +97,7 @@ c OR d
 
 Als een kolom geen waarde bevat zie je `NULL` staan. `NULL` is dus eigenlijk het gebrek aan inhoud. Als je moet werken met de waarde `NULL` gebruik je `IS` (`NOT`):
 
-```
+```sql
 x IS NULL
 x IS NOT NULL
 ```
@@ -158,7 +158,7 @@ FROM `employees`;
 
 Maar dit wel (`ORDER BY` komt hierna):
 
-```sql 
+```sql
 SELECT 12 * `salary` AS `jaarsalaris` 
 FROM `employees`
 ORDER BY `jaarsalaris`;
@@ -182,7 +182,7 @@ SELECT `first_name` FROM `employees` SORT BY `salary`;
 
 Je kan bij sorteren ook een eerder berekende variable gebruiken, zoals je zag bij `AS`:
 
-```sql 
+```sql
 SELECT 12 * `salary` AS `jaarsalaris` 
 FROM `employees`
 ORDER BY `jaarsalaris`;
@@ -241,26 +241,34 @@ Met functies kan je een waarde veranderen. Een functie is zoals een wiskundige f
 
 ## Grouping
 
-In de queries hiervoor haalden we steeds een aantal rijen uit de database, en kozen we steeds hoe we ze wilden weergeven. "Plak de voor en achternaam aan elkaar", "maak hier hoofdletter van", "bereken een jaarsalaris" enz. Dat ging per rij. De queries hierna gaan over het *samenvoegen van meederen rijen*. Dat noemen we grouping.
+In de queries hiervoor haalden we steeds een aantal rijen uit de database, en kozen we steeds hoe we ze wilden weergeven. "Plak de voor en achternaam aan elkaar", "maak hier hoofdletter van", "bereken een jaarsalaris" enz. Dat ging per rij. De queries hierna gaan over het _samenvoegen van meederen rijen_. Dat noemen we grouping.
 
 Je hebt een aantal functies die rijen kunnen groeperen:
 
 - `AVG`: een gemiddelde uitrekenen van alle rijen.
 
-    SELECT AVG(`salary`);
+  ```sql
+  SELECT AVG(`salary`);
+  ```
 
 - `MIN` and `MAX`: laat het grootste of kleinste van alle rijen zien.
 
-    SELECT MIN(`salary`);
-    SELECT MAX(`salary`);
+  ```sql
+  SELECT MIN(`salary`);
+  SELECT MAX(`salary`);
+  ```
 
 - `SUM`: laat de som van alle rijen zien.
 
-    SELECT SUM(`salary`);
+  ```sql
+  SELECT SUM(`salary`);
+  ```
 
 - `DISTINCT`: laat elke waarde op een veld maar één keer zien.
 
-    SELECT DISTINCT `job_title`;
+  ```sql
+  SELECT DISTINCT `job_title`;
+  ```
 
 <!-- Als je een grouping functie gebruikt krijg één of meer "rijen" terug, die eigenlijk een collectie/optelling/gemiddelde van meerdere rijen zijn. -->
 
@@ -292,17 +300,17 @@ De bovenste query zorgt ervoor dat in het gemiddelde salaris alleen salarissen v
 
 ## `CASE`
 
-Een `CASE` statement is een hele lange functie die een waarde in een andere kan veranderen. Je geeft hem *iets* als input (dit kan een veld, maar ook bijv. een functie zijn), en hij gaat alle vertakkingen tot er één matcht. Hij poept dan de waarde achter de match uit.
+Een `CASE` statement is een hele lange functie die een waarde in een andere kan veranderen. Je geeft hem _iets_ als input (dit kan een veld, maar ook bijv. een functie zijn), en hij gaat alle vertakkingen tot er één matcht. Hij poept dan de waarde achter de match uit.
 
 Dit noemen we pattern matchen.
 
 ```sql
 SELECT `first_name`, CASE `manager_id` 
-	WHEN 100 THEN 'Steven King'
+  WHEN 100 THEN 'Steven King'
     WHEN 101 THEN 'Nina Kochar'
     WHEN 102 THEN 'Lex de Haan'
     WHEN 103 THEN 'Alexander Hunold' 
- 	WHEN 124 THEN 'Kevin Mourgos'
+  WHEN 124 THEN 'Kevin Mourgos'
     WHEN 149 THEN 'Eleni Zlotkey'
     WHEN 201 THEN 'Micael Hartstein'
     WHEN 203 THEN 'Shelley Higgins'
@@ -313,19 +321,23 @@ SELECT `first_name`, CASE `manager_id`
 
 Een veld/kolom in een database kan verschillende soorten data bevatten. Wat voor soort data een kolom bevat staat vantevoren al vast. Het kan niet zo zijn dat rij 1 in een kolom een string (stukje tekst) bevat en rij 2 een datum.
 
-- `INT`: een heel getal. Kan SIGNED (-128-127) of UNSIGNED (0-255) zijn.
+### Getallen
+
+- `INT`: een heel getal. Kan `SIGNED` (-128-127) of `UNSIGNED` (0-255) zijn.
 - `FLOAT`: kommagetal met weinig decimalen.
 - `DOUBLE`: kommagetal met veel decimalen.
+  
+### Tekst
 
 - `CHAR`: string met een vaste lengte; max 255 chars.
 - `TINYTEXT`, `VARCHAR`: string met max 255 chars.
 - `TEXT`: string met max ~6000 chars.
 
+### Data & tijd
+
 - `DATE`
 - `TIME`
 - `DATETIME`
-
----
 
 ## Example queries
 
@@ -336,34 +348,42 @@ SELECT
   CONCAT('$', `salary` * 12 + 1.8 * `salary` * 12) AS `jaarsalaris`
 FROM `employees`
 WHERE 
-	(`first_name` LIKE '%a' OR `last_name` LIKE 'de%')
+  (`first_name` LIKE '%a' OR `last_name` LIKE 'de%')
     AND (
-        	(`salary` BETWEEN 4000 AND 7000 
-         	AND `bonus` IS null)
-    		OR `salary` > 10000
+          (`salary` BETWEEN 4000 AND 7000 
+           AND `bonus` IS null)
+        OR `salary` > 10000
         );
+```
 
+```sql
 SELECT CONCAT(`first_name`, ' ', `last_name`) AS `personeelslid`, `department_id` AS `afdeling`
 FROM `employees`
 WHERE MOD(`department_id` / 10, 2) = 0
 ORDER BY `afdeling` DESC,
-		 `last_name` ASC;
+     `last_name` ASC;
+```
 
+```sql
 SELECT CONCAT(SUBSTR(`first_name`, 1, 1), '. ', `last_name`) AS `medewerker`, `hire_date` AS `datum in dienst`
 FROM `employees`
 WHERE DAY(`hire_date`) = 17
 ORDER BY `hire_date`;
+```
 
+```sql
 SELECT CONCAT('company bv.  ', `street_address`, '  ', `postal_code`, ' ', UPPER(`city`), ' ', CASE `country_id`
-	WHEN 'US' THEN 'United States'
+  WHEN 'US' THEN 'United States'
     WHEN 'UK' THEN 'United Kingdom'
     WHEN 'GER' then 'Germany'
     WHEN 'CA' THEN 'Canada'
 END) AS `address`
 FROM  `locations`;
+```
 
+```sql
 SELECT CASE `department_id` 
-	     WHEN 10 THEN 'Administration'
+       WHEN 10 THEN 'Administration'
          WHEN 20 THEN 'Marketing'
          WHEN 50 THEN 'Shipping'
          WHEN 60 THEN 'IT'
@@ -372,12 +392,62 @@ SELECT CASE `department_id`
          WHEN 110 THEN 'Accounting'
          WHEN 190 THEN 'Contracting'
          ELSE 'Onbekend'
-	   END AS `afdeling`,
-	   CONCAT('$', ROUND(AVG(`salary`), 2)) AS `gemiddeld salaris`,
+     END AS `afdeling`,
+     CONCAT('$', ROUND(AVG(`salary`), 2)) AS `gemiddeld salaris`,
        CONCAT('$', ROUND(SUM(`salary`), 2)) AS `totaal salaris`,
-	   COUNT(`employee_id`) AS `aantal personeelsleden`
+     COUNT(`employee_id`) AS `aantal personeelsleden`
 FROM `employees`
 GROUP BY `department_id`
 HAVING `gemiddeld salaris` < 10000 AND `aantal personeelsleden` > 3;
 ```
 
+```sql
+SELECT d.department_name AS `department`, SUM(e.salary) AS `total` FROM employees AS e LEFT JOIN departments AS d ON d.department_id = e.department_id GROUP BY e.department_id
+UNION
+SELECT d.department_name AS `department`, SUM(e.salary) AS `total` FROM employees AS e RIGHT JOIN departments AS d ON d.department_id = e.department_id GROUP BY e.department_id;
+```
+
+```sql
+SELECT CONCAT(e.first_name, " ", e.last_name) AS `name`, CONCAT(l.street_address, ' ', l.postal_code, ' ', l.city, ' ', c.country_name) AS `locations` FROM `employees` AS e, `departments` AS d, `locations` AS l, `countries` AS c WHERE e.department_id = d.department_id AND d.location_id = l.location_id AND l.country_id = c.country_id;
+```
+
+```sql
+SELECT CONCAT(e.first_name, " ", e.last_name) AS `name`, CONCAT(l.street_address, ' ', l.postal_code, ' ', l.city, ' ', c.country_name) AS `locations` 
+FROM `employees` AS e 
+  JOIN `departments` AS d ON e.department_id = d.department_id
+  JOIN `locations` AS l ON d.location_id = l.location_id
+  JOIN `countries` AS c ON l.country_id = c.country_id;
+```
+
+```sql
+SELECT 
+  CONCAT(SUBSTRING(e.first_name, 1, 1), ". ", e.last_name) AS name, 
+  j.job_title AS title,
+  h.start_date,
+  h.end_date,
+  CONCAT(l.street_address, ' ', l.postal_code, ' ', l.city, ' ', c.country_name) AS location
+FROM `employees` AS e
+  RIGHT JOIN `job_history` AS h ON e.employee_id = h.employee_id
+  JOIN `jobs` AS j ON h.job_id = j.job_id
+  -- use h.department_id, because we want the historical location
+  JOIN `departments` AS d ON h.department_id = d.department_id
+  JOIN `locations` AS l ON d.location_id = l.location_id
+  JOIN `countries` AS c ON l.country_id = c.country_id
+UNION
+(SELECT 
+  CONCAT(SUBSTRING(e.first_name, 1, 1), ". ", e.last_name) AS name, 
+  j.job_title AS title,
+  -- this selects the end date of the last job (which is the start date of the current one)
+  DATE_ADD(MAX(h.end_date), INTERVAL 1 DAY),
+  CURRENT_DATE() as end_date,
+  CONCAT(l.street_address, ' ', l.postal_code, ' ', l.city, ' ', c.country_name) AS location
+FROM `employees` AS e
+  JOIN `job_history` AS h ON e.employee_id = h.employee_id
+  JOIN `jobs` AS j ON h.job_id = j.job_id
+  -- use e.department_id, because we want the current location
+  JOIN `departments` AS d ON e.department_id = d.department_id
+  JOIN `locations` AS l ON d.location_id = l.location_id
+  JOIN `countries` AS c ON l.country_id = c.country_id
+  GROUP BY e.employee_id
+  ORDER BY start_date);
+```

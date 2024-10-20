@@ -4,7 +4,7 @@ title: Maassluis, winter 1960
 
 Maassluis, winter 1960. Unix epoch `-285244000`. Het is koud. IJskoud. Ik stap uit bed. Slechte keuze, het vloerzeil is verschrikkelijk koud en nu zijn mijn voeten bevroren. Ik kleed me aan en hobbel naar beneden. Ik was me aan het aanrecht. Gelukkig is in de woonkamer een kolenkachel en is de kamer dus niet zo koud. Mijn vader is al naar zijn werk. Ik ontbijt en kijk naar buiten. Op het raam zie ik patronen van ijskristallen, prachtig, maar ik zie er wel tegenop om naar buiten te gaan. Ik haat het dat ik op zaterdagen naar school moet.
 
-Na het eten loop ik in een dikke jas naar school. Echt alles is bedekt met een flinke laag witte sneeuw. Als ik op het schoolplein aankom zijn mijn vrienden er al. Ik haast me naar ze toe. We praten wat voordat ik ineens kou langs mijn rug naar beneden voel stromen. Als ik me omdraai land er precies een sneeuwbal op mijn neus. Lachend gooi ik er een terug.
+Na het eten loop ik in een dikke jas naar school. Echt alles is bedekt met een flinke laag witte sneeuw. Als ik op het schoolplein aankom zijn mijn vrienden er al. Ik haast me naar ze toe. We praten wat voordat ik ineens kou langs mijn rug naar beneden voel stromen. Als ik me omdraai landt er precies een sneeuwbal op mijn neus. Lachend gooi ik er een terug.
 
 Na school loop ik met wat vrienden richting huis. Best lang lopen, maar een fiets vinden mijn ouders niet nodig. Hebben we ook geen geld voor overigens. Om half vijf ga ik naar Eva om met de rest van de kinderen uit onze buurt naar de tv te kijken. We krijgen een glas limonade en kijken naar de uitzending op het piepkleine beeldschermpje.
 
