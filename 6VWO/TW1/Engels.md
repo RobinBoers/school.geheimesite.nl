@@ -55,6 +55,20 @@ _Nog niet helemaal af :))_
 - **L'Abri:** the plantation represents tradegy, despair; it's not a place you'd want to be: people get treated awfully, the place is "sad-looking", there's unresolved feelings.
 - **Bonfire:** represents Armand's attempt to "purify" himself, to forget Désirée; a cleansing. It also leads to him finding the letters his mother wrote.
 
+### Discussion questions
+
+- **Do you think Desiree would be okay with being part black if it did not mean that Armand would end the relationship?** I think she would not be okay with it. To understand this, we need to look at her reaction when she figures out the baby is non-white. "the blood turned like ice in her veins", "she stayed motionless, with rave riveted upon her child, and her face the picture of fright". When accused of being non-white, she "laughed hysterically" and "sent a despairing letter" to her adoption mother. From her reaction and following behaviour, we can conclude that being part black scares her. This takes place before Armand ends their relationship for good, so that cannot already have been on her mind. Maybe if she would have grown up in a more accepting environment, she would not have minded, but in the environment she is in, being black scares her. Therefore, I conclude she would not be okay with it.
+
+- **In what way is Madame Valmondé an atypical character in this story?** Madame Valmondé is an atypical character because of her unconditional love for Désirée. Where other characters turn away in disgust when they find out Désirée is supposedly non-white, her mother fully accepts her, writing "My own Désirée: Come home to Valmondé; back to your mother who loves you. Come with your child." This is even more suprising, given Désirée is not her own child, but adopted. Many characters from the same period would have disowned or sent away Désirée, as Armand did. However, Madame Valmondé did none of that. Instead, she unconditionally loves Désirée, despite potential race "issues", and that makes her atypical for the time period the story is set in.
+
+- **Did Armand Aubigny know about his heritage all along?** I think Armand did not know. Had he known, he might still have accused her for being part black as a method of cleansing his own reputation, in a way covering up his own heritage. However, in the story, we read he stopped loving her for the "unconscious shame she brought upon his home and his name." This suggests he does actually sincerly believe Désirée is the cause of the baby being non-white, because he is emotionally impacted by it. Therefore, I think he did not know about his own heritage before reading the letter at the end of the story.
+
+- **There are some hints in the story that point to the ending. What are these points?** "She scanned the baby narrowly, and then loocked searchingly ad Zadrine. 'Yes, the baby has grown; has changed.'", "Look at my hand, whiter than your, Armand."
+
+- **Who is La Blanche and how is she important to the story?** La Blanche is a black slave at L'Abri, who is hinted to have had a sexual relationship with Armand. She is a relevant character because her son being a quadroon implies Armand is partially black (\\(\frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}\\)).
+
+- **How is racial prejudice or black inferiority represented in the story?** Racial prejudice and black inferiority is represented in the story in multiple ways. First off, the precense of slavery in the story. There is a clear social class difference and power imbalance between slaves and their masters. Furthermore, the visitors looking at the baby like some sort of "curiousity" and the rumours are also clear indicators of the sentiment at the time. Lastly, Armand rejecting Désirée and their son is also clearly a sign of racial prejudice.
+
 ## Frankenstein
 
 ### Plot summary
@@ -169,6 +183,12 @@ The whole story is actually told from the perspective of the captain of that shi
 
 - **Seasons:** the first change represents the arrival of Safie, and for the creature, the mastering of language. Autumn represents the failed attempt to befriend the cottagers. Spring, then, represents new beginnings, and hope for the future (which is quickly crushed tho).
 
+### Discussion questions
+
+- **What is the role of knowledge in Frankenstein?** In Frankenstein, knowledge is .... Once learned, knowledge cannot be easily, unlearned, as noted by the creature in the line "Of what a strange nature is knowledge! It clings to the mind, when it has once seized on it, like a lichen on the rock." Knowledge of society, history, government, family and birth only further and further solidify his position as an outcast. One can conclude that paradise is being blissfully ignorant; the cursed apple of knowledge casts you out.
+
+- **What is needed to be happy according to the creature?** According to the creature, emotional connection is a requirement for happiness. For most of the story, his wish is introducing himself to the cottagers and getting acquinted with them. After getting repeatedly rejected by humans, he turns to Frankenstein with the request of making him a fellow-creature. His suffering is caused by his solitude and lack of connection. His biggest desire is thus being accepted by others; to fit in and be seen.
+
 ## Brave New World
 
 ### Plot summary
@@ -281,6 +301,10 @@ The whole story is actually told from the perspective of the captain of that shi
 - **East:** making money with money, through investing, trading, and complicated financial instruments such as bonds. It represents wealth.
 - **Green light:** symbolizes Gatsby's love for Daisy, and his hopes for the future. Daisy is, just like the green light at the end of her dock, something he can reach toward, but never quite reaches. His love for Daisy can be a metaphor for the American Dream, and thus the green light can be a metaphor for how immigrants see the US.
 - **Dr. TJ Eckleburg's faded eyes:** the eyes on the billboard can represent God staring down at and "judging American society as a moral wasteland." The weathering can represent the breakdown of religious institutions, and the secularisation of society. The weathered advert can also represent the "superficiality of wealth and fame"; Gatsby seemed to have _everything_, but in the end he only has one friend who bothered to call (Nick).
+
+### Discussion questions
+
+- **What is the significance of the title "The Great Gatsby"? How does it reflect the themes and characters in the story?** 
 
 ## Animal Farm
 

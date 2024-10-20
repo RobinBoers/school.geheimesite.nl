@@ -155,7 +155,7 @@ De Bowen-verhouding (\\(\beta\\)) is \\(H / L_v E\\) en hangt af van de vochtigh
 
 Je moet maar een beetje gokken welke waarde je moet hebben want NLT is een kutvak volledig gebaseerd op emperische bullshit.
 
-<!-- De opwarming van lucht zorgt voor een verticale luchtstroom (convectie), omdat warme lucht stijgt. Daardoor mengt de warme lucht met de koude lucht erboven, waardoor er een grenslaag ontstaat (tussen de grond en de koude lucht hoog in de atmosfeer). De hoogte van die grenslaag wordt bepaald door de grootte van \\(H\\). -->
+<!-- De opwarming van lucht zorgt voor een verticale luchtstroom (convectie of advectie), omdat warme lucht stijgt. Daardoor mengt de warme lucht met de koude lucht erboven, waardoor er een grenslaag ontstaat (tussen de grond en de koude lucht hoog in de atmosfeer). De hoogte van die grenslaag wordt bepaald door de grootte van \\(H\\). -->
 
 <!--### Grondgebruik
 
@@ -191,7 +191,7 @@ Hoe dichter bij de grond, hoe meer wrijving van de grond de wind ondervindt. Daa
 
 <details open>
 <summary>Ruwheidslengte</summary>
-Dit is een lengte omdat natuurkundigen weird zijn en geen eenheden in een logaritme willen. Het heeft verder <em>helemaal niks</em> met lengte te maken.
+Dit is een lengte omdat natuurkundigen weird zijn en geen eenheden in een logaritme willen ("altijd een dimensieloze grootheid voor een ln"). Het heeft verder <em>helemaal niks</em> met lengte te maken.
 </details>
 
 Voor de windsnelheid (\\(U\\)) op hoogte \\(z\\), gebruiken we het **windprofiel**:  
@@ -199,7 +199,7 @@ Voor de windsnelheid (\\(U\\)) op hoogte \\(z\\), gebruiken we het **windprofiel
 
 \\[U = \frac{u_*}{k} \ln(\frac{z}{z_0}) \ \ \text{ of } \ \ v_{wind} = \frac{v_w}{k} \ln(\frac{h}{l_r})\\]
 
-In de formule, is de Von Karman constante (\\(k\\)) \\(\simeq 0.4\\). De wrijvingssnelheid (\\(u_*\\)) hangt af van de wrijvingskracht van de wind. De formule geldt niet tussen bomen of gebouwen.
+In de formule, is de Von Karman constante (\\(k\\)) \\(\simeq 0.4\\). De wrijvingssnelheid (\\(u_*\\)) is een maat voor de turbulentie en hangt af van de wrijvingskracht van de wind. De formule geldt niet tussen bomen of gebouwen.
 
 ## Luchtvochtigheid
 
