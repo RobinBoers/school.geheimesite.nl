@@ -2,32 +2,6 @@
 title: Lading en elektrische velden
 ---
 
-<style>
-details.li {
-  margin-left: 1.25em;
-}
-
-details:not(.li) {
-  margin-left: .5em;
-  padding: .5em;
-  background: light-dark(#ededed, #00000033);
-  font-style: italic;
-  opacity: .8;
-  margin-bottom: .2em;
-
-  & summary {
-    cursor: pointer;
-    user-select: none;
-    -webkit-user-select: none;
-    font-weight: bolder;
-  }
-
-  & :last-child {
-    margin-bottom: 0;
-  }
-}
-</style>
-
 ## Elektrische velden
 
 Geladen deeltjes met tegengestelde ladingen trekken elkaar aan. Deeltjes met gelijke ladingen stoten elkaar af. Die aantrekking/afstoting kan je uitbeelden met een elektrisch veld, vergelijkbaar met hoe we dat ook doen met magnetische velden.

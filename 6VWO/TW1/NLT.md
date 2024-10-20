@@ -86,6 +86,8 @@ Kortgolvige straling komt dus van de zon. Langgolvige straling komt van:
 - **Op een bewolkte dag**: \\(\Delta L \simeq 0 \implies\\) er is een balans tussen in- en uitgaande straling.
 - **Op een heldere dag**: \\(\Delta L \le 0 \implies\\) de aarde zendt meer langgolvige straling uit dan hij ontvangt (uit de atmosfeer).
 
+In steden is (de naar beneden-gerichte component van) de langgolvige straling van hoge gebouwen en bomen ook een factor. Hoe minder van de hemel zichtbaar is, hoe meer langgolvige straling er dus is. Je kan dit zien met een fisheye-lens.
+
 ### Stralingsbalans
 
 De stralingsbalans is het evenwicht tussen in- en uitgaande straling _aan het aardoppervlak_:
@@ -162,7 +164,6 @@ De energiebalans is erg afhankelijk van grondgebruik, want:
 - De soortelijke warmte van de grond bepaald hoe groot G is.
 - De begroeiing is belangrijk omdat vegatatie zorgt voor meer verdamping.
 - De vochtigheid van de grond is ook belangrijk (Bowen-verhouding).
--->
 
 ```huh
 dus LvE => meer verdamping => minder T stijging (want H lager)
@@ -172,3 +173,47 @@ meer planten => meer verdamping => hogere of lagere temperatuur?
   (maar ook) => minder wind => minder verdamping??
   (maar ook) => meer schadow => lagere temperatuur
 ```
+-->
+
+### Urban Canyon
+
+![](urban-canyon.png)
+
+In een stad komt inkomende (kortgolvige) straling niet direct op de grond, maar wordt eerst tussen de zijkanten van gebouwen weerkaatst. De gebouwen absorberen een deel van de straling en reflecteren de rest. In de situatie hierboven wordt de straling 14x weerkaatst tussen de gebouwen voordat deze terug de atmosfeer in gaat.
+
+De grond en gebouwen absorberen telkens 60% van de straling. Dat betekent dat \\(0.4^{14} \cdot 100 \% = 0.0002 \%\\) van de straling uiteindelijk wordt gereflecteerd. De Urban Canyon als geheel absorbeert dus bijna alle straling; veel meer straling dan de losse muren.
+
+Hoe dieper de canyon, hoe meer warmte er geabsorbeerd wordt.
+
+## Wind
+
+Hoe dichter bij de grond, hoe meer wrijving van de grond de wind ondervindt. Daardoor waait het op grotere hoogte harder. Daarbij maakt de soort ondergrond natuurlijk ook uit; we drukken dit uit met de **ruwheidslengte** (\\(z_0\\)).
+
+<details open>
+<summary>Ruwheidslengte</summary>
+Dit is een lengte omdat natuurkundigen weird zijn en geen eenheden in een logaritme willen. Het heeft verder <em>helemaal niks</em> met lengte te maken.
+</details>
+
+Voor de windsnelheid (\\(U\\)) op hoogte \\(z\\), gebruiken we het **windprofiel**:  
+<small>(de tweede formule is met letters die ik logischer vind)</small>
+
+\\[U = \frac{u_*}{k} \ln(\frac{z}{z_0}) \ \ \text{ of } \ \ v_{wind} = \frac{v_w}{k} \ln(\frac{h}{l_r})\\]
+
+In de formule, is de Von Karman constante (\\(k\\)) \\(\simeq 0.4\\). De wrijvingssnelheid (\\(u_*\\)) hangt af van de wrijvingskracht van de wind. De formule geldt niet tussen bomen of gebouwen.
+
+## Luchtvochtigheid
+
+Water bevindt zich in de vorm van een waterdamp (g) in de lucht. Waterdamp is een gas en oefent dus een druk uit op de omgeving. Dit noemen we de **dampdruk** (\\(e\\)). Hoe meer water er in de lucht zit, hoe hoger de dampdruk.
+
+Er is een limiet aan de hoeveelheid water die zich in de lucht kan bevinden. Als de maximale hoeveelheid water is verdampt, noemen we de lucht **verzadigd**. Als er meer water verdampt, condenseert het gelijk. De dampdruk bij deze maximale hoeveelheid waterdamp noemen we de **verzadigingsdampdruk** (\\(e_s\\)).
+
+De relatieve luchtvochtigheid (\\(RV\\)) geeft aan hoeveel water er zich in de lucht bevindt, tenopzichte van de maximale hoeveelheid:
+
+\\[RV = \frac{e}{e_s} \cdot 100 \%\\]
+
+Bij een hogere temperatuur, wordt de verzadigingsdampdruk hoger. Er kan dan dus meer waterdamp in de lucht zitten.
+
+<details>
+<summary>Let op!</summary>
+Het verband tussen \(T\) en \(e_s\) wordt volgens de module gegeven door de (foutieve) formule 16. We mogen die formule niet gebruiken, dus je moet de waarde uitlezen uit figuur 3.10.
+</details>

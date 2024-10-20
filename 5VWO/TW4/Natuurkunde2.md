@@ -26,30 +26,6 @@ h1:not(:first-child) {
   padding-left: 1em;
   padding-inline-start: 1em;
 }
-
-details.li {
-  margin-left: 1.25em;
-}
-
-details:not(.li) {
-  margin-left: .5em;
-  padding: .5em;
-  background: light-dark(#ededed, #00000033);
-  font-style: italic;
-  opacity: .8;
-  margin-bottom: .2em;
-
-  & summary {
-    cursor: pointer;
-    user-select: none;
-    -webkit-user-select: none;
-    font-weight: bolder;
-  }
-
-  & :last-child {
-    margin-bottom: 0;
-  }
-}
 </style>
 
 <details class="toc" open>
