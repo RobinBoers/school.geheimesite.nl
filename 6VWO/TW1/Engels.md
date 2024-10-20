@@ -393,3 +393,50 @@ Animal Farm is an _allegory_: the entire story parallels and symbolizes the hist
 - The character names
 
 - **The windmill:** represents modernization and progress (parallel to Stalin's Five Year Plan), corruption and the pigs' triumph, since it was built by the other animals, but only benefits the pigs.
+
+## American Born Chinese
+
+### Plot summary
+
+Story 1:
+
+- Monkey king born of rock.
+- Beats the evil tiger spirit and establishes the kingdom.
+- Masters Kung-Fu: fist-like-lightning, thunderous foot, heavenly senses, cloud-as-steed. This makes him immortal.
+- He wants to go to a dinner party for gods and waits in line for _eternity_.
+- He was refused entry because he didn't have shoes.
+- He is embarrased and kills all the other gods.
+- He goes back home, but he now cannot stop to notice the monkey smell.
+
+Story 2:
+
+- Jin Wan arrives at his new school. People mispronounce his name and mistakenly think he is from China, even tho he is from San Francisco.
+- He gets stereotyped, and evades the other Asian kid in his class to prevent being bullied.
+- Some kid called Peter "befriends" Jin, but actually he is just bullying him too.
+- He leaves and never comes back.
+- Wei-Chen arrives, he gets the same treatment Jin did when he arrived.
+- At first, Jin doesn't want to be friends.
+- They become best friends anyway (because Jin liked Wei-Chen's robot).
+
+Story 3:
+
+- Jin gets beat up by _someone_(?)
+- Jin thinks about it in bed, and needs to the "The Truth" to Wei-Chen(?)
+- He decided he wants to become an American.
+- In order to do so, he chooses an new name; Danny. His looks also change to that of a blonde, white boy. This could be metaphorical.  
+(aka it's a change of perspective, did not actually happen; he is now seen like this by the narrater).
+- Danny is making homework with a girl (probably his crush). They are flirting, but at a _crucial_ moment, the arrival Chin-Kee, his cousing, interrupts them.
+- Chin-Kee objectifies Danny's crush and violates her personal space.
+
+In conclusion, the entire story is full of time jumps and it makes no sense whatsoever.
+
+### Themes
+
+- **Stereotypes:** Chin-Kee is a deliberately exaggerated charicature of Chinese people, in appearance, but also speech and manners. The goal is making fun of the stereotype itself. We also see some stereotypical ideas about Asians (eating dogs, married away at 13 etc) referenced in the second story.
+- **Assimilation:** Jin does not fit in in American high school. At the end of the story, he decides he wants to become more American and changes his name, appearance and behaviour to be more like stereotypical American boys. This is an example of assimilation (adjusting to other cultures).
+- **Self-acceptance:** in both stories, the main characters struggle with their identity. The Monkey King cannot be content with being a monkey after being rejected for it. Jin similarly changes his entire identity to become more American.
+- **Racism:** featured throughout the stories; the Monkey King is not let in for being a monkey. Jin and Wei-Chen are both stereotyped, made fun of and bullied. <!--However, we can also see Chin-Kee's behaviour as a form of racism.-->
+
+## Symbolism
+
+- The first story is a metaphor for Jin's story. Like Jin, the Monkey King is also not accepted and cannot fit in. They are both met with rejection and bullying.
