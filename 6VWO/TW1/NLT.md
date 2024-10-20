@@ -259,3 +259,66 @@ Als het warm is geeft de gevoelstemperatuur aan hoe makkelijk het lichaam zijn o
 - In de schaduw is het minder warm, omdat het lichaam niet verder wordt opgewarmd door de zon. Daardoor hoeft het dus minder (extra) warmte af te voeren. (Dit is in de kou een minder grote factor, omdat dan de extra toegevoerde energie relatief weinig is in vergelijking met de (grote) warmtestroom naar de lucht.)
 
 ## Luchtkwaliteit
+
+De atmosfeer bestaat uit 4 lagen:
+
+| Laag        | Temperatuur             | Wat?                              |
+| ----------- | ----------------------- | --------------------------------- |
+| Troposfeer  | daalt tot -40&deg;      | Al het leven & weerverschijnselen |
+| Stratosfeer | stijgt tot 10&deg;      | De ozonlaag                       |
+| Mesosfeer   | daalt tot -75&deg;      |                                   |
+| Thermosfeer | stijgt tot in de ruimte |                                   |
+
+### Mengverhoudingen
+
+Lucht is een mengsel van gassen. Het volumepercentage bepaalt hoeveel procent van de lucht uit een bepaald gas bestaat. Hierbij worden soms andere mengverhoudingen gebruikt, omdat dat praktischer rekenen is:
+
+| Mengverhouding          | Percentage    | Factor           |
+| ----------------------- | ------------- | ---------------- |
+| Procent (%)             | 1%            | 0.01             |
+| Promille (‰)            | 0.1%          | 0.001            |
+| parts p. million (ppm)  | 0.0001%       | 10<sup>-6</sup>  |
+| parts p. billion (ppb)  | 0.0000001%    | 10<sup>-9</sup>  |
+| parts p. trillion (ppb) | 0.0000000001% | 10<sup>-12</sup> |
+
+### (Versterkt) broeikaseffect
+
+Broeikasgassen zijn gassen in de atmosfeer, die langgolvige straling (\\(L_{uit}\\)) onderscheppen en absorberen. Daardoor koelt de aarde niet razendsnel af, en is leven op aarde mogelijk.
+
+Door menselijke uitstoot bevindt er zich nu een overschot aan broeikasgassen in de atmosfeer, waardoor het klimaat opwarmt. Dat noemen we het **versterkt broeikaseffect**.
+
+### Ozonlaag
+
+Ozon in de stratosfeer vormt een beschermende laag rond de aarde (de ozonlaag), die ioniserende UV-straling absorbeert. UV-fotonen (\\(\text{h}\upsilon\\)) veroorzaken namelijk de vorming en afbraak van ozon, in een chemisch evenwicht:
+
+<!--\\[\ce{O2 + h\upsilon -> 2O}.\\]
+\\\ce{O}. \ce{+ O2 -> O3}\\]-->
+<!--\\[\ce{O3 + h\upsilon -> O}. \ce{ + O2}\\]
+\\\ce{O}. \ce{+ O3 -> 2O2}\\]-->
+
+\\[\ce{2O3 <=>[+ h\upsilon] 3O2}\\]
+
+Hierbij komt energie in de vorm van warmte vrij; dat is de reden dat de temperatuur stijgt (tov hoogte) in de stratosfeer.
+
+De uitstoot van CFK's (chloor,fluor-koolwaterstoffen) zorgde in het verleden ook voor de afbraak van stratoferisch ozon, omdat (door zonlicht vrijgekomen) chloorverbindingen als katalysator werkten voor de afbraak van ozon:
+
+\\[\ce{2O3 ->[+ h\upsilon \text{ +}Cl.] 3O2}\\]
+
+Daardoor ontstond er een "gat" (verminderde concentratie) in de ozonlaag boven Antartica.
+
+### Fijnstof
+
+Fijnstof of aërosolen zijn deeltjes met een diameter kleiner dan 10µm (vandaar de afkorting PM10). Het inademen van fijnstof is schadelijk voor de longen, en kan bij kleine kinderen de ontwikkeling van de longen verstoren.
+
+Er zijn wettelijke normen voor de maximale hoeveelheid fijnstof die zich in de lucht mag bevinden, maar die worden vaak overschreden. In de stad is de fijnstofproblematiek het grootst, omdat er veel uitstoot vanuit het verkeer is, en de deeltjes niet makkelijk kunnen worden weggevoerd door de wind, in verband met hoge gebouwen.
+
+### Smog <small>(smoke + fog)</small>
+
+Er zijn twee soorten smog:
+
+- **Wintersmog**: veroorzaakt door de uitstoot van SO<sub>2</sub> en PM10. De smog vormt een deken over de stad, omdat het in de winter vrijwel windstil is.
+
+- **Zomersmog**: veroorzaakt door de vorming van troposferische ozon (uit NO<sub>x</sub>). Ozon in de troposfeer is schadelijk voor de volksgezondheid (oogirritaties en ademproblemen) en fungeert ook als broeikasgas.  
+
+    \\[\ce{NO2 + O2 -> NO + O3}\\]
+
