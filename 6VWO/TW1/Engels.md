@@ -420,8 +420,6 @@ Animal Farm is an _allegory_: the entire story parallels and symbolizes the hist
 
 ### Discussion questions
 
-- **How do the characters in "War Years" navigate the complex feelings of guilt and responsibility?**
-
 - **What role does memory play in shaping the narrative and the characters' actions in the story?** Memories are important in the story. The entire story is told from POV of the memories of the Boy. The way Mom behaves can also be explained by her memories of the famine and journey to the US; her entire life is focussed on surviving. Yet, she's moving on with her life and left the Vietnam War in the past. Mrs. Hoa, on the other hand, is held back by her memories; she's stuck in the past because she hopes her family is still alive, even tho the chance of that being true is pretty slim. This, again, can explain her behaviour. She's desperately fighting for a lost cause. In conclusion, the role of memories indeed, both explains the narrative and actions of the characters in the story.
 
 - **How do the different generational perspectives presented in "War Years" affect the characters' relationships and worldviews?** There is definitely a generational gap in terms of worldviews. The parents of the Boy both lived through the War, and they left it in their past and moved on. For them, the War is over, and spending more energy on it is futile; they'd rather focus on their future. All the Boy knows about the War, however, is from stories and the media. He has not directly experienced the War, and in popular culture, and among the Vietnam community in the US, the War is still very much alive and relevant. Therefore, he does not understand the attitude of his parents with respect to donating to the cause.
