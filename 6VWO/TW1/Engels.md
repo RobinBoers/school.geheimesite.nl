@@ -394,6 +394,31 @@ Animal Farm is an _allegory_: the entire story parallels and symbolizes the hist
 
 - **The windmill:** represents modernization and progress (parallel to Stalin's Five Year Plan), corruption and the pigs' triumph, since it was built by the other animals, but only benefits the pigs.
 
+## War Years
+
+### Plot summary
+
+- Mom's routine is predictable.
+- Mrs. Hoa asks for a contribution for the fight against the Communists. She threatens with rumours and boycotting, but mom gives nothing.
+- Mom tells about her memories of the famine in Vietnam.
+- They talk about the Communists during the evening.
+- The Boy remembers about the time they got robbed and his mom saved, but also embarrased, them.
+- Mrs. Hoa asks about the "donation" again during Church.
+- Mom and the Boy follow Mrs. Hoa home. Mom explains their dire financial situation.
+- Mrs. Hoa comes to ask for the donation again, and when mom denies it, Mrs. Hoa tells the other customers to boycott the shop.
+- Mom goes almost mad and plots a verbal revenge fight with Mrs. Hoa.
+- Mom and the Boy go to Mrs. Hoa's house and confront her.
+- Mrs. Hoa tells them about how she lost her husband and sons to the Communists (even tho she's convinced her husband and one of the sons is are still alive).
+- Mom gives Mrs. Hoa about 200 dollars (which is still 300 short of the requested amount, but ok.) anyway.
+- Mom suprises the Boy by giving him some money to spend at 7-11.
+
+### Themes
+
+- Hope
+- Culture-clash
+- Refugees
+- Assimilation
+
 ## American Born Chinese
 
 ### Plot summary
