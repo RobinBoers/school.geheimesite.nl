@@ -217,3 +217,45 @@ Bij een hogere temperatuur, wordt de verzadigingsdampdruk hoger. Er kan dan dus 
 <summary>Let op!</summary>
 Het verband tussen \(T\) en \(e_s\) wordt volgens de module gegeven door de (foutieve) formule 16. We mogen die formule niet gebruiken, dus je moet de waarde uitlezen uit figuur 3.10.
 </details>
+
+## Gevoelstemperatuur
+
+De gevoelstemperatuur is hoe het klimaat aanvoelt. Dit verschilt van de "echte" (lucht)temperatuur vanwege **warmtestromen**.
+
+Onze lichaamstemperatuur is zo'n 37 graden. Als we verder opwarmen moeten we die extra warmte afvoeren, en als het koud is moeten we onszelf op temperatuur houden. De hoeveelheid warmte die we daarbij afstaan aan de omgeving bepaalt de gevoelstemperatuur.
+
+Er zijn drie belangrijke warmtestromen:
+
+- Warmtetransport naar de lucht rondom het lichaam
+- Verdamping via zweet
+- Uitstraling via langgolvige straling
+
+Deze hangen af van:
+
+- (Lucht)temperatuur
+- Luchtvochtigheid
+- Windsnelheid
+- Inkomende (kortgolvige) straling
+
+### Koudestress of wind chill
+
+Als het koud is geeft de gevoelstemperatuur aan hoeveel energie het lichaam kwijtraakt aan de omgeving. Daarop hebben vooral de (lucht)temperatuur en windsnelheid invloed:
+
+- Hoe kouder het is, hoe sneller het lichaam energie verliest, omdat de \\(\Delta T\\) de grootte van de warmtestroom bepaalt.
+- Als het hard waait wordt de opgewarmde lucht rondom het lichaam constant weggeblazen. Daardoor is er geen isolerende luchtlaag.
+
+Verdamping via zweet en langgolvige straling zijn beide irrelevant, omdat het lichaam volledig bedekt is met kleding.
+
+<small>(In de module staat een formule om de gevoelstemperatuur aan de hand van de wind chill te berekenen.)</small>
+
+### Hittestress
+
+Als het warm is geeft de gevoelstemperatuur aan hoe makkelijk het lichaam zijn overtollige warmte kwijt kan aan de omgeving. Daarop heeft vooral de luchtvochtigheid, windsnelheid en inkomende straling invloed:
+
+- Om warmte kwijt te raken is het lichaam afhankelijk van verdamping via zweten. Als de luchtvochtigheid hoog is, kan er minder verdamping plaatsvinden. Daardoor kan het lichaam minder warmte kwijt, en voelt het dus warmer.
+
+- De windsnelheid kan ervoor zorgen dat de (verzadigde) lucht rondom het lichaam sneller wordt afgevoerd, waardoor er meer verdamping kan plaatsvinden. Ook kan het waterdamp van de huid wegblazen.
+
+- In de schaduw is het minder warm, omdat het lichaam niet verder wordt opgewarmd door de zon. Daardoor hoeft het dus minder (extra) warmte af te voeren. (Dit is in de kou een minder grote factor, omdat dan de extra toegevoerde energie relatief weinig is in vergelijking met de (grote) warmtestroom naar de lucht.)
+
+## Luchtkwaliteit
