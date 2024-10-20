@@ -399,13 +399,13 @@ Animal Farm is an _allegory_: the entire story parallels and symbolizes the hist
 ### Plot summary
 
 - Mom's routine is predictable.
-- Mrs. Hoa asks for a contribution for the fight against the Communists. She threatens with rumours and boycotting, but mom gives nothing.
+- Mrs. Hoa asks for a contribution for the fight against the Communists. She threatens with rumours and boycotting, but Mom gives nothing.
 - Mom tells about her memories of the famine in Vietnam.
 - They talk about the Communists during the evening.
-- The Boy remembers about the time they got robbed and his mom saved, but also embarrased, them.
+- The Boy remembers about the time they got robbed and his Mom saved, but also embarrased, them.
 - Mrs. Hoa asks about the "donation" again during Church.
 - Mom and the Boy follow Mrs. Hoa home. Mom explains their dire financial situation.
-- Mrs. Hoa comes to ask for the donation again, and when mom denies it, Mrs. Hoa tells the other customers to boycott the shop.
+- Mrs. Hoa comes to ask for the donation again, and when Mom denies it, Mrs. Hoa tells the other customers to boycott the shop.
 - Mom goes almost mad and plots a verbal revenge fight with Mrs. Hoa.
 - Mom and the Boy go to Mrs. Hoa's house and confront her.
 - Mrs. Hoa tells them about how she lost her husband and sons to the Communists (even tho she's convinced her husband and one of the sons is are still alive).
@@ -414,10 +414,17 @@ Animal Farm is an _allegory_: the entire story parallels and symbolizes the hist
 
 ### Themes
 
-- Hope
-- Culture-clash
-- Refugees
-- Assimilation
+- **Hope:** Mrs. Hoa is stuck in the past and doesn't know how to move on, because she somewhere still hopes her husband and sons are still alive.
+- **Culture-clash:** between the Vietnam and American cultures. There is a language barrier between the Boy and the Mom. The Boy doesn't know Vietnamese, and doesn't feel like the Vietnamese culture is his own, but he isn't fully American either.
+- **Assimilation:** the Boy has adjusted to American culture; speaking and reading English, reading graphic novels like Superman and eating Western food.
+
+### Discussion questions
+
+- **How do the characters in "War Years" navigate the complex feelings of guilt and responsibility?**
+
+- **What role does memory play in shaping the narrative and the characters' actions in the story?** Memories are important in the story. The entire story is told from POV of the memories of the Boy. The way Mom behaves can also be explained by her memories of the famine and journey to the US; her entire life is focussed on surviving. Yet, she's moving on with her life and left the Vietnam War in the past. Mrs. Hoa, on the other hand, is held back by her memories; she's stuck in the past because she hopes her family is still alive, even tho the chance of that being true is pretty slim. This, again, can explain her behaviour. She's desperately fighting for a lost cause. In conclusion, the role of memories indeed, both explains the narrative and actions of the characters in the story.
+
+- **How do the different generational perspectives presented in "War Years" affect the characters' relationships and worldviews?** There is definitely a generational gap in terms of worldviews. The parents of the Boy both lived through the War, and they left it in their past and moved on. For them, the War is over, and spending more energy on it is futile; they'd rather focus on their future. All the Boy knows about the War, however, is from stories and the media. He has not directly experienced the War, and in popular culture, and among the Vietnam community in the US, the War is still very much alive and relevant. Therefore, he does not understand the attitude of his parents with respect to donating to the cause.
 
 ## American Born Chinese
 
