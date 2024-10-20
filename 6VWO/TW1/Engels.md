@@ -440,3 +440,8 @@ In conclusion, the entire story is full of time jumps and it makes no sense what
 ## Symbolism
 
 - The first story is a metaphor for Jin's story. Like Jin, the Monkey King is also not accepted and cannot fit in. They are both met with rejection and bullying.
+
+## Discussion questions
+
+- **Why do you think the author decided to write American Born Chinese in the form of
+a graphic novel? What is its effect?** By telling the story via a graphic novel, it's way easier for the author to show and ridicule stereotypes and charicatures visually, which would not have been possible had the story been a novel.
