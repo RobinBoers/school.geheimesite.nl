@@ -284,6 +284,8 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ## Animal Farm
 
+Animal Farm is an _allegory_: the entire story parallels and symbolizes the history of the Soviet Union. In essence, the entire story is a metaphor.
+
 ### Plot summary
 
 - Old Major gives a speech about a dream he had where all animals are equal and the humans gone. He teaches them the song "Beasts of England". He predicts the Rebellion, but does not know when it will come.
@@ -361,3 +363,9 @@ The whole story is actually told from the perspective of the captain of that shi
 - Propaganda
 - Revolution
 - Corruption
+
+### Symbols
+
+- The character names
+
+- **The windmill:** represents modernization and progress (parallel to Stalin's Five Year Plan), corruption and the pigs' triumph, since it was built by the other animals, but only benefits the pigs.
