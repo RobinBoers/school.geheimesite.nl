@@ -37,7 +37,7 @@ Het aantal sc. van de molariteit is het aantal decimalen van de pH. (De pH heeft
 3. Stel er wordt \\(x \text{ mol } \ce{HF}\\) omgezet: los op voor \\(K_z = \frac{x^2}{0.100 - x}\\)
 4. \\(\ce{pH = -\log{\ce{[H3O+]}} = -\log{x}}\\)
 
-### Zwakke base (<small>\\(\ce{SO3^{2-}}\\)</small>)
+### Base (<small>\\(\ce{SO3^{2-}}\\)</small>)
 
 1. Stel de reactievergelijking op: \\(\ce{SO3^{2-} + H2O_{(l)} <=> OH- + HSO3+}\\)
 2. Stel de evenwichtsvoorwarde op: \\(K_B = \frac{\ce{[OH-][HSO3+]}}{\ce{[SO3^{2-}]}}\\)
@@ -55,6 +55,15 @@ Het aantal sc. van de molariteit is het aantal decimalen van de pH. (De pH heeft
 
 Afhankelijk van de vraagstelling kan de laatste stap ook vragen naar hoeveel procent er over blijft. Dan neem je natuurlijk \\(\text{omz}\% = \frac{\ce{[HF]}}{\ce{[F-] + [HF]}} \cdot 100\%\\)
 
+## Buffers
+
+Een buffer is een geconjungeerde oplossing waarbij \\(\ce{[F-] \simeq [HF]}\\). Als je daar zuur of base aan toevoegt, verandert het pH nauwelijks. Hoe dichter de concentraties bij elkaar liggen, hoe beter de bufferwerking. De bekendste buffer is bloed.
+
+### pH berekenen
+
+1. \\(k_z = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}}\\)
+2. \\(\ce{[H3O+]} = k_z \frac{\ce{[HF]}}{\ce{F-}}\\)
+3. \\(\ce{pH = -\log{\ce{[H3O+]}}}\\)
 
 ## Oxidatie van alcoholen
 
