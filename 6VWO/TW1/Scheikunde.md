@@ -1,5 +1,5 @@
 ---
-title: Next-level Redox en zuur-base
+title: Redox en zuur-base
 ---
 
 ## Sterke vs zwakke zuren
@@ -44,6 +44,17 @@ Het aantal sc. van de molariteit is het aantal decimalen van de pH. (De pH heeft
 3. Stel er wordt \\(x \text{ mol } \ce{H3O+}\\) omgezet: los op voor \\(K_B = \frac{x^2}{0.100 - x}\\)
 4. \\(\ce{pOH = -\log{\ce{[OH-]}} = -\log{x}}\\)
 5. Reken om naar pH: \\(\ce{pH = 14 - pOH}\\)
+
+## Omzettingspercentage (<small>bij een ingesteld pH</small>)
+
+1. Bereken de \\(\ce{H3O+}\\) concentratie: \\(\ce{[H3O+] = 10^{-pH}}\\)
+2. Stel de reactievergelijking op: \\(\ce{HF_{(aq)} + H2O_{(l)} <=> H3O+ + F-}\\)
+3. Stel de evenwichtsvoorwaarde op: \\(K_z = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}}\\)
+4. Schrijf om: \\(\frac{K_z}{\ce{[H3O+]}} = \frac{\ce{[F-]}}{\ce{[HF]}}\\)
+5. Bereken het omzettingpercentage: \\(\text{omz}\% = \frac{\text{deel}}{\text{geheel}} \cdot 100\% = \frac{\ce{[F-]}}{\ce{[F-] + [HF]}} \cdot 100\%\\)
+
+Afhankelijk van de vraagstelling kan de laatste stap ook vragen naar hoeveel procent er over blijft. Dan neem je natuurlijk \\(\text{omz}\% = \frac{\ce{[HF]}}{\ce{[F-] + [HF]}} \cdot 100\%\\)
+
 
 ## Oxidatie van alcoholen
 
