@@ -2,6 +2,49 @@
 title: Next-level Redox en zuur-base
 ---
 
+## Sterke vs zwakke zuren
+
+- Een **sterk zuur** ioniseert volledig. Alle zuren boven \\(\ce{H3O+}\\) in B48 zijn sterk.  
+  De notatie van sterke zuren is \\(\ce{H3O+ + Cl-}\\)
+
+- Een **zwak zuur** (of geconcentreerd zuur) ioniseert juist niet.  
+  De notatie van zwakke zuren is \\(\ce{HF_{(aq)}}\\)
+
+  <small>(eigenlijk is er een evenwicht, zoals dit: \\(\ce{HF_{(aq)} + H2O_{(l)} <=> H3O+ + F-}\\))</small>
+
+Basen zijn altijd zouten, en een zout lost op (en ioniseert volledig) of niet. Er is daar geen onderscheid tussen sterke en zwakke basen.
+
+<!--De zuur en base die tegenover elkaar staan op één regel in B48 zijn **geconjungeerd**.-->
+
+## pH berekenen
+
+<p style="margin-top: -1em">(Bij een molariteit van \(\ce{0.100 M}\))</p>
+
+### Sterk zuur (<small>\\(\ce{H3O+ + Br-}\\)</small>)
+
+1. \\(\ce{pH = -\log{\ce{[H3O+]}} = -\log{0.100} = 1.000}\\)
+2. Er is geen stap twee
+
+<details open>
+<summary>Let op!</summary>
+Het aantal sc. van de molariteit is het aantal decimalen van de pH. (De pH heeft dan dus altijd minstens 1 sc. meer)
+</details>
+
+### Zwak zuur (<small>\\(\ce{HF_{(aq)}}\\)</small>)
+
+1. Stel de reactievergelijking op: \\(\ce{HF_{(aq)} + H2O_{(l)} <=> H3O+ + F-}\\)
+2. Stel de evenwichtsvoorwaarde op: \\(K_z = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}}\\)
+3. Stel er wordt \\(x \text{ mol } \ce{HF}\\) omgezet: los op voor \\(K_z = \frac{x^2}{0.100 - x}\\)
+4. \\(\ce{pH = -\log{\ce{[H3O+]}} = -\log{x}}\\)
+
+### Zwakke base (<small>\\(\ce{SO3^{2-}}\\)</small>)
+
+1. Stel de reactievergelijking op: \\(\ce{SO3^{2-} + H2O_{(l)} <=> OH- + HSO3+}\\)
+2. Stel de evenwichtsvoorwarde op: \\(K_B = \frac{\ce{[OH-][HSO3+]}}{\ce{[SO3^{2-}]}}\\)
+3. Stel er wordt \\(x \text{ mol } \ce{H3O+}\\) omgezet: los op voor \\(K_B = \frac{x^2}{0.100 - x}\\)
+4. \\(\ce{pOH = -\log{\ce{[OH-]}} = -\log{x}}\\)
+5. Reken om naar pH: \\(\ce{pH = 14 - pOH}\\)
+
 ## Oxidatie van alcoholen
 
 <!--
@@ -60,4 +103,4 @@ In andere soorten batterijen wordt vaak een electroliet gebruikt. Dat heeft drie
 ## Tips
 
 - "Vochtig" betekent dat er \\(\ce{H2O}\\) aanwezig is.
-- "Opgeloste \\(\ce{CO2}\\)" betekent dat het om \\(\ce{H2O _{(l)} + CO2 _{(aq)} -> H2CO3 _{(aq)}}\\) gaat.
+- "Opgeloste \\(\ce{CO2}\\)" betekent dat het om \\(\ce{H2O_{(l)} + CO2_{(aq)} -> H2CO3_{(aq)}}\\) gaat.
