@@ -483,3 +483,15 @@ Existentialism is a philosophy that identifies humans as having free will to sha
 ### Discussion questions
 
 - **Why does the narrator call himself 'invisible'?** The narrator is invisible because others fail to see him as a person. He is expected to act according to stereotype and racial prejudice; everyone has expectations about how Blacks should behave in American society. But because of that, people only see what they expect to see from him, and fail to see his inner personality. Thus, his skin color makes him stand out in American society, but it also obscures his true personality.
+
+## Comparisons
+
+### Contemporary vs Modernist literature
+
+Contemperaty literature (after WWII) examines and reflects on society. It describes reality as it is at the moment of writing. The characters and their experiences are central to the story.
+
+Modernist literature, however, attempts to break away from societal norms, and is primarily plot-driven.
+
+### Graphic novel vs Comics
+
+A comic is a form of visual storytelling. It is released in a series, with typically monthly releases of 32 pages each. Comics are mostly focussed on action and adventure. Graphic novels, however, are full standalone book-length stories, in the style of comics. Graphic novels are more "deep", in the sense that they cover more complex themes and social issues.
