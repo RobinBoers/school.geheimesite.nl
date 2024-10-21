@@ -2,7 +2,7 @@
 title: Literature 'n shtuff
 ---
 
-_Nog niet helemaal af :))_
+_Nog steeds niet helemaal af :))_
 
 ## Désirée's Baby
 
@@ -304,7 +304,7 @@ The whole story is actually told from the perspective of the captain of that shi
 
 ### Discussion questions
 
-- **What is the significance of the title "The Great Gatsby"? How does it reflect the themes and characters in the story?** 
+- **How does F. Scott Fitzgerald portray the American Dream in the novel? Do you think Jay Gatsby achieves his version of the American Dream?**
 
 ## Animal Farm
 
@@ -475,3 +475,11 @@ In conclusion, the entire story is full of time jumps and it makes no sense what
 
 - **Why do you think the author decided to write American Born Chinese in the form of
 a graphic novel? What is its effect?** By telling the story via a graphic novel, it's way easier for the author to show and ridicule stereotypes and charicatures visually, which would not have been possible had the story been a novel.
+
+## Invisible Man
+
+Existentialism is a philosophy that identifies humans as having free will to shape their lives. Just _to be_ isn't enough anymore; you have to develop your own identity and build your own life. You have free choice, but you also have responsiblity and expectations imposed by society.
+
+### Discussion questions
+
+- **Why does the narrator call himself 'invisible'?** The narrator is invisible because others fail to see him as a person. He is expected to act according to stereotype and racial prejudice; everyone has expectations about how Blacks should behave in American society. But because of that, people only see what they expect to see from him, and fail to see his inner personality. Thus, his skin color makes him stand out in American society, but it also obscures his true personality.
