@@ -10,6 +10,7 @@ Success met leren!
 
 ### Periode 1
 
+- [Redox en zuur-base](6VWO/TW1/Scheikunde.md)
 - [Lading en elektrische velden](6VWO/TW1/Natuurkunde.md)
 - [Steden & klimaat](6VWO/TW1/NLT.md)
 - [Literature 'n shtuff](6VWO/TW1/Engels.md)
