@@ -2,6 +2,8 @@
 title: Redox en zuur-base
 ---
 
+(Dit zijn meer snelle notities voor mezelf, voor completere zuur-base dingen, zie [Rekenen met zuur-base](/5VWO/TW3/Scheikunde.md))
+
 ## Sterke vs zwakke zuren
 
 - Een **sterk zuur** ioniseert volledig. Alle zuren boven \\(\ce{H3O+}\\) in B48 zijn sterk.  
