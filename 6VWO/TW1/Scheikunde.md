@@ -123,4 +123,4 @@ In andere soorten batterijen wordt vaak een electroliet gebruikt. Dat heeft drie
 ## Tips
 
 - "Vochtig" betekent dat er \\(\ce{H2O}\\) aanwezig is.
-- "Opgeloste \\(\ce{CO2}\\)" betekent dat het om \\(\ce{H2O_{(l)} + CO2_{(aq)} -> H2CO3_{(aq)}}\\) gaat.
+- "Opgeloste \\(\ce{CO2}\\)" betekent dat het om \\(\ce{H2O_{(l)} + CO2_{(aq)} -> H2CO3\_{(aq)}}\\) gaat.
