@@ -2,7 +2,7 @@
 title: Redox en zuur-base
 ---
 
-(Dit zijn meer snelle notities voor mezelf, voor completere zuur-base dingen, zie [Rekenen met zuur-base](/5VWO/TW3/Scheikunde.md))
+*(Dit zijn snelle notities voor mezelf, voor completere uitleg, zie [Rekenen met zuur-base](/5VWO/TW3/Scheikunde.md))*
 
 ## Sterke vs zwakke zuren
 
