@@ -4,8 +4,6 @@ Dit is een website die ik aan elkaar heb geducktapet voor mijn school shtuff. Ik
 
 Success met leren!
 
-(PS: Er was een foutje in de site waardoor sommige pagina's niet geupdate werden als je niet CTRL-R indrukte of bovenin op herladen klikte. Het is nu opgelost, maar misschien moet je het dus nog één keer doen.)
-
 ## 6VWO
 
 ### Periode 1
