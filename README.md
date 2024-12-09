@@ -6,6 +6,10 @@ Success met leren!
 
 ## 6VWO
 
+### Periode 2
+
+- [Literatuurgeschiedenis: Romantiek](6VWO/TW2/Nederlands.md)
+
 ### Periode 1
 
 - [Redox en zuur-base](6VWO/TW1/Scheikunde.md)
