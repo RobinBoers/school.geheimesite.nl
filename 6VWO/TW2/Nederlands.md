@@ -71,7 +71,7 @@ Door politieke, maatschappelijke en technologische veranderingen voelden kunsten
 
 - **Verzetten**: kunstenaars weigerde zich aan regels te houden. Orginaliteit was belangrijk, niet hoe 'het hoorde'. Ze hadden ook kritiek op de maatschappij met hun werk.
 
-- **Vluchten**: kunstenaars zochten uitvlucht door te fantaseren over een verleden zoals de middeleeuwen (historische roman), exotische streken, het bovennatuurlijke (griezelroman) of religie.
+- **Vluchten**: kunstenaars zochten uitvlucht door te fantaseren over een verleden zoals de middeleeuwen (historische roman), de toekomst, exotische streken, spot en humor, het bovennatuurlijke (griezelroman) of religie.
 
 Dit verlangen om te vluchten en in een andere realiteit te zijn, noemen we _Fernweh_ (als tegengestelde van Heimweh). Dit is een vorm van _Sehnsucht_: een onbereikbaar, onvervulbaar verlangen.
 
@@ -185,6 +185,8 @@ De stroming was vooral erg kritisch op het opkomende facisme.
 </details>
 
 De neoromanticus heeft een afkeer van de moderniteit, zakelijkheid en technologie van de samenleving, en probeert daarvoor te vluchten naar de verbeelding, het mysterieuze, _een_ verleden, een utopie, een exotische plek, het bovennatuurlijke of het religieuze.
+
+Het voorvoegsel neo- staat voor 'nieuw' of 'opnieuw'. Dat is omdat de onderliggende ideeën en gevoelens van de Romantiek in deze periode weer in een nieuwe context terugkeren. De concepten van de Romantiek kregen als het ware een nieuwe invulling.
 
 De Neoromantiek was een reactie op het naturalisme en impressionisme. <small>(Volgens mijn aantekeningen, ik heb geen idee hoe precies.)</small>
 
