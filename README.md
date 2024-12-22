@@ -8,6 +8,7 @@ Success met leren!
 
 ### Periode 2
 
+- [Boekopdracht Klifi](6VWO/TW2/Nederlands2.md)
 - [Literatuurgeschiedenis: Romantiek](6VWO/TW2/Nederlands.md)
 
 ### Periode 1
