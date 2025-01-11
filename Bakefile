@@ -39,11 +39,6 @@ build() {
 }
 
 serve() {
-  cd $DIST
-  waiter --dev
-}
-
-dev() {
   $JEKYLL server --quiet --watch --livereload
 }
 
