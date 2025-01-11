@@ -1,4 +1,41 @@
 ---
-title: Vetten, oliën & voeding
+title: Vetten, suikers & voeding
 ---
 
+## Koolhydraten
+
+Koolhydraten (aka suikers of sachriden) heten zo omdat men vroeger dacht dat het lange, gehydrateerde (omringd door \\(\ce{OH}\\)-groepen) koolstofketens waren:
+
+![Dit is dus niet hoe een koolhydraat eruit ziet](koolhydraat-fout.png)
+
+Eigenlijk zijn koolhydraten ringverbindingen, zoals je hieronder ziet:
+
+![Een voorbeeld van een monosachride-ringverbinding](monosachride.png)
+
+Je kan ze vinden in Binas 67F. De sachriden die je daar vindt zijn stereoisomeren: zelfde molecuulformule, andere ruimtelijke bouw.
+
+In het bovenstaande plaatje bepaalt de richting van de \\(\ce{OH}\\)-groepen aan de roodgekleurde C's wat voor soort koolhydraat het wordt.
+
+<details open>
+  <summary>Let op!</summary>
+  Er staat twee keer D-glucose in Binas 67F, een \(\alpha\) en een \(\beta\) variant.<br>
+  <strong>Het zijn verschillende koolhydraten, die toevallig dezelfde naam hebben.</strong>
+</details>
+
+### Disachrides
+
+Door de hydrolyse van twee monosachriden, kan je een disachride krijgen. Hiervoor zijn enzymen als katalysator nodig.
+
+![De vorming van een disachride door de hydrolyse van twee monosachrides. Water wordt afgesplitst.](disachride.png)
+
+<center><small>Hydrolyse van twee D-glucose (\(\alpha\)-variant) koolhydraten</small>.</center>
+
+De reactie vindt meestal plaats tussen C<sub>1</sub> en C<sub>4</sub>, geteld met de klok mee vanaf de ether (\\(\ce{O}\\) in de koolstofketen). De monosachriden mogen verschillende soorten koolhydraten zijn.
+
+### Polysachrides
+
+Je kan ketens van meer dan twee suikers maken. Dit noem je polysachrides, en ze zijn in zekere zin vergelijkbaar met polymeren. Bij het maken van een keten van \\(n\\) monosachriden, komen \\((n - 1)\\) watermoleculen vrij.
+
+![De vorming van een polysachride](polysachride.png)
+
+De bekenste polysachride is zetmeel.
