@@ -111,3 +111,57 @@ Hierbij krijg je ook weer \\(3 \cdot \ce{OH-}\\), wat betekent dat \\(\ce{OH-}\\
 
 ## Eiwitten
 
+Eiwitten bestaan uit aminozuren. Een aminozuur heeft altijd een bepaalde basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan aminozuren vinden in Binas 67H.
+
+![Basisstructuur van een aminozuur](aminozuur.png)
+
+### Iso-elektrisch punt (IEP)
+
+Het iso-elektrisch punt is de pH-waarde waarbij het aminozuur ongeladen is. Bij een hogere pH is het aminozuur negatief geladen, en bij een lagere pH positief.
+
+| pH = IEP | pH > IEP | pH < IEP |
+|----------|----------|----------|
+| ![](aminozuur.png) | ![](negatief-geladen.png) | ![](positief-geladen.png) |
+
+### Di-, tri & polypeptides
+
+Je kan aminozuren aan elkaar koppelen om eiwitten (aka polypeptides) te creeëren. Dit gaat door middel van peptidevorming (\\(\ce{\text{amine} + \text{zuur} -> \text{peptide} + \text{water}}\\)). Deze reactie noemen we **condensatie polymerisatie**.
+
+![De vorming van een peptidebinding uit twee aminozuren](peptidevorming.png)
+
+De omgekeerde reactie heet (net als bij suikers *en* vetten) **hydrolyse**. Aminozuren worden nergens opgeslagen, maar afgenbroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
+
+### Aantal mogelijke eiwitten
+
+#### Met verschillende aminozuren
+
+Als je 2 verschillende aminozuren als bouwstenen hebt, kan je in totaal 8 verschillende eiwitten met een ketenlengte van 3 maken. Je kan dit berekenen:
+
+\\[\text{aantal mogelijke eiwitten} = \text{aantal bouwstenen}^{\text{ketenlengte van eiwit}}\\]
+
+#### Met ruimtelijke bouw
+
+Als je een aminozuur met een stereocentrum hebt en rekening moet houden met ruimtelijke bouw, telt dat aminozuur als meerdere mogelijke bouwstenen in de bovenstaande formule:
+
+\\[\text{aantal bouwstenen (per aminozuur)} = 2^\text{aantal stereocentra}\\]
+
+#### Alle aminozuren 1x
+
+Als alle verschillende aminozuren exact 1x moeten voorkomen in het eiwit, en stereochemie geen rol speelt, geldt:
+
+\\[\text{aantal mogelijke eiwitten} = \text{aantal aminozuren}!\\]
+
+<center>
+  <small>De \(!\) is een wiskundig symbol genaamd <df>faculteit</df>: \(5! = 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1\)</small>
+</center>
+
+### Eiwitten 'opvouwen'
+
+- **Primaire structuur**: dit is de normale hoofdketen van aminozuren met peptidebindingen.
+
+- **Secondaire structuur**: waterstoffenbruggen zorgen ervoor dat de keten wordt 'opgevouwen' tot \\(\alpha\\)-helix of \\(\beta\\)-sheet.
+
+- **Tertiaire structuur**: de \\(\alpha\\)-helix of \\(\beta\\)-sheet wordt verder 'opgevouwen' door dipool-dipool interactie en/of zwavelbruggen.
+
+- **Quaternaire**: de eiwitten wrappen in elkaar, we hoeven niet te weten hoe/waarom dit gebeurt.
+
