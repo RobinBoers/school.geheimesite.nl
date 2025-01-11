@@ -8,6 +8,7 @@ Success met leren!
 
 ### Periode 2
 
+- [Vetten, oliën & voeding](6VWO/TW2/Scheikunde.md)
 - [Boekopdracht Klifi](6VWO/TW2/Nederlands2.md)
 - [Literatuurgeschiedenis: Romantiek](6VWO/TW2/Nederlands.md)
 - [Database normalisatie](6VWO/TW2/Informatica.md)
