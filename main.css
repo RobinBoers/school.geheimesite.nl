@@ -4,6 +4,7 @@
 
 body {
   max-width: 750px;
+  padding: 7px;
   margin: 4em auto;
   min-height: fit-content;
 }
