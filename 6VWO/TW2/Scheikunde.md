@@ -24,11 +24,11 @@ In het bovenstaande plaatje bepaalt de richting van de \\(\ce{OH}\\)-groepen aan
 
 ### Disachrides
 
-Door de hydrolyse van twee monosachriden, kan je een disachride krijgen. Hiervoor zijn enzymen als katalysator nodig.
+Door de condensatie van twee monosachriden, kan je een disachride krijgen. Hiervoor zijn enzymen als katalysator nodig.
 
-![De vorming van een disachride door de hydrolyse van twee monosachrides. Water wordt afgesplitst.](disachride.png)
+![De vorming van een disachride door de condensatie van twee monosachrides. Water wordt afgesplitst.](disachride.png)
 
-<center><small>Hydrolyse van twee D-glucose (\(\alpha\)-variant) koolhydraten</small>.</center>
+<center><small>Condensatie van twee D-glucose (\(\alpha\)-variant) koolhydraten</small>.</center>
 
 De reactie vindt meestal plaats tussen C<sub>1</sub> en C<sub>4</sub>, geteld met de klok mee vanaf de ether (\\(\ce{O}\\) in de koolstofketen). De monosachriden mogen verschillende soorten koolhydraten zijn.
 
@@ -39,3 +39,50 @@ Je kan ketens van meer dan twee suikers maken. Dit noem je polysachrides, en ze 
 ![De vorming van een polysachride](polysachride.png)
 
 De bekenste polysachride is zetmeel.
+
+## Vetten & Oliën
+
+Vetten en oliën (aka glycerides) worden gevormd uit glycerol (propaan-1,2,3-triol) en drie vetzuren. Een vetzuur is een lange koolstofketen met een zuurgroep op het uiteinde. Zie Binas 67G.
+
+Er zijn 3 soorten, gebaseerd op het aantal dubbele bindingen in de koolstofketen:
+
+| Naam                    | Aantal dubbele bindingen |
+|-------------------------|--------------------------|
+| Verzadigd               | 0                        |
+| Enkelvoudig onverzadigd | 1                        |
+| Meervoudig onverzadigd  | 2+                       |
+
+<small>
+  Geen dubbele bindingen \\(\implies\\) alle C's hebben H's \\(\implies\\) de keten is *verzadigd* met waterstoffen.
+</small>
+
+<br>
+
+De glycerol en vetzuren vormen vervolgens via een estervorming <br>(\\(\ce{\text{alcohol} + \text{zuur} -> \text{ester} + \text{water}}\\)) een triglyceride:
+
+![De vorming van een triglyceride](triglyceride.png)
+
+Een triglyceride kan een vet of olie zijn:
+
+- **Vet**: vast bij kamertemperatuur
+- **Olie**: vloeibaar bij kamertemperatuur
+
+Dit heeft te maken met het aantal dubbele bindingen in de staarten. Het is een vet als alle drie de vetzuren verzadigd zijn. Als één of meer vetzuren onverzadigd is (aka dubbele bindingen heeft), is het een olie.
+
+Deze grens tussen vetten en oliën is puur theoretisch. In de praktijk heb je een grijze zone waarin je een soort puddingprut hebt die geen vaste stof (vet) is, maar ook niet echt een vloeistof (olie).
+
+### Berekenen hoeveel dubbele bindingen een vetzuur heeft
+
+De staart van een vetzuur (dus zonder de zuurgroep vooraan) volgt de formule \\(\ce{C_nH_{2n + 1}}\\).
+
+Per dubbele binding in het vetzuur verdwijnen er twee H'  s. Dus stel \\(\ce{C_{35}H_{65}}\\). Dit vetzuur heeft drie dubbele bindingen, omdat er \\((2 \cdot 35 + 1) - 65 = 6\\) H's missen.
+
+### Vetharding
+
+Je kan een olie in een vet veranderen door de dubbele C=C bindingen weg te halen met een additiereactie. Je voegt per dubbele binding \\(1 \cdot \ce{H2}\\) toe.
+
+![Verharding: dubbele bindingen verwijderen door een additiereactie met waterstof](vetharding.png)
+
+### Verzeping
+
+...
