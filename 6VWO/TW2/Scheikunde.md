@@ -86,3 +86,19 @@ Je kan een olie in een vet veranderen door de dubbele C=C bindingen weg te halen
 ### Verzeping
 
 ...
+
+### Omesteren
+
+Omesteren is een reactie waarbij eigenlijk de vorming van een triglyceride omdraait. Je koppelt de vetzuren ermee los. Voor omesteren heb je eerst \\(3 \cdot \ce{CH3O-}\\) nodig:
+
+![Zuur-base reactie om CH3O- te maken](omesteren1.png)
+
+Je bewaart de onstane \\(\ce{H2O}\\), omdat je die aan het eind van de reactie nog nodig hebt. Met de onstane \\(\ce{CH3O-}\\) doe je een zuur-base reactie met de triglyceride:
+
+![Zuur-base reactie tussen een triglyceride en CH3O-](omesteren2.png)
+
+Hierbij worden dus de vetzuren losgemaakt van de glycerol. Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het restmolecuul krijg je weer een glycerol terug:
+
+![Zuur-base reactie tussen het restmolecuul en eerder onstane water](omesteren3.png)
+
+Hierbij krijg je ook weer \\(3 \cdot \ce{OH-}\\), wat betekent dat \\(\ce{OH-}\\) dus als katalysator werkt: hij wordt wel gebruikt, maar niet verbruikt.
