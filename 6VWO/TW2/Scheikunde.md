@@ -161,7 +161,18 @@ Als alle verschillende aminozuren exact 1x moeten voorkomen in het eiwit, en ste
 
 - **Secondaire structuur**: waterstoffenbruggen zorgen ervoor dat de keten wordt 'opgevouwen' tot \\(\alpha\\)-helix of \\(\beta\\)-sheet.
 
-- **Tertiaire structuur**: de \\(\alpha\\)-helix of \\(\beta\\)-sheet wordt verder 'opgevouwen' door dipool-dipool interactie en/of zwavelbruggen.
+- **Tertiaire structuur**: de \\(\alpha\\)-helix of \\(\beta\\)-sheet wordt verder 'opgevouwen' door dipool-dipool interactie en/of zwavelbruggen. <small>(Fun fact: dit is ook hoe een krultang werkt volgens meneer Pappers.)</small>
 
 - **Quaternaire**: de eiwitten wrappen in elkaar, we hoeven niet te weten hoe/waarom dit gebeurt.
 
+Je kan deze stappen ook vinden in Binas 67H.
+
+### Puntmutaties
+
+DNA zit in de celkern bevat de instructies voor het opbouwen van eiwitten. DNA bestaat uit twee strengen: de matrijsstreng en de coderende streng. Deze strengen bevatten de basenparen A-T (verbonden met 3 H-bruggen) en C-G (verbonden met 2 H-bruggen).
+
+De coderende streng wordt gekopieerd naar het mRNA, dat gebruikt wordt als 'recept' om eiwitten te bouwen. In mRNA bestaat de base T niet, en wordt dus een U gebruikt.
+
+De basen op het mRNA worden per drie afgelezen (3 basen = 1 codon). Elk codon komt overeen met een aminozuur, die je kan vinden in Binas 71G.
+
+Als er een puntmutatie is, is een base in een codon veranderd naar een andere base, waardoor er een ander aminozuur geplaatst wordt, en dus een ander eiwit gemaakt wordt.
