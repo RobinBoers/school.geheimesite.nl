@@ -121,6 +121,14 @@ De fosfaatgroep is polair en is daarom hydrofiel. De twee (overgebleven) vetzure
 
 Er moeten stoffen door de celwand kunnen. Als de vetzuren aan de fosfolipiden volledig verzadigd zijn liggen ze te dicht tegen elkaar en gaat dit moeilijk. Bij onverzadigde vetzuren is er een net grotere hoek tussen de (dubbele) C=C bindingen, waardoor er meer ruimte is en de stofuitwisseling dus beter verloopt. Daarom zijn onverzadigde vetzuren beter voor je.
 
+### Emulgators
+
+Een triglyceride lost slecht op in water omdat het een apolaire stof is (door de lange koolstofstaarten van de vetzuren). Polair lost op met polair en apolair met apolair.
+
+Om een polaire stof in water op te lossen heb je daarom een emulgator nodig. Dat is een stof die zowel een polair als apolair gedeelte heeft en daarom goed oplost met zowel water als apolaire stoffen.
+
+Het polaire deel herken je aan een FONClBrI-atoom of NH- of OH-groep. Het apolaire deel is meestal een lange koolstofstaart. Een voorbeeld is de fosfolipide (de fosfaatgroep is polair en de vetzuren zijn apolair) of \\(\ce{C17H35COOH}\\) (stearaat), waarbij \\(\ce{COO-}\\) de polaire groep is.
+
 ## Eiwitten
 
 Eiwitten bestaan uit aminozuren. Een aminozuur heeft altijd een bepaalde basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan aminozuren vinden in Binas 67H.
