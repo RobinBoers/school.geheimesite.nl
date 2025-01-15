@@ -32,7 +32,9 @@ Door de **condensatie** van twee monosachriden, kan je een disachride krijgen. H
 
 De reactie vindt meestal plaats tussen C<sub>1</sub> en C<sub>4</sub>, geteld met de klok mee vanaf de ether (\\(\ce{O}\\) in de koolstofketen). De monosachriden mogen verschillende soorten koolhydraten zijn.
 
-De omgekeerde reactie noem je **hydrolyse** (omdat er water gebruikt wordt), en splitst een disachride (of polysachride) uit elkaar.
+De omgekeerde reactie noem je **hydrolyse** (omdat er water gebruikt wordt). Voor de afbraak van polysachrides zijn enzymen als katalysator nodig. Als je zo'n enzym niet hebt, kan je de koolhydraat niet afbreken, zoals bijvoorbeeld bij lactose-intolerantie.
+
+Enzymen werken het best (als katalysator) bij een bepaalde temperatuur en bepaalde pH. Dit verschilt per enzym en stof die moet worden afgebroken of gevormd.
 
 ### Polysachrides
 
@@ -40,7 +42,7 @@ Je kan ketens van meer dan twee suikers maken. Dit noem je polysachrides, en ze 
 
 ![De vorming van een polysachride](polysachride.png)
 
-De bekenste polysachride is zetmeel.
+De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, en in dieren glycogeen.
 
 ## Vetten & Oliën
 
@@ -109,6 +111,14 @@ Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het r
 
 Hierbij krijg je ook weer \\(3 \cdot \ce{OH-}\\), wat betekent dat \\(\ce{OH-}\\) dus als katalysator werkt: hij wordt wel gebruikt, maar niet verbruikt.
 
+### Fosfolipiden
+
+Fosfolipiden worden door je lichaam gemaakt voor celwanden. Een fosfolipide is een soort triglyceride waarbij één vetzuur is vervangen door een fosfaatgroep.
+
+De fosfaatgroep is polair en is daarom hydrofiel. De twee (overgebleven) vetzuren vormen lange apolaire staarten, en zijn dus hydrofoob. Daardoor vormen ze automatisch een soort dubbele laag (met koppen bij elkaar en staarten bij elkaar).
+
+Er moeten stoffen door de celwand kunnen. Als de vetzuren aan de fosfolipiden volledig verzadigd zijn liggen ze te dicht tegen elkaar en gaat dit moeilijk. Bij onverzadigde vetzuren is er een net grotere hoek tussen de (dubbele) C=C bindingen, waardoor er meer ruimte is en de stofuitwisseling dus beter verloopt. Daarom zijn onverzadigde vetzuren beter voor je.
+
 ## Eiwitten
 
 Eiwitten bestaan uit aminozuren. Een aminozuur heeft altijd een bepaalde basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan aminozuren vinden in Binas 67H.
@@ -176,3 +186,7 @@ De coderende streng wordt gekopieerd naar het mRNA, dat gebruikt wordt als 'rece
 De basen op het mRNA worden per drie afgelezen (3 basen = 1 codon). Elk codon komt overeen met een aminozuur, die je kan vinden in Binas 71G.
 
 Als er een puntmutatie is, is een base in een codon veranderd naar een andere base, waardoor er een ander aminozuur geplaatst wordt, en dus een ander eiwit gemaakt wordt.
+
+### Essentiële vetten & eiwitten
+
+Essentiële vetten & eiwitten kunnen mensen niet zelf maken en moet je dus binnenkrijgen via voeding. Hieronder vallen oa. meervoudig onverzadigde vetzuren.
