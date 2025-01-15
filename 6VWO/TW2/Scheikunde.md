@@ -95,7 +95,9 @@ Voor het maken van de zeep natriumstearaat (\\(\ce{Na+C17H35COO-}\\)) neem je gl
 
 ### Omesteren
 
-Omesteren is een reactie waarbij eigenlijk de glycerol van een triglyceride afhaalt. Voor omesteren heb je eerst \\(3 \cdot \ce{CH3O-}\\) nodig:
+Een triglyceride is een te groot molecuul om makkelijk te kunnen verbranden. Omesteren is een reactie waarbij je de vetzuren veresterd met \\(\ce{CH3}\\), in plaats van glycerol. Daardoor kan je een vet/olie (zoals gebruikt frituurvet) dus omzetten in biodiesel.
+
+Voor omesteren heb je eerst \\(3 \cdot \ce{CH3O-}\\) nodig:
 
 ![Zuur-base reactie om CH3O- te maken](omesteren1.png)
 
