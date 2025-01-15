@@ -11,6 +11,7 @@ Success met leren!
 - [Vetten, suikers & voeding](6VWO/TW2/Scheikunde.md)
 - [Boekopdracht Klifi](6VWO/TW2/Nederlands2.md)
 - [Literatuurgeschiedenis: Romantiek](6VWO/TW2/Nederlands.md)
+- [Astrofysica](6VWO/TW2/Natuurkunde.md)
 - [Database normalisatie](6VWO/TW2/Informatica.md)
 
 ### Periode 1
