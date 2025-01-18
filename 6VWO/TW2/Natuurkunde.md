@@ -62,3 +62,29 @@ Als je de oppervlaktetemperatuur van een ster weet, en in welke reeks hij ligt (
 Als je de stralingsintensiteit op aarde (I) weet, kan je ook de afstand tot de ster (r) bepalen:
 
 \\[r = \sqrt{\frac{4\pi \cdot I}{P}}\\]
+
+## Spectraalanalyse
+
+Een spectrum (zoals de stralingskromme aan het begin) laat zien welke golflengtes er in straling voorkomen. Je hebt drie soorten:
+
+- **Continuspectrum**: alle golflengtes komen voor.
+- **Absorptiespectrum**: er missen banden van golflengtes.
+- **Emissiespectrum**: er zijn alleen banden van golflengtes (de rest ontbreekt).
+
+<br>
+
+<img src="continu.jpg" alt="" style="aspect-ratio: unset">
+
+Een gloeidraad of ster zend normaliter een continuspectrum uit, waarin alle kleuren (golflengtes) voorkomen.
+
+<br>
+
+<img src="emissie.jpg" alt="" style="aspect-ratio: unset">
+
+Een emissiespectrum wordt veroorzaakt door hete gassen. Daarin worden alleen specifieke golflengtes uitgezonden. De golflengtes die worden uitgezonden hangen af van de samenstelling van het gasmengsel.
+
+<br>
+
+<img src="absorptie.jpg" alt="" style="aspect-ratio: unset">
+
+Een absorptiespectrum wordt veroorzaakt door koude gassen. Als daar straling door heen gaat, wordt een deel geabsorbeerd (de golflengtes die het gas normaal zou uitzenden als het heet zou zijn). Daardoor hou je een spectrum over waarin alle golflengtes voorkomen, behalve een aantal.
