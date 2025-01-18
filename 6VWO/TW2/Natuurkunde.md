@@ -88,3 +88,31 @@ Een emissiespectrum wordt veroorzaakt door hete gassen. Daarin worden alleen spe
 <img src="absorptie.jpg" alt="" style="aspect-ratio: unset">
 
 Een absorptiespectrum wordt veroorzaakt door koude gassen. Als daar straling door heen gaat, wordt een deel geabsorbeerd (de golflengtes die het gas normaal zou uitzenden als het heet zou zijn). Daardoor hou je een spectrum over waarin alle golflengtes voorkomen, behalve een aantal.
+
+## Atoommodel van Bohr
+
+Volgens het atoommodel van Bohr (dat we ook van scheikunde kennen) is de elektronenwolk in rond een atoomkern opgedeeld in (KLM-)schillen.
+
+De binnenste schil noemen we de grondtoestand. Dat is het niveau waar de elektronen het liefst willen zijn (zo dicht mogelijk bij de kern, want + en - lading trekken elkaar aan). Als de binnenste schil vol is, wordt die daarboven gevuld, en die daarboven enzovoort.
+
+### Absorptie
+
+Een elektron kan naar een hoger energieniveau (KLM-schil) 'springen' door het absorberen van een foton. Dit kan alleen als de fotonenergie (\\(E_f\\)) exact gelijk is aan het verschil tussen de energieniveaus:
+
+\\[E_f = \Delta E_{\text{niveaus}}\\]
+
+Dit verklaart de absorptielijnen in het spectrum. De atomen in het gasmengsel absorberen alleen de fotonen waarvan de fotonenergie precies genoeg is om een elektron naar een ander energieniveau te tillen. De fotonenergie is afhankelijk van de golflengte:
+
+\\[E_f = hf = h \frac{\lambda}{c}\\]
+
+Dus deze golflengtes worden geabsorbeerd en 'missen' dan in het spectrum.
+
+### Emissie
+
+Elektronen kunnen ook naar een hogere schil springen bij een botsing met een ander deeltje. Het deeltje wil liever in een lagere schil zitten en zal dus na verloop van tijd terugvallen.
+
+Hierbij zend het een foton uit, waarbij weer geldt \\(E_f = \Delta E_{\text{niveaus}}\\). Dit veroorzaakt de emissielijnen in het emissiespectrum.
+
+### Ionisatie
+
+Als een elektron te ver van de kern afkomt, ondervindt het geen aantrekkingskracht meer, en komt het los van het atoom. Daardoor wordt het atoom positief geladen. We noemen dit ionisatie. De minimaal benodigde energie voor ionisatie heet de ionisatiegrens.
