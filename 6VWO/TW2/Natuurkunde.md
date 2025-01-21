@@ -103,7 +103,7 @@ Een elektron kan naar een hoger energieniveau (KLM-schil) 'springen' door het ab
 
 Dit verklaart de absorptielijnen in het spectrum. De atomen in het gasmengsel absorberen alleen de fotonen waarvan de fotonenergie precies genoeg is om een elektron naar een ander energieniveau te tillen. De fotonenergie is afhankelijk van de golflengte:
 
-\\[E_f = hf = h \frac{\lambda}{c}\\]
+\\[E_f = hf = h \frac{c}{\lambda}\\]
 
 Dus deze golflengtes worden geabsorbeerd en 'missen' dan in het spectrum.
 
