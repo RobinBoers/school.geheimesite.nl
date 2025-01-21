@@ -16,7 +16,7 @@ Het beveiligen gaat om drie dingen:
 
 Vertrouwelijkheid gaat om afscherming van gegevens voor onbevoegden. Dat betekent dat alleen mensen met de juiste toegang bij de gegevens kunnen.
 
-Hiervoor wordt gecheckt of je er wel toegang hebt. Dit noemen we authenticatie. Dit kan op 3 manieren:
+Hiervoor wordt gecheckt of je er wel toegang hebt. Dit noemen we **authenticatie**. Dit kan op 3 manieren:
 
 - Iets dat je _weet_: bijvoorbeeld een wachtwoord.
 - Iets dat je _hebt_: bijvoorbeeld een sleutel.
@@ -35,8 +35,10 @@ Integriteit betekent ervoor zorgen dat de gegevens correct zijn. Je zorgt ervoor
 
 Soms is het zo dat een gebruiker wel toegang tot de gegevens heeft, maar geen recht om ze aan te passen. Met behulp van **autorisatie** wordt bepaald welke rechten je hebt.
 
-Om ervoor te checken data niet halverwege transport is aangepast kunnen we een _checksum_ gebruiken. Een checksum is een wiskundige functie die met dezelfde input altijd dezelfde output genereert, maar met een _net iets andere input_, een _totaal andere output_ genereert.
-Als je een bestand verstuurd kan je een checksum genereren. Dan kan de ontvanger ook een checksum genereren en kijken of ze overeenkomen. Zo ja, is het bestand niet door een man-in-the-middle aangepast.
+> Dus met **authenticatie** wordt gecheckt _wie je bent_, en met **autorisatie**, _wat je mag_.
+
+Om ervoor te checken data niet halverwege transport is aangepast kunnen we een **checksum** gebruiken. Een checksum is een wiskundige functie die met dezelfde input altijd dezelfde output genereert, maar met een _net iets andere input_, een _totaal andere output_ genereert.  
+Als je een bestand verstuurd kan je een checksum genereren. Dan kan de ontvanger ook een checksum genereren en kijken of ze overeenkomen. Zo niet, is het bestand door een man-in-the-middle aangepast.
 
 Een andere manier om de integriteit van de data te beschermen is door backups te maken. Als er dan wijzigingen plaatsvinden kan je die herstellen met de backup.
 
@@ -44,17 +46,17 @@ Een andere manier om de integriteit van de data te beschermen is door backups te
 
 #### Encryptie
 
-Daarnaast moet gevoelige informatie versleuteld (engels: encrypted) worden opgeslagen. Dit wordt gedaan met behulp van encryptie. Daarmee wordt data met behulp van wiskunde en een **key** onleesbaar gemaakt. Door de versleutelde data en de key in een decryptie functie te stoppen kan je de originele data terugkrijgen.
+Daarnaast moet gevoelige informatie versleuteld (engels: encrypted) worden opgeslagen. Dit wordt gedaan met behulp van encryptie. Daarmee wordt data met behulp van wiskunde en een "sleutel" (engels: key) onleesbaar gemaakt. Door de versleutelde data en de key in een decryptie functie te stoppen kan je de originele data terugkrijgen.
 
 #### Hashen
 
-Wat nóg veiliger dan encryptie is is het hashen van gegevens. Encryptie gaat twee kanten op, hashen maar één. Dat betekent dat als data eenmaal gehasht is je het origineel niet meer terug kan krijgen. Hashen werkt hetzelfde als checksums: een kleine wijziging in het origineel zorgt ervoor dat de hash compleet anders is. Dit is perfect voor het opslaan van bijvoorbeeld wachtwoorden of vingerafdrukken. Je hoeft alleen maar te checken of het wachtwoord gelijk is (of dus de hash van het ingevoerde wachtwoord hetzelfde is als die in de database).
+Wat nóg veiliger dan encryptie (voor de opslag van gegevens) is, is het hashen van gegevens. Encryptie gaat twee kanten op, hashen maar één. Dat betekent dat als data eenmaal gehasht is je het origineel niet meer terug kan krijgen. Hashen werkt hetzelfde als checksums: een kleine wijziging in het origineel zorgt ervoor dat de hash compleet anders is. Dit is perfect voor het opslaan van bijvoorbeeld wachtwoorden of vingerafdrukken. Je hoeft alleen maar te checken of het wachtwoord gelijk is (of dus de hash van het ingevoerde wachtwoord hetzelfde is als die in de database). En als de database dan gehackt wordt, worden de wachtwoorden niet gestolen (omdat alleen de hash wordt opgeslagen).
 
 #### DDoS
 
 Om ervoor te zorgen dat data altijd beschikbaar is moet wel de service waarin de data staat online zijn. Een DDoS (Distributed Denial of Service) attack kan ervoor zorgen dat een website of service voor een periode niet meer te bereiken is. Dit wordt gedaan door heel veel computers tegelijk berichten naar de servers van de service te laten sturen, waardoor deze overbelast raken. Hiervoor worden vaak botnets gebruikt.
 
-Om een DDos attack tegen te gaan kan je het inkomende webverkeer filteren. Je kan bijvoorbeeld checken of alle berichten van één computer of uit één regio komen, en die dan blokkeren. Hiervoor zijn ook speciale diensten die het boek de random bullshitnaam "DDos wasstraat" heeft gegeven.
+Om een DDoS attack tegen te gaan kan je het inkomende webverkeer filteren. Je kan bijvoorbeeld checken of alle berichten van één computer of uit één regio komen, en die dan blokkeren. Hiervoor zijn ook speciale diensten die het boek de random bullshitnaam "DDoS wasstraat" heeft gegeven.
 
 #### Backups
 
@@ -92,7 +94,7 @@ Een ander voorbeeld is het incorrect checken van data die door gebruikers wordt 
 
 Verschillende computers zijn met elkaar verbonden. Die verbindingen kunnen afgeluisterd worden. Dit noem je een man-in-the-middle attack. Dit wordt vaak gedaan met openbare wifi netwerken.
 
-Om dit te voorkomen gebruiken we HTTPS in plaats van HTTP. Daarbij wordt je internetverkeer naar websites versleuteld met asymetrische encryptie. Hiervoor heeft de website een SSL-certificaat nodig. Deze worden uitgegeven door centrale organisaties. Let's encrypt is het populairst omdat zij het gratis en voor iedereen doen.
+Om dit te voorkomen gebruiken we HTTPS in plaats van HTTP. Daarbij wordt je internetverkeer naar websites versleuteld met asymetrische encryptie. Hiervoor heeft de website een SSL-certificaat nodig. Deze worden uitgegeven door centrale organisaties. Let's Encrypt is het populairst omdat zij het gratis en voor iedereen doen.
 
 Bij een HTTPS verbinding worden de gegevens ontsleuteld op de server. Bij end-to-end encryption kan de server de gegevens ook niet zien. De gegevens worden versleuteld op het apparaat van de sender en worden pas ontsleuteld op het apparaat van de ontvanger. End-to-end encryption betekent dus dat tussenpersonen zoals een man-in-the-middle en de server de gegevens niet kunnen zien.
 
@@ -105,7 +107,7 @@ Gebruikers zijn meestal de zwakste schakel in een systeem, omdat ze makkelijk te
 Een manier waarop gebruikers een systeem onveilig maken is door makkelijk te raden wachtwoorden te gebruiken. Om wachtwoorden veiliger te maken:
 
 - Meer tekens
-- Meer sorten tekens
+- Meer soorten tekens
 - Geen woorden, namen of geboortedatums
 - Iedere website een ander wachtwoord
 - Wachtwoorden vaak veranderen
@@ -123,7 +125,7 @@ Malware is software met slechte intenties:
 
 - **Trojan horse**: software dat zich voordoet als iets anders en dat je dus zonder het te weten installeert.
 
-- **Virus**: een virus is kwaadaardige code die een ander computrprogramma nodig heeft om schade aan te richten en zichzelf te verspreiden.
+- **Virus**: kwaadaardige code die een ander computrprogramma nodig heeft om schade aan te richten en zichzelf te verspreiden.
 
 - **Worm**: ongeveer hetzelfde als een virus, behalve dat een worm een zelfstandig programma is dat geen andere programma's nodig heeft om te runnen en schade aan te richten/zich te verpreiden.
 
@@ -131,7 +133,7 @@ Malware is software met slechte intenties:
 
 - **Adware**: software die advertenties op de computer van de gebruiker laat zien. Kan ook legaal zijn.
 
-- **Ransomware**: ransomware versleuteld de bestanden op je computer (hij "gijzeld" ze), en vraagt vervolgens geld om ze te laten ontsleutelen. Je kan beter geen geld betalen omdat je vaak je bestanden toch niet terugkrijgt en het ook niet slim is internetcriminelen verder te financieren.
+- **Ransomware**: versleutelt de bestanden op je computer (hij "gijzelt" ze), en vraagt vervolgens geld om ze te laten ontsleutelen. Je kan beter geen geld betalen omdat je vaak je bestanden toch niet terugkrijgt en het ook niet slim is internetcriminelen verder te financieren.
 
 Vaak maakt malware gebruik van zero days[^1]. Dat zijn bugs/fouten in architectuur die de maker van de software nog niet kent, waardoor je ze kan gebruiken zonder opgemerkt te worden.
 
@@ -162,7 +164,7 @@ Om ervoor te zorgen dat computersystemen goed beveiligd worden heb je verschille
 - de overheid
 - ontwikkelaars
 - de gebruikers
-- etische hackers/pentesters
+- ethische hackers/pentesters
 
 Je hebt 4 soorten maatregelen in het beveiligen van je netwerk:
 
