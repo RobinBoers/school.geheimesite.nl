@@ -116,3 +116,16 @@ Hierbij zend het een foton uit, waarbij weer geldt \\(E_f = \Delta E_{\text{nive
 ### Ionisatie
 
 Als een elektron te ver van de kern afkomt, ondervindt het geen aantrekkingskracht meer, en komt het los van het atoom. Daardoor wordt het atoom positief geladen. We noemen dit ionisatie. De minimaal benodigde energie voor ionisatie heet de ionisatiegrens.
+
+## Radiale snelheid en Doppler-verschuiving
+
+Als sterren bewegen worden de golven van de EM-straling samengedrukt of uitgerekt door het Doppler-effect. Daardoor wordt de golflengte groter of kleiner.
+
+- Als een ster **naar je toe** beweegt wordt de golflengte **kleiner**, en het licht dus **blauwer**.
+- Als een ster **van je af** beweegt wordt de golflengte **groter**, en het licht dus **roder**.
+
+Sterren draaien om hun as. De snelheid waarmee ze dit doen noem je de radiale snelheid. Door de draaing beweegt de ene kant naar ons toe en de andere van ons af. Daardoor is er zowel een rood- als blauwverschuiving, en wordt de emissielijn in het spectrum breder.
+
+Het verschil tussen onderste en bovenste golflengte van de balk in het spectrum is \\(\Delta \lambda\\). Hiermee kan je de radiale snelheid berekenen:
+
+\\[v_r = c \frac{\Delta \lambda}{\lambda}\\]
