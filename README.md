@@ -6,6 +6,10 @@ Success met leren!
 
 ## 6VWO
 
+### Periode 3
+
+- [Literatur](6VWO/TW3/Duits.md)
+
 ### Periode 2
 
 - [Vetten, suikers & voeding](6VWO/TW2/Scheikunde.md)
