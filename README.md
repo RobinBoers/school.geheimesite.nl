@@ -8,7 +8,7 @@ Success met leren!
 
 ### Periode 3
 
-- [Literatur](6VWO/TW3/Duits.md)
+- [Duitse literatuurgeschiedenis](6VWO/TW3/Duits.md)
 
 ### Periode 2
 
