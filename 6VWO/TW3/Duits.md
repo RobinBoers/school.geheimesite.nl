@@ -82,8 +82,62 @@ In Duitsland is er de dertigjarige oorlog (conflict tussen katholieken en protes
 
 'Barock' komt van 'parel' in het Portugees. Geen idee hoe dit verder relevant is maar het stond onderstreept in mijn aantekeningen.
 
-Door de situatie vallen mensen terug op het geloof voor steun. Er is hierdoor minder kritiek op de kerk en staat en de absolute macht van de heersers neemt toe.
+Door de situatie vallen mensen terug op het geloof voor steun. Er is hierdoor minder kritiek op de kerk en staat en de absolute macht van de heersers neemt toe. De heersers verantwoorden hun absolute macht door te beweren dat ze benoemd zijn door god.
 
 ## Aufklarung (1700-1780)
 
-...
+In de verlichting verwijderen mensen zich van het kerkelijke wereldbeeld en wordt het ratio (verstand) belangrijk.
+
+De verlichting is een gevolg van de toegenomen economische welvaart door wereldwijde kolonisatie en handel. Hierdoor kreeg de burger een sterkere machtspositie en werd de macht van de 'oude orde' (adel en geestelijkheid) afgezwakt.
+
+Belangrijke veranderingen:
+
+- Wetenschappelijke vooruitgang.
+- Heksenvervolging wordt stopgezet.
+- Religieuze tolerantie wordt vastgelegd.
+- Hervorming van de kerk.
+- Mensen worden hoger opgeleid.
+- Literatuur krijgt een (moreel) opvoedend karakter.
+- Er worden theaters voor de burgerij opgericht.
+
+## Romantik (1795-1830)
+
+De Romantiek is een reactie op het 'koude' verstand van de Verlichting. In plaats van ratio, staan nu gevoelens centraal.
+
+De moderne maatschappij doet 'pijn' (Weltschmerz):
+
+- De wetenschap heeft de mythes en raadsels ontkracht.
+- Door technologische vooruitgang zorgt voor snelle maatschappelijke veranderingen.
+- De industralisering leidt tot slechtere leefomstandigheden.
+
+Een kenmerk van de Romantiek is een verlangen om ergens anders te zijn (Sehnsucht en Fernweh); onvervulbaar omdat men elders ook geen geluk zal vinden. Dit verlangen is niet concreet en heeft geen doel--het is gericht op verlossing, wegvluchten uit de werkelijkheid.
+
+Literatuur uit de Romantiek poogt niet de wereld of medemens te onderwijzen of veranderen. Het is een uitvlucht voor de lezer (Weltflucht) om zich terug te kunnen trekken uit de maatschappij; een ideaal tegenbeeld van de wereld:
+
+- Exotische plekken of de toekomst.
+- Het bovennatuurlijke, onverklaarbare en religieuze.
+- Naar de Middeleeuwen, omdat het leven toen nog eenvoudig was en men nog in samenspraak met de natuur en god leefde.
+
+De fantasie zou als tegenpool van het verstand de grenzen van de literatuur verleggen. Dit leidt tot 'universele poëzie'.
+
+Belangrijke thema's:
+
+- Fantasie & droom
+- Emoties en subjectief gevoel
+- Idealisering van de natuur
+- Afgronden van de menselijke ziel
+  <small>whatever that means</small>
+
+### Vroege Romantiek (1795-1804)
+
+Zoals in de Renaissance literaire werken uit de klassieke Oudheid hernieuwde aandacht krijgen, komt in de Romantiek literatuur uit de Middeleeuwen in de spotlight te staan. De Middeleeuwen worden verheerlijkt; men wil terug naar een simpelere wereld waarin er duidelijke (goddelijke) orde was.
+
+### Hoogromantiek (1804-1815)
+
+In deze periode werden veel middelhoogduitse (geen idee wat dat is maar het staat hier) werken verzamelt in volksboeken. Dit noem je volkspoëzie.
+
+### Late Romantiek (1815-1848)
+
+Er ontstaat een stroming binnen de Romantiek: de Zwarte Romantiek, gekenmerkt door fascinatie met het gruwelijke.
+
+Er ontstaat een nieuw genre: de *Griezelroman*. Dit is uiteindelijk de aanleiding tot de latere ontwikkeling van horrorliteratuur in de 19e eeuw.
