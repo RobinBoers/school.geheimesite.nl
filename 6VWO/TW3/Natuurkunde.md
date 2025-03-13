@@ -31,7 +31,7 @@ Fotonen kunnen elektronen vrijmaken uit metalen. Dat noem je het **foto-elektris
 
 \\[E_{kin} = E_f - E_{\text{uittreed}}\\]
 
-Dit experiment bewijst dat straling bestaat uit kleine energiepakketjes. Je zou verwachten dat bij een hogere intensiteit de stralingsenergie groot genoeg zou zijn om wél elektronen vrij te maken. Maar die energie is verdeeld over *meer* fotonen, dus een individueel foton heeft nog steeds niet genoeg energie om een elektron vrij te maken.
+Dit experiment bewijst dat straling bestaat uit kleine energiepakketjes. Je zou verwachten dat bij een hogere intensiteit de stralingsenergie groot genoeg zou zijn om wél elektronen vrij te maken. Maar die energie is verdeeld over _meer_ fotonen, dus een individueel foton heeft nog steeds niet genoeg energie om een elektron vrij te maken.
 
 ## Golfgedrag
 
