@@ -195,3 +195,5 @@ Als er meer energie wordt toegevoerd kunnen elektronen makkelijker overspringen 
   <p>Een LED gaat stroom geleiden als de spanning die je er over zet een minimale drempelwaarde overschrijdt.</p>
   <p>Bij het terugvallen van de geleidingsband naar de valentieband wordt er licht uitgezonden. De kleur hangt af van de grootte van het bandgap.</p>
 </details>
+
+> Moeten we de n-type en p-type shit weten?
