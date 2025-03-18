@@ -163,6 +163,8 @@ Als een elekron door die kans uit de energieput ontsnapt, ook al heeft het niet 
 
 Een voorbeeld daarvan is alfaverval. Bij alfaverval tunnelt een heliumkern door de energiebarriëre die nodig is om de sterke kernkracht (die kerndeeltjes bij elkaar houdt) te overdrempelen. Dit is een toevalsprocess omdat het tunnelen volledig is gebaseerd op kansen (de staande golf geeft kans aan).
 
+Omdat de golf iets doordring in de wand van de energieput, is de golflengte niet langer gelijk aan \\(2L\\). Je kan hier dus **geen formules van de oneindige energieput gebruiken.**
+
 > Verschil tussen kleurstofatoom en metaal?
 
 ## Halfgeleiders
