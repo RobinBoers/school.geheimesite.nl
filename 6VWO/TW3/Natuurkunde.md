@@ -124,8 +124,6 @@ Binnen een atoom is de totale energie van een elektron: \\(E\_{tot} = E\_{kin} +
 
 Omdat de kinetische energie bij hogere niveaus kleiner is, is de debrogiegolflengte groter.
 
-> Wat is het verband tussen \\(n\\) en de kinetische energie?
-
 ### Energieput van een molecuul
 
 In een lang kleurstofmolecuul is er niet één die de elektronen aantrekt. De elektrische energie is in de lengterichting overal ongeveer even groot, dus de elektronen kunnen zich "vrij" bewegen _binnen het molecuul_.
@@ -165,8 +163,6 @@ Een voorbeeld daarvan is alfaverval. Bij alfaverval tunnelt een heliumkern door 
 
 Omdat de golf iets doordring in de wand van de energieput, is de golflengte niet langer gelijk aan \\(2L\\). Je kan hier dus **geen formules van de oneindige energieput gebruiken.**
 
-> Verschil tussen kleurstofatoom en metaal?
-
 ## Halfgeleiders
 
 In een metaalrooster delen de atomen hun elektronen. Dit kan je zien als een gigantische energieput met heel veel elektronen; daardoor zijn er heel veel energieniveaus die heel dicht op elkaar liggen.
@@ -197,5 +193,3 @@ Als er meer energie wordt toegevoerd kunnen elektronen makkelijker overspringen 
   <p>Een LED gaat stroom geleiden als de spanning die je er over zet een minimale drempelwaarde overschrijdt.</p>
   <p>Bij het terugvallen van de geleidingsband naar de valentieband wordt er licht uitgezonden. De kleur hangt af van de grootte van het bandgap.</p>
 </details>
-
-> Moeten we de n-type en p-type shit weten?
