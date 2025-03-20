@@ -81,7 +81,7 @@ De elektronen interfereren dus _niet met elkaar_, maar _met zichzelf_. Hieruit v
 
 De "golflengte" van het golfkarakter van materiedeeltjes wordt de **debrogiegolflengte** genoemd, en hangt af van de massa en snelheid van een deeltje:
 
-\\[\lambda = h \frac{m}{v}\\]
+\\[\lambda = \frac{h}{mv}\\]
 
 Het ontstane interferentiepatroon bij elektronen geeft de waarschijnlijkheid aan dat je op een bepaalde plek een elektron aantreft (groot rond de maxima en klein rond de minima).
 
