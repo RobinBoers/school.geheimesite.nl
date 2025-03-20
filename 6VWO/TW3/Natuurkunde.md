@@ -85,8 +85,6 @@ De "golflengte" van het golfkarakter van materiedeeltjes wordt de **debrogiegolf
 
 Het ontstane interferentiepatroon bij elektronen geeft de waarschijnlijkheid aan dat je op een bepaalde plek een elektron aantreft (groot rond de maxima en klein rond de minima).
 
-> Wat is het verschil tussen een dubbelspleet en een tralie?
-
 ## Golf-deeltjes dualiteit
 
 Zowel materie als straling vertoont dus kenmerken van zowel golf- als deeltjesgedrag, maar nooit tegelijk. Quantumdeeltjes vertonen standaard golfgedrag, maar bij detectie of interacties met andere deeltjes komt het deeltjesgedrag naar voren.
