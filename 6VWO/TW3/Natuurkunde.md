@@ -55,7 +55,7 @@ Kenmerken van golfgedrag zijn:
     <li><b>Destructief</b> (in de knopen/minima), waarbij de golven elkaar uitdoven.</li>
   </ul>
 
-  <p>Het <b>weglengteverschil</b> is het afstandsverschil van een willekeurig tot beide bronnen. Op de buiklijnen geldt \(s\_{\text{weglengte}} = n \lambda\), en op knooplijnen geldt \(s\_{\text{weglengte}} = (n + \frac{1}{2}) \lambda\).</p>
+  <p>Het <b>weglengteverschil</b> is het afstandsverschil van een willekeurig tot beide bronnen. Op de buiklijnen geldt \(s_{\text{weglengte}} = n \lambda\), en op knooplijnen geldt \(s_{\text{weglengte}} = (n + \frac{1}{2}) \lambda\).</p>
 
   <p>Het maximaal aantal buiklijnen is gelijk aan het aantal golflengtes afstand tussen de puntbronnen. Als die toeneemt, zijn er meer buiklijnen en wordt het interferentiepatroon minder scherp. Dit gebeurt dus als de bronnen verder uit elkaar staan, of de golflengte kleiner is.</p>
 
