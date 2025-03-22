@@ -13,7 +13,7 @@ De wetenschapsgeschiedenis vanuit West-Europees perspectief begint met (filosofi
 <details open>
 <summary>Misvatting</summary>
 <p>Een misvatting: dat de natuurwetenschappelijke ontwikkeling (en algemene wereldgeschiedenis) zich in een rechte lijn van het Nabije Oosten, naar de oude Grieken, naar het Romeinse rijk (een voorlopig hoogtepunt) en tot slot naar West-Europa heeft verplaatst.</p>
-<p>Men 'voelde' zich wel opvolgers van de oude Grieken en Romeinen. Tot de 17e eeuw waren de oude geschriften uit de klassieke oudheid onze primaire bron van kennis, en werd de Oudheid als intellectueel superior gezien.</p>
+<p>Men 'voelde' zich wel opvolgers van de oude Grieken en Romeinen. Tot de 17e eeuw waren de oude geschriften uit de klassieke Oudheid onze primaire bron van kennis, en werd de Oudheid als intellectueel superior gezien.</p>
 </details>
 
 # §1: Oudheid
@@ -25,7 +25,7 @@ In de Griekse maatschappij bestond wetenschap uit filosofie en wiskunde:
 - **Wiskunde** hield zich bezig met het beschrijven van de werkelijkheid.
 - **Filosofie** hield zich bezig met 'waarom dan?'
 
-Het wereldbeeld van de Grieken was niet puur magisch; in de oudheid werd ook al herkend dat dingen zelfstandig, zonder goddelijke inmenging, verliepen. Dit noemde zij (en noemen we nog steeds) **natuur**.
+Het wereldbeeld van de Grieken was niet puur magisch; in de Oudheid werd ook al herkend dat dingen zelfstandig, zonder goddelijke inmenging, verliepen. Dit noemde zij (en noemen we nog steeds) **natuur**.
 
 ## Filosofie
 
@@ -79,7 +79,7 @@ De behandelmethoden hiervoor waren daarom het aanvullen of verminderen van het a
 
 # §2: Middeleeuwen
 
-Door grote volksverhuizingen stokte de wetenschappelijke ontwikkeling in Europa. De wetenschappelijke geschriften uit de oudheid werden bewaard en verbeterd in islamitische landen.
+Door grote volksverhuizingen stokte de wetenschappelijke ontwikkeling in Europa. De wetenschappelijke geschriften uit de Oudheid werden bewaard en verbeterd in islamitische landen.
 
 De kennis kwam langzaam weer terug naar Europa. Eerst de geneeskunde, bijvoorbeeld via de publicaties van de arabische arts Ibn Sina.
 
@@ -120,7 +120,53 @@ Alchemie is de voorloper van moderne scheikunde. Het doel was 'geheime kennis' o
 - **Geestelijke verlichting**; aka IQ-boost :)
 - **Transmutaties** om onedele metalen in goud te veranderen.
 
+# §3: Renaissance <small>(16e eeuw)</small>
+
+De zestiende eeuw is achteraf gezien een voorbereiding geweest op de wetenschappelijke revolutie. Maar dat wist men destijds natuurlijk nog niet. Mensen begonnen wel steeds meer kritische vragen te stellen en het aristotelische wereldbeeld kwam in diskrediet, maar er was nog geen alternatief.
+
+Op deze onzekerheid waren twee reacties: vastklampen aan de aristotelische opvattingen of intellectuele experimenten uitvoeren.
+
+## Natuurlijke historie
+
+Tijdens de Renaissance ontstond grotere belangstelling naar **historiën** ('onderzoek' in het oud-Grieks). Natuurlijke historie houdt zich bezig met het onderzoeken, beschrijven en categoriseren van de natuur.
+
+- In de Middeleeuwen bestonden alleen zogenaamde *bestiaria*, maar die waren meer moreel dan dierkundig van aard; of de beschreven dieren daadwerkelijk hebben bestaan was irrelevant, want het ging om het metafoor dat ze belichaamden.
+
+- Uit de Oudheid waren ook nog enkele geschriften overgeleverd, zoals <cite>Historia naturalis</cite> van Plinius, waarin hij een dieren, planten (en hun cultivatie) en gesteentes beschreef.
+
+- Aan het begin van de Renaissance werd werk uit de middeleeuwen over het algemeen kritisch bekeken, maar bleven geschriften uit de Oudheid nog steeds heilig. Nieuwe historiën putte vaak uitsluitend uit dit soort oude geschriften, en deden weinig tot geen eigen onderzoek.
+
+- Bij de ontdekking van de nieuwe wereld (aka Amerika) hadden geleerden dus een probleem: de planten en dieren die daar werden aangetroffen kwamen helemaal niet voor in de antieke werken. Er zat dus niks anders op dan zelf op onderzoek te gaan. Er wordt steeds kritischer gekeken naar de klassieke geschriften en steeds meer zelf uitgezocht.
+
+De nieuwe historiën die geschreven werden waren echter wel vooral sensatiezuchtig---hoe merkwaardiger hoe beter. Mensen begonnen rariteitenkabinetten aan te leggen: verzamelingen uiteenlopende zeldzame voorwerpen.
+
+### Botanie
+
+Een uitzondering was botanie. Als medische hulpwetenschap had het werkveld in de middeleeuwen al een zakelijkere insteek en in de Renaissance bleef dat zo. De nieuwe 'kruidenboeken' beschreven hoogstens geneeskrachtige eigenschappen <small>(maar geen legendarische kwaliteiten)</small>.
+
+## Geneeskunde
+
+Aanvankelijk was de focus van nieuw (empirisch) onderzoek het aanvullen van de klassieke werken. Maar steeds meer werden ook foutieve aannames uit de antieke geschriften weerlegd.
+
+### Anatomie
+
+De grootste winsten werden behaald in de anatomie. Kennis van inwendige organen kan je alleen verkrijgen via 'secties' (aka snijden in lijken). Dat was in de Oudheid en Middeleeuwen taboe; alle bestaande kennis over anatomie was daarom gebaseerd op dierlijke secties. In de Renaissance begonnen artsen secties uit te voeren op de lichamen van veroordeelde criminelen.
+
+### Werking van het lichaam
+
+Het onderzoek ging initiëel enkel over de bouw van het lichaam, maar er kwam ook steeds meer interesse in de werking van het lichaam.
+
+- **Andreas Versalius** deed (op al dan niet op onverantwoorde wijze) secties op een groot aantal lichamen en publiceerde dit in zijn boek <cite>De humani corporis fabrica</cite>.
+
+- **William Harvey** had de theorie dat bloed in een kringloop bewoog. Voorheen dacht men dat bloed heen-en-weer stroomde (aangezien haarvaten onzichtbaar zijn voor het blote oog<!-- en het anders onverklaarbaar is hoe bloed uit de slagaders in de aderen komt -->).
+
+Beide publicaties zette de medische wereld op zijn kop en leidde tot veel ophef en onzekerheid.
+
 <!--
+
+- **Georg Argicola** beschreef de onderaardse wereld: gesteenten, mineralen, ziektes, onderaards water, onderaardse dieren, mijnbouwtechnieken en machines.
+
+- **Konrad Gessner** beschreef dierkunde.
 
 **Aristoteles** schreef veel over ethiek, politiek, literatuur en logica, maar zijn belangrijkste invloed was zijn wereldbeeld.
 
@@ -131,6 +177,12 @@ Gelanus: H2.48
 -->
 
 # Appendix 1: Wereldbeelden
+
+Een wereldbeeld is verzameling opvattingen over het ontstaan en de werking van het universum die samen een coherente verklaring geven voor het functioneren van de wereld om ons heen.
+
+Door de eeuwen heen is het dominante wereldbeeld herhaaldelijk bijgesteld om te accomoderen voor nieuwe wetenschappelijke ontdekkingen.<!-- Mensen kregen dan een nieuwe kijk op de wereld. -->
+
+Wij kunnen wereldbeelden uit de geschiedenis vaak slecht plaatsen omdat we niet opgegroeid zijn met de historische en sociaal-culturele context waarin het wereldbeeld gevormd is. We beoordelen wereldbeelden altijd vanuit een hedendaags perspectief, waardoor je een inherent foutief beeld krijgt.
 
 ### Aristoteles
 
