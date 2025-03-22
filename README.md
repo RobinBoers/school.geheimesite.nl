@@ -9,6 +9,7 @@ Success met leren!
 ### Periode 3
 
 - [Quantummechanica](6VWO/TW3/Natuurkunde.md)
+- [Geschiedenis van de natuurwetenschappen](6VWO/TW3/NLT.md)
 - [Duitse literatuurgeschiedenis](6VWO/TW3/Duits.md)
 
 ### Periode 2
