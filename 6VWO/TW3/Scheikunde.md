@@ -142,7 +142,7 @@ Deze methoden is zowel kwalitatief als kwantitatief:
 - Op basis van de retentietijd kan je de soort stof (voor een bekende kolom) bepalen.
 - De oppervlakte onder de grafiek geeft aan hoeveel je hebt van die stof.
 
-### IR-spectraalanalyse
+### IR-spectraalanalyse (<small>kwalitatief</small>)
 
 Bij een IR-spectrum schijn je infraroodstraling door een stof heen. Op basis van de intensiteit IR-straling die de stof voor elke frequentie doorlaat (**transmittance**) kan je bepalen welke functionele groepen de stof bevat.
 
@@ -150,7 +150,7 @@ Bij een IR-spectrum schijn je infraroodstraling door een stof heen. Op basis van
 
 Dit heeft iets te maken met buig- en strekbindingen, maar hoe dit precies werkt hoeven we niet te weten en is ook geen examenstof. De interne werking van de apparatuur zoals die in het boek beschreven staat wordt ook niet getoetst.
 
-### Massaspectrometrie
+### Massaspectrometrie (<small>kwalitatief</small>)
 
 Massaspectrometrie werkt door het beschieten van een stof met deeltjes. Daardoor worden bindingen weggeschoten en wordt de stof gesplitst in een aantal ionen.
 
