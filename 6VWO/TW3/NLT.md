@@ -115,7 +115,7 @@ Het enige bezwaar tegen de astrologie was theologisch; de sterren mochten de nat
 
 ### Alchemie
 
-Alchemie is de voorloper van moderne scheikunde. Het doel was 'geheime kennis' ontdekken om:
+Alchemie is de voorloper van moderne scheikunde. Het doel was 'geheime kennis' ontdekken:
 
 - **Geestelijke verlichting**; aka IQ-boost :)
 - **Transmutaties** om onedele metalen in goud te veranderen.
@@ -164,6 +164,14 @@ Beide publicaties zette de medische wereld op zijn kop en leidde tot veel ophef 
 
 # §4: Wetenschappelijke revolutie <small>(17e eeuw)</small>
 
+## Instrumenten
+
+De instrumenten die al bestonden, zoals linealen, passers en gradenbogen, waren vaak hulpmiddelen. Het idee van een natuurwetenschappelijk instrument dat het onzichtbare zichtbaar maakt bestond nog niet. Dat werd gezien als  <b>natuurlijke magie</b>, die de 'verborgen aard der dingen' prijsgaf.
+
+Brillen en lenzen waren al langer bekend, maar in de 17e eeuw werd de verrekijker uitgevonden. Daarnaast werden de eerste prototypes van de thermometer, vochtigheidsmeter en windmeter gemaakt.
+
+Aanvankelijk werd de verrekijker vooral gebruikt voor oorlogsvoering. Galileo Galilei kwam tot het idee om hem te gebruiken om de hemel te onderzoeken. Zijn waarnemingen brachten het aristotelische wereldbeeld verder aan het wankelen.
+
 ## Sterrenkunde
 
 De herontdekking en publicatie van Ptolemaeus' werken in de 15e eeuw zorgden ervoor dat astronomie als een serieuze wetenschap gezien werd. De tegenstelling tussen Aristoteles' regelmatige cirkelbewegingen en Ptolemaeus' ingewikkelde rekenmodellen riep echter vragen op over de werkelijke bouw van het heelal.
@@ -172,15 +180,31 @@ Als reactie hierop bedacht Copernicus een volledig nieuw heliocentrisch systeem.
 
 Copernicus deed zelf geen eigen waarnemingen, maar zette anderen aan dit wel te doen. In Denenmarken bouwde Tycho Brahe op bevel van de Deense koning een observatorium genaamd Uraniborg, waar hij met zelf ontworpen instrumenten ongekend nauwkeurig de stand van de sterren bijhield.
 
-Tycho Brahe was anti-Copernicus, maar herkende ook dat Ptolemaeus' stelsel niet meer voldeed. Daarom bedacht hij een eigen wereldbeeld. Hij had echter te weinig tijd om zijn wereldbeeld wiskundig te onderbouwen. Die taak gaf hij na zijn dood aan zijn assistent, theoloog Johannes Kepler. Na de dood van Tycho werd hij keizerlijke mathematicus.
+Tycho Brahe was anti-Copernicus, maar herkende ook dat Ptolemaeus' stelsel niet meer voldeed. Daarom bedacht hij een eigen wereldbeeld. Hij had echter te weinig tijd om zijn wereldbeeld wiskundig te onderbouwen. Die taak gaf hij voor zijn dood aan zijn assistent, theoloog Johannes Kepler. Na de dood van Tycho werd hij keizerlijke mathematicus.
 
 Kepler was wél pro-Copernicus. Hij heeft eerst geprobeerd het tychoonse systeem te bewijzen, maar toen dat niet lukte heeft hij geprobeerd Copernicus' systeem te bewijzen, maar de berekeningen kwamen ook daar niet helemaal lekker uit. Uiteindelijk kwam hij tot de conclusie dat de planeten niet in cirkels, maar in ellipsen bewegen. Dit was echter niet wiskundig elegant en ook moeilijk om mee te rekenen. Daarom verwierpen tijdgenoten zoals Galilei zijn bevindingen. Pas na het werk van Newton werd het werk van Kepler echt gewaardeerd.
 
-Uit de data van Brahe bleek ook dat de hemel niet onverandelijk was. Zo verscheen en verdween er een ster (supernova) en bleken kometen veel verder van de aarde, in het 'bovenmaanse' voor te komen.
+De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield zich *officieel* alleen bezig met het beschrijven van de bewegingen van hemellichamen, maar ging ook steeds meer uitspraken doen over de oorzaken van die bewegingen; voorheen het domein van de physica. <small>(Zo beweerde Kepler dat de planeten bewogen door een magnetisch veld van de zon.)</small>
 
-De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield zich *officieel* alleen bezig met het beschrijven van de bewegingen van hemellichamen, maar ging ook steeds meer uitspraken doen over de oorzaken van die bewegingen; voorheen het domein van de physica.
+### Aristoteles, oei!
 
-<small>(Zo beweerde Kepler in <cite>Astronomia nova</cite> dat de planeten bewogen door een magnetisch veld van de zon.)</small>
+- Uit de data van Brahe bleek dat de hemel niet onverandelijk was. Zo verscheen en verdween er een ster (supernova) en bleken kometen veel verder van de aarde, in het 'bovenmaanse' voor te komen.
+
+- Galilei zag dat de andere planeten er 'aards' uitzagen. Jupiter vier satellieten; de aarde was dus niet de enige met een maan. Dit maakte de veronderstelling van Copernicus dat de aarde één van de planeten is, veel waarschijnlijker.
+
+- Venus, net als de maan, fasen. Daaruit volgt met zekerheid dat in ieder geval Venus om de zon draait, en niet om de aarde.
+
+- Aristoteles stelde dat zware voorwerpen sneller vallen dan lichte voorwerpen. Galilei weerlegde dit en gaf een wiskundige vergelijking voor hun valversnelling.
+
+- Aristoteles dacht dat een beweging stopt als je stopt met toevoeren van kracht. Galilei meende dat een beweging zich (bij verwaarloosbare wrijving) blijft voortplanten. Dit noemde hij **traagheid**, en verklaarde de beweging van de planeten.
+
+- De zon en maan bleken niet volmaakt te zijn: Galilei zag dat de maan bergen en dalen had en Christopher Scheiner zag bewegende donkere vlekken op de zon.
+
+Doordat de scheiding tussen onder- en bovenmaans wegviel ontstond er veel speculatie over potentieel buitenaards leven op bijvoorbeeld de zon en maan.
+
+### Kerkelijke invloed
+
+Galilei had zijn theoriën opzettelijk met veel drama gepubliceerd, en als gevolg werd hij voor de Rooms-Katholieke rechtbank gesleept. De notie van een heliocentrisch wereldbeeld mocht uitsluitend gebruikt worden als wiskundig hulpmiddel binnen de astronomie, maar het bestempelen als werkelijkheid was ketterij. Galilei werd veroordeeld en kreeg huisarrest.
 
 <!--
 
@@ -192,6 +216,9 @@ De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield z
 
 **Archimedes** deed onderzoek naar oppervlakte- en inhoudsbepaling van meetkundige figuren. Ook ontworp hij veel mechanische constructies zoals werktuigen en automaten en ontdekte hij de hefboomwet en hydrostratica.
 
+Kepler dacht ook dat de wereld bestond uit perfecte wiskundige verhoudingen, omdat God alles uit één bouwplan geschept had.
+
+Galilei benaderde de wetenschap vooral wiskundig/mechanisch, vanuit een praktisch perspectief, en had geen interesse voor de achterliggende filosofische of godsdienstige verklaringen.
 
 Gelanus: H2.48
 -->
@@ -246,6 +273,8 @@ Copernicus maakte een aantal radicale veranderingen aan het wereldbeeld van Ptol
 De planeten zitten wel nog steeds vast in sferen, en ook de sterren werden gezien als een soort afbeelding op de buitenkant van het universum.
 
 We weten niet waarom Copernicus met dit nieuwe model kwam. Het was niet 'beter' dan dat van Ptolemaeus; het gaf geen 'betere' resultaten of verklaringen, maar ging toch loodrecht tegen alle veronderstelden waarheden van de tijdsperiode in. Het was wel wiskundig eleganter, maar dat was destijds compleet onbelangrijk.
+
+Uiteraard ging dit wereldbeeld tegen de christelijke leer in; in de Bijbel stond duidelijk beschreven hoe de zon om de aarde draait. Dit werd wel gesignaleerd, maar theologen besteedde er weinig aandacht aan; ze hadden wel belangrijkere dingen aan hun hoofd.
 
 ### Tychoons
 
