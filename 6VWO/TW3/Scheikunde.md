@@ -2,8 +2,6 @@
 title: Lewisstructuren, reactiemechanismes en analysemethoden
 ---
 
-**Hello.. (: dit is nog een beetje een WIP. Sowwy!**
-
 Ionisatie-energie is de energie die nodig is om een elektron vrij te maken. Hoe voller de buitenste schil, hoe moeilijker het is om een atoom te ioniseren (aka toevoegen of wegnemen van elektronen), en hoe hoger de ionisatie-energie dus.
 
 - Bij een **edelgas** is de buitenste schil verzadigd, dus is ionisatie moeilijk, en daarom zijn edelgassen niet reactief.
