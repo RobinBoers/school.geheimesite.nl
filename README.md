@@ -8,6 +8,7 @@ Success met leren!
 
 ### Periode 3
 
+- [Lewisstructuren, reactiemechanismes en analysemethoden](6VWO/TW3/Scheikunde.md)
 - [Quantummechanica](6VWO/TW3/Natuurkunde.md)
 - [Geschiedenis van de natuurwetenschappen](6VWO/TW3/NLT.md)
 - [Duitse literatuurgeschiedenis](6VWO/TW3/Duits.md)
