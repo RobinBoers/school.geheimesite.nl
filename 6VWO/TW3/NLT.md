@@ -83,9 +83,9 @@ Door grote volksverhuizingen stokte de wetenschappelijke ontwikkeling in Europa.
 
 De kennis kwam langzaam weer terug naar Europa. Eerst de geneeskunde, bijvoorbeeld via de publicaties van de arabische arts Ibn Sina.
 
-Een eeuw later werden de eerste universiteiten in Europa gesticht voor het opleiden van theologen en rechtsgeleerden. Binnen die universiteiten kwam er een voorbereidende ('propedeutische') faculteit met als taak het onderwijzen van physica: basiskennis die nodig was voor de rest van de studie.
+Een eeuw later werden de eerste universiteiten in Europa gesticht voor het opleiden van theologen en rechtsgeleerden. Binnen die universiteiten kwam er een voorbereidende ('propedeutische') faculteit met als taak het onderwijzen van physica: basiskennis die nodig was voor de rest van de studie, voornamelijk bepaald door de geestelijkheid.
 
-Binnen physica waren de ideeën zoals Plato's hogere goddelijke werkelijkheid en Aristoteles' wereldbeeld zeer populair.
+Binnen physica waren de ideeën zoals Plato's hogere goddelijke werkelijkheid en Aristoteles' wereldbeeld zeer populair, omdat ze goed aansloten bij het christelijke geloof.
 
 ### Aristoteles
 
@@ -109,7 +109,7 @@ Daarnaast was het in de middeleeuwen de norm om vraagstukken met logica op te lo
 
 Als de hemellichamen de natuur op aarde sturen, moet het mogelijk zijn om de natuur te voorspellen als je het gedrag van de hemellichamen kan begrijpen. Daarom werd astrologie in de middeleeuwen een belangrijke wetenschap.
 
-Een toepassing daarvan was de geneeskunde. Artsen legde verbanden tussen de 4 humeuren, de 4 seizoenen, de 4 (aardse) elementen, sterrenbeelden en lichaamsdelen.
+De adel gebruikte astrologische 'inzichten' voor het maken van belangrijke beslissingen. Een andere toepassing was de geneeskunde. Artsen legden verbanden tussen de 4 humeuren, de 4 seizoenen, de 4 (aardse) elementen, sterrenbeelden en lichaamsdelen.
 
 Het enige bezwaar tegen de astrologie was theologisch; de sterren mochten de natuurlijke processen bepalen, maar het was godsdienstig onacceptabel als de sterren ook de menselijke gedrag zouden beinvloeden.
 
@@ -162,6 +162,26 @@ Het onderzoek ging initiëel enkel over de bouw van het lichaam, maar er kwam oo
 
 Beide publicaties zette de medische wereld op zijn kop en leidde tot veel ophef en onzekerheid.
 
+# §4: Wetenschappelijke revolutie <small>(17e eeuw)</small>
+
+## Sterrenkunde
+
+De herontdekking en publicatie van Ptolemaeus' werken in de 15e eeuw zorgden ervoor dat astronomie als een serieuze wetenschap gezien werd. De tegenstelling tussen Aristoteles' regelmatige cirkelbewegingen en Ptolemaeus' ingewikkelde rekenmodellen riep echter vragen op over de werkelijke bouw van het heelal.
+
+Als reactie hierop bedacht Copernicus een volledig nieuw heliocentrisch systeem. Hij publiceerde zijn theorie in een bekend sterrenkundig handboek. Andere astronomen vonden het maar een raar idee en besteedde er alleen aandacht aan als het relevant was voor hun werk; berekeningen konden prima gedaan worden zonder de bouw van het heelal te definiëren. Anderen namen alleen delen van de theorie over.
+
+Copernicus deed zelf geen eigen waarnemingen, maar zette anderen aan dit wel te doen. In Denenmarken bouwde Tycho Brahe op bevel van de Deense koning een observatorium genaamd Uraniborg, waar hij met zelf ontworpen instrumenten ongekend nauwkeurig de stand van de sterren bijhield.
+
+Tycho Brahe was anti-Copernicus, maar herkende ook dat Ptolemaeus' stelsel niet meer voldeed. Daarom bedacht hij een eigen wereldbeeld. Hij had echter te weinig tijd om zijn wereldbeeld wiskundig te onderbouwen. Die taak gaf hij na zijn dood aan zijn assistent, theoloog Johannes Kepler. Na de dood van Tycho werd hij keizerlijke mathematicus.
+
+Kepler was wél pro-Copernicus. Hij heeft eerst geprobeerd het tychoonse systeem te bewijzen, maar toen dat niet lukte heeft hij geprobeerd Copernicus' systeem te bewijzen, maar de berekeningen kwamen ook daar niet helemaal lekker uit. Uiteindelijk kwam hij tot de conclusie dat de planeten niet in cirkels, maar in ellipsen bewegen. Dit was echter niet wiskundig elegant en ook moeilijk om mee te rekenen. Daarom verwierpen tijdgenoten zoals Galilei zijn bevindingen. Pas na het werk van Newton werd het werk van Kepler echt gewaardeerd.
+
+Uit de data van Brahe bleek ook dat de hemel niet onverandelijk was. Zo verscheen en verdween er een ster (supernova) en bleken kometen veel verder van de aarde, in het 'bovenmaanse' voor te komen.
+
+De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield zich *officieel* alleen bezig met het beschrijven van de bewegingen van hemellichamen, maar ging ook steeds meer uitspraken doen over de oorzaken van die bewegingen; voorheen het domein van de physica.
+
+<small>(Zo beweerde Kepler in <cite>Astronomia nova</cite> dat de planeten bewogen door een magnetisch veld van de zon.)</small>
+
 <!--
 
 - **Georg Argicola** beschreef de onderaardse wereld: gesteenten, mineralen, ziektes, onderaards water, onderaardse dieren, mijnbouwtechnieken en machines.
@@ -188,7 +208,7 @@ Wij kunnen wereldbeelden uit de geschiedenis vaak slecht plaatsen omdat we niet 
 
 Voor Aristoteles was de 'werkelijkheid' niet concreet, maar een abstract. Daarom zag hij de natuur niet (zoals wij) als een puur mechanisch, causaal geheel, maar dacht hij dat dingen een innerlijke doelmatigheid hadden.
 
-Volgens hem bestond alles uit sferen. De aarde was een bol die in het midden van het helaal stond. Hij maakte onderscheid tussen boven- en ondermaans:
+Volgens hem bestond alles uit sferen. De aarde was een bol die in het midden van het helaal stond (geocentrisch). Hij maakte onderscheid tussen boven- en ondermaans:
 
 - Het **ondermaanse** was vergankelijk en bestond uit vier sferen: aarde, water, lucht en vuur. De sfeer was de 'natuurlijke plaats' van een element, en objecten bewegen altijd in een eindige rechte lijn naar die plaats.
 
@@ -212,3 +232,23 @@ Volgens het wereldbeeld van Aristoteles moesten planeten in perfecte concentrisc
 Om de tegenstrijdigheid tussen wiskunde en filosofie op te lossen bedacht Ptolemaeus een model waarin de planeten met onregelmatige snelheid in excentrische cirkelbanen (epicykels) bewogen.
 
 Dit was wiskundig gezien briljant en verklaarde de geobserveerde bewegingen van de planeten binnen het Aristotelische wereldbeeld, maar filosofisch gezien onbevredigend, omdat onregelmatige bewegingen eigenlijk niet paste in het onveranderlijke bovenmaanse.
+
+Men wist ook niet zeker of de epycirkels van Ptolemaeus daadwerkelijk de werking van de hemel beschreven, of alleen maar een handig wiskundig hulpmiddel waren.
+
+### Copernicus
+
+Copernicus maakte een aantal radicale veranderingen aan het wereldbeeld van Ptolemaeus:
+
+- De planeten draaien niet in 24 uur om de aarde, maar de aarde draait in 24 uur om haar as.
+- De planeten bewogen weer in perfect regelmatige, eenparige cirkelbewegingen.
+- Niet de aarde, maar de zon staat in het midden van het heelal (heliocentrisch), en de planeten (waaronder de aarde) draaien om haar heen. De maan draait wel om de aarde (en niet om de zon).
+
+De planeten zitten wel nog steeds vast in sferen, en ook de sterren werden gezien als een soort afbeelding op de buitenkant van het universum.
+
+We weten niet waarom Copernicus met dit nieuwe model kwam. Het was niet 'beter' dan dat van Ptolemaeus; het gaf geen 'betere' resultaten of verklaringen, maar ging toch loodrecht tegen alle veronderstelden waarheden van de tijdsperiode in. Het was wel wiskundig eleganter, maar dat was destijds compleet onbelangrijk.
+
+### Tychoons
+
+Het tychoonse stelsel is een kruising tussen dat van Ptolemaeus en Copernicus. De planeten draaien om de zon, maar de zon draait (met alle planeten) wel om de aarde heen. Het systeem is dus nog steeds geocentrisch.
+
+Daarnaast zouden in het tychoonse wereldbeeld de sferen van planeten overlappen; aangezien dit onmogelijk is kwam Brahe tot de conclusie dat de sferen niet bestaan en de planeten uit zichzelf bewegen.
