@@ -371,7 +371,7 @@ Er was al wel een idee dat stoffen uit kleiner deeltjes bestonden, maar hoe dit 
 
 Linnaeus probeerde zijn principes van binomiale nomenclatuur toe te passen op de scheikunde, maar dat bleek niet zo lekker te werken. Zijn leerling Tobern Bergman kwam uiteindelijk samen met Guyton de Morveau en Antoine Leurent Lavoisier tot de hedendaagse scheikundige naamgeving.
 
-<small>(Hij maakte ook fouten. Zo komt 'zuurstof' in lang niet alle zuren voor, en hield het systeem geen rekening met organische stoffen die pas in de 19e eeuw ontdekt werden.)</small>
+<small>(Lavoisier maakte ook fouten. Zo komt 'zuurstof' in lang niet alle zuren voor, en hield het systeem geen rekening met organische stoffen die pas in de 19e eeuw ontdekt werden.)</small>
 
 Lavoisier dacht dat stoffen bestonden uit elementen, die samengesteld konden worden tot andere stoffen. Dit bewees hij met een experiment waarbij hij water ontleedde tot twee gassen (waterstof en water) en daarna via condensatie weer water kreeg. Daarbij ging er geen massa verloren.
 
