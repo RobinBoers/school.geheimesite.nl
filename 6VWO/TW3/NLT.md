@@ -284,7 +284,23 @@ Maar omdat instrumenten een statussymbool waren, vonden amateurs het ook belangr
 
 Voor het maken van instrumenten was in principe geen theoretische kennis noodzakelijk. Betere instrumenten waren het gevolg van beter vakmansschap, niet zozeer van wetenschappelijke ontwikkelingen. Wel moesten instrumentenmakers<!-- (doorgaans gewoon handwerkslieden)--> voor het maken van hoogwaardige instrumenten weten waar ze voor dienden. Daarom werkten ze vaak samen met geleerden of waren ze deels theoretisch geschoold.
 
+## Thermometers
 
+Sinds de 17e eeuw probeerde men al thermometers (instrumenten die 'graden van warmte en koude' uit de geneeskunde visualiseren), te maken die zo exact en voorspelbaar mogelijk waren. Het hadden echter geen idee wat 'warmte' precies inhield, en het begrip 'temperatuur' bestond ook nog niet.
+
+Allereerst was er een schaalverdeling nodig, en een manier om thermometers te ijken (aka afstellen).
+
+| Schaalverdeling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Nulpunt | IJkpunt |
+|--|--|--|
+| **Fahrenheit** | mengsel van ijs, water en salpeter | de lichaamstemperatuur van een mens op 96&deg;F |
+| **Celcius** | vriespunt van water | kookpunt van water op 100&deg;C |
+
+De schaalverdeling van Fahrenheid kwam goed uit voor de temperatuur van lucht, waar mensen primair in geïnteresseerd waren. Een nadeel was dat de lichaamswarmte van de mens variabel; daarom gebruiken we nu het kookpunt van water op 212&deg;F als ijkpunt.
+
+Naast een goede schaalverdeling is ook de kwaliteit van de thermometer belangrijk. Kwik-thermometers werken omdat kwik bij hogere temperatuur uitzet, en daardoor het kwik-pijl in het buisje hoger komt te liggen.
+
+- Het buisje moet overal gelijkmatige breedte hebben (moeilijk in hele dunne buisjes).
+- Het materiaal van het buisje (meestal glas) mag niet óók uitzetten bij temperatuurverschillen.
 
 <!--
 
@@ -377,6 +393,6 @@ Descartes was voor Newton grote inspiratie, maar inhoudelijk stonden ze loodrech
 | Planeten zitten vast in "draaikolken van hemelse materie" (vergelijkbaar met de notie van kristallen sferen) rond de zon. | De planeten draaien om de zon dankzij een aantrekkende kracht op afstand die afneemt het het kwadraat van de afstand tot de zon. |
 | Vond astronomie niet interessant en heeft daarom nooit geprobeerd de hemel wiskundig te beschrijven of zijn natuurwetten toe te passen op planitaire bewegingen. | Kon, in tegenstelling tot Descartes, zijn wereldbeeld wél wiskundig onderbouwen en verklaren aan de hand van natuurwetten. |
 
-<small>Het is eigenlijk best gek dat Descartes niet wiskundig geinteresseerd was in astronomie; het was vóór de wetenschappelijke revolutie het meest wiskundige wetenschapsgebied. Daarnaast gaat het lijnrecht in tegen zijn stelling dat de natuurwetten universeel gelden.</small>
+<small>Het is eigenlijk best gek dat Descartes niet wiskundig geïnteresseerd was in astronomie; het was vóór de wetenschappelijke revolutie het meest wiskundige wetenschapsgebied. Daarnaast gaat het lijnrecht in tegen zijn stelling dat de natuurwetten universeel gelden.</small>
 
 Descartes wordt vaak overschaduwd door Newton. Toch is het cartesische wereldbeeld onwijs invloedrijk geweest; Newton bouwde vooral voort op opvattingen van Descartes, zoals de uniformiteit en causaliteit van de wereld en universele natuurwetten.
