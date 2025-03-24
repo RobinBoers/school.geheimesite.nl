@@ -198,7 +198,7 @@ Kepler was wél pro-Copernicus. Hij heeft eerst geprobeerd het tychoonse systeem
 
 De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield zich *officieel* alleen bezig met het beschrijven van de bewegingen van hemellichamen, maar ging ook steeds meer uitspraken doen over de oorzaken van die bewegingen; voorheen het domein van de physica. <small>(Zo beweerde Kepler dat de planeten bewogen door een magnetisch veld van de zon.)</small>
 
-### Aristoteles, oei!
+### Aristoteles, ...oei?
 
 - Uit de data van Brahe bleek dat de hemel niet onverandelijk was. Zo verscheen en verdween er een ster (supernova) en bleken kometen veel verder van de aarde, in het 'bovenmaanse' voor te komen.
 
@@ -214,6 +214,8 @@ De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield z
 
 - Christiaan Huygens ontdekte een maan bij Saturnus, en Cassini ontdekte nog vier andere manen. Ook stelde Huygens vast dat Saturnus een ring heeft.
 
+- Rømer bepaalt de snelheid van het licht op basis van de bewegingen van Jupiter.
+
 Doordat de scheiding tussen onder- en bovenmaans wegviel ontstond er veel speculatie over potentieel buitenaards leven op bijvoorbeeld de zon en maan.
 
 ## Kerkelijke invloed
@@ -222,7 +224,7 @@ Galilei had zijn theoriën opzettelijk met veel drama gepubliceerd, en als gevol
 
 Het was niet zo dat de kerk vijandig was tegenover de wetenschap. Alleen mochten bevindingen geen filosofische of theologische grenzen over gaan. Daarom werden veel nieuwe ontdekkingen ingepast in het kerkelijke, aristotelische wereldbeeld, terwijl de wetenschap juist behoefte had aan een compleet herzien wereldbeeld.
 
-Door de veroordeling van Galilei werden andere wetenschappers afgeschrikt. Mede hierdoor verschoof het wetenschappelijk zwaartepunt van Italië (waar de kerk aanzienlijke macht had) naar Frankrijk en Engeland (waar de paus minder invloed had).
+Door de veroordeling van Galilei werden andere wetenschappers (waaronder Descartes) afgeschrikt. Mede hierdoor verschoof het wetenschappelijk zwaartepunt van Italië (waar de kerk aanzienlijke macht had) naar Frankrijk en Engeland (waar de paus minder invloed had).
 
 ## Experimenteel onderzoek
 
@@ -361,6 +363,8 @@ De invoering van dit systeem zorgde ervoor dat onderzoekers beter gingen oplette
 
 Linnaeus' systeem is typisch voor de 18e eeuw. Het was zeer praktisch voor de rijke burger; die hoefde zich niet druk te maken over diepgaande filosofische problemen. 'Echte' onderzoekers waren minder tevreden, omdat het systeem niet de ware biologische/genetische verhoudingen tussen soorten weergaf.
 
+<small>(Helaas werkte zijn systeem minder goed voor virussen, ziektes, mineralen en gesteentes.)</small>
+
 ## Scheikunde
 
 In de 18e eeuw werd de alchemie uit de middeleeuwen herzien. In plaats van aristotelische 'verborgen kwaliteiten', werd scheikunde nu gezien als chemische processen gestuurd door natuurwetten.
@@ -373,7 +377,7 @@ Linnaeus probeerde zijn principes van binomiale nomenclatuur toe te passen op de
 
 <small>(Lavoisier maakte ook fouten. Zo komt 'zuurstof' in lang niet alle zuren voor, en hield het systeem geen rekening met organische stoffen die pas in de 19e eeuw ontdekt werden.)</small>
 
-Lavoisier dacht dat stoffen bestonden uit elementen, die samengesteld konden worden tot andere stoffen. Dit bewees hij met een experiment waarbij hij water ontleedde tot twee gassen (waterstof en water) en daarna via condensatie weer water kreeg. Daarbij ging er geen massa verloren.
+Lavoisier dacht dat stoffen bestonden uit elementen, die samengesteld konden worden tot andere stoffen. Dit bewees hij met een experiment waarbij hij water ontleedde tot twee gassen (waterstof en zuurstof) en daarna via condensatie weer water kreeg. Daarbij ging er geen massa verloren.
 
 <!--
 
@@ -413,6 +417,12 @@ Volgens hem bestond alles uit sferen. De aarde was een bol die in het midden van
 - Het **bovenmaanse** was eewig en onveranderlijke en bestond uit het vijfde element quintessens. Hier draaide de hemellichamen in oneindige concentrische cirkelbewegingen om de aarde heen.
 
   Sommige hemellichamen hadden echter tenopzichte van elkaar afwijkende bewegingen; om dit op te lossen kreeg elk van de afwijkende planeten een eigen onafhankelijk bewegingssfeer in het bovenmaanse. De sterren beschouwde hij als een vlak dat de rand van de kosmos vormde.
+
+| | Bovenmaans | Ondermaans |
+|--|--|--|
+| **Karakter** | eeuwig | vergankelijk |
+| **Beweging** | cirkelbewegingen | rechtlijning |
+| **Bouwstenen** | quintessens/ether | vuur, lucht, water, aarde |
 
 Het bovenmaanse kon invloed uitoefenen op het ondermaanse. De zon regelt immers (via beweging en energie) de seizoenen en daarmee de vergankelijkheid van leven op aarde. Dit verklaart ook waarom de elementen op aarde zich niet in zuiver bolvormige schillen bevinden, maar vermengd zijn.
 
