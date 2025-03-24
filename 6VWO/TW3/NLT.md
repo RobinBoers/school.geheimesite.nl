@@ -168,9 +168,15 @@ Beide publicaties zette de medische wereld op zijn kop en leidde tot veel ophef 
 
 De instrumenten die al bestonden, zoals linealen, passers en gradenbogen, waren vaak hulpmiddelen. Het idee van een natuurwetenschappelijk instrument dat het onzichtbare zichtbaar maakt bestond nog niet. Dat werd gezien als  <b>natuurlijke magie</b>, die de 'verborgen aard der dingen' prijsgaf.
 
-Brillen en lenzen waren al langer bekend, maar in de 17e eeuw werd de verrekijker uitgevonden. Daarnaast werden de eerste prototypes van de thermometer, vochtigheidsmeter en windmeter gemaakt.
+Brillen en lenzen waren al langer bekend, maar in de 17e eeuw werd de **verrekijker** uitgevonden. Daarnaast werden de eerste prototypes van de thermometer, vochtigheidsmeter en windmeter gemaakt.
 
-Aanvankelijk werd de verrekijker vooral gebruikt voor oorlogsvoering. Galileo Galilei kwam tot het idee om hem te gebruiken om de hemel te onderzoeken. Zijn waarnemingen brachten het aristotelische wereldbeeld verder aan het wankelen.
+Aanvankelijk werd de verrekijker vooral gebruikt voor oorlogsvoering. Galileo Galilei kwam tot het idee om hem te gebruiken als **telescoop** om de hemel te onderzoeken. Zijn waarnemingen brachten het aristotelische wereldbeeld verder aan het wankelen.
+
+Later werd door Antoni van Leeuwenhoek de **microscoop** uitgevonden. Hierdoor werd onder andere bewezen dat insecten zich voorplanten (en niet spontaan ontstaan uit rottende materie), en kon de theorie van Harvey over de bloedsomloop bevestigd worden (omdat men de haarvaten nu daadwerkelijk kon zien).
+
+Evangelista Torricelli ontwikkelde de **barometer**. Hij ontdekte dat vloeistoffen in een buis tot op een bepaalde hoogte omhoog geduwd werden, en dat de hoogte afhankelijk was van de dichtheid van de vloeistof (kwik vs water); de vloeistof werd omhoog geduwd door het gewicht van de lucht.
+
+Naast de barometer werd ook de **luchtpomp**, waarmee vaten vacuum gezogen konden worden, uitgevonden. Hiermee werd bewezen dat geluid niet werd doorgegeven in een vacuum, maar licht wel, en dat water grote hoeveelheden lucht bevatte. Ook werd bewezen dat vuur en leven niet konden voortbestaan in een vacuum.
 
 ## Sterrenkunde
 
@@ -198,13 +204,37 @@ De lijn tussen wiskunde en filosofie vervaagde steeds meer. Sterrenkunde hield z
 
 - Aristoteles dacht dat een beweging stopt als je stopt met toevoeren van kracht. Galilei meende dat een beweging zich (bij verwaarloosbare wrijving) blijft voortplanten. Dit noemde hij **traagheid**, en verklaarde de beweging van de planeten.
 
-- De zon en maan bleken niet volmaakt te zijn: Galilei zag dat de maan bergen en dalen had en Christopher Scheiner zag bewegende donkere vlekken op de zon.
+- De zon en maan bleken niet volmaakt te zijn: Galilei zag dat de maan bergen en dalen had en Christopher Scheiner zag bewegende donkere vlekken op de zon. Hevelius bracht het maanoppervlak gedetailleerd in kaart.
+
+- Christiaan Huygens ontdekte een maan bij Saturnus, en Cassini ontdekte nog vier andere manen. Ook stelde Huygens vast dat Saturnus een ring heeft.
 
 Doordat de scheiding tussen onder- en bovenmaans wegviel ontstond er veel speculatie over potentieel buitenaards leven op bijvoorbeeld de zon en maan.
 
-### Kerkelijke invloed
+## Kerkelijke invloed
 
 Galilei had zijn theoriën opzettelijk met veel drama gepubliceerd, en als gevolg werd hij voor de Rooms-Katholieke rechtbank gesleept. De notie van een heliocentrisch wereldbeeld mocht uitsluitend gebruikt worden als wiskundig hulpmiddel binnen de astronomie, maar het bestempelen als werkelijkheid was ketterij. Galilei werd veroordeeld en kreeg huisarrest.
+
+Het was niet zo dat de kerk vijandig was tegenover de wetenschap. Alleen mochten bevindingen geen filosofische of theologische grenzen over gaan. Daarom werden veel nieuwe ontdekkingen ingepast in het kerkelijke, aristotelische wereldbeeld, terwijl de wetenschap juist behoefte had aan een compleet herzien wereldbeeld.
+
+Door de veroordeling van Galilei werden andere wetenschappers afgeschrikt. Mede hierdoor verschoof het wetenschappelijk zwaartepunt van Italië (waar de kerk aanzienlijke macht had) naar Frankrijk en Engeland (waar de paus minder invloed had).
+
+## Experimenteel onderzoek
+
+Volgens René Descartes waren de natuurwetten onder alle omstandigheden gelijk, en konden we dus met experimenten de wereld onderzoeken.
+
+In de 17e eeuw veranderde ook, mede door de ontwikkeling van intrumenten, de houding tegenover natuuronderzoek. In de 16e eeuw was men vooral geintereseerd in zeldzame, spectaculaire, onbegrijpelijke 'wonderen'; natuurhistoriën hadden (wederom met uitzondering van botanie) een vrij 'sprookjesachtig' karakter.
+
+Wetenschappers probeerden nu juist meer de structuur van de wereld bloot te leggen en inzichtelijk te maken. In de 16e eeuw zou men Torricelli's bevindingen gezien hebben als een interessante rariteit, maar in de 17e eeuw was het aanleiding tot een reeks experimenten naar de aard van lucht.
+
+> Een voorbeeld daarvan was Blaise Pascal. Hij ontdekte dat kwik in een barometer daalt als je altitude toeneemt en liet daarmee zien dat luchtdruk inderdaad veroorzaakt werd door het gewicht van lucht, omdat er op grotere hoogte minder lucht op de barometer drukte.
+>
+> Dit liet ook zien dat Aristoteles' bewering dat lucht een inherent 'lichte' stof was niet klopte. Lucht gedraagt zich volgens dezelfde wetten als alle andere materie.
+
+Niet iedereen was eens wat een 'goed' experiment was. Volgens de Royal Society of London:
+
+- Een experiment moest willekeurig herhaalbaar zijn.
+- Het moest in bijzijn van getuigen worden uitgevoerd.
+- De precieze omstandigheden moesten nauwkeurig worden beschreven.
 
 <!--
 
@@ -251,6 +281,8 @@ Het wereldbeeld was gebaseerd op twee principes:
 - **Hemelse invloed**: zorgde voor bewegingen in een anders statisch universum.
 
 <!-- Orde alleen levert een statisch universum op. De hemelse invloed als dynamisch element was nodig om bewegingen te verklaren. -->
+
+Aristoteles was er ook van overtuigd dat in gemanipuleerde, kunstmatige omstandigheden, de natuur zelf ook onnatuurlijk zou reageren. Daarom was zelf experimenteren onbetrouwbaar, omdat het ons niks over de werking van de natuur zou vertellen.
 
 ### Ptolemaeus
 
