@@ -230,9 +230,11 @@ In de 17e eeuw veranderde, mede door de ontwikkeling van intrumenten, de houding
 
 In de 16e eeuw zou men Torricelli's bevindingen gezien hebben als een interessante rariteit, maar in de 17e eeuw was het aanleiding tot een reeks experimenten naar de aard van lucht.
 
-> Een voorbeeld daarvan was Blaise Pascal. Hij ontdekte dat kwik in een barometer daalt als je altitude toeneemt en liet daarmee zien dat luchtdruk inderdaad veroorzaakt werd door het gewicht van lucht, omdat er op grotere hoogte minder lucht op de barometer drukte.
->
-> Dit liet ook zien dat Aristoteles' bewering dat lucht een inherent 'lichte' stof was niet klopte. Lucht gedraagt zich volgens dezelfde wetten als alle andere materie.
+<details>
+  <summary>Blaise Pascal</summary>
+  <p>Een voorbeeld daarvan was Blaise Pascal. Hij ontdekte dat kwik in een barometer daalt als je altitude toeneemt en liet daarmee zien dat luchtdruk inderdaad veroorzaakt werd door het gewicht van lucht, omdat er op grotere hoogte minder lucht op de barometer drukte.</p>
+  <p>Dit liet ook zien dat Aristoteles' bewering dat lucht een inherent 'lichte' stof was niet klopte. Lucht gedraagt zich volgens dezelfde wetten als alle andere materie.</p>
+</details>
 
 Niet iedereen was eens wat een 'goed' experiment was. Volgens de Royal Society of London:
 
@@ -244,13 +246,31 @@ Als anderen (vooral buitenlanders) zich niet aan hun regels hielden werden ze (s
 
 ### Wiskunde
 
-René Descartes (en andere wetenschappers) wilde wiskunde en physica samenvoegen om de natuur wiskundig te beschrijven. 
+René Descartes (en andere wetenschappers) wilde wiskunde en physica samenvoegen om de natuur wiskundig te beschrijven.
 
 Descartes deed dit bijvoorbeeld voor optica: hij ontdekte de brekingswetten voor licht (tussen mediums) en verklaarde daarmee de regenboog. Hij bedacht ook mechanische regels om de bewegingen van deeltjes mee te beschrijven, maar die bleken achteraf fout te zijn. <small>(Het idee was goed though.)</small>
 
 Christiaan Huygens ontdekte wetten om slingerbewegingen mee te beschrijven en ontwierp hiermee klokken.
 
-Niet alles bleek even goed met wiskunde te beschrijven. Anatomie van een insectenpoot is bijvoorbeeld moeilijk in een wiskundige formule te gieten. Aan de andere kant kan je de bewegingen van dieren weer wel met krachten beschrijven.
+Niet alles bleek even goed met wiskunde te beschrijven. Anatomie van een insectenpoot is bijvoorbeeld moeilijk in een wiskundige formule te gieten. Aan de andere kant kan je de bewegingen van dieren weer wel met krachten beschrijven, wat grote invloed op de geneeskunde had.
+
+<!-- ### Einde?
+
+Het eindpunt van de wetenschappelijke revolutie is moeilijk vast te stellen. De meest radicale veranderingen waren tegen 1670 allemaal doorgevoerd: het aristotelische wereldbeeld was vervangen door het mechanische, empirisch/experimenteel onderzoek was de norm en wetenschappelijke instituties zoals de Royal Society werden gesticht.
+
+-->
+
+## Newton
+
+Descartes' wereldbeeld was zeer materalistisch: hij beschouwde de wereld als puur mechanische processen op basis van botsingen. Daar paste 'aantrekking op afstand' niet tussen. De Engelsen waren terughoudender en wilden geestelijke invloed op de natuur niet uitsluiten. Daarom stonden zij wel open voor dit idee. <small>(Dat, en: het was tegen hun nationale trots toe te geven dat hun wetenschappelijke successen te danken waren aan een franse filosoof)</small>
+
+Newton lukte het om de bevindingen van Kepler wiskundig te onderbouwen. Hij bouwde een nieuw wereldbeeld, waarin de planeten in een ellipsbaan rond de zon draaide door een aantrekkende kracht op afstand die afnam met het kwadraat van de afstand tot de zon. Met zijn drie wetten beschreef Newton de fundering van de mechanica en weerlegde daarmee definitief de botsingsregels van Descartes.
+
+Met zijn theorie van gravitatiekracht verklaarde hij niet alleen de beweging van hemellichamen (aantrekking vd. zon), maar ook de valversnelling van Galilei (aantrekking vd. aarde) en de getijden (aantrekking vd. maan). Met andere woorden: alle natuurverschijnselen, zowel in het heelal als op aarde, worden door dezelfde natuurwetten geregeerd.
+
+Er was echter één probleem met de theorie: het was onverklaarbaar waarom deze aantrekking op afstand plaatsvond. Het doet denken aan de 'verborgen kwaliteiten' of 'innerlijke drang' van stoffen uit het aristotelische stelsel. 
+
+Newton reageerde hierop met "i dunno, maar het is zo." Hij vond dat als wiskunde de natuur accuraat kon beschrijven, de onderliggende filosofische redenen irrelevant waren. <small>(Galilei zei dit ook al: je moet niet speculeren naar de oorzaak van de val van lichamen, maar je moest de val vooral nauwkeurig kunnen beschrijven.)</small>
 
 <!--
 
@@ -263,6 +283,8 @@ Niet alles bleek even goed met wiskunde te beschrijven. Anatomie van een insecte
 **Archimedes** deed onderzoek naar oppervlakte- en inhoudsbepaling van meetkundige figuren. Ook ontworp hij veel mechanische constructies zoals werktuigen en automaten en ontdekte hij de hefboomwet en hydrostratica.
 
 Kepler dacht ook dat de wereld bestond uit perfecte wiskundige verhoudingen, omdat God alles uit één bouwplan geschept had.
+
+Newton was heel religieus, en hij heeft ook veel onderzoek gedaan naar alchemie en het bewijzen van bijbelse voorspellingen.
 
 Galilei benaderde de wetenschap vooral wiskundig/mechanisch, vanuit een praktisch perspectief, en had geen interesse voor de achterliggende filosofische of godsdienstige verklaringen.
 
@@ -330,10 +352,17 @@ Het tychoonse stelsel is een kruising tussen dat van Ptolemaeus en Copernicus. D
 
 Daarnaast zouden in het tychoonse wereldbeeld de sferen van planeten overlappen; aangezien dit onmogelijk is kwam Brahe tot de conclusie dat de sferen niet bestaan en de planeten uit zichzelf bewegen.
 
-### Descartes
+### Descartes & Newton
 
-Volgens Descartes zaten de planeten vast in "draaikolken van hemelse materie" (vergelijkbaar met de eerdere notie van kristallen sferen) rond de zon.
+Descartes ideeën waren sterk en boden een alternatief voor het aristotelische wereldbeeld, maar bleken niet volledig waterdicht. Daardoor heerste er net als in de 16e eeuw onzekerheid. Newton's theoriën waren duurzamer; daarom heeft hij een ereplaats in de geschiedenis en Descartes niet.
 
-Gek genoeg vond hij astronomie onbelangrijk of oninteressant en negeerde hij het compleet. Hij heeft daarom ook nooit geprobeerd de hemel wiskundig te beschrijven of zijn natuurwetten toe te passen op planitaire bewegingen.
+Descartes was voor Newton grote inspiratie, maar inhoudelijk stonden ze loodrecht op elkaar:
 
-<small>Het is eigenlijk best gek dat Descartes niet wiskundig geinteresseerd was in de hemel; astronomie was voor de wetenschappelijke revolutie het meest wiskundige wetenschapsgebied.</small>
+| Descartes | Newton |
+|--|--|
+| Planeten zitten vast in "draaikolken van hemelse materie" (vergelijkbaar met de notie van kristallen sferen) rond de zon. | De planeten draaien om de zon dankzij een aantrekkende kracht op afstand die afneemt het het kwadraat van de afstand tot de zon. |
+| Vond astronomie niet interessant en heeft daarom nooit geprobeerd de hemel wiskundig te beschrijven of zijn natuurwetten toe te passen op planitaire bewegingen. | Kon, in tegenstelling tot Descartes, zijn wereldbeeld wél wiskundig onderbouwen en verklaren aan de hand van natuurwetten. |
+
+<small>Het is eigenlijk best gek dat Descartes niet wiskundig geinteresseerd was in astronomie; het was vóór de wetenschappelijke revolutie het meest wiskundige wetenschapsgebied. Daarnaast gaat het lijnrecht in tegen zijn stelling dat de natuurwetten universeel gelden.</small>
+
+Descartes wordt vaak overschaduwd door Newton. Toch is het cartesische wereldbeeld onwijs invloedrijk geweest; Newton bouwde vooral voort op opvattingen van Descartes, zoals de uniformiteit en causaliteit van de wereld en universele natuurwetten.
