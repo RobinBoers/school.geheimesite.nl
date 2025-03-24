@@ -226,8 +226,6 @@ Door de veroordeling van Galilei werden andere wetenschappers (waaronder Descart
 
 ## Experimenteel onderzoek
 
-René Descartes stelde dat de wereld werd gedreven door fundamentele natuurwetten, en dat die natuurwetten wiskundig beschreven konden worden. Bovendien waren volgens hem de natuurwetten onder alle omstandigheden gelijk, en kunnen we dus met experimenten de wereld onderzoeken.
-
 In de 17e eeuw veranderde, mede door de ontwikkeling van intrumenten, de houding tegenover natuuronderzoek.
 
 - **16e eeuw**: vooral geintereseerd in zeldzame, spectaculaire, onbegrijpelijke 'wonderen'; natuurhistoriën hadden (met uitzondering van botanie) een vrij 'sprookjesachtig' karakter.
@@ -404,7 +402,7 @@ Door de eeuwen heen is het dominante wereldbeeld herhaaldelijk bijgesteld om te 
 
 Wij kunnen wereldbeelden uit de geschiedenis vaak slecht plaatsen omdat we niet opgegroeid zijn met de historische en sociaal-culturele context waarin het wereldbeeld gevormd is. We beoordelen wereldbeelden altijd vanuit een hedendaags perspectief, waardoor je een inherent foutief beeld krijgt.
 
-### Aristoteles
+## Aristoteles
 
 Voor Aristoteles was de 'werkelijkheid' niet concreet, maar een abstract. Daarom zag hij de natuur niet (zoals wij) als een puur mechanisch, causaal geheel, maar dacht hij dat dingen een innerlijke doelmatigheid hadden.
 
@@ -433,7 +431,7 @@ Het wereldbeeld was gebaseerd op twee principes:
 
 Aristoteles was er ook van overtuigd dat in gemanipuleerde, kunstmatige omstandigheden, de natuur zelf ook onnatuurlijk zou reageren. Daarom was zelf experimenteren onbetrouwbaar, omdat het ons niks over de werking van de natuur zou vertellen.
 
-### Ptolemaeus
+## Ptolemaeus
 
 Volgens het wereldbeeld van Aristoteles moesten planeten in perfecte concentrische cirkelbewegingen om de aarde draaien. Sterrenkundige metingen (destijds nog een subveld van de wiskunde) lieten echter zien dat de planeten veel ongelijkmatiger bewogen.
 
@@ -443,7 +441,7 @@ Dit was wiskundig gezien briljant en verklaarde de geobserveerde bewegingen van 
 
 Men wist ook niet zeker of de epycirkels van Ptolemaeus daadwerkelijk de werking van de hemel beschreven, of alleen maar een handig wiskundig hulpmiddel waren.
 
-### Copernicus
+## Copernicus
 
 Copernicus maakte een aantal radicale veranderingen aan het wereldbeeld van Ptolemaeus:
 
@@ -457,13 +455,15 @@ We weten niet waarom Copernicus met dit nieuwe model kwam. Het was niet 'beter' 
 
 Uiteraard ging dit wereldbeeld tegen de christelijke leer in; in de Bijbel stond duidelijk beschreven hoe de zon om de aarde draait. Dit werd wel gesignaleerd, maar theologen besteedde er weinig aandacht aan; ze hadden wel belangrijkere dingen aan hun hoofd.
 
-### Tychoons
+## Tychoons
 
 Het tychoonse stelsel is een kruising tussen dat van Ptolemaeus en Copernicus. De planeten draaien om de zon, maar de zon draait (met alle planeten) wel om de aarde heen. Het systeem is dus nog steeds geocentrisch.
 
 Daarnaast zouden in het tychoonse wereldbeeld de sferen van planeten overlappen; aangezien dit onmogelijk is kwam Brahe tot de conclusie dat de sferen niet bestaan en de planeten uit zichzelf bewegen.
 
-### Descartes & Newton
+## Descartes & Newton
+
+René Descartes stelde dat de wereld werd gedreven door fundamentele natuurwetten, en dat die natuurwetten wiskundig beschreven konden worden. Bovendien waren volgens hem de natuurwetten onder alle omstandigheden gelijk, en kunnen we dus met experimenten de wereld onderzoeken.
 
 Descartes ideeën waren sterk en boden een alternatief voor het aristotelische wereldbeeld, maar bleken niet volledig waterdicht. Daardoor heerste er net als in de 16e eeuw onzekerheid. Newton's theoriën waren duurzamer; daarom heeft hij een ereplaats in de geschiedenis en Descartes niet.
 
