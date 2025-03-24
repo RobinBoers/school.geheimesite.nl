@@ -276,6 +276,8 @@ Newton reageerde hierop met "i dunno, maar het is zo." Hij vond dat als wiskunde
 
 In de 18e eeuw werd wetenschap meer mainstream. Rijke gezinnen schaften instrumenten aan om thuis proefjes mee te doen, enerzijds met educatieve insteek, anderzijds als vermaak (*physique amusante*). Wetenschap was een statussymbool: een teken van cultuur, goede smaak en beschaving.
 
+## Instrumenten
+
 Hierdoor kwam de instrumentenmakerij in Europa tot bloei. Met luchtpompen kon je zelf proefjes doen in een vacuum, en met een elektriseermachine kon je voorwerpen en personen elektrisch laden.
 
 Wel waren deze instrumenten vaak van sub-par kwaliteit, omdat ze ‘gebruiksvriendelijker’ gemaakt werden. Bijvoorbeeld telescopen die beter handelbaar waren omdat ze minder vergrootte, of extra lenzen bevatten die het beeld onscherper maakten, maar wel rechtop zette.
@@ -284,7 +286,7 @@ Maar omdat instrumenten een statussymbool waren, vonden amateurs het ook belangr
 
 Voor het maken van instrumenten was in principe geen theoretische kennis noodzakelijk. Betere instrumenten waren het gevolg van beter vakmansschap, niet zozeer van wetenschappelijke ontwikkelingen. Wel moesten instrumentenmakers<!-- (doorgaans gewoon handwerkslieden)--> voor het maken van hoogwaardige instrumenten weten waar ze voor dienden. Daarom werkten ze vaak samen met geleerden of waren ze deels theoretisch geschoold.
 
-## Thermometers
+### Thermometers
 
 Sinds de 17e eeuw probeerde men al thermometers (instrumenten die 'graden van warmte en koude' uit de geneeskunde visualiseren), te maken die zo exact en voorspelbaar mogelijk waren. Het hadden echter geen idee wat 'warmte' precies inhield, en het begrip 'temperatuur' bestond ook nog niet.
 
@@ -301,6 +303,51 @@ Naast een goede schaalverdeling is ook de kwaliteit van de thermometer belangrij
 
 - Het buisje moet overal gelijkmatige breedte hebben (moeilijk in hele dunne buisjes).
 - Het materiaal van het buisje (meestal glas) mag niet óók uitzetten bij temperatuurverschillen.
+
+## Verzamelingen
+
+Amateurwetenschappers begonnen met het aanleggen van verzamelingen. Deze colleties zijn anders dan de rariteitenkabinetten van de 16e eeuw:
+
+- het draaide niet om zeldzaamheid, spektakel of morele/religieuze betekenis, maar om het accuraat weergeven van natuurkennis.
+- voorwerpen werden systhematisch geordend, in plaats volgens esthetieke criteria.
+- voorwerpen moesten in hun natuurlijke toestand verkeren, en werden dus niet meer versierd.
+
+## Botanie
+
+Sinds de middeleeuwen was botanie al een medisch hulpvak. In de 18e eeuw werd het ook een hobby van de rijke burgerij, die vooral uit waren op **natuurkennis**.
+
+| Voor de 18e eeuw | Na de 18e eeuw |
+|--|--|
+| Vooral de geneeskrachtige werkingen (*'verborgen kwaliteiten'*) van de planten zijn belangrijk. | Vooral de uiterlijke kenmerken van een plant zijn belangrijk. |
+| Alle planten die op elkaar leken werden op één hoop gegooid. | Planten moesten nauwkeurig beschreven en systematisch geclassificeerd worden. |
+
+Een goed classificatiesysteem moest aan een aantal voorwaarden voldoen:
+
+- Alle planten moesten één duidelijke plaats hebben.
+- Planten moesten makkelijk terug te vinden zijn.
+- Nieuw ontdekte soorten moesten eenduidige toegevoegd kunnen worden.
+- Plantkundig accuraat, maar niet te ingewikkeld voor liefhebbers.
+
+### Linnaeus
+
+Carl Linnaeus ontwierp een classificatiesysteem op basis van bloeiwijze:
+
+- **Klassen** (24): aantal meeldraden en hun relatieve positie.
+- **Ordes** (65): aantal stampers en hun relatieve positie.
+- **Geslachten** en **soorten** op basis van andere kenmerken.
+
+Het systeem was niet diepzinnig en soms ook niet helemaal fundamenteel biologisch correct, maar wel heel praktisch.
+
+De naamgeving voor de soorten die hieruit volgde heet de binomiale nomenclatuur. De eerste naam was het geslacht, de tweede de soort.
+
+Hij voerde dit systeem ook in voor de dierenwereld. Hij maakte daar wel meer fouten, omdat:
+
+- Hij keek naar makkelijke uiterlijke kenmerken, en niet naar anatomische bouw.
+- Hij was minder thuis was in dierkunde dan in plantkunde.
+
+De invoering van dit systeem zorgde ervoor dat onderzoekers beter gingen opletten, waardoor nóg meer soorten ontdekt werden. Daarom werd later tussen geslachten en ordes een extra niveau (families) ingevoerd.
+
+Linnaeus' systeem is typisch voor de 18e eeuw. Het was zeer praktisch voor de rijke burger; die hoefde zich niet druk te maken over diepgaande filosofische problemen. 'Echte' onderzoekers waren minder tevreden, omdat het systeem niet de ware biologische/genetische verhoudingen tussen soorten weergaf.
 
 <!--
 
