@@ -220,11 +220,15 @@ Door de veroordeling van Galilei werden andere wetenschappers afgeschrikt. Mede 
 
 ## Experimenteel onderzoek
 
-Volgens René Descartes waren de natuurwetten onder alle omstandigheden gelijk, en konden we dus met experimenten de wereld onderzoeken.
+René Descartes stelde dat de wereld werd gedreven door fundamentele natuurwetten, en dat die natuurwetten wiskundig beschreven konden worden. Bovendien waren volgens hem de natuurwetten onder alle omstandigheden gelijk, en kunnen we dus met experimenten de wereld onderzoeken.
 
-In de 17e eeuw veranderde ook, mede door de ontwikkeling van intrumenten, de houding tegenover natuuronderzoek. In de 16e eeuw was men vooral geintereseerd in zeldzame, spectaculaire, onbegrijpelijke 'wonderen'; natuurhistoriën hadden (wederom met uitzondering van botanie) een vrij 'sprookjesachtig' karakter.
+In de 17e eeuw veranderde, mede door de ontwikkeling van intrumenten, de houding tegenover natuuronderzoek.
 
-Wetenschappers probeerden nu juist meer de structuur van de wereld bloot te leggen en inzichtelijk te maken. In de 16e eeuw zou men Torricelli's bevindingen gezien hebben als een interessante rariteit, maar in de 17e eeuw was het aanleiding tot een reeks experimenten naar de aard van lucht.
+- **16e eeuw**: vooral geintereseerd in zeldzame, spectaculaire, onbegrijpelijke 'wonderen'; natuurhistoriën hadden (met uitzondering van botanie) een vrij 'sprookjesachtig' karakter.
+
+- **17e eeuw**: door instrumenten konden we ineens veel meer observeren; wetenschappers wilden die verbogen wereld blootleggen en de 'structuur der wereld' inzichtelijk maken.
+
+In de 16e eeuw zou men Torricelli's bevindingen gezien hebben als een interessante rariteit, maar in de 17e eeuw was het aanleiding tot een reeks experimenten naar de aard van lucht.
 
 > Een voorbeeld daarvan was Blaise Pascal. Hij ontdekte dat kwik in een barometer daalt als je altitude toeneemt en liet daarmee zien dat luchtdruk inderdaad veroorzaakt werd door het gewicht van lucht, omdat er op grotere hoogte minder lucht op de barometer drukte.
 >
@@ -232,9 +236,21 @@ Wetenschappers probeerden nu juist meer de structuur van de wereld bloot te legg
 
 Niet iedereen was eens wat een 'goed' experiment was. Volgens de Royal Society of London:
 
-- Een experiment moest willekeurig herhaalbaar zijn.
+- Het moest willekeurig herhaalbaar zijn (en dan dezelfde resultaten opleveren ofc).
 - Het moest in bijzijn van getuigen worden uitgevoerd.
 - De precieze omstandigheden moesten nauwkeurig worden beschreven.
+
+Als anderen (vooral buitenlanders) zich niet aan hun regels hielden werden ze (soms onterrecht) in twijfel getrokken.
+
+### Wiskunde
+
+René Descartes (en andere wetenschappers) wilde wiskunde en physica samenvoegen om de natuur wiskundig te beschrijven. 
+
+Descartes deed dit bijvoorbeeld voor optica: hij ontdekte de brekingswetten voor licht (tussen mediums) en verklaarde daarmee de regenboog. Hij bedacht ook mechanische regels om de bewegingen van deeltjes mee te beschrijven, maar die bleken achteraf fout te zijn. <small>(Het idee was goed though.)</small>
+
+Christiaan Huygens ontdekte wetten om slingerbewegingen mee te beschrijven en ontwierp hiermee klokken.
+
+Niet alles bleek even goed met wiskunde te beschrijven. Anatomie van een insectenpoot is bijvoorbeeld moeilijk in een wiskundige formule te gieten. Aan de andere kant kan je de bewegingen van dieren weer wel met krachten beschrijven.
 
 <!--
 
@@ -313,3 +329,11 @@ Uiteraard ging dit wereldbeeld tegen de christelijke leer in; in de Bijbel stond
 Het tychoonse stelsel is een kruising tussen dat van Ptolemaeus en Copernicus. De planeten draaien om de zon, maar de zon draait (met alle planeten) wel om de aarde heen. Het systeem is dus nog steeds geocentrisch.
 
 Daarnaast zouden in het tychoonse wereldbeeld de sferen van planeten overlappen; aangezien dit onmogelijk is kwam Brahe tot de conclusie dat de sferen niet bestaan en de planeten uit zichzelf bewegen.
+
+### Descartes
+
+Volgens Descartes zaten de planeten vast in "draaikolken van hemelse materie" (vergelijkbaar met de eerdere notie van kristallen sferen) rond de zon.
+
+Gek genoeg vond hij astronomie onbelangrijk of oninteressant en negeerde hij het compleet. Hij heeft daarom ook nooit geprobeerd de hemel wiskundig te beschrijven of zijn natuurwetten toe te passen op planitaire bewegingen.
+
+<small>Het is eigenlijk best gek dat Descartes niet wiskundig geinteresseerd was in de hemel; astronomie was voor de wetenschappelijke revolutie het meest wiskundige wetenschapsgebied.</small>
