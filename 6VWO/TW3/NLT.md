@@ -272,6 +272,20 @@ Er was echter één probleem met de theorie: het was onverklaarbaar waarom deze 
 
 Newton reageerde hierop met "i dunno, maar het is zo." Hij vond dat als wiskunde de natuur accuraat kon beschrijven, de onderliggende filosofische redenen irrelevant waren. <small>(Galilei zei dit ook al: je moet niet speculeren naar de oorzaak van de val van lichamen, maar je moest de val vooral nauwkeurig kunnen beschrijven.)</small>
 
+# §5: Amateurwetenschap <small>(18e en 19e eeuw)</small>
+
+In de 18e eeuw werd wetenschap meer mainstream. Rijke gezinnen schaften instrumenten aan om thuis proefjes mee te doen, enerzijds met educatieve insteek, anderzijds als vermaak (*physique amusante*). Wetenschap was een statussymbool: een teken van cultuur, goede smaak en beschaving.
+
+Hierdoor kwam de instrumentenmakerij in Europa tot bloei. Met luchtpompen kon je zelf proefjes doen in een vacuum, en met een elektriseermachine kon je voorwerpen en personen elektrisch laden.
+
+Wel waren deze instrumenten vaak van sub-par kwaliteit, omdat ze ‘gebruiksvriendelijker’ gemaakt werden. Bijvoorbeeld telescopen die beter handelbaar waren omdat ze minder vergrootte, of extra lenzen bevatten die het beeld onscherper maakten, maar wel rechtop zette.
+
+Maar omdat instrumenten een statussymbool waren, vonden amateurs het ook belangrijk dat ze van hoge kwaliteit waren. Dan konden anderen zien dat je een intellectuele burger was.<!--Een wereldbol (aka 'globe') of atlas was immers niet bedoeld om mee op reis te gaan, maar om aan te tonen dat je wereldwijs was.--> Hiermee zorgden juist amateurwetenschappers voor vooruitgang in de instrumentmakerij.
+
+Voor het maken van instrumenten was in principe geen theoretische kennis noodzakelijk. Betere instrumenten waren het gevolg van beter vakmansschap, niet zozeer van wetenschappelijke ontwikkelingen. Wel moesten instrumentenmakers<!-- (doorgaans gewoon handwerkslieden)--> voor het maken van hoogwaardige instrumenten weten waar ze voor dienden. Daarom werkten ze vaak samen met geleerden of waren ze deels theoretisch geschoold.
+
+
+
 <!--
 
 - **Georg Argicola** beschreef de onderaardse wereld: gesteenten, mineralen, ziektes, onderaards water, onderaardse dieren, mijnbouwtechnieken en machines.
