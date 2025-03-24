@@ -120,6 +120,12 @@ Alchemie is de voorloper van moderne scheikunde. Het doel was 'geheime kennis' o
 - **Geestelijke verlichting**; aka IQ-boost :)
 - **Transmutaties** om onedele metalen in goud te veranderen.
 
+Alchemie was gebaseerd op 'verborgen kwaliteiten'; het was mystiek en gebruikte een soort 'geheimtaal'.
+
+Scheikunde (aka laboratoriumvaardigheden) bestond al wel, maar was geen wetenschapsveld, maar het werk van apothekers, artsen etc.
+
+De naamgeving van scheikundige stoffen was gebaseerd op hun bereidingswijze. Als dezelfde stof op een andere manier werd verkregen werd het gezien als een andere stof met andere kwaliteiten.
+
 # §3: Renaissance <small>(16e eeuw)</small>
 
 De zestiende eeuw is achteraf gezien een voorbereiding geweest op de wetenschappelijke revolutie. Maar dat wist men destijds natuurlijk nog niet. Mensen begonnen wel steeds meer kritische vragen te stellen en het aristotelische wereldbeeld kwam in diskrediet, maar er was nog geen alternatief.
@@ -272,7 +278,13 @@ Er was echter één probleem met de theorie: het was onverklaarbaar waarom deze 
 
 Newton reageerde hierop met "i dunno, maar het is zo." Hij vond dat als wiskunde de natuur accuraat kon beschrijven, de onderliggende filosofische redenen irrelevant waren. <small>(Galilei zei dit ook al: je moet niet speculeren naar de oorzaak van de val van lichamen, maar je moest de val vooral nauwkeurig kunnen beschrijven.)</small>
 
-# §5: Amateurwetenschap <small>(18e en 19e eeuw)</small>
+# §5: Amateurwetenschap <small>(18e eeuw)</small>
+
+De 18e eeuw wordt vaak gezien als een periode van stilstand, omdat er weinig nieuwe ideeën of theoriën werden ontwikkeld. Toch was het een hele belangrijke periode:
+
+- Er werden laboratoriumtechnieken en nauwkeurigere instrumenten ontwikkeld.
+- De natuur werd systematisch in kaart gebracht met classificatiesystemen.
+- Wetenschap werd geaccepteerd door de samenleving en maatschappelijk ingezet.
 
 In de 18e eeuw werd wetenschap meer mainstream. Rijke gezinnen schaften instrumenten aan om thuis proefjes mee te doen, enerzijds met educatieve insteek, anderzijds als vermaak (*physique amusante*). Wetenschap was een statussymbool: een teken van cultuur, goede smaak en beschaving.
 
@@ -348,6 +360,20 @@ Hij voerde dit systeem ook in voor de dierenwereld. Hij maakte daar wel meer fou
 De invoering van dit systeem zorgde ervoor dat onderzoekers beter gingen opletten, waardoor nóg meer soorten ontdekt werden. Daarom werd later tussen geslachten en ordes een extra niveau (families) ingevoerd.
 
 Linnaeus' systeem is typisch voor de 18e eeuw. Het was zeer praktisch voor de rijke burger; die hoefde zich niet druk te maken over diepgaande filosofische problemen. 'Echte' onderzoekers waren minder tevreden, omdat het systeem niet de ware biologische/genetische verhoudingen tussen soorten weergaf.
+
+## Scheikunde
+
+In de 18e eeuw werd de alchemie uit de middeleeuwen herzien. In plaats van aristotelische 'verborgen kwaliteiten', werd scheikunde nu gezien als chemische processen gestuurd door natuurwetten.
+
+<!--Voor het praktische werk van scheikundigen veranderede weinig.-->
+
+Er was al wel een idee dat stoffen uit kleiner deeltjes bestonden, maar hoe dit precies zat wist men nog niet. Wel was er dringend een nieuw naamgevingssysteem nodig, want er werden in de 18e eeuw nieuwe metalen, mineralen en gassen ontdekt die allemaal een naam nodig hadden.
+
+Linnaeus probeerde zijn principes van binomiale nomenclatuur toe te passen op de scheikunde, maar dat bleek niet zo lekker te werken. Zijn leerling Tobern Bergman kwam uiteindelijk samen met Guyton de Morveau en Antoine Leurent Lavoisier tot de hedendaagse scheikundige naamgeving.
+
+<small>(Hij maakte ook fouten. Zo komt 'zuurstof' in lang niet alle zuren voor, en hield het systeem geen rekening met organische stoffen die pas in de 19e eeuw ontdekt werden.)</small>
+
+Lavoisier dacht dat stoffen bestonden uit elementen, die samengesteld konden worden tot andere stoffen. Dit bewees hij met een experiment waarbij hij water ontleedde tot twee gassen (waterstof en water) en daarna via condensatie weer water kreeg. Daarbij ging er geen massa verloren.
 
 <!--
 
