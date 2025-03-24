@@ -396,7 +396,7 @@ Galilei benaderde de wetenschap vooral wiskundig/mechanisch, vanuit een praktisc
 Gelanus: H2.48
 -->
 
-# Appendix 1: Wereldbeelden
+# Oh ja: Wereldbeelden
 
 Een wereldbeeld is verzameling opvattingen over het ontstaan en de werking van het universum die samen een coherente verklaring geven voor het functioneren van de wereld om ons heen.
 
