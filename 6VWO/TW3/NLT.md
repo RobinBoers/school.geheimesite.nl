@@ -6,8 +6,6 @@ title: Geschiedenis van de natuurwetenschappen
   h1:not(:first-child) { margin-top: 2em }
 </style>
 
-**Hello.. (: dit is nog een beetje een WIP. Sowwy!**
-
 De wetenschapsgeschiedenis vanuit West-Europees perspectief begint met (filosofische) opvattingen uit de Oudheid.
 
 <details open>
