@@ -26,7 +26,7 @@ function generate_index() {
     local indent=$2
     local index=""
 
-    for item in $(ls -l "$directory" | sort -k 1,1r -k 9,9r); do
+    for item in $(ls -l "$directory" | awk '{flag = ($0 ~ /Examen/) ? 0 : 1; print flag, $0}' | sort -k1,1n -k2,2r -k10,10r | cut -d' ' -f2-); do
         item="$directory/$item"
 
         if [ -d "$item" ]; then 
