@@ -2,4 +2,16 @@
 title: Natuurkunde
 ---
 
-Yay!
+## Elektriciteit
+
+## Mechanica
+
+## Energie
+
+## Golven
+
+## Radioactiviteit & kernreacties
+
+## Kwantummechanica
+
+## Modeleren

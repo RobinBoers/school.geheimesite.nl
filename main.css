@@ -79,7 +79,6 @@ details:not(.li) {
   padding: .5em;
   background: light-dark(#ededed, #00000033);
   font-style: italic;
-  opacity: .8;
   margin-bottom: .2em;
 
   & summary {

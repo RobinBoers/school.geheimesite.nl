@@ -8,6 +8,7 @@ Success met leren!
 
 ### Examen
 
+- [Scheikunde](6VWO/Examen/Scheikunde.md)
 - [Natuurkunde](6VWO/Examen/Natuurkunde.md)
 
 ### Periode 3
