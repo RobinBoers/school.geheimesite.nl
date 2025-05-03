@@ -22,11 +22,19 @@ In het periodiek systeem staan drie belangrijke getallen:
 - **Het atoomnummer** (naast de letter) is het aantal protonen.
 - **De elektronenconfiguratie** (linksonder) geeft het aantal elektronen per orbitaal aan.
 
-Er zijn twee soorten atomen: metalen en niet-metalen. Atoomsoorten die in het periodiek systeem onder elkaar staan lijken chemisch op elkaar.
+Er zijn twee soorten atomen: metalen en niet-metalen. Met uitzondering van koolstof geleiden niet-metalen geen stroom.
 
 <!-- Er zijn twee variaties op atomen: isotopen (m. +- neutronen) en ionen (m. +- elektronen).-->
 
-### Isotopen
+### Periodiek systeem
+
+Het periodiek systeem is een stelsel om atoomsoorten mee te categoriseren. Het is opgedeeld in rijen (periodes) en kolomen (groepen). Atoomsoorten die in het periodiek systeem onder elkaar staan lijken chemisch op elkaar.
+
+- **Akalimetalen** (groep 1) reageren heftig met water.
+- **Halogenen** (groep 17) komen veel voor als negatief geladen ionen.
+- **Edelgassen** (groep 18) zijn saai en reageren nooit (boring!)
+
+### Isotopen (<small>overschot of tekort aan neutronen</small>)
 
 De atoomkern (protonen + neutronen) vormt het grootste deel van de massa van een atoom, omdat elektronen een bijna verwaarloosbaar kleine massa hebben.
 
@@ -34,18 +42,19 @@ Voor een atoomsoort is het atoomnummer (aantal protonen) altijd constant, maar h
 
 De relatieve atoommassa in het periodiek systeem is een gewogen gemiddelde van alle natuurlijk voorkomende isotopen.
 
-### Ionen
+### Ionen (<small>overschot of tekort aan elektronen</small>)
 
 Een ion is een geladen atoom. Ionisatie is alleen mogelijk door het toevoegen of wegnemen van elektronen, want het aantal protonen in een atoom is (zonder kernreacties) onveranderlijk.
 
 Als je energie toevoert aan een atoom kan je elektronen uit de buitenste orbitaal vrijmaken. Hoe voller de buitenste schil, hoe moeilijker het is om een atoom te ioniseren, en hoe hoger de ionisatie-energie dus.
 
 - Bij een **edelgas** is de buitenste schil verzadigd, dus is ionisatie moeilijk, en daarom zijn edelgassen niet reactief.
-- Bij **akalimetalen** hebben maar één elektron is de buitenste schil, dus zijn makkelijk te ioniseren en dus zeer reactief.
+- De **halogenen** hebben missen één elektron in de buitenste schil, en komen daarom vooral als negatief geladen ionen voor.
+- De **akalimetalen** hebben maar één elektron is de buitenste schil, dus zijn makkelijk te ioniseren en dus zeer reactief.
 
 De valentie-elektronen (val-e<sup>-</sup>) van een atoom zijn de elektronen in de buitenste schil. Dit zijn de elektronen die bindingen vormen. Stoffen die onder elkaar staan in het periodiek systeem hebben evenveel val-e<sup>-</sup>.
 
-De lading veroorzaakt door het toevoeren of afnemen van elektronen noemen we **formele lading**. Je berekent deze door:
+De lading die wordt veroorzaakt door het toevoeren of afnemen van elektronen noemen we **formele lading**. Je berekent deze door:
 
 \\[\text{lading} = \text{val } e^- - \text{niet-bindende } e^- - \text{aantal bindingen}\\]
 
@@ -88,7 +97,7 @@ De vrije elektronen kunnen kinetische energie en lading verplaatsen; metalen gel
 
 ### Zouten
 
-Zouten zijn roosters gevormd uit ionen van metalen en niet-metalen, waarbij typisch de metalen positief en de niet-metalen negatief geladen zijn. De ionen blijven bij elkaar door de elektrostatische interactie tussen de ionen (aka gelijke tegengestelde lading trekt elkaar aan).
+Zouten zijn roosters gevormd uit ionen van metalen en niet-metalen, waarbij typisch de metalen positief en de niet-metalen negatief geladen zijn<small>\*</small>. De ionen blijven bij elkaar door de elektrostatische interactie tussen de ionen (aka gelijke tegengestelde lading trekt elkaar aan).
 
 | Metaal           | Lading   |
 | ---------------- | -------- |
@@ -96,6 +105,8 @@ Zouten zijn roosters gevormd uit ionen van metalen en niet-metalen, waarbij typi
 | \\(\ce{Fe}\\)    | 2+ of 3+ |
 | \\(\ce{Al}\\)    | 3+       |
 | De rest          | 2+       |
+
+<small><sup>\*</sup>\\(\ce{NH4+}\\) is een uitzondering.</small>
 
 Zouten zelf zijn altijd elektrisch neutraal. Daarom kunnen twee stoffen altijd maar in één vaste verhouding een zout vormen, en laten we in systematische namen de voorvoegsels mono-, di-, tri-, tetra-, penta-, en hexa- weg.
 
@@ -119,6 +130,12 @@ De ‘gedeelde’ elektronen bevinden zich voornamelijk in de orbitalen van \\(\
 
 De electronegatieve atomen kan je onthouden met het ezelsbruggetje \\(\ce{FONClBrI}\\).
 
+#### Oplosbaarheid
+
+De oplosbaarheid van stoffen wordt bepaald door de polariteit. Apolaire stoffen lossen goed op met andere apolaire stoffen, en polaire stoffen met andere polaire stoffen.
+
+Water is een polaire stof (\\(\ce{O}\\) is elektronegatief), dus apolaire stoffen lossen slecht op in water, en polaire stoffen juist goed.
+
 ## Stoffen en mengsels
 
 <h3 id="fases" style="margin-bottom: -0.8em">Fases en faseovergangen</h3>
@@ -137,7 +154,7 @@ Stoffen kunnen afhankelijk van de temperatuur in drie fases voorkomen:
 
 - Fase bij kamertemperatuur
 - Dichtheid
-- Oplosbaarheid in water
+- Oplosbaarheid
 - Aanhechtingsvermogen
 - Kleur
 - Geur
@@ -211,7 +228,7 @@ Waterstofbruggen vormen door de aantrekking tussen het \\(\ce{\delta+}\\)-gelade
 
 ## Reacties
 
-### Reactie-energie
+### Reactie-energie (<small>aka energie-effect</small>)
 
 Het kost een bepaalde energie om een binding tussen moleculen te maken of af te breken.
 
@@ -388,9 +405,46 @@ Stereoisomeren komen voor als er een tetra-eder is met vier verschillende zijgro
 
 Isomeren waarbij de moleculen elkaars gespiegelde zijn noemen we spiegelbeeldisomeren. In medicijnen is het vaak zo dat de ene variant de geneeskrachtige werking heeft, terwijl het spiegelbeeld juist voor de bijwerkingen zorgt.
 
+## Polyverbindingen
+
+### Polymeren
+
+...
+
+### Koolhydraten
+
+Koolhydraten zijn gehydrateerde ringverbindingen van koolstof. Ze kunnen voorkomen als monosachriden of ketens daarvan, genaamd polysachriden.
+
+![](/6VWO/TW2/monosachride.png)
+
+De monosachriden kan je vinden in Binas 67F. Het zijn allemaal stereoisomeren met de molecuulformule \\(\ce{C6H12O6}\\). De richting van de \\(\ce{OH}\\)-groepen aan de roodgekleurde \\(\ce{C}\\)'s bepaalt wat voor soort koolhydraat het is.
+
+Door de **condensatie** van twee of meer monosachriden kan je een disachride of zelfs polysachride krijgen. De omgekeerde reactie heet **hydrolyse** (een ontleding waarbij water verbruikt wordt).
+
+![](/6VWO/TW2/disachride.png)
+
+Bij het maken van een keten van \\(n\\) monosachriden, komen \\((n - 1)\\) watermoleculen vrij.
+
+![](/6VWO/TW2/polysachride.png)
+
+De reactie vindt meestal plaats tussen C<sub>1</sub> en C<sub>4</sub>, geteld met de klok mee vanaf de ether. Een polysachride mag ook uit verschillende soorten monosachriden bestaan.
+
+Voor zowel condensatie als hydrolyse zijn enzymen als katalysator nodig. Enzymen werken het (als katalysator) best bij een bepaalde temperatuur en bepaalde pH. Dit verschilt per enzym en stof die moet worden afgebroken of gevormd. Als je zo'n enzym niet hebt, kan je de koolhydraat niet afbreken, zoals bijvoorbeeld bij lactose-intolerantie.
+
+De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, en in dieren glycogeen.
+
+### Vetten en oliën
+
+### Eiwitten
+
+## DNA en puntmutaties
+
+## Zuur-base
+
+## Redox
+
 ## De Rest(TM)
 
-- koolhydraten
 - triglycerides (verzadigd vs onverzadigd?)
 - polymeren
 - eiwitten (vouwen??)
@@ -403,3 +457,8 @@ Isomeren waarbij de moleculen elkaars gespiegelde zijn noemen we spiegelbeeldiso
 - redox
 - reacties: ontleding, vorming, synthese, oxidatie, estervorming, additie, substitutie, polymeercondensatie, ontleding (hydrolyse)
 - aantonen stoffen
+- neerslag...?
+
+## vragen
+
+- waarom geleidt koolstof stroom?
