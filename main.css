@@ -75,11 +75,11 @@ details.li {
 }
 
 details:not(.li) {
-  margin-left: .5em;
-  padding: .5em;
+  margin-left: 0.5em;
+  padding: 0.5em;
   background: light-dark(#ededed, #00000033);
   font-style: italic;
-  margin-bottom: .2em;
+  margin-bottom: 0.2em;
 
   & summary {
     cursor: pointer;
@@ -91,4 +91,11 @@ details:not(.li) {
   & :last-child {
     margin-bottom: 0;
   }
+}
+
+/* Fix for tables */
+
+tbody tr:last-of-type,
+table > tr:last-of-type {
+  border-bottom: 0;
 }
