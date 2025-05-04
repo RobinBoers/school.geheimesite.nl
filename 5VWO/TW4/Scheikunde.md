@@ -74,8 +74,8 @@ In de ideale situatie is de E-factor zo laag mogelijk. Hoe laag "goed" precies i
 
 Je herkent een stereoisomeer aan een koolstofatoom met vier verschillende groepen. Je kan dan twee mogelijke spiegelbeelden hebben:
 
-| Spiegelbeeld | \\(180 ^{\circ}\\) gedraaid |
-|--------------|-----------------------------|
+| Spiegelbeeld                                     | \\(180 ^{\circ}\\) gedraaid                                                    |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ |
 | ![Spiegelbeeldisomeer](spiegelbeeld-isomeer.png) | ![Spiegelbeeldisomeer, 180 graden gedraaid](spiegelbeeld-isomeer-gedraaid.png) |
 
 Met meerdere stereocentra krijg je nóg meer mogelijke spiegelbeelden:
@@ -173,7 +173,7 @@ De naamgeving van esters is afwijkend: de stamnaam is niet de langste koolstofke
 ## Triviale namen voor zuren en zouten
 
 | Triviale naam | Formule               |
-|---------------|-----------------------|
+| ------------- | --------------------- |
 | Zwavelzuur    | \\(\ce{H2SO4}\\)      |
 | Salpeterzuur  | \\(\ce{HNO3}\\)       |
 | Azijnzuur     | \\(\ce{CH3COOH}\\)    |
@@ -185,11 +185,11 @@ De naamgeving van esters is afwijkend: de stamnaam is niet de langste koolstofke
 
 Let op:
 
-| Naam     | Formule                       |
-|----------|-------------------------------|
-| Ammoniak | \\(\ce{NH3 _{\text{(g)}}}\\)  |
-| Ammonia  | \\(\ce{NH3 _{\text{(aq)}}}\\) |
-| Ammonium | \\(\ce{NH4+}\\)               |
+| Naam     | Formule                        |
+| -------- | ------------------------------ |
+| Ammoniak | \\(\ce{NH3 \_{\text{(g)}}}\\)  |
+| Ammonia  | \\(\ce{NH3 \_{\text{(aq)}}}\\) |
+| Ammonium | \\(\ce{NH4+}\\)                |
 
 ## Zoutformules
 
@@ -206,27 +206,23 @@ Let op:
     <td>\(\ce{NH4+}\)</td>
   </tr>
   <tr>
-    <td>1-</td>
+    <td rowspan="5">1-</td>
     <td>Hydroxide</td>
     <td>\(\ce{OH-}\)</td>
   </tr>
   <tr>
-    <td></td>
     <td>Nitraat</td>
     <td>\(\ce{NO3-}\)</td>
   </tr>
   <tr>
-    <td></td>
     <td>Nitriet</td>
     <td>\(\ce{NO2-}\)</td>
   </tr>
   <tr>
-    <td></td>
     <td>Waterstofcarbonaat</td>
     <td>\(\ce{HCO3-}\)</td>
   </tr>
   <tr>
-    <td></td>
     <td>Acetaat/ethanoaat</td>
     <td>\(\ce{CH3COO-}\)</td>
   </tr>
@@ -257,7 +253,7 @@ Let op:
 ## Indicatoren
 
 | Indicator | Voor           |
-|-----------|----------------|
+| --------- | -------------- |
 | Kalkwater | \\(\ce{CO2}\\) |
 | Kalkwater | \\(\ce{CO2}\\) |
 

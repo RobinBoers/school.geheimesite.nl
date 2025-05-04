@@ -106,13 +106,70 @@ Zouten zijn roosters gevormd uit ionen van metalen en niet-metalen, waarbij typi
 | \\(\ce{Al}\\)    | 3+       |
 | De rest          | 2+       |
 
-<small><sup>\*</sup>\\(\ce{NH4+}\\) is een uitzondering.</small>
-
 Zouten zelf zijn altijd elektrisch neutraal. Daarom kunnen twee stoffen altijd maar in één vaste verhouding een zout vormen, en laten we in systematische namen de voorvoegsels mono-, di-, tri-, tetra-, penta-, en hexa- weg.
 
 Zouten zijn bij kamertemperatuur vast, en de ionen zitten dan op een vaste plaats in het ionrooster. Daardoor geleiden zouten in vaste vorm geen stroom.
 
 In zoutoplossingen kunnen de ionen wel vrij bewegen. Opgelost in water geleiden zouten dus wel stroom.
+
+<table><thead>
+  <tr>
+    <th>Lading</th>
+    <th>Naam</th>
+    <th>Formule</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>1+</td>
+    <td>Ammonium</td>
+    <td>\(\ce{NH4+}\)</td>
+  </tr>
+  <tr>
+    <td rowspan="5">1-</td>
+    <td>Hydroxide</td>
+    <td>\(\ce{OH-}\)</td>
+  </tr>
+  <tr>
+    <td>Nitraat</td>
+    <td>\(\ce{NO3-}\)</td>
+  </tr>
+  <tr>
+    <td>Nitriet</td>
+    <td>\(\ce{NO2-}\)</td>
+  </tr>
+  <tr>
+    <td>Waterstofcarbonaat</td>
+    <td>\(\ce{HCO3-}\)</td>
+  </tr>
+  <tr>
+    <td>Acetaat/ethanoaat</td>
+    <td>\(\ce{CH3COO-}\)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">2-</td>
+    <td>Carbonaat</td>
+    <td>\(\ce{CO3^2-}\)</td>
+  </tr>
+  <tr>
+    <td>Sulfaat</td>
+    <td>\(\ce{SO4^2-}\)</td>
+  </tr>
+  <tr>
+    <td>Sulfiet</td>
+    <td>\(\ce{SO3^2-}\)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3-</td>
+    <td>Fosfaat</td>
+    <td>\(\ce{PO4^3-}\)</td>
+  </tr>
+  <tr>
+    <td>Fosfiet</td>
+    <td>\(\ce{PO3^3-}\)</td>
+  </tr>
+</tbody></table>
+
+<small><sup>\*</sup>\\(\ce{NH4+}\\) is een uitzondering.</small>
 
 ### Polariteit
 
@@ -356,17 +413,19 @@ De stamnaam van een stof is altijd de lengte langste koolstofketen. Daarbij krij
 
 Alle aftakkingen van de hoofdketen noemen we **functionele groepen**. Voor alle functionele groepen hebben we voor- en achtervoegsels. Je geeft met een getal aan aan welke koolstof de functionele groep vast zit.
 
-| Naam         | binding           | voorvoegsel | achtervoegsel |
-| ------------ | ----------------- | ----------- | ------------- |
-| (Carbon)zuur | -COOH             | -           | -zuur         |
-| Ester        | -COO<sup>-</sup>  | -           | -oaat         |
-| Aldehyde     | =O (einde keten)  | oxo-        | -al           |
-| Keton        | =O (midden keten) | oxo-        | -on           |
-| Alcohol      | -OH               | hydroxy-    | -ol           |
-| Amine        | -NH<sub>2</sub>   | amino-      | -amine        |
-| Ether        | -O-               | alkoxy-     | -             |
-| Halogeen     | -F, -Cl, -Br, -I  | [halogeen]- | -             |
-| Nitro        | -NO<sub>2</sub>   | nitro-      | -             |
+| Naam         | binding                                                      | voorvoegsel | achtervoegsel |
+| ------------ | ------------------------------------------------------------ | ----------- | ------------- |
+| (Carbon)zuur | \\(\ce{-COOH}\\)                                             | -           | -zuur         |
+| Ester        | \\(\ce{-C=OCO}\\)                                            | -           | -oaat         |
+| Peptide      | \\(\ce{-C=OCNH}\\)                                           | -           | ??            |
+| Aldehyde     | \\(\ce{=O}\\) (einde keten)                                  | oxo-        | -al           |
+| Keton        | \\(\ce{=O}\\) (midden keten)                                 | oxo-        | -on           |
+| Alcohol      | \\(\ce{-OH}\\)                                               | hydroxy-    | -ol           |
+| Amine        | \\(\ce{-NH2}\\)                                              | amino-      | -amine        |
+| Ether        | \\(\ce{-O-R}\\)                                              | [alk]oxy-   | -             |
+| Akyl         | \\(\ce{-C_nH\_{2n + 1}}\\)                                   | [alk]yl-    | -             |
+| Halogeen     | \\(\ce{-F}\\), \\(\ce{-Cl}\\), \\(\ce{-Br}\\), \\(\ce{-I}\\) | [halogeen]- | -             |
+| Nitro        | \\(\ce{-NO2}\\)                                              | nitro-      | -             |
 
 Je kan dit overzicht ook vinden in Binas 66D. De eerst voorkomende groep (hoogste prioriteit) krijgt het achtervoegsel. De rest van de groepen krijgen voorvoegsels.
 
@@ -397,19 +456,49 @@ Er zijn twee soorten isomeren:
 - **Structuurisomeer**: zelfde molecuulformule, verschillende structuur.
 - **Stereoisomeer** zelfde structuurformule, andere ruimtelijke bouw.
 
-Stereoisomeren komen voor als er een tetra-eder is met vier verschillende zijgroepen of een dubbele binding met twee aan beide kanten twee verschillende groepen.
+Stereoisomeren komen voor als er een tetra-eder is met vier verschillende zijgroepen of een dubbele binding met twee aan beide kanten twee verschillende groepen (cis-transisomerie).
 
 **Stereocentra** worden in de structuurformule aangegeven met een \* op het betreffende atoom of de dubbele binding.
 
 \\[\text{aantal mogelijke structuren} = 2^{\text{aantal stereocentra}}\\]
 
-Isomeren waarbij de moleculen elkaars gespiegelde zijn noemen we spiegelbeeldisomeren. In medicijnen is het vaak zo dat de ene variant de geneeskrachtige werking heeft, terwijl het spiegelbeeld juist voor de bijwerkingen zorgt.
+Isomeren waarbij de moleculen elkaars gespiegelde komen voor bij tetra-eders met vier verschillende groepen. We noemen dit spiegelbeeldisomeren:
+
+| Spiegelbeeld                            | 180&deg; gedraaid                                |
+| --------------------------------------- | ------------------------------------------------ |
+| ![](/5VWO/TW4/spiegelbeeld-isomeer.png) | ![](/5VWO/TW4/spiegelbeeld-isomeer-gedraaid.png) |
+
+In medicijnen is het vaak zo dat de werkzame stof twee spiegelbeeldisomeren heeft: één heeft de geneeskrachtige werking, terwijl het spiegelbeeld juist voor de bijwerkingen zorgt.
 
 ## Polyverbindingen
 
 ### Polymeren
 
-...
+Een polymeer is een hele lange koolstofketen opgebouwd uit kleine stukjes genaamd **monomeren**. De vorming van een polymeer noemen we **condensatie polymerisatie**, en verloopt via een estervormingsreactie:
+
+[TODO(robin): add image!!]
+
+#### Weekmakers
+
+Je kan plastic zachter maken door middel van een weekmaker zoals aceton. De aceton neemt dat de plaats van lucht tussen de koolstofketens in, waardoor de onderlingen vanderwaalskrachten kleiner worden. Daardoor wordt het plastic kleedbaar.
+
+![](/5VWO/TW4/weekmaker.png)
+
+<style id="t4"> #t4 + table td, #t4 + table th { width: 50% } </style>
+
+| Thermoplast <small>(smelt bij verhitten)</small>                          | Thermoharder <small>(smelt niet bij verhitten)</small>                  |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Ketens bij elkaar gehouden door relatief zwakke&nbsp;vanderwaalskrachten. | Ketens bij elkaar gehouden door covalente bindingen genaamd crosslinks. |
+| ![](/5VWO/TW4/thermoplast.png)                                            | ![](/5VWO/TW4/thermoharder.png)                                         |
+
+#### Kookpunt
+
+Omdat polymeren bestaan uit lange koolstofketens, is de onderlinge vanderwaalskracht relatief groot en zijn ze vast bij kamertemperatuur. Vedere invloed op kookpunt (klein naar groot):
+
+- Lengte keten (vanderwaalskrachten)
+- Polariteit (dipool-dipoolinteracties)
+- \\(\ce{OH}\\)- of \\(\ce{NH2}\\)-groepen (waterstofbruggen)
+- Crosslinks (covalente bindingen)
 
 ### Koolhydraten
 
@@ -435,9 +524,112 @@ De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, 
 
 ### Vetten en oliën
 
+Vetten en oliën (aka glycerides) bestaan uit glycerol (propaan-1,2,3-triol) en drie vetzuren. Een vetzuur (Binas 67G) is een lange koolstofketen met een zuurgroep op het einde.
+
+De glycerol en vetzuren vormen via een estervorming (\\(\ce{\text{alcohol} + \text{zuur} -> \text{ester} + \text{water}}\\)) een triglyceride. De omgekeerde reactie heet (net als bij suikers) hydrolyse.
+
+![](/6VWO/TW2/triglyceride.png)
+
+Er zijn 3 soorten vetzuren, gebaseerd op het aantal dubbele bindingen in de koolstofketen:
+
+| Naam                    | Aantal dubbele bindingen |
+| ----------------------- | ------------------------ |
+| Verzadigd               | 0                        |
+| Enkelvoudig onverzadigd | 1                        |
+| Meervoudig onverzadigd  | 2+                       |
+
+Het aantal dubbele bindingen in de staarten van een triglyceride bepaalt of het om een vet of olie gaat. Een verzadigd vetzuur heeft een hoger kookpunt.
+
+- **Vetten** bestaan uit uitsluitend verzadigde vetzuren en zijn daarom bij kamertemperatuur vast.
+- **Oliën** hebben één of meer onverzadigde vetzuren en zijn daarom bij kamertemperatuur vloeibaar.
+
+Deze grens tussen vetten en oliën is puur theoretisch. In de praktijk heb je een grijze zone waarin je een soort puddingprut hebt die geen vaste stof (vet) is, maar ook niet echt een vloeistof (olie).
+
+<details open style="font-style: normal">
+<summary>Berekenen hoeveel dubbele bindingen een vetzuur heeft</summary>
+<p>De staart van een vetzuur (dus zonder zuurgroep) volgt de formule \(\ce{C_nH_{2n + 1}}\).</p>
+<p>Per dubbele binding verdwijnen er twee \(\ce{H}\)'s. Dus stel \(\ce{C35H65}\). Dit vetzuur heeft drie dubbele bindingen, omdat er \((35 * 2 + 1) - 65 = 6\) \(\ce{H}\)'s missen.</p>
+</details>
+
 ### Eiwitten
 
-## DNA en puntmutaties
+Eiwitten (aka polypeptides) bestaan uit aminozuren. Een aminozuur heeft altijd een basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan ze vinden in Binas 67H.
+
+![](/6VWO/TW2/aminozuur.png)
+
+Door de **condensatie** van twee of meer aminozuren kan je een di-, tri- of zelfs polypeptide krijgen. Dit gaat door middel van peptidevorming (\\(\ce{\text{amine} + \text{zuur} -> \text{peptide} + \text{water}}\\)). De omgekeerde reactie heet (net als bij suikers _en_ vetten) hydrolyse.
+
+![](/6VWO/TW2/peptidevorming.png)
+
+Aminozuren worden nergens opgeslagen, maar afgenbroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
+
+#### Mogelijkheden met verschillende aminozuren
+
+Als je twee verschillende aminozuren als bouwstenen hebt, kan je in totaal 8 verschillende eiwitten met ketenlengte drie maken. Je kan dit berekenen:
+
+\\[\text{aantal mogelijke eiwitten} = \text{aantal bouwstenen}^\text{ketenlengte}\\]
+
+#### Mogelijkheden met ruimtelijke bouw
+
+Als je aminozuur een stereocentrum heeft en rekening gehouden moet worden met ruimtelijke bouw, telt het aminozuur mee als meerdere mogelijke bouwstenen in de bovenstaande formule:
+
+\\[\text{aantal bouwstenen (per aminozuur)} = 2^\text{aantal stereocentra}\\]
+
+#### Mogelijkheden met alle aminozuren één keer
+
+Als alle aminozuren exact één keer moeten voorkomen in een eiwit, en ruimtelijke bouw geen rol speelt, bereken je het aantal mogelijke eiwitten met de volgende formule:
+
+\\[\text{aantal mogelijke eiwitten} = \text{aantal bouwstenen}!\\]
+
+<center><small>De \(!\) is een wiskundig symbol genaamd faculteit: \(5! = 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1\)</small></center>
+
+## Biochemie
+
+### Eiwitten 'opvouwen' <small>(zie ook Binas 67H)</small>
+
+- **Primaire structuur**: de normale hoofdketen van animozuren gekoppeld met peptidebindingen.
+- **Secondaire structuur**: waterstofbruggen zorgen ervoor dat de keten wordt 'opgevouwen' tot \\(\alpha\\)-helix of \\(\beta\\)-sheet.
+- **Tertiare structuur**: de \\(\alpha\\)-helix of \\(\beta\\)-sheet wordt verder ‘opgevouwen’ door dipool-dipool interactie en/of zwavelbruggen.
+- **Quaternaire structuur**: de eiwitten wrappen in elkaar, we hoeven niet te weten hoe of waarom dit gebeurt.
+
+### Puntmutaties
+
+DNA bevat instructies voor het bouwen van eiwitten. Het DNA is een \\(\alpha\\)-helix bestaand uit twee strengen: de coderende streng en de matrijsstreng. De strengen bevatten basenparen:
+
+- A-T (verbonden met drie waterstofbruggen)
+- G-C (verbonden met twee waterstofbruggen)
+
+Het DNA zit vast in de celkern, maar de eiwitten worden elders in de cel gebouwd. Daarom wordt de coderende streng gekopieerd naar zogenaamd mRNA. Dat is een soort 'recept' voor het bouwen van eiwitten.
+
+Het mRNA wordt per codon (drie basen) afgelezen. Op mRNA bestaat de base T niet, en wordt daarom U gebruikt. Elk codon komt overeen met een aminozuur dat ingebouwd kan worden. In Binas 71G staat een overzicht.
+
+In het geval van een puntmutatie is een base in een codon verandered naar een andere base, waardoor er een ander animozuur geplaatst wordt. Dit kan leiden tot het vroegtijdig afbreken van het eiwit, of de productie van een compleet ander eiwit.
+
+### Essentiële vetten & eiwitten
+
+Essentiële vetten en eiwitten kunnen mensen niet zelf maken en moet je dus binnenkrijgen via voeding. Hieronder vallen onder andere meervoudig onverzadigde vetzuren.
+
+## Groene chemie
+
+### Atoomeconomie
+
+De atoomeconomie (Binas 37H) laat zien hoe efficiënt een reactie is. Om de efficiëntie te berekenen gebruik je deze formule:
+
+\\[\text{atoomeconomie} = \frac{m_\text{gewenste eindproducten}}{m_\text{beginproducten}} \cdot 100\%\\]
+
+<details open style="font-style: normal">
+<summary>Voorbeeld</summary>
+Stel je hebt de reactie \(\ce{A + B -> C + D}\) om C te produceren. Er blijft altijd A en B over, omdat geen enkele reactie voor 100% verloopt. Er ontstaat ook D, wat voor ons een afvalstof is. De atoomeconomie is dus:
+\[\text{atoomeconomie} = \frac{m_C}{m_A + m_B} \cdot 100\%\]
+</details>
+
+### E-factor
+
+De E-factor (ook Binas 37H) is een manier om de impact van een reactie op het milieu te quantificeren. De E-factor geeft aan hoeveel kilogram afval er ontstaat per kilogram gewenst eindproduct.
+
+\\[E = \frac{m_\text{beginstoffen} - m_\text{gewenst eindproduct}}{m_\text{gewenst eindproduct}}\\]
+
+Hoe lager de E-factor, hoe beter. In de ideale situatie (\\(E = 0\\)) ontstaat er helemaal geen afval. Vanaf welke E-factor een reactie "groen" beschouwd kan worden verschilt per situatie. De E-factor wordt dan ook vooral gebruikt voor het vergelijken van productiemethodes.
 
 ## Zuur-base
 
@@ -445,20 +637,20 @@ De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, 
 
 ## De Rest(TM)
 
-- triglycerides (verzadigd vs onverzadigd?)
-- polymeren
-- eiwitten (vouwen??)
-- essentiële stoffen
-- dna & puntmutaties
 - hydratie
-- hydrofieliteit
+- hydrofieliteit + fosfolipide + apolaire staart
+- emulgators
 - materialen
-- zuur-base
-- redox
-- reacties: ontleding, vorming, synthese, oxidatie, estervorming, additie, substitutie, polymeercondensatie, ontleding (hydrolyse)
+- reacties: ontleding, vorming, synthese, oxidatie, estervorming, additie, substitutie, polymeercondensatie, ontleding (hydrolyse), vetharding, verzeping, omesteren, fosfolipden
 - aantonen stoffen
 - neerslag...?
 
-## vragen
+## Vragen
 
 - waarom geleidt koolstof stroom?
+- gezondheidseffecten verzadigd vs onverzadigd?
+- dna/puntmutaties oefeningen?
+- zwavelbruggen..?
+- naamgeving peptides?
+- prioriteit methylen etc? (en volgorde in naamgeving?)
+- er was iets met kookpunten en pijlen in blokjesschema's?

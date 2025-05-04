@@ -51,7 +51,7 @@ Vetten en oliën (aka glycerides) worden gevormd uit glycerol (propaan-1,2,3-tri
 Er zijn 3 soorten, gebaseerd op het aantal dubbele bindingen in de koolstofketen:
 
 | Naam                    | Aantal dubbele bindingen |
-|-------------------------|--------------------------|
+| ----------------------- | ------------------------ |
 | Verzadigd               | 0                        |
 | Enkelvoudig onverzadigd | 1                        |
 | Meervoudig onverzadigd  | 2+                       |
@@ -77,9 +77,9 @@ Deze grens tussen vetten en oliën is puur theoretisch. In de praktijk heb je ee
 
 ### Berekenen hoeveel dubbele bindingen een vetzuur heeft
 
-De staart van een vetzuur (dus zonder de zuurgroep vooraan) volgt de (verzadigdheid)formule \\(\ce{C_nH_{2n + 1}}\\).
+De staart van een vetzuur (dus zonder de zuurgroep vooraan) volgt de (verzadigdheid)formule \\(\ce{C*nH*{2n + 1}}\\).
 
-Per dubbele binding in het vetzuur verdwijnen er twee H'  s. Dus stel \\(\ce{C_{35}H_{65}}\\). Dit vetzuur heeft drie dubbele bindingen, omdat er \\((2 \cdot 35 + 1) - 65 = 6\\) H's missen.
+Per dubbele binding in het vetzuur verdwijnen er twee H' s. Dus stel \\(\ce{C*{35}H*{65}}\\). Dit vetzuur heeft drie dubbele bindingen, omdat er \\((2 \cdot 35 + 1) - 65 = 6\\) H's missen.
 
 ### Vetharding
 
@@ -105,7 +105,7 @@ Je bewaart de onstane \\(\ce{H2O}\\), omdat je die aan het eind van de reactie n
 
 ![Zuur-base reactie tussen een triglyceride en CH3O-](omesteren2.png)
 
-Hierbij worden dus de staarten losgemaakt van de glycerol. De afgesplitste staarten zijn *geen* vetzuren, want ze eindigen niet op een zuurgroep.
+Hierbij worden dus de staarten losgemaakt van de glycerol. De afgesplitste staarten zijn _geen_ vetzuren, want ze eindigen niet op een zuurgroep.
 
 Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het restmolecuul krijg je weer een glycerol terug:
 
@@ -139,8 +139,8 @@ Eiwitten bestaan uit aminozuren. Een aminozuur heeft altijd een bepaalde basisst
 
 Het iso-elektrisch punt is de pH-waarde waarbij het aminozuur ongeladen is. Bij een hogere pH is het aminozuur negatief geladen, en bij een lagere pH positief.
 
-| pH = IEP | pH > IEP | pH < IEP |
-|----------|----------|----------|
+| pH = IEP           | pH > IEP                  | pH < IEP                  |
+| ------------------ | ------------------------- | ------------------------- |
 | ![](aminozuur.png) | ![](negatief-geladen.png) | ![](positief-geladen.png) |
 
 ### Di-, tri & polypeptides
@@ -149,7 +149,7 @@ Je kan aminozuren aan elkaar koppelen om eiwitten (aka polypeptides) te creeëre
 
 ![De vorming van een peptidebinding uit twee aminozuren](peptidevorming.png)
 
-De omgekeerde reactie heet (net als bij suikers *en* vetten) **hydrolyse**. Aminozuren worden nergens opgeslagen, maar afgenbroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
+De omgekeerde reactie heet (net als bij suikers _en_ vetten) **hydrolyse**. Aminozuren worden nergens opgeslagen, maar afgenbroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
 
 ### Aantal mogelijke eiwitten
 
@@ -183,7 +183,7 @@ Als alle verschillende aminozuren exact 1x moeten voorkomen in het eiwit, en ste
 
 - **Tertiaire structuur**: de \\(\alpha\\)-helix of \\(\beta\\)-sheet wordt verder 'opgevouwen' door dipool-dipool interactie en/of zwavelbruggen. <small>(Fun fact: dit is ook hoe een krultang werkt volgens meneer Pappers.)</small>
 
-- **Quaternaire**: de eiwitten wrappen in elkaar, we hoeven niet te weten hoe/waarom dit gebeurt.
+- **Quaternaire structuur**: de eiwitten wrappen in elkaar, we hoeven niet te weten hoe/waarom dit gebeurt.
 
 Je kan deze stappen ook vinden in Binas 67H.
 
