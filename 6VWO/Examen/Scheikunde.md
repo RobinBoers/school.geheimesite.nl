@@ -22,6 +22,8 @@ In het periodiek systeem staan drie belangrijke getallen:
 - **Het atoomnummer** (naast de letter) is het aantal protonen.
 - **De elektronenconfiguratie** (linksonder) geeft het aantal elektronen per orbitaal aan.
 
+De massa van atomen wordt gemeten met de atomaire massaeenheid (u). Protonen en neutronen wegen allebei precies 1u. Elektronen hebben een verwaarloosbaar kleine massa.
+
 Er zijn twee soorten atomen: metalen en niet-metalen. Met uitzondering van koolstof geleiden niet-metalen geen stroom.
 
 <!-- Er zijn twee variaties op atomen: isotopen (m. +- neutronen) en ionen (m. +- elektronen).-->
@@ -258,6 +260,36 @@ Een mengsel heeft smelt- en kooktrajecten, een zuivere stof heeft smelt- en kook
 | Centrifugeren         | suspensie of emulsie                   | dichtheid                                |
 | Bezinken & afschenken | suspensie of emulsie                   | dichtheid                                |
 | Chromatografie        | oplossing of suspensie                 | aanhechtingsvermogen<br>en oplosbaarheid |
+
+## Chemisch rekenen
+
+### Dichtheid
+
+De dichtheid (\\(\rho\\)) geeft het verband tussen de massa (\\(m\\)) en het volume (\\(V\\)) van een stof:
+
+\\[\rho = \frac{m}{V}\\]
+
+### Chemische hoeveelheid
+
+Om te rekenen met stoffen moeten we rekening houden met het feit dat niet alle moleculen even zwaar zijn. Maar werken met individuele molecuulmassa's is onbegonnen.
+
+Daarom gebruiken we de chemische hoeveelheid (\\(n\\)), een maat voor \\(6.022 \cdot 10^{23}\\) moleculen (getal van Avogadro). Dit getal is zo gekozen dat de massa van 1 mol van een stof in gram exact gelijk is aan de molecuulmassa van één molecuul in u (de molaire massa).
+
+\\[M_{\ce{H2O}} = 18.015 \text{u} = 18.015 \text{g/mol}\\]
+
+Omrekenen tussen massa en chemische hoeveelheid gaat via de molaire massa:
+
+\\[M = \frac{m}{n}\\]
+
+### Concentratie
+
+De concentratie (\\(c\\)) is de hoeveelheid van een stof die zich in het volume van een medium, zoals een oplossing of gasmengsel, bevindt.
+
+\\[c = \frac{n}{L} \text{ } \text{ of } \text{ } c = \frac{m}{L}\\]
+
+We noteren concentraties vaak tussen vierkante haken. Daarnaast hebben gebruiken we vaak de eenheid molair (M) als afkorting voor mol/L. We spreken dan ookwel van molariteit.
+
+\\[\ce{[H3O+]} = 1.000 \text{M } \text{ } \longleftrightarrow \text{ } \text{ }c\_\ce{H3O+} = 1.000 \text{mol/L}\\]
 
 ## Krachten
 
