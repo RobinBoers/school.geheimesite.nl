@@ -651,7 +651,7 @@ Als je een zuur \\(\ce{HZ}\\) oplost in water, ioniseert deze in \\(\ce{H3O+}\\)
   <span style="display:block;margin-top:-0.5em;margin-bottom:1.5em">
   \\(\ce{HF\_\text{(aq)} + H2O\_\text{(l)} <=> H3O+\_\text{(aq)} + F-\_\text{(aq)}}\\)</span>
 
-In Binas 48 staan alle zuren en basen. Geconjungeerde zuren en basen staan op dezelfde regel. Als een zuur **boven** \\(\ce{H3O+}\\) staat, is het **sterk**. Als een base **onder** \\(\ce{OH-}\\) staat, is het ook **sterk**.
+In Binas 49 staan alle zuren en basen. Geconjungeerde zuren en basen staan op dezelfde regel. Als een zuur boven \\(\ce{H3O+}\\) staat, is het sterk. Als een base onder \\(\ce{OH-}\\) staat, is het ook sterk.
 
 De sterke zuren noteren we als \\(\ce{H3O+ + Z-}\\) en zwakke zuren als \\(\ce{HZ\_\text{(aq)}}\\). Basen zijn altijd zouten, en een zout kan niet onvolledig ioniseren; het is oplosbaar of niet. Er is daarom geen onderscheid tussen de notatie van sterke of zwakke basen.
 
@@ -755,6 +755,44 @@ Een terugtitratie gebruik je als je te maken hebt met een instabiele stoffen die
 7. Je weet dat \\(n\_\text{over} = n\_\text{base}\\). Bereken hiermee \\(n\_\ce{NH3}\\)
 
 ## Redox
+
+Een redoxreactie is een reactie waarbij sprake is van elektronenoverdracht. Daarbij kunnen stoffen reageren als oxidator of reductor. Een oxidator neemt elektronen af, een reductor staat elektronen af.
+
+In Binas 48 staan alle oxidators (links) en reductors (rechts) als **halfreacties** met in de rechterkolom het voltage of **standaardelektrodepotentiaal**. Dit voltage geeft aan hoe graag een stof elektronen wil afgeven of opnemen.
+
+Hoe hoger een oxidator, hoe sterker. Hoe lager een reductor, ook hoe sterker.
+
+### Reacties opstellen
+
+- Begin met het noteren van de beginstoffen en zoek de sterkste oxidator en reductor in Binas 48. Redoxreacties zijn altijd aflopend en verlopen alleen als \\(V\_{red} < V\_{ox}\\).
+
+- Vermigvuldig beide halfreacties zodat het aantal elektronen in beide reacties gelijk is.
+
+- Tel de reacties bij elkaar op. Hierbij zouden de elektronen aan beide kanten van de reactiepijl moeten wegvallen. Als dat niet het geval is heb je iets fout gedaan.
+
+### Batterij <small>(aka Danielcel)</small>
+
+Een batterij is een redoxreactie op afstand, en zet daarmee chemische energie om in elektrische energie. Een Danielcel bestaat uit:
+
+- Twee zoutoplossingen
+- Twee elektrodes
+- Een zoutbrug
+
+De sterkste oxidator reageer met de sterkste reductor, zolang \\(V\_{red} < V\_{ox}\\). Alle elektrodes mogen meereageren, behalve koolstof (\\(\ce{C}\\)) en platina (\\(\ce{Pt}\\)).
+
+Elektronen worden afgegeven door de reductor en opgenomen door de oxidator. We hebben afgesproken dat stroom van plus naar min loopt, maar de elektronen van min naar plus. De reductor is dus de minpool (aka anode) en de oxidator fungeert als pluspool (aka kathode).
+
+> De zoutbrug zorgt ervoor dat er ionen uit de zoutoplossingen mee kunnen bewegen met de elektronen, zodat de lading aan beide kanten van de batterij gelijk blijft.
+
+Bij het opladen van de reactie vindt dezelfde reactie plaats, maar lopen de elektronen de tegengestelde richting op. Daarom zijn dan de anode en kathode ook omgedraaid.
+
+#### Elektroliet
+
+In andere soorten batterij (zoals bijvoorbeeld knoopcellen) wordt vaak elektroliet gebruikt. Dat heeft drie functies:
+
+- Het scheidt de elektrodes van elkaar.
+- Het fungeert als zoutbrug.
+- Het kan meereageren in de redoxreactie.
 
 ## De Rest(TM)
 
