@@ -633,11 +633,133 @@ Hoe lager de E-factor, hoe beter. In de ideale situatie (\\(E = 0\\)) ontstaat e
 
 ## Zuur-base
 
+Een zuur-base reactie is een reactie waarbij sprake is van waterstofoverdracht. Daarbij kunnen stoffen reageren als zuur of als base. Een zuur geeft \\(\ce{H+}\\) af, een base neemt \\(\ce{H+}\\) op.
+
+\\[\ce{HZ + B- -> Z- + HB}\\]
+
+### Sterke en zwakke zuren
+
+Als je een zuur \\(\ce{HZ}\\) oplost in water, ioniseert deze in \\(\ce{H3O+}\\) en zijn geconjungeerde base \\(\ce{Z-}\\).
+
+- Een **sterk zuur** ioniseert volledig bij oplossen in water.
+
+  <span style="display:block;margin-top:-0.5em;margin-bottom:1.5em">
+  \\(\ce{HCl\_\text{(aq)} + H2O\_\text{(l)} -> H3O+\_\text{(aq)} + Cl-\_\text{(aq)}}\\)</span>
+
+- Een **zwak zuur** (of geconcentreerd zuur) gaat een evenwicht aan.
+
+  <span style="display:block;margin-top:-0.5em;margin-bottom:1.5em">
+  \\(\ce{HF\_\text{(aq)} + H2O\_\text{(l)} <=> H3O+\_\text{(aq)} + F-\_\text{(aq)}}\\)</span>
+
+In Binas 48 staan alle zuren en basen. Geconjungeerde zuren en basen staan op dezelfde regel. Als een zuur **boven** \\(\ce{H3O+}\\) staat, is het **sterk**. Als een base **onder** \\(\ce{OH-}\\) staat, is het ook **sterk**.
+
+De sterke zuren noteren we als \\(\ce{H3O+ + Z-}\\) en zwakke zuren als \\(\ce{HZ\_\text{(aq)}}\\). Basen zijn altijd zouten, en een zout kan niet onvolledig ioniseren; het is oplosbaar of niet. Er is daarom geen onderscheid tussen de notatie van sterke of zwakke basen.
+
+### Reacties opstellen
+
+Begin met het noteren van de beginstoffen en vindt het zuur en de base. Zoek deze op in Binas&nbsp;49. Je hebt nu drie mogelijke situaties:
+
+- Het zuur staat boven de base. Er vindt een **aflopende** reactie plaats.
+- Het zuur staat onder de base. Er vindt **geen** reactie plaats.
+- Het zuur en de base zijn geconjungeerd. Er ontstaat een **evenwicht**.
+
+Een evenwicht kan alleen ontstaan als oplossing in water.
+
+### pH berekenen
+
+<p style="margin-top: -1em">(Bij een molariteit van \(\ce{0.100 M}\))</p>
+
+#### Sterk zuur <small>(\\(\ce{H3O+ + Br}\\))</small>
+
+1. \\(\ce{pH = -log [H3O+] = -log(0.100) = 1.000}\\)
+2. Er is geen stap twee.
+
+<details open style="font-style: normal">
+<summary>Significantie</summary>
+Het aantal significante cijfers van de molariteit is het aantal decimalen van de pH.
+</details>
+
+#### Zwak zuur <small>(\\(\ce{HF\_\text{(aq)}}\\))</small>
+
+1. Stel de oplosvergelijking op: \\(\ce{HF + H2O <=> H3O+ + F-}\\)
+2. Stel de evenwichtsvoorwaarde op: \\(k_Z = \ce{\frac{[H3O+][F-]}{[HF]}}\\)
+3. Als er \\(x\\) mol \\(\ce{HF}\\) reageert, ontstaat er \\(x\\) mol \\(\ce{H3O+}\\) en \\(\ce{F-}\\)
+4. Vul in en los op: \\(k_Z = \frac{x^2}{0.100 - x}\\)
+5. \\(\ce{pH = -log [H3O+]} = -\log(x)\\)
+
+#### Base <small>(\\(\ce{SO3^2-}\\))</small>
+
+1. Stel de reactievergelijking op: \\(\ce{SO3^2- + H2O <=> OH- + HSO3-}\\)
+2. Stel de evenwichtsvoorwaarde op: \\(k_B = \ce{\frac{[OH-][HSO3-]}{[SO3^2-]}}\\)
+3. Als er \\(x\\) mol \\(\ce{SO3^2-}\\) reageert, ontstaat er \\(x\\) mol \\(\ce{OH-}\\) en \\(\ce{HSO3-}\\)
+4. Vul in en los op: \\(k_B = \frac{x^2}{0.100 - x}\\)
+5. \\(\ce{pOH = -log [OH-]} = -\log(x)\\)
+6. Omrekenen naar pH: \\(\ce{pH = 14 - pOH}\\)
+
+### Omzettingspercentage bij ingesteld pH
+
+1. Bereken \\(\ce{[H3O+] = 10^{-pH}}\\)
+2. Stel de reactievergelijking op: \\(\ce{HF + H2O <=> H3O+ + F-}\\)
+3. Stel de evenwichtsvoorwaarde op: \\(k_Z = \ce{\frac{[H3O+][F-]}{[HF]}}\\)
+4. Omschrijven naar: \\(\frac{k_Z}{\ce{[H3O+]}} = \ce{\frac{[F-]}{[HF]}}\\)
+
+Als naar een verhouding gevraagd wordt ben je klaar. Voor een omzettingspercentage moet je nog één stap doen. Een percentage bereken je met \\(\frac{\text{deel}}{\text{geheel}} \cdot 100\%\\) en het geheel is \\(\ce{[F-] + [HF]}\\).
+
+- Als wordt gevraagd hoeveel er is omgezet: \\(\text{omz}\% = \ce{\frac{[F-]}{[F-] + [HF]}} \cdot 100\%\\)
+- Als wordt gevraagd hoeveel er overblijft: \\(\text{omz}\% = \ce{\frac{[HF]}{[F-] + [HF]}} \cdot 100\%\\)
+
+### Buffers
+
+Een buffer is een geconjungeerde oplossing waarbij \\(\ce{[HZ] \simeq [Z-]}\\). Als aan een buffer zuren of basen worden toegevoegd verandert het pH van de oplossing nauwelijks. Hoe dichter de concentraties bij elkaar liggen, hoe beter de bufferwerking. De bekendste buffer is bloed.
+
+#### pH berekenen
+
+1. \\(k_Z = \ce{\frac{[H3O+][Z-]}{[HZ]}}\\)
+2. \\(\ce{[H3O+]} = k_Z \ce{\frac{[HZ]}{[Z-]}}\\)
+3. \\(\ce{pH = -log [H3O+]}\\)
+
+### Titraties
+
+Met een titratie kan je de molariteit van een oplossing bepalen.
+
+1. Pak met een pipet een beetje van de oplossing (bijvoorbeeld 10mL).
+2. Gooi hier een indicator bij. Indicatoren vindt je in Binas XXX.
+3. Druppel met een buret de geconjungeerde in de oplossing.
+4. Doe dit tot de kleur van de oplossing begint met omslaan.
+5. Lees op de buret af hoeveel mL geconjungeerde je hebt toegevoegd.
+
+Van de geconjungeerde weet je de molariteit: \\(\ce{[OH-]}\\) of \\(\ce{[H3O+]}\\). Aan de hand daarvan kan je berekenen hoeveel mol van de geconjungeerde je hebt toegevoegd (we gebruiken als voorbeeld een base):
+
+\\[n\_\text{base} = \ce{[OH-]} \cdot V\_\text{afgelezen op buret}\\]
+
+Op het omslagpunt geldt \\(n\_\text{zuur} = n\_\text{base}\\), omdat \\(\ce{H3O+ + OH- -> H2O}\\). Aan de hand daarvan bereken je de molariteit van de originele oplossing (we gebruiken als voorbeeld een zuur):
+
+\\[\ce{[H3O+]} = n\_\text{zuur} / V\_{pipet}\\]
+
+#### Herhalen
+
+Één keer meten is niet meten. Daarom moet je een titratie altijd meerdere keren uitvoeren en het gemiddelde nemen. De buretstanden mogen daarbij niet meer dan 2.5% verschillen. Je berekent de procentuele afwijking zo:
+
+\\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\|I - II\|}{I + II} \cdot 100\%\\]
+
+### Terugtitraties
+
+Een terugtitratie gebruik je als je te maken hebt met een instabiele stoffen die tijdens de reactie zouden kunnen wegreageren of verdampen (zoals \\(\ce{NH3}\\)).
+
+1. Je voegt een overmaat zuur toe: \\(\ce{NH3 + H3O+ -> NH4+ + H2O}\\)
+2. Het grootste deel van het zuur is weggereageerd, maar er blijft een klein deel over: \\(n\_\ce{NH3} = n\_\text{overmaat} - n\_\text{over}\\)
+3. Bereken hoeveel mol overmaat je hebt toegevoegd: \\(n\_\text{overmaat} = \ce{[H3O+]} \cdot V\_\text{overmaat}\\)
+4. We gaan \\(n\_\text{over}\\) berekenen door terug te titreren. Gooi een indicator in de oplossing.
+5. Voeg met een buret \\(\ce{OH-}\\) toe tot de indicator omslaat.
+6. Bereken hoeveel mol \\(\ce{OH-}\\) je hebt toegevoegd: \\(n\_\text{base} = \ce{[OH-]} \cdot V\_\text{buret}\\)
+7. Je weet dat \\(n\_\text{over} = n\_\text{base}\\). Bereken hiermee \\(n\_\ce{NH3}\\)
+
 ## Redox
 
 ## De Rest(TM)
 
 - hydratie
+- meerwaardigheid bij zuur-base
 - hydrofieliteit + fosfolipide + apolaire staart
 - emulgators
 - materialen
