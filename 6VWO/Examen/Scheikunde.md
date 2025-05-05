@@ -474,9 +474,9 @@ In medicijnen is het vaak zo dat de werkzame stof twee spiegelbeeldisomeren heef
 
 ### Polymeren
 
-Een polymeer is een hele lange koolstofketen opgebouwd uit kleine stukjes genaamd **monomeren**. De vorming van een polymeer noemen we **condensatie polymerisatie**, en verloopt via een estervormingsreactie:
+Een polymeer is een hele lange koolstofketen opgebouwd uit herhalingen van kleinere stukjes genaamd **monomeren**. De vorming van een polymeer noemen we **condensatie polymerisatie**, en verloopt via een estervormingsreactie:
 
-[TODO(robin): add image!!]
+> TODO(robin): add image!!
 
 #### Weekmakers
 
@@ -518,7 +518,7 @@ Bij het maken van een keten van \\(n\\) monosachriden, komen \\((n - 1)\\) water
 
 De reactie vindt meestal plaats tussen C<sub>1</sub> en C<sub>4</sub>, geteld met de klok mee vanaf de ether. Een polysachride mag ook uit verschillende soorten monosachriden bestaan.
 
-Voor zowel condensatie als hydrolyse zijn enzymen als katalysator nodig. Enzymen werken het (als katalysator) best bij een bepaalde temperatuur en bepaalde pH. Dit verschilt per enzym en stof die moet worden afgebroken of gevormd. Als je zo'n enzym niet hebt, kan je de koolhydraat niet afbreken, zoals bijvoorbeeld bij lactose-intolerantie.
+Voor zowel condensatie als hydrolyse zijn enzymen als katalysator nodig. Enzymen werken het best (als katalysator) bij een bepaalde temperatuur en bepaalde pH. Dit verschilt per enzym en stof die moet worden afgebroken of gevormd. Als je zo'n enzym niet hebt, kan je de koolhydraat niet afbreken, zoals bijvoorbeeld bij lactose-intolerantie.
 
 De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, en in dieren glycogeen.
 
@@ -561,7 +561,7 @@ Door de **condensatie** van twee of meer aminozuren kan je een di-, tri- of zelf
 
 ![](/6VWO/TW2/peptidevorming.png)
 
-Aminozuren worden nergens opgeslagen, maar afgenbroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
+Aminozuren worden nergens opgeslagen, maar afgebroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
 
 #### Mogelijkheden met verschillende aminozuren
 
@@ -603,7 +603,7 @@ Het DNA zit vast in de celkern, maar de eiwitten worden elders in de cel gebouwd
 
 Het mRNA wordt per codon (drie basen) afgelezen. Op mRNA bestaat de base T niet, en wordt daarom U gebruikt. Elk codon komt overeen met een aminozuur dat ingebouwd kan worden. In Binas 71G staat een overzicht.
 
-In het geval van een puntmutatie is een base in een codon verandered naar een andere base, waardoor er een ander animozuur geplaatst wordt. Dit kan leiden tot het vroegtijdig afbreken van het eiwit, of de productie van een compleet ander eiwit.
+In het geval van een puntmutatie is een base in een codon veranderd naar een andere base, waardoor er een ander animozuur geplaatst wordt. Dit kan leiden tot het vroegtijdig afbreken van het eiwit, of de productie van een compleet ander eiwit.
 
 ### Essentiële vetten & eiwitten
 
