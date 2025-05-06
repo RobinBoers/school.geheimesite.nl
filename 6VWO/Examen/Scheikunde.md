@@ -193,7 +193,10 @@ De electronegatieve atomen kan je onthouden met het ezelsbruggetje \\(\ce{FONClB
 
 De oplosbaarheid van stoffen wordt bepaald door de polariteit. Apolaire stoffen lossen goed op met andere apolaire stoffen, en polaire stoffen met andere polaire stoffen.
 
-Water is een polaire stof (\\(\ce{O}\\) is elektronegatief), dus apolaire stoffen lossen slecht op in water, en polaire stoffen juist goed.
+Water is een polaire stof (\\(\ce{O}\\) is elektronegatief), dus:
+
+- **Hydrofiel**: polaire stoffen lossen goed op in water
+- **Hydrofoob**: apolaire stoffen lossen slecht op in water
 
 ## Stoffen en mengsels
 
@@ -617,6 +620,16 @@ Als alle aminozuren exact één keer moeten voorkomen in een eiwit, en ruimtelij
 
 ## Biochemie
 
+### Fosfolipiden
+
+Fosfolipiden worden door je lichaam gemaakt voor celwanden. Een fosfolipide is een triglyceride waarbij één vetzuur vervangen is door een fosfaatgroep.
+
+De fosfaatgroep is polair en is daarom hydrofiel. De twee vetzuren vormen lange apolaire staarten, en zijn dus hydrofoob. Fosfolipiden vormen daarom in water een dubbele laag:
+
+![](fosfolipiden.png)
+
+Fosfolipiden met verzadigde vetzuren liggen te dicht tegen elkaar, waardoor stofwisseling moeilijk verloopt. Onverzadigde vetzuren hebben een nét grotere hoek tussen de C=C bindingen, waardoor er meer ruimte is. Daarom zijn onverzadigde vetzuren beter voor je.
+
 ### Eiwitten 'opvouwen' <small>(zie ook Binas 67H)</small>
 
 - **Primaire structuur**: de normale hoofdketen van animozuren gekoppeld met peptidebindingen.
@@ -826,23 +839,57 @@ In andere soorten batterij (zoals bijvoorbeeld knoopcellen) wordt vaak elektroli
 - Het fungeert als zoutbrug.
 - Het kan meereageren in de redoxreactie.
 
+## Reacties
+
+### Ontleding
+
+...
+
+### Additie
+
+Een additiereactie is een reactie waarbij een dubbele binding wordt opengeklapt om een (waterstof)halogeen in te bouwen. Deze reactie wordt gebruikt om koolstofketens te verzadigen.
+
+![](additie.png)
+
+### Eliminatie
+
+Een eliminatiereactie is een omgekeerde additie. Bij een eliminatie wordt een (waterstof)halogeen afgestoten om een dubbele binding te vórmen:
+
+![](eliminatie.png)
+
+### Substitutie
+
+Bij een substitutiereactie wordt een waterstof vervangen met een halogeen. Daarbij vormt een waterstofhalogeen:
+
+![](substitutie.png)
+
+### Oxidatie
+
+Een verbranding of oxidatie is een reactie met zuurstof. Een verbranding gaat gepaard met vuurverschijnselen, een oxidatie niet.
+
+Verbranding kan alleen plaatsvinden als aan drie voorwaarde wordt voldaan:
+
+- Voldoende brandstof
+- Ontbrandingstemperatuur
+- Aanwezigheid van zuurstof
+
+Een explosie vindt plaats bij exact de juiste verhouding van brand- en zuurstof, waardoor in één klap alle brandstof verbrandt. Hierbij komt heel veel energie vrij.
+
+| Brandstof    | Verbrandingsproduct |
+| ------------ | ------------------- |
+| \\(\ce{H}\\) | \\(\ce{H2O}\\)      |
+| \\(\ce{C}\\) | \\(\ce{CO2}\\)      |
+| \\(\ce{S}\\) | \\(\ce{SO2}\\)      |
+
+### Vetharding
+
+### Verzeping
+
 ## De Rest(TM)
 
 - hydratie
 - meerwaardigheid bij zuur-base
-- hydrofieliteit + fosfolipide + apolaire staart
 - emulgators
 - materialen
-- reacties: ontleding, vorming, synthese, oxidatie, estervorming, additie, substitutie, polymeercondensatie, ontleding (hydrolyse), vetharding, verzeping, omesteren, fosfolipden
+- reacties: estervorming, polymeercondensatie, vetharding, verzeping, omesteren
 - aantonen stoffen
-- neerslag...?
-
-## Vragen
-
-- waarom geleidt koolstof stroom?
-- gezondheidseffecten verzadigd vs onverzadigd?
-- dna/puntmutaties oefeningen?
-- zwavelbruggen..?
-- naamgeving peptides?
-- prioriteit methylen etc? (en volgorde in naamgeving?)
-- er was iets met kookpunten en pijlen in blokjesschema's?
