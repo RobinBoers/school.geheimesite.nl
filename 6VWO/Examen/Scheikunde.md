@@ -183,20 +183,11 @@ In een polaire binding (aka een <em>dipool</em>) ziet dat er meer zo uit:
 
 ![](polariteit1.png)
 
-De ‘gedeelde’ elektronen bevinden zich voornamelijk in de orbitalen van \\(\ce{F}\\) en slechts af en toe in de buitenste schil van het \\(\ce{H}\\)-atoom.
+De 'gedeelde' elektronen bevinden zich voornamelijk in de orbitalen van \\(\ce{F}\\) en slechts af en toe in de buitenste schil van het \\(\ce{H}\\)-atoom.
 
 **Electronegatieve** atomen zoals \\(\ce{F}\\) trekken de covalentebinding naar zichzelf toe. Daardoor wordt het electronegatieve atoom _een beetje negatief geladen_ (\\(\ce{\delta-}\\)), en het andere atoom _een beetje positief geladen_ (\\(\ce{\delta+}\\)). We noemen dit **partiële lading**.
 
 De electronegatieve atomen kan je onthouden met het ezelsbruggetje \\(\ce{FONClBrI}\\).
-
-#### Oplosbaarheid
-
-De oplosbaarheid van stoffen wordt bepaald door de polariteit. Apolaire stoffen lossen goed op met andere apolaire stoffen, en polaire stoffen met andere polaire stoffen.
-
-Water is een polaire stof (\\(\ce{O}\\) is elektronegatief), dus:
-
-- **Hydrofiel**: polaire stoffen lossen goed op in water
-- **Hydrofoob**: apolaire stoffen lossen slecht op in water
 
 ## Stoffen en mengsels
 
@@ -263,6 +254,10 @@ Een mengsel heeft smelt- en kooktrajecten, een zuivere stof heeft smelt- en kook
 | Centrifugeren         | suspensie of emulsie                   | dichtheid                                |
 | Bezinken & afschenken | suspensie of emulsie                   | dichtheid                                |
 | Chromatografie        | oplossing of suspensie                 | aanhechtingsvermogen<br>en oplosbaarheid |
+
+### Indicatoren
+
+...
 
 ## Chemisch rekenen
 
@@ -511,7 +506,7 @@ In medicijnen is het vaak zo dat de werkzame stof twee spiegelbeeldisomeren heef
 
 Een polymeer is een hele lange koolstofketen opgebouwd uit herhalingen van kleinere stukjes genaamd **monomeren**. De vorming van een polymeer noemen we **condensatie polymerisatie**, en verloopt via een estervormingsreactie:
 
-> TODO(robin): add image!!
+...
 
 #### Weekmakers
 
@@ -654,6 +649,29 @@ In het geval van een puntmutatie is een base in een codon veranderd naar een and
 
 Essentiële vetten en eiwitten kunnen mensen niet zelf maken en moet je dus binnenkrijgen via voeding. Hieronder vallen onder andere meervoudig onverzadigde vetzuren.
 
+## Water
+
+### Oplosbaarheid
+
+De oplosbaarheid van stoffen wordt bepaald door de polariteit. Apolaire stoffen lossen goed op met andere apolaire stoffen, en polaire stoffen met andere polaire stoffen.
+
+Water is een polaire stof (\\(\ce{O}\\) is elektronegatief), dus:
+
+- **Hydrofiel**: polaire stoffen lossen goed op in water
+- **Hydrofoob**: apolaire stoffen lossen slecht op in water
+
+### Hydratie
+
+Water is een dipool. De \\(\ce{O}\\) is \\(\ce{\delta-}\\) en de \\(\ce{H}\\)'s zijn \\(\ce{\delta+}\\). Daardoor worden de ionen in zoutoplossingen omringd met water. Dit noemen we **hydratie** of **gehydrateerde ionen**.
+
+![](hydratie.png)
+
+<center style="margin-top: -0.5em"><small>I know, mijn tekenkunsten worden steeds beter WHAHAHAH</small></center>
+
+### Emulgators
+
+...
+
 ## Groene chemie
 
 ### Atoomeconomie
@@ -709,6 +727,10 @@ Begin met het noteren van de beginstoffen en vindt het zuur en de base. Zoek dez
 - Het zuur en de base zijn geconjungeerd. Er ontstaat een **evenwicht**.
 
 Een evenwicht kan alleen ontstaan als oplossing in water.
+
+### Meerwaardigheid
+
+...
 
 ### pH berekenen
 
@@ -787,6 +809,10 @@ Op het omslagpunt geldt \\(n\_\text{zuur} = n\_\text{base}\\), omdat \\(\ce{H3O+
 
 \\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\|I - II\|}{I + II} \cdot 100\%\\]
 
+#### Indicator kiezen
+
+...
+
 ### Terugtitraties
 
 Een terugtitratie gebruik je als je te maken hebt met een instabiele stoffen die tijdens de reactie zouden kunnen wegreageren of verdampen (zoals \\(\ce{NH3}\\)).
@@ -815,6 +841,10 @@ Hoe hoger een oxidator, hoe sterker. Hoe lager een reductor, ook hoe sterker.
 
 - Tel de reacties bij elkaar op. Hierbij zouden de elektronen aan beide kanten van de reactiepijl moeten wegvallen. Als dat niet het geval is heb je iets fout gedaan.
 
+### Halfreacties opstellen <small>(zonder Binas)</small>
+
+...
+
 ### Batterij <small>(aka Danielcel)</small>
 
 Een batterij is een redoxreactie op afstand, en zet daarmee chemische energie om in elektrische energie. Een Danielcel bestaat uit:
@@ -839,11 +869,25 @@ In andere soorten batterij (zoals bijvoorbeeld knoopcellen) wordt vaak elektroli
 - Het fungeert als zoutbrug.
 - Het kan meereageren in de redoxreactie.
 
+### Brandstofcel
+
+...
+
 ## Reacties
 
 ### Ontleding
 
-...
+Een ontledingsreactie is een reactie waarbij een stof wordt gereduceerd tot losse bestandsdelen.
+
+- **Fotolyse**: onder invloed van licht.
+- **Electrolyse**: onder invloed van elektriciteit.
+- **Hydrolyse**: een ontledingsreactie met water.
+
+### Condensatie
+
+Een condensatiereactie is een reactie waarbij een stof gevormd wordt en water vrijkomt. Dit is het tegengestelde van een hydrolyse---waar een stof ontleedt wordt en water vérbruikt wordt.
+
+Als er een polymeer gevormd wordt noemen we dat **condensatie polymerisatie**.
 
 ### Additie
 
@@ -859,7 +903,7 @@ Een eliminatiereactie is een omgekeerde additie. Bij een eliminatie wordt een (w
 
 ### Substitutie
 
-Bij een substitutiereactie wordt een waterstof vervangen met een halogeen. Daarbij vormt een waterstofhalogeen:
+Bij een substitutiereactie wordt een waterstof vervangen met een halogeen. Daarbij ontstaat een waterstofhalogeen:
 
 ![](substitutie.png)
 
@@ -881,15 +925,43 @@ Een explosie vindt plaats bij exact de juiste verhouding van brand- en zuurstof,
 | \\(\ce{C}\\) | \\(\ce{CO2}\\)      |
 | \\(\ce{S}\\) | \\(\ce{SO2}\\)      |
 
+### Ester- en peptidevorming
+
+...
+
 ### Vetharding
+
+...
 
 ### Verzeping
 
-## De Rest(TM)
+...
 
-- hydratie
-- meerwaardigheid bij zuur-base
-- emulgators
-- materialen
-- reacties: estervorming, polymeercondensatie, vetharding, verzeping, omesteren
-- aantonen stoffen
+### Omesteren
+
+...
+
+## Analysemethoden
+
+- **Kwantitatieve** analysemethoden stellen vast **hoeveel** je ergens van hebt.
+- **Kwalitatieve** analysemethoden stellen vast **wat** je precies hebt.
+
+### Titratie (<small>kwantitatief</small>
+
+...
+
+### Colorimetrie (<small>kwantitatief</small>)
+
+...
+
+### Gaschromatografie (<small>kwantitatief & kwalitatief</small>)
+
+...
+
+### IR-spectraalanalyse (<small>kwalitatief</small>)
+
+...
+
+### Massaspectrometrie (<small>kwalitatief</small>)
+
+...
