@@ -255,10 +255,6 @@ Een mengsel heeft smelt- en kooktrajecten, een zuivere stof heeft smelt- en kook
 | Bezinken & afschenken | suspensie of emulsie                   | dichtheid                                |
 | Chromatografie        | oplossing of suspensie                 | aanhechtingsvermogen<br>en oplosbaarheid |
 
-### Indicatoren
-
-...
-
 ## Chemisch rekenen
 
 ### Dichtheid
@@ -323,7 +319,7 @@ Als er een reactie tussen stoffen plaatsvindt, moeten alle bindingen links van d
 
 \\[\Delta E = -E_{\text{beginproducten}} + E_{\text{eindproducten}}\\]
 
-<small>De \\(E\\) van de begin- of eindproducten bereken je door de som te nemen van de vormingswarmten uit Binas 57A.</small>
+<small>De \\(E\\) van de begin- of eindproducten bereken je door de som te nemen van de vormingswarmten uit Binas&nbsp;57A.</small>
 
 <style id="t2"> #2 + table td img { min-height: 300px } </style>
 
@@ -457,7 +453,7 @@ Alle aftakkingen van de hoofdketen noemen we **functionele groepen**. Voor alle 
 | Halogeen     | \\(\ce{-F}\\), \\(\ce{-Cl}\\), \\(\ce{-Br}\\), \\(\ce{-I}\\) | [halogeen]- | -             |
 | Nitro        | \\(\ce{-NO2}\\)                                              | nitro-      | -             |
 
-Je kan dit overzicht ook vinden in Binas 66D. De eerst voorkomende groep (hoogste prioriteit) krijgt het achtervoegsel. De rest van de groepen krijgen voorvoegsels.
+Je kan dit overzicht ook vinden in Binas&nbsp;66D. De eerst voorkomende groep (hoogste prioriteit) krijgt het achtervoegsel. De rest van de groepen krijgen voorvoegsels.
 
 #### Afwijkende naamgeving esters
 
@@ -536,7 +532,7 @@ Koolhydraten zijn gehydrateerde ringverbindingen van koolstof. Ze kunnen voorkom
 
 ![](/6VWO/TW2/monosachride.png)
 
-De monosachriden kan je vinden in Binas 67F. Het zijn allemaal stereoisomeren met de molecuulformule \\(\ce{C6H12O6}\\). De richting van de \\(\ce{OH}\\)-groepen aan de roodgekleurde \\(\ce{C}\\)'s bepaalt wat voor soort koolhydraat het is.
+De monosachriden kan je vinden in Binas&nbsp;67F. Het zijn allemaal stereoisomeren met de molecuulformule \\(\ce{C6H12O6}\\). De richting van de \\(\ce{OH}\\)-groepen aan de roodgekleurde \\(\ce{C}\\)'s bepaalt wat voor soort koolhydraat het is.
 
 Door de **condensatie** van twee of meer monosachriden kan je een disachride of zelfs polysachride krijgen. De omgekeerde reactie heet **hydrolyse** (een ontleding waarbij water verbruikt wordt).
 
@@ -554,7 +550,7 @@ De bekenste polysachride is zetmeel. In planten wordt verder cellulose gemaakt, 
 
 ### Vetten en oliën
 
-Vetten en oliën (aka glycerides) bestaan uit glycerol (propaan-1,2,3-triol) en drie vetzuren. Een vetzuur (Binas 67G) is een lange koolstofketen met een zuurgroep op het einde.
+Vetten en oliën (aka glycerides) bestaan uit glycerol (propaan-1,2,3-triol) en drie vetzuren. Een vetzuur (Binas&nbsp;67G) is een lange koolstofketen met een zuurgroep op het einde.
 
 De glycerol en vetzuren vormen via een estervorming (\\(\ce{\text{alcohol} + \text{zuur} -> \text{ester} + \text{water}}\\)) een triglyceride. De omgekeerde reactie heet (net als bij suikers) hydrolyse.
 
@@ -583,7 +579,7 @@ Deze grens tussen vetten en oliën is puur theoretisch. In de praktijk heb je ee
 
 ### Eiwitten
 
-Eiwitten (aka polypeptides) bestaan uit aminozuren. Een aminozuur heeft altijd een basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan ze vinden in Binas 67H.
+Eiwitten (aka polypeptides) bestaan uit aminozuren. Een aminozuur heeft altijd een basisstructuur met een restgroep. De restgroep bepaalt welk aminozuur het is. Je kan ze vinden in Binas&nbsp;67H.
 
 ![](/6VWO/TW2/aminozuur.png)
 
@@ -591,7 +587,7 @@ Door de **condensatie** van twee of meer aminozuren kan je een di-, tri- of zelf
 
 ![](/6VWO/TW2/peptidevorming.png)
 
-Aminozuren worden nergens opgeslagen, maar afgebroken in de lever. Hierbij ontstaat ureum, zie Binas 67J voor de structuurformule.
+Aminozuren worden nergens opgeslagen, maar afgebroken in de lever. Hierbij ontstaat ureum, zie Binas&nbsp;67J voor de structuurformule.
 
 #### Mogelijkheden met verschillende aminozuren
 
@@ -625,7 +621,7 @@ De fosfaatgroep is polair en is daarom hydrofiel. De twee vetzuren vormen lange 
 
 Fosfolipiden met verzadigde vetzuren liggen te dicht tegen elkaar, waardoor stofwisseling moeilijk verloopt. Onverzadigde vetzuren hebben een nét grotere hoek tussen de C=C bindingen, waardoor er meer ruimte is. Daarom zijn onverzadigde vetzuren beter voor je.
 
-### Eiwitten 'opvouwen' <small>(zie ook Binas 67H)</small>
+### Eiwitten 'opvouwen' <small>(zie ook Binas&nbsp;67H)</small>
 
 - **Primaire structuur**: de normale hoofdketen van animozuren gekoppeld met peptidebindingen.
 - **Secondaire structuur**: waterstofbruggen zorgen ervoor dat de keten wordt 'opgevouwen' tot \\(\alpha\\)-helix of \\(\beta\\)-sheet.
@@ -641,7 +637,7 @@ DNA bevat instructies voor het bouwen van eiwitten. Het DNA is een \\(\alpha\\)-
 
 Het DNA zit vast in de celkern, maar de eiwitten worden elders in de cel gebouwd. Daarom wordt de coderende streng gekopieerd naar zogenaamd mRNA. Dat is een soort 'recept' voor het bouwen van eiwitten.
 
-Het mRNA wordt per codon (drie basen) afgelezen. Op mRNA bestaat de base T niet, en wordt daarom U gebruikt. Elk codon komt overeen met een aminozuur dat ingebouwd kan worden. In Binas 71G staat een overzicht.
+Het mRNA wordt per codon (drie basen) afgelezen. Op mRNA bestaat de base T niet, en wordt daarom U gebruikt. Elk codon komt overeen met een aminozuur dat ingebouwd kan worden. In Binas&nbsp;71G staat een overzicht.
 
 In het geval van een puntmutatie is een base in een codon veranderd naar een andere base, waardoor er een ander animozuur geplaatst wordt. Dit kan leiden tot het vroegtijdig afbreken van het eiwit, of de productie van een compleet ander eiwit.
 
@@ -676,7 +672,7 @@ Water is een dipool. De \\(\ce{O}\\) is \\(\ce{\delta-}\\) en de \\(\ce{H}\\)'s 
 
 ### Atoomeconomie
 
-De atoomeconomie (Binas 37H) laat zien hoe efficiënt een reactie is. Om de efficiëntie te berekenen gebruik je deze formule:
+De atoomeconomie (Binas&nbsp;37H) laat zien hoe efficiënt een reactie is. Om de efficiëntie te berekenen gebruik je deze formule:
 
 \\[\text{atoomeconomie} = \frac{m_\text{gewenste eindproducten}}{m_\text{beginproducten}} \cdot 100\%\\]
 
@@ -688,7 +684,7 @@ Stel je hebt de reactie \(\ce{A + B -> C + D}\) om C te produceren. Er blijft al
 
 ### E-factor
 
-De E-factor (ook Binas 37H) is een manier om de impact van een reactie op het milieu te quantificeren. De E-factor geeft aan hoeveel kilogram afval er ontstaat per kilogram gewenst eindproduct.
+De E-factor (ook Binas&nbsp;37H) is een manier om de impact van een reactie op het milieu te quantificeren. De E-factor geeft aan hoeveel kilogram afval er ontstaat per kilogram gewenst eindproduct.
 
 \\[E = \frac{m_\text{beginstoffen} - m_\text{gewenst eindproduct}}{m_\text{gewenst eindproduct}}\\]
 
@@ -714,7 +710,7 @@ Als je een zuur \\(\ce{HZ}\\) oplost in water, ioniseert deze in \\(\ce{H3O+}\\)
   <span style="display:block;margin-top:-0.5em;margin-bottom:1.5em">
   \\(\ce{HF\_\text{(aq)} + H2O\_\text{(l)} <=> H3O+\_\text{(aq)} + F-\_\text{(aq)}}\\)</span>
 
-In Binas 49 staan alle zuren en basen. Geconjungeerde zuren en basen staan op dezelfde regel. Als een zuur boven \\(\ce{H3O+}\\) staat, is het sterk. Als een base onder \\(\ce{OH-}\\) staat, is het ook sterk.
+In Binas&nbsp;49 staan alle zuren en basen. Geconjungeerde zuren en basen staan op dezelfde regel. Als een zuur boven \\(\ce{H3O+}\\) staat, is het sterk. Als een base onder \\(\ce{OH-}\\) staat, is het ook sterk.
 
 De sterke zuren noteren we als \\(\ce{H3O+ + Z-}\\) en zwakke zuren als \\(\ce{HZ\_\text{(aq)}}\\). Basen zijn altijd zouten, en een zout kan niet onvolledig ioniseren; het is oplosbaar of niet. Er is daarom geen onderscheid tussen de notatie van sterke of zwakke basen.
 
@@ -730,7 +726,17 @@ Een evenwicht kan alleen ontstaan als oplossing in water.
 
 ### Meerwaardigheid
 
-...
+Bij een zuur-basereactie kan je te maken hebben met een meerwaardig zuur, dat meerdere \\(\ce{H+}\\) kan afgeven. Of dat ook echt gebeurt hangt af van de sterkte van het zuur en de base.
+
+<details open style="font-style: normal">
+<summary>Voorbeeld</summary>
+<p>Stel je hebt \(\ce{CO3^2-}\) een driewaardig zuur zoals \(\ce{H3PO4}\):</p>
+<p>\[\ce{H3PO4 + 2CO3^2- <=> HPO4^2- + 2HCO3-}\]</p>
+<p>Het zuur geeft dus twee \(\ce{H+}\) af. Maar het kan eigenlijk toch drie \(\ce{H+}\) afgeven?</p>
+<p>\[\ce{H3PO4 -> H2PO4- HPO4^2- -> PO4^3-}\]</p>
+<p>De voorwaarde is wel dat het zuur dat steeds ontstaat nog steeds boven \(\ce{CO3^2-}\) moet staan in Binas&nbsp;49. En \(\ce{HPO4^2-}\) staat onder \(\ce{CO3^2-}\) waardoor de laatste \(\ce{H+}\) niet wordt afgegeven.</p>
+<p>Dit is alleen van toepassing op zwakke zuren. Een sterk zuur ioniseert volledig, waardoor er maar één reactie met \(\ce{H3O+}\) plaatsvindt.</p>
+</details>
 
 ### pH berekenen
 
@@ -790,7 +796,7 @@ Een buffer is een geconjungeerde oplossing waarbij \\(\ce{[HZ] \simeq [Z-]}\\). 
 Met een titratie kan je de molariteit van een oplossing bepalen.
 
 1. Pak met een pipet een beetje van de oplossing (bijvoorbeeld 10mL).
-2. Gooi hier een indicator bij. Indicatoren vindt je in Binas XXX.
+2. Gooi hier een indicator bij. Indicatoren vind je in Binas&nbsp;52.
 3. Druppel met een buret de geconjungeerde in de oplossing.
 4. Doe dit tot de kleur van de oplossing begint met omslaan.
 5. Lees op de buret af hoeveel mL geconjungeerde je hebt toegevoegd.
@@ -803,15 +809,27 @@ Op het omslagpunt geldt \\(n\_\text{zuur} = n\_\text{base}\\), omdat \\(\ce{H3O+
 
 \\[\ce{[H3O+]} = n\_\text{zuur} / V\_{pipet}\\]
 
+#### Indicator kiezen
+
+Bij het toevoegen van de geconjungeerde komt er een punt waarop de pH van de oplossing in één klap omslaat. In de **titratiecurve** zie je dit als een verticaal lijnstuk.
+
+De gekozen indicator moet een omslagtraject hebben voor ongeveer dezelfde pH waarde. Indicatoren vind je in Binas&nbsp;52.
+
+<style id="t5"> #t5 + table td img { max-width: 250px; aspect-ratio: 4/3; } #t5 + table td:last-of-type, #t5 + table th:last-of-type { width: min-content; text-align: right } </style>
+
+| zuur  | base  | pH omslagpunt | titratiecurve      |
+| ----- | ----- | ------------- | ------------------ |
+| sterk | sterk | 7             | ![](titratie0.png) |
+| sterk | zwak  | < 7           | ![](titratie1.png) |
+| zwak  | sterk | > 7           | ![](titratie2.png) |
+
+<center><small>Je kan geen titratie uitvoeren met een zwak zuur en een zwakke base. Er is dan geen duidelijk omslagpunt.</small></center>
+
 #### Herhalen
 
 Één keer meten is niet meten. Daarom moet je een titratie altijd meerdere keren uitvoeren en het gemiddelde nemen. De buretstanden mogen daarbij niet meer dan 2.5% verschillen. Je berekent de procentuele afwijking zo:
 
 \\[\text{afwijking}\% = \frac{\text{verschil}}{\text{totaal}} \cdot 100\% = \frac{\|I - II\|}{I + II} \cdot 100\%\\]
-
-#### Indicator kiezen
-
-...
 
 ### Terugtitraties
 
@@ -829,13 +847,13 @@ Een terugtitratie gebruik je als je te maken hebt met een instabiele stoffen die
 
 Een redoxreactie is een reactie waarbij sprake is van elektronenoverdracht. Daarbij kunnen stoffen reageren als oxidator of reductor. Een oxidator neemt elektronen af, een reductor staat elektronen af.
 
-In Binas 48 staan alle oxidators (links) en reductors (rechts) als **halfreacties** met in de rechterkolom het voltage of **standaardelektrodepotentiaal**. Dit voltage geeft aan hoe graag een stof elektronen wil afgeven of opnemen.
+In Binas&nbsp;48 staan alle oxidators (links) en reductors (rechts) als **halfreacties** met in de rechterkolom het voltage of **standaardelektrodepotentiaal**. Dit voltage geeft aan hoe graag een stof elektronen wil afgeven of opnemen.
 
 Hoe hoger een oxidator, hoe sterker. Hoe lager een reductor, ook hoe sterker.
 
 ### Reacties opstellen
 
-- Begin met het noteren van de beginstoffen en zoek de sterkste oxidator en reductor in Binas 48. Redoxreacties zijn altijd aflopend en verlopen alleen als \\(V\_{red} < V\_{ox}\\).
+- Begin met het noteren van de beginstoffen en zoek de sterkste oxidator en reductor in Binas&nbsp;48. Redoxreacties zijn altijd aflopend en verlopen alleen als \\(V\_{red} < V\_{ox}\\).
 
 - Vermigvuldig beide halfreacties zodat het aantal elektronen in beide reacties gelijk is.
 
