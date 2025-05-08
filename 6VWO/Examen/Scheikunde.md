@@ -853,7 +853,7 @@ Hoe hoger een oxidator, hoe sterker. Hoe lager een reductor, ook hoe sterker.
 
 ### Reacties opstellen
 
-- Begin met het noteren van de beginstoffen en zoek de sterkste oxidator en reductor in Binas&nbsp;48. Redoxreacties zijn altijd aflopend en verlopen alleen als \\(V\_{red} < V\_{ox}\\).
+- Begin met het noteren van de beginstoffen en zoek de sterkste oxidator en reductor in Binas&nbsp;48. Redoxreacties zijn altijd aflopend en verlopen alleen als \\(U\_{ox} > U\_{red}\\).
 
 - Vermigvuldig beide halfreacties zodat het aantal elektronen in beide reacties gelijk is.
 
@@ -861,7 +861,21 @@ Hoe hoger een oxidator, hoe sterker. Hoe lager een reductor, ook hoe sterker.
 
 ### Halfreacties opstellen <small>(zonder Binas)</small>
 
-...
+Als een halfreactie niet in Binas&nbsp;48 te vinden is, kan je deze zelf opstellen.
+
+1. Zet beginstoffen voor de pijl en reactieproduct erna. (duh!)
+2. Maak alle coëfficienten met uitzondering van \\(\ce{H}\\) en \\(\ce{O}\\) kloppend.
+3. Voeg \\(\ce{H2O}\\) toe aan de kant met de minste \\(\ce{O}\\)'s.
+4. Maak de \\(\ce{H}\\)'s kloppend door \\(\ce{H+}\\) toe te voegen aan de andere kant.
+5. Maak de lading kloppend door aan de juiste kant elektronen toe te voegen.
+
+Als je reactie plaatsvindt in een neutraal of zuur milieu ben je klaar. In een basisch milieu:
+
+1. Voeg aan beide kanten van de pijl evenveel \\(\ce{OH-}\\) toe als dat er \\(\ce{H+}\\) in de reactie staat.
+2. Daardoor reageert \\(\ce{OH- + H+}\\) aan één kant van de pijl weg tot \\(\ce{H2O}\\)
+3. Aan beide kanten dubbele \\(\ce{H2O}\\) wegstrepen geeft een kloppende reactie zonder \\(\ce{H+}\\)
+
+Het kan zijn dat je helemaal niet moeilijk hoeft te doen met \\(\ce{H+}\\) en \\(\ce{H2O}\\). Soms ben je al klaar als je de coëfficienten en elektronen kloppend maakt.
 
 ### Batterij <small>(aka Danielcel)</small>
 
@@ -871,7 +885,7 @@ Een batterij is een redoxreactie op afstand, en zet daarmee chemische energie om
 - Twee elektrodes
 - Een zoutbrug
 
-De sterkste oxidator reageer met de sterkste reductor, zolang \\(V\_{red} < V\_{ox}\\). Alle elektrodes mogen meereageren, behalve koolstof (\\(\ce{C}\\)) en platina (\\(\ce{Pt}\\)).
+De sterkste oxidator reageer met de sterkste reductor, zolang \\(U\_{ox} > U\_{red}\\). Alle elektrodes mogen meereageren, behalve koolstof (\\(\ce{C}\\)) en platina (\\(\ce{Pt}\\)).
 
 Elektronen worden afgegeven door de reductor en opgenomen door de oxidator. We hebben afgesproken dat stroom van plus naar min loopt, maar de elektronen van min naar plus. De reductor is dus de minpool (aka anode) en de oxidator fungeert als pluspool (aka kathode).
 
@@ -889,7 +903,20 @@ In andere soorten batterij (zoals bijvoorbeeld knoopcellen) wordt vaak elektroli
 
 ### Brandstofcel
 
-...
+Een brandstofcel is een speciaal soort batterij voor gebruik in waterstofmotoren. In een reguliere verbrandingsmotor is waterstofgas zeer explosief:
+
+\\[\ce{2H2 + O2 -> 2H2O + \text{BOOM!}}\\]
+
+In een brandstofcel wordt deze reactie opgedeeld in twee halfreacties:
+
+- \\(\ce{H2 -> 2H+ + 2e-}\\) met \\(U\_{red} = 0.00\text{V}\\)
+- \\(\ce{O2 + 4H+ + 4e- -> 2H2O}\\) met \\(U\_{ox} = 1.23\text{V}\\)
+
+![](brandstofcel.png)
+
+De totaalreactie wordt dan: \\(\ce{2H2 + O2 -> 2H2O}\\)
+
+Dit is mogelijk dankzij het gebruik van een \\(\ce{H+}\\)-doorlatend membraan. Daardoor komen het waterstofgas en zuurstof nooit in direct contact.
 
 ## Reacties
 
