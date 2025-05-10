@@ -1000,9 +1000,9 @@ Na het scheiden van de glycerol houdt je een natriumstearaat-oplossing over.
 
 Met een omesteringsreactie kan je moeilijk verbrandbare triglycerides (zoals gebruikt frituurvet) omzetten in biodiesel. Voor deze reactie is \\(\ce{OH-}\\) nodig als katalysator.
 
-\\[\ce{\text{triglyceride} + 3 CH3OH -> \text{glycerol} + 3 \text{koolstofketens}}\\]
+\\[\ce{\text{triglyceride} + 3 \text{methanol} -> \text{glycerol} + 3 \text{biodiesel}}\\]
 
-Een triglyceride is een te groot molecuul om makkelijk te kunnen verbranden. Omesteren is een process waarbij de staarten van een triglyceride worden veresterd met \\(\ce{CH3}\\) in plaats van glycerol. Die kleinere koolstofketens zijn wél makkelijk te verbranden.
+> Een triglyceride is een te groot molecuul om te kunnen verbranden. Bij omesteren worden de staarten veresterd met \\(\ce{CH3}\\) in plaats van glycerol. Die kleinere moleculen zijn wél makkelijk te verbranden.
 
 Voor omesteren heb je eerst \\(3 \cdot \ce{CH3O-}\\) nodig:
 
