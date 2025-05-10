@@ -1027,19 +1027,46 @@ Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het r
 
 ### Titratie (<small>kwantitatief</small>)
 
-Met een titratie of terugtitratie bepaal je de molariteit of pH van een onbekende oplossing. Zie [zuur-base](#zuur-base).
+Met een titratie of terugtitratie bepaal je de molariteit of pH van een onbekende oplossing. Zie [zuur-base](#titraties).
 
 ### Colorimetrie (<small>kwantitatief</small>)
 
-...
+<style id="t6"> #t6 + table { float: right; max-width: 300px; margin: 0 0 1em 2em } </style>
+
+| Ion              | Kleur |
+| ---------------- | ----- |
+| \\(\ce{Cu^2+}\\) | blauw |
+| \\(\ce{Fe^2+}\\) | groen |
+| \\(\ce{Fe^3+}\\) | bruin |
+
+Bij colorimetrie wordt op basis van de kleur van een oplossing de concentratie bepaald. Een \\(\ce{Cu^2+}\\)-oplossing met een hogere concentratie is namelijk donderder blauw.
+
+Hiervoor wordt (wit) licht door de oplossing geschenen, en gekeken hoeveel blauw we oppikken. Hiervoor mag het licht zelf natuurlijk niet ook blauw bevatten, dus wordt er een kleurfilter van tegengestelde kleur (monochromator) gebruikt.
+
+Eerst wordt van een reeks oplossingen met bekende concentratie de **extinctie** (aka hoeveelheid kleur) bepaald. Op basis daarvan stellen we een ijklijn op die we kunnen gebruiken om aan de hand van een gemete extincitie de molariteit van een onbekende oplossing te bepalen.
 
 ### Gaschromatografie (<small>kwantitatief & kwalitatief</small>)
 
-...
+Met gaschromatografie kan je de samenstelling van een gasmengsel vast stellen door deze met behulp van een gasstroom (van edelgas, want dat reageert niet) door een **kolom** te duwen.
+
+De buis waardoor je de stof duwt kan polair of apolair zijn. Je gasmengsel gaat het snelst door een kolom van tegengestelde polariteit. (Want gelijke polaireit trekt elkaar aan, en daardoor wordt het gasmengsel door de wanden van de buis afgeremt.) Aan het einde van de buis meet je de **retentietijd**: de tijd die het sample erover deed om door de kolom te gaan.
+
+> Dus een polaire kolom met een apolair sample of een apolaire kolom met een polair sample resulteert in een lage retentietijd. Andersom is de retentietijd juist lang.
+
+Je kan vervolgens een V,t-diagram maken. Daarin wordt het (deel)volume van het gasmengsel uitgezet tegen de retentietijd. De pieken geven de polariteit van de stoffen in je mengsel aan.
+
+Deze methode is zowel kwantitatief als kwalitatief:
+
+- Op basis van de retentietijd (voor een bekende kolom) kan je de soort stof bepalen.
+- De oppervlakte onder de grafiek geeft aan hoeveel volume% van het gasmengsel per stof.
 
 ### IR-spectraalanalyse (<small>kwalitatief</small>)
 
-...
+Bij een IR-spectrum schijn je infraroodstraling door een stof heen. Op basis van de intensiteit van de IR-straling die de stof voor elke frequentie doorlaat (de **transmittance**) kan je bepalen welke functionele groepen de stof heeft.
+
+![](/6VWO/TW3/ir-spectrum.png)
+
+<small>Dit heeft te maken met buig- en strekbindingen, maar dit wordt verder niet in het examenprogramma behandeld.</small>
 
 ### Massaspectrometrie (<small>kwalitatief</small>)
 

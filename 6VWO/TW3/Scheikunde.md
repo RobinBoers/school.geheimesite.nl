@@ -54,17 +54,17 @@ VSEPR gaat over ruimtelijkheid bij het tekenen van structuurformules. Afhankelij
 
 <style> td img { max-height: 65px } </style>
 
-| Aantal&nbsp;buren | Naam | Bindingshoeken | Voorbeeld |
-|--|--|--|--|
-| 2 | linear | 180&deg; | ![](linear.png) |
-| 3 | vlak | 120&deg; | ![](vlak.png) |
-| 4 | tetra-eder | 109.5&deg; | ![](tetra-eder.png) |
+| Aantal&nbsp;buren | Naam       | Bindingshoeken | Voorbeeld           |
+| ----------------- | ---------- | -------------- | ------------------- |
+| 2                 | linear     | 180&deg;       | ![](linear.png)     |
+| 3                 | vlak       | 120&deg;       | ![](vlak.png)       |
+| 4                 | tetra-eder | 109.5&deg;     | ![](tetra-eder.png) |
 
 Een koolstof met meer dan 4 bindingen is onmogelijk, maar zwavel (\\(\ce{S}\\)) en fosfor (\\(\ce{P}\\)) kunnen wel fking veel bindingen hebben.
 
 ## Reactiemechanismes
 
-Reactiemechanismes zijn diagrammen waarin is weergegeven hoe elektronen(paren) bewegen bij reacties. De elektronen bewegen, dus de pijlen gaan van *binding naar atoom*.
+Reactiemechanismes zijn diagrammen waarin is weergegeven hoe elektronen(paren) bewegen bij reacties. De elektronen bewegen, dus de pijlen gaan van _binding naar atoom_.
 
 ### Nucleofiele substitutie
 
@@ -105,15 +105,15 @@ Zie [zuur-base](http://localhost:4000/5VWO/TW3/Scheikunde.html#titraties) :). Om
   </thead>
   <tbody>
     <tr>
-      <td>\(\ce{Cu2+}\)</td>
+      <td>\(\ce{Cu^2+}\)</td>
       <td>blauw</td>
     </tr>
     <tr>
-      <td>\(\ce{Fe2+}\)</td>
+      <td>\(\ce{Fe^2+}\)</td>
       <td>groen</td>
     </tr>
     <tr>
-      <td>\(\ce{Cu3+}\)</td>
+      <td>\(\ce{Fe^3+}\)</td>
       <td>bruin</td>
     </tr>
   </tbody>
