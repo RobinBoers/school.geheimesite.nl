@@ -166,7 +166,7 @@ Met meerdere stereocentra krijg je nóg meer mogelijke spiegelbeelden:
 
 ### Estervorming
 
-![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](ester-vorming.png)
+![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](estervorming.png)
 
 De naamgeving van esters is afwijkend: de stamnaam is niet de langste koolstofketen, maar de koolstofketen van het originele zuur. Je gebruikt het achtervoegsel -oaat.
 

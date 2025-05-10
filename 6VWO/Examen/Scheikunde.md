@@ -457,9 +457,9 @@ Je kan dit overzicht ook vinden in Binas&nbsp;66D. De eerst voorkomende groep (h
 
 #### Afwijkende naamgeving esters
 
-Esters hebben afwijkende systhematische naamgeving. Estervorming is een reactie waarbij een alcohol met een zuur met een alcohol reageert, waarbij een ester en water ontstaan:
+Esters hebben afwijkende systhematische naamgeving. Estervorming is een reactie waarbij een alcohol met een zuur reageert, waarbij een ester en water ontstaan:
 
-![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](/5VWO/TW4/ester-vorming.png)
+![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](/5VWO/TW4/estervorming.png)
 
 In plaats van de langste koolstofketen, wordt de lengte van de koolstofketen van het originele zuur gebruikt.
 
@@ -619,7 +619,7 @@ De fosfaatgroep is polair en is daarom hydrofiel. De twee vetzuren vormen lange 
 
 ![](fosfolipiden.png)
 
-Fosfolipiden met verzadigde vetzuren liggen te dicht tegen elkaar, waardoor stofwisseling moeilijk verloopt. Onverzadigde vetzuren hebben een nét grotere hoek tussen de C=C bindingen, waardoor er meer ruimte is. Daarom zijn onverzadigde vetzuren beter voor je.
+Fosfolipiden met verzadigde vetzuren liggen te dicht tegen elkaar, waardoor stofwisseling moeilijk verloopt. Onverzadigde vetzuren hebben een nét grotere hoek tussen de \\(\ce{C=C}\\) bindingen, waardoor er meer ruimte is. Daarom zijn onverzadigde vetzuren beter voor je.
 
 ### Eiwitten 'opvouwen' <small>(zie ook Binas&nbsp;67H)</small>
 
@@ -920,6 +920,24 @@ Dit is mogelijk dankzij het gebruik van een \\(\ce{H+}\\)-doorlatend membraan. D
 
 ## Reacties
 
+### Oxidatie
+
+Een verbranding of oxidatie is een reactie met zuurstof. Een verbranding gaat gepaard met vuurverschijnselen, een oxidatie niet.
+
+Verbranding kan alleen plaatsvinden als aan drie voorwaarde wordt voldaan:
+
+- Voldoende brandstof
+- Ontbrandingstemperatuur
+- Aanwezigheid van zuurstof
+
+Een explosie vindt plaats bij exact de juiste verhouding van brand- en zuurstof, waardoor in één klap alle brandstof verbrandt. Hierbij komt heel veel energie vrij.
+
+| Brandstof    | Verbrandingsproduct |
+| ------------ | ------------------- |
+| \\(\ce{H}\\) | \\(\ce{H2O}\\)      |
+| \\(\ce{C}\\) | \\(\ce{CO2}\\)      |
+| \\(\ce{S}\\) | \\(\ce{SO2}\\)      |
+
 ### Ontleding
 
 Een ontledingsreactie is een reactie waarbij een stof wordt gereduceerd tot losse bestandsdelen.
@@ -952,39 +970,53 @@ Bij een substitutiereactie wordt een waterstof vervangen met een halogeen. Daarb
 
 ![](substitutie.png)
 
-### Oxidatie
-
-Een verbranding of oxidatie is een reactie met zuurstof. Een verbranding gaat gepaard met vuurverschijnselen, een oxidatie niet.
-
-Verbranding kan alleen plaatsvinden als aan drie voorwaarde wordt voldaan:
-
-- Voldoende brandstof
-- Ontbrandingstemperatuur
-- Aanwezigheid van zuurstof
-
-Een explosie vindt plaats bij exact de juiste verhouding van brand- en zuurstof, waardoor in één klap alle brandstof verbrandt. Hierbij komt heel veel energie vrij.
-
-| Brandstof    | Verbrandingsproduct |
-| ------------ | ------------------- |
-| \\(\ce{H}\\) | \\(\ce{H2O}\\)      |
-| \\(\ce{C}\\) | \\(\ce{CO2}\\)      |
-| \\(\ce{S}\\) | \\(\ce{SO2}\\)      |
-
 ### Ester- en peptidevorming
 
-...
+Een estervormingreacties is een reactie waarbij een alcohol met een zuur reageert, waarbij een ester en water ontstaan:
+
+![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](/5VWO/TW4/estervorming.png)
+
+Een peptidevormingsreactie is een reactie waarbij een alcohol met een zuur met een amine reageert, waarbij een peptide en water ontstaan:
+
+![Schematische tekening van de vorming van een peptide uit een zuur en een amine, waarbij een peptide en water ontstaat](/6VWO/TW2/peptidevorming.png)
+
+<small>De naamgeving van peptides hoeven we voor het examen niet te weten.</small>
 
 ### Vetharding
 
-...
+Vetharding is een alternatieve naam voor een additiereactie bij vetzuren. Je kan een olie in een vet veranderen door de onverzadigde vetzuren te verzadigen met waterstoffen.
+
+Daarbij haal je de dubbele bindingen weg door middel van additie. Daarvoor is per dubbele \\(\ce{C=C}\\) binding één \\(\ce{H2}\\) nodig.
 
 ### Verzeping
 
-...
+Verzeping is een process waarbij het vet glyceryltristearaat wordt omgezet in een zeep genaamd natriumstearaat (\\(\ce{Na+C17H35COO-}\\)). Daarvoor voeg je natronloog toe:
+
+![](/6VWO/TW2/verzeping.png)
+
+Na het scheiden van de glycerol houdt je een natriumstearaat-oplossing over.
 
 ### Omesteren
 
-...
+Met een omesteringsreactie kan je moeilijk verbrandbare triglycerides (zoals gebruikt frituurvet) omzetten in biodiesel. Voor deze reactie is \\(\ce{OH-}\\) nodig als katalysator.
+
+\\[\ce{\text{triglyceride} + 3 CH3OH -> \text{glycerol} + 3 \text{koolstofketens}}\\]
+
+Een triglyceride is een te groot molecuul om makkelijk te kunnen verbranden. Omesteren is een process waarbij de staarten van een triglyceride worden veresterd met \\(\ce{CH3}\\) in plaats van glycerol. Die kleinere koolstofketens zijn wél makkelijk te verbranden.
+
+Voor omesteren heb je eerst \\(3 \cdot \ce{CH3O-}\\) nodig:
+
+![](/6VWO/TW2/omesteren1.png)
+
+Je bewaart de ontstane \\(\ce{H2O}\\), omdat je die aan het eind van de reactie nog nodig hebt. De gevormde \\(\ce{CH3O-}\\) gaat een zuur-base reactie aan met de triglyceride:
+
+![](/6VWO/TW2/omesteren2.png)
+
+Hierbij worden dus de staarten losgemaakt van de glycerol. De afgesplitste staarten zijn _geen_ vetzuren, want ze hebben geen zuurgroep meer.
+
+Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het restmolecuul, krijg je weer een glycerol en \\(3 \cdot \ce{OH-}\\) terug:
+
+![](/6VWO/TW2/omesteren3.png)
 
 ## Analysemethoden
 
