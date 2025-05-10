@@ -742,6 +742,8 @@ Bij een zuur-basereactie kan je te maken hebben met een meerwaardig zuur, dat me
 
 <p style="margin-top: -1em">(Bij een molariteit van \(\ce{0.100 M}\))</p>
 
+> De pH is een schaal van 0--14 die aangeeft hoe zuur of basisch (aka zeepachtig) een oplossing is. Een zure oplossing heeft een lage pH, een basische oplossing een hoge pH. Voor neutrale stoffen zoals water geldt \\(\ce{pH} = 7\\).
+
 #### Sterk zuur <small>(\\(\ce{H3O+ + Br}\\))</small>
 
 1. \\(\ce{pH = -log [H3O+] = -log(0.100) = 1.000}\\)
@@ -1023,9 +1025,9 @@ Door nu nog de drie eerder opgevangen watermoleculen te laten reageren met het r
 - **Kwantitatieve** analysemethoden stellen vast **hoeveel** je ergens van hebt.
 - **Kwalitatieve** analysemethoden stellen vast **wat** je precies hebt.
 
-### Titratie (<small>kwantitatief</small>
+### Titratie (<small>kwantitatief</small>)
 
-...
+Met een titratie of terugtitratie bepaal je de molariteit of pH van een onbekende oplossing. Zie [zuur-base](#zuur-base).
 
 ### Colorimetrie (<small>kwantitatief</small>)
 
