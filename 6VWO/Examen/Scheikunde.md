@@ -352,11 +352,27 @@ Het evenwicht verschuift (of loopt af) bij het toevoegen of wegnemen van product
 - Als je links een product weghaalt kan de reactie naar rechts niet meer verlopen en zal het evenwicht naar links verschuiven.
 - Als je links een product toevoegt kan de reactie naar rechts juist beter verlopen en zal het evenwicht dus naar rechts verschuiven.
 
+Het evenwicht verschuift ook bij het toevoeren of wegnemen van energie, bijvoorbeeld door het reguleren van de temperatuur:
+
+- Als je de temperatuur verhoogt verloopt de endotherme reactie beter en zal het evenwicht naar de kant met de laagste \\(E\\) verschuiven.
+- Als je de temperatuur verlaagt, verloopt de exotherme reactie beter en zal het evenwicht naar de kant met de hoogste \\(E\\) verschuiven.
+
+Als er aan één kant van de vergelijking meer deeltjes ontstaan (in dit voorbeeld rechts), heeft ook het volume invloed op het evenwicht:
+
+- Als je het volume vergroot, verschuift het evenwicht naar de kant met de meeste deeltjes.
+- Als je het volume verkleint, verschuift het evenwicht naar de kant met de minste deeltjes.
+
+> Dit noem je het principe van Le Chatelier: het evenwicht gaat in de richting die de verandering tegengaat.
+
+#### Evenwichtsvoorwaarde
+
 De evenwichtsvoorwaarde (\\(k\\)) is een breuk met daarin de reactieproducten, die je kan gebruiken voor berekeningen aan evenwichten. In de evenwichtsvoorwaarden veranderen de coëfficienten in machten en worden alleen producten in gasvorm of \\((\text{aq})\\) meegenomen.
 
 \\[\ce{k = \frac{[C][D]^3}{[A]^2[B]}}\\]
 
 \\(k\\) is constant als het evenwicht ingesteld is, en de waarde van \\(k\\) hangt af van de temperatuur.
+
+#### Katalysator
 
 Als je het evenwicht verschuift duurt het even voordat het nieuwe evenwicht ingesteld is. Als je een katalysator gebruikt is deze insteltijd korter.
 
