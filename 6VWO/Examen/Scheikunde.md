@@ -347,22 +347,28 @@ Een evenwichtsreactie is een reactie die beide kanten op verloopt. We geven die 
 
 \\[\ce{2A + B <=> C + 3D}\\]
 
-Het evenwicht verschuift (of loopt af) bij het toevoegen of wegnemen van producten:
+Je kan evenwichten verschuiven door het reguleren van concentratie, temperatuur of volume. Daarbij gaat het evenwicht altijd in de richting die de verandering tegengaat. Dit noem je het principe van Le Chatelier.
+
+#### Verschuiven met concentratie
+
+Je kan een evenwicht verschuiven door producten toe te voeren of weg te nemen:
 
 - Als je links een product weghaalt kan de reactie naar rechts niet meer verlopen en zal het evenwicht naar links verschuiven.
 - Als je links een product toevoegt kan de reactie naar rechts juist beter verlopen en zal het evenwicht dus naar rechts verschuiven.
+
+#### Verschuiven met temperatuur
 
 Het evenwicht verschuift ook bij het toevoeren of wegnemen van energie, bijvoorbeeld door het reguleren van de temperatuur:
 
 - Als je de temperatuur verhoogt verloopt de endotherme reactie beter en zal het evenwicht naar de kant met de laagste \\(E\\) verschuiven.
 - Als je de temperatuur verlaagt, verloopt de exotherme reactie beter en zal het evenwicht naar de kant met de hoogste \\(E\\) verschuiven.
 
+#### Verschuiven met volume
+
 Als er aan één kant van de vergelijking meer deeltjes ontstaan (in dit voorbeeld rechts), heeft ook het volume invloed op het evenwicht:
 
 - Als je het volume vergroot, verschuift het evenwicht naar de kant met de meeste deeltjes.
 - Als je het volume verkleint, verschuift het evenwicht naar de kant met de minste deeltjes.
-
-> Dit noem je het principe van Le Chatelier: het evenwicht gaat in de richting die de verandering tegengaat.
 
 #### Evenwichtsvoorwaarde
 
