@@ -2,9 +2,51 @@
 title: Scheikunde
 ---
 
-## Atomen
+<style>
+.toc {
+  max-width: 240px;
+  width: 100%;
+  background: light-dark(#ededed, #00000033);
+  padding: 18px;
+  float: right;
+  margin-left: 15px !important;
+  margin-bottom: 15px !important;
+  margin-top: -4em !important;
+}
+.toc h3 {
+  display: inline;
+}
+.toc + h1 {
+  margin-top: 0.55em;
+}
+.toc ul {
+  padding-left: 1em;
+  padding-inline-start: 1em;
+}
+</style>
 
-<img src="atoom.png" style="float:right;width:250px;aspect-ratio:initial;margin:0 0 10px 10px;">
+<details class="toc" open>
+  <summary><h3>Table of contents</h3></summary>
+  <ul>
+    <li><a href="#atomen">Atomen</a></li>
+    <li><a href="#moleculen-en-bindingen">Moleculen en bindingen</a></li>
+    <li><a href="#stoffen-en-mengsels">Stoffen en mengsels</a></li>
+    <li><a href="#chemisch-rekenen">Chemisch rekenen</a></li>
+    <li><a href="#krachten">Krachten</a></li>
+    <li><a href="#reacties">Reacties</a></li>
+    <li><a href="#reactiemechanismes">Lewisstructuren</a></li>
+    <li><a href="#koolstofchemie">Koolstofchemie</a></li>
+    <li><a href="#polyverbindingen">Polyverbindingen</a></li>
+    <li><a href="#biochemie">Biochemie</a></li>
+    <li><a href="#groene-chemie">Groene chemie</a></li>
+    <li><a href="#zuur-base">Zuur-base</a></li>
+    <li><a href="#redox">Redox</a></li>
+    <li><a href="#reacties-1">Reactiemechanismes</a></li>
+    <li><a href="#analysemethoden">Analysemethoden</a></li>
+  </ul>
+</details>
+
+## Atomen
 
 Atomen zijn de bouwblokken van stoffen. Ze bestaan uit:
 
@@ -15,6 +57,8 @@ Atomen zijn de bouwblokken van stoffen. Ze bestaan uit:
 Het aantal protonen (aka **atoomnummer**) bepaald om welke soort atoom het gaat.
 
 In de kern van een atoom zitten de protonen en neutronen. Daaromheen bewegen de elektronen in orbitalen. Er zijn evenveel elektronen als protonen, waardoor een atoom ongeladen is.
+
+<img src="atoom.png" style="clear:right;float:right;width:250px;aspect-ratio:initial;margin:0 0 10px 10px;">
 
 In het periodiek systeem staan drie belangrijke getallen:
 
@@ -432,7 +476,7 @@ Als de koolstofketen een dubbele binding spreken we van een alkeen. Voor elke du
 
 Je kan het aantal dubbele bindingen berekenen aan de hand van de algemene formule.
 
-<details open style="font-style: normal">
+<details open >
 <summary>Voorbeeld</summary>
 Stel je hebt \(\ce{C6H8}\). De gebruikelijke formule voor hexaan is \(\ce{C6H14}\). Dat betekent dat er \(14 - 8 = 6\) waterstoffen missen; twee per dubbele binding geeft \(3\) dubbele bindingen.
 </details>
@@ -482,6 +526,8 @@ Je kan dit overzicht ook vinden in Binas&nbsp;66D. De eerst voorkomende groep (h
 Esters hebben afwijkende systhematische naamgeving. Estervorming is een reactie waarbij een alcohol met een zuur reageert, waarbij een ester en water ontstaan:
 
 ![Schematische tekening van de vorming van een ester uit een zuur en een alcohol, waarbij een ester en water ontstaat](/5VWO/TW4/estervorming.png)
+
+<center><small>Het bovenstaande plaatje heeft een foutje: bij de alcohol verdwijnt de \(\ce{H}\), bij het zuur de \(\ce{OH}\), niet andersom.</small></center>
 
 In plaats van de langste koolstofketen, wordt de lengte van de koolstofketen van het originele zuur gebruikt.
 
@@ -593,7 +639,7 @@ Het aantal dubbele bindingen in de staarten van een triglyceride bepaalt of het 
 
 Deze grens tussen vetten en oliën is puur theoretisch. In de praktijk heb je een grijze zone waarin je een soort puddingprut hebt die geen vaste stof (vet) is, maar ook niet echt een vloeistof (olie).
 
-<details open style="font-style: normal">
+<details open >
 <summary>Berekenen hoeveel dubbele bindingen een vetzuur heeft</summary>
 <p>De staart van een vetzuur (dus zonder zuurgroep) volgt de formule \(\ce{C_nH_{2n + 1}}\).</p>
 <p>Per dubbele binding verdwijnen er twee \(\ce{H}\)'s. Dus stel \(\ce{C35H65}\). Dit vetzuur heeft drie dubbele bindingen, omdat er \((35 * 2 + 1) - 65 = 6\) \(\ce{H}\)'s missen.</p>
@@ -698,7 +744,7 @@ De atoomeconomie (Binas&nbsp;37H) laat zien hoe efficiënt een reactie is. Om de
 
 \\[\text{atoomeconomie} = \frac{m_\text{gewenste eindproducten}}{m_\text{beginproducten}} \cdot 100\%\\]
 
-<details open style="font-style: normal">
+<details open >
 <summary>Voorbeeld</summary>
 Stel je hebt de reactie \(\ce{A + B -> C + D}\) om C te produceren. Er blijft altijd A en B over, omdat geen enkele reactie voor 100% verloopt. Er ontstaat ook D, wat voor ons een afvalstof is. De atoomeconomie is dus:
 \[\text{atoomeconomie} = \frac{m_C}{m_A + m_B} \cdot 100\%\]
@@ -750,7 +796,7 @@ Een evenwicht kan alleen ontstaan als oplossing in water.
 
 Bij een zuur-basereactie kan je te maken hebben met een meerwaardig zuur, dat meerdere \\(\ce{H+}\\) kan afgeven. Of dat ook echt gebeurt hangt af van de sterkte van het zuur en de base.
 
-<details open style="font-style: normal">
+<details open >
 <summary>Voorbeeld</summary>
 <p>Stel je hebt \(\ce{CO3^2-}\) een driewaardig zuur zoals \(\ce{H3PO4}\):</p>
 <p>\[\ce{H3PO4 + 2CO3^2- <=> HPO4^2- + 2HCO3-}\]</p>
@@ -771,7 +817,7 @@ Bij een zuur-basereactie kan je te maken hebben met een meerwaardig zuur, dat me
 1. \\(\ce{pH = -log [H3O+] = -log(0.100) = 1.000}\\)
 2. Er is geen stap twee.
 
-<details open style="font-style: normal">
+<details open >
 <summary>Significantie</summary>
 Het aantal significante cijfers van de molariteit is het aantal decimalen van de pH.
 </details>
