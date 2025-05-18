@@ -41,7 +41,8 @@ h1 {
     <li><a href="#golven">Golven</a></li>
     <li><a href="#radioactiviteit--kernreacties">Radioactiviteit</a></li>
     <li><a href="#kwantummechanica">Kwantummechanica</a></li>
-    <li><a href="#magnetisme">Magnetisme</a></li>
+    <li><a href="#elektromagnetisme">Elektromagnetisme</a></li>
+    <li><a href="#modeleren">Modeleren</a></li>
   </ul>
 </details>
 
@@ -350,5 +351,7 @@ De frequentie van een samengestelde toon wordt bepaald door de frequentie van de
 # Radioactiviteit & kernreacties
 
 # Kwantummechanica
+
+# Elektromagnetisme
 
 # Modeleren
