@@ -1092,4 +1092,14 @@ Bij een IR-spectrum schijn je infraroodstraling door een stof heen. Op basis van
 
 ### Massaspectrometrie (<small>kwalitatief</small>)
 
-...
+Massaspectrometrie werkt door het beschieten van een stof met deeltjes. Daardoor worden bindingen weggeschoten en wordt de stof gesplitst in een aantal ionen.
+
+Je krijgt een spectrum met pieken bij de molecuulmassa's van de losse stukjes. De hoogte van de piek geeft aan hoeveel van die stukjes er procentueel in het sample zaten.
+
+![](/6VWO/TW3/massaspectrum.png)
+
+De meest rechter piek is altijd de volledige stof; die piek is klein omdat er maar weinig moleculen helemaal niet geraakt worden.
+
+#### Isotopen
+
+Het kan zijn dat je voor één atoomsoort meerdere pieken krijgt, vanwege isotopen. De hoogte van de piek is dan het voorkomen in de natuur.
