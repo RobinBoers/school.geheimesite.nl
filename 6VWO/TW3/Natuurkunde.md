@@ -42,7 +42,6 @@ Kenmerken van golfgedrag zijn:
 
 <style>
   summary h3, summary h4 { display: inline }
-  details { font-style: normal !important }
 </style>
 
 <details>

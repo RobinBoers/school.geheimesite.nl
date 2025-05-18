@@ -9,7 +9,8 @@ body {
   min-height: fit-content;
 }
 
-img {
+img,
+video {
   aspect-ratio: 12/5;
   object-fit: contain;
   width: 100%;
@@ -77,8 +78,8 @@ details.li {
 details:not(.li) {
   margin-left: 0.5em;
   padding: 0.5em;
-  background: light-dark(#ededed, #00000033);
-  font-style: italic;
+  background: light-dark(#ededed, #16151b);
+  font-style: normal;
   margin-bottom: 0.2em;
 
   & summary {
