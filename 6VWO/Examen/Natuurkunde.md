@@ -375,7 +375,18 @@ In een heet gas bevinden elektronen zich in een verhogde energietoestand. Sporad
 
 De energieniveaus verschillen per atoomsoort, dus de golflengtes die worden uitgezonden hangen af van de samenstelling van het gasmengsel.
 
-## Radiale snelheid en Doppler-verschuiving
+## Doppler-verschuiving & radiale snelheid
+
+Als sterren bewegen worden de golven van de EM-straling samengedrukt of uitgerekt door het Dopler-effect. Daardoor worden de golflengtes groter of kleiner.
+
+- Als een ster **naar je toe** beweegt wordt de golflengte **kleiner**, en het licht dus **blauwer**.
+- Als een ster **van je weg** beweegt wordt de golflengte **groter**, en het licht dus **roder**.
+
+Sterren draaien om hun as. De snelheid waarmee ze dit doen noem je de radiale snelheid. Door de draaing beweegt de ene kant van de ster van ons af, en de andere kant naar ons toe. Daardoor is er zowel een rood- als blauwverschuiving, en wordt de emissielijn in het spectrum breder.
+
+Het verschil tussen de hoogste en laagste golflengte van een balk in het spectrum is \\(\Delta \lambda\\). Hiermee kan je de radiale snelheid berekenen:
+
+\\[v_r = c \cdot \frac{\Delta \lambda}{\lambda}\\]
 
 # Energie
 
