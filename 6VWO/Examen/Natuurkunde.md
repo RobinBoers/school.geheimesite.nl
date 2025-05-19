@@ -6,29 +6,8 @@ title: Natuurkunde
 main > h1:first-child {
   display: none;
 }
-
 h1 {
   margin-top: 2em;
-}
-
-.toc {
-  max-width: 240px;
-  width: 100%;
-  background: light-dark(#ededed, #00000033);
-  padding: 18px;
-  float: right;
-  margin-left: 15px !important;
-  margin-bottom: 15px !important;
-}
-.toc h3 {
-  display: inline;
-}
-.toc + h1 {
-  margin-top: 0.55em;
-}
-.toc ul {
-  padding-left: 1em;
-  padding-inline-start: 1em;
 }
 </style>
 
@@ -40,9 +19,8 @@ h1 {
     <li><a href="#energie">Energie</a></li>
     <li><a href="#golven">Golven</a></li>
     <li><a href="#kernfysica">Kernfysica</a></li>
-    <li><a href="#kwantummechanica">Kwantummechanica</a></li>
+    <li><a href="#quantummechanica">Quantummechanica</a></li>
     <li><a href="#elektromagnetisme">Elektromagnetisme</a></li>
-    <li><a href="#modeleren">Modeleren</a></li>
   </ul>
 </details>
 
@@ -679,8 +657,6 @@ Soms moet je ook nog corrigeren voor achtergrondstraling uit:
 </ul>
 </details>
 
-# Kwantummechanica
+# Quantummechanica
 
 # Elektromagnetisme
-
-# Modeleren

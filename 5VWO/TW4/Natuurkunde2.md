@@ -6,25 +6,8 @@ title: Natuurkunde (H1-H11)
 main > h1:first-child {
   display: none;
 }
-
-h1:not(:first-child) {
+h1 {
   margin-top: 2em;
-}
-
-.toc {
-  max-width: 240px;
-  width: 100%;
-  background: light-dark(#ededed, #00000033);
-  padding: 18px;
-  float: right;
-}
-.toc h3 {
-  display: inline;
-}
-
-.toc ul {
-  padding-left: 1em;
-  padding-inline-start: 1em;
 }
 </style>
 
@@ -56,7 +39,7 @@ In een stroomkring bewegen negatief geladen (vrije) elektronen.
 
 Een stof geleidt stroom als er geladen deeltjes vrij doorheen kunnen lopen. In veel metalen zijn dit vrije elektronen (in het metaalrooster), maar sommige (zout-)oplossingen zijn het ionen.
 
-Als er een gesloten stroomkring met spanningsbron is, lopen er vrije elektronen van de min- naar pluspool. Dat begrepen natuurkundigen eerst niet, en is daarom de regel dat de *elektronen van min naar plus lopen*, maar de *stroom van plus naar min* (andersom).
+Als er een gesloten stroomkring met spanningsbron is, lopen er vrije elektronen van de min- naar pluspool. Dat begrepen natuurkundigen eerst niet, en is daarom de regel dat de _elektronen van min naar plus lopen_, maar de _stroom van plus naar min_ (andersom).
 
 ### Stroomsterkte
 
@@ -76,7 +59,7 @@ De spanning (U) is hoeveel energie de lading (in dit geval de elektronen) meedra
 
 \\[U = \Delta E/Q\\]
 
-Een spanningsmeter staat om die reden altijd *buiten* de stroomkring:
+Een spanningsmeter staat om die reden altijd _buiten_ de stroomkring:
 
 ![Spanningsmeter buiten de stroomkring](spanningsmeter.png)
 
@@ -125,7 +108,7 @@ Halfgeleiders zijn materialen die uit zichzelf weinig vrije elektronen hebben en
 
 - **Diode**: heeft in de doorlaatrichting (de richting van het pijltje) een hele lage weerstand, mits er een minimale spanning (de doorlaatspanning) overheen staat. In de andere richting is de weerstand juist heel hoog.
 
-- **LED**: staat voor *Light-Emitting Diode*. Het is een diode die licht geeft als er stroom doorheen loopt. Is verder hetzelfde.
+- **LED**: staat voor _Light-Emitting Diode_. Het is een diode die licht geeft als er stroom doorheen loopt. Is verder hetzelfde.
 
 - **LDR**: als er licht op een LDR valt, wordt de weerstand kleiner (omdat er meer elektronen vrijkomen), waardoor de LDR beter stroom doorlaat.
 
@@ -137,7 +120,7 @@ Halfgeleiders zijn materialen die uit zichzelf weinig vrije elektronen hebben en
 
 #### Als variabele weerstand
 
-Met een schuifweerstand kan je zelf de weerstand van de weerstand bepalen (ja ik vind het ook kut dat ze voor die twee dingen hetzelfde woord hebben gekozen). Alleen door het stuk tussen de pijl en de "uitgang" van de schuifweerstand loopt stroom. 
+Met een schuifweerstand kan je zelf de weerstand van de weerstand bepalen (ja ik vind het ook kut dat ze voor die twee dingen hetzelfde woord hebben gekozen). Alleen door het stuk tussen de pijl en de "uitgang" van de schuifweerstand loopt stroom.
 
 Door de schuifweerstand kleiner te maken verlaag je dus de weerstand.
 
@@ -192,7 +175,7 @@ Je kan een gemengde schakeling hebben. Daar gedraagt elke subschakeling zich als
 
 ## Veiligheid
 
-Overbelasting is een stroom van groter dan 16A door een groep gaat (en dat is niet goed want.... *you know*, 🔥🔥). Het kan ontstaan door:
+Overbelasting is een stroom van groter dan 16A door een groep gaat (en dat is niet goed want.... _you know_, 🔥🔥). Het kan ontstaan door:
 
 - Kortsluiting
 - 20 tosti-apparaten op één groep
@@ -203,7 +186,7 @@ Als bescherming zitten er zekeringen (stoppen) in de meterkast, die de elektrici
 
 Het is ook gevaarlijk als je onder stroom komt te staan. De stroom loopt dan door jou lichaam naar de grond. Een stroom van 0.1 A is al dodelijk. Om dat te voorkomen hebben we twee oplossingen:
 
-- **Aardlekschakelaar**. Meet \\(\Delta I\\) van je huis. Als \\(I_{in} - I_{uit} > 30 \text{ mA}\\), "lekt" er ergens stroom (aka gaat door iemand naar de grond), en wordt de elektriciteit uitgezet.
+- **Aardlekschakelaar**. Meet \\(\Delta I\\) van je huis. Als \\(I*{in} - I*{uit} > 30 \text{ mA}\\), "lekt" er ergens stroom (aka gaat door iemand naar de grond), en wordt de elektriciteit uitgezet.
 
 - **Geaarde stopcontacten en apparaten**. De meeste stopcontacten en apparaten zijn geaard. Dat betekent dat er een draad met hele lage weerstand direct naar de grond loopt (via het stopcontact dan), waardoor, als er kortsluiting is en een (metalen) apparaat onder stroom komt te staan, die stroom direct via de aarddraad loopt en niet via een mens (want een mens heeft een veel hogere weerstand).
 
@@ -225,7 +208,7 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
 
 - Als de resulterende kracht op een voorwerp nul is, is het in rust of beweegt het met een constante snelheid in een rechte lijn.
 
-- \\(F_{res} = ma\\)
+- \\(F\_{res} = ma\\)
 
 - Krachten zijn een wisselwerking: als een voorwerp een actiekracht uitoefent op een ander voorwerp oefent dat voorwerp een even grote, maar tegengestelde, reactiekracht uit op het eerste voorwerp.
 
@@ -239,12 +222,12 @@ Als je alle krachten op een voorwerp bij elkaar optelt (zoals je vectoren ook zo
   loodrecht op de oppervlakte; let op de hoek!
 - **Veerkracht**: \\(F_v = C \cdot u\\)  
   waar \\(C =\\) veerconstante  
-  en \\(u =\\) uitzetting in m  
-- **Luchtweerstandskracht**: \\(F_{w,l} = \frac{1}{2} \rho \cdot C_W \cdot A \cdot v^2\\)  
+  en \\(u =\\) uitzetting in m
+- **Luchtweerstandskracht**: \\(F\_{w,l} = \frac{1}{2} \rho \cdot C_W \cdot A \cdot v^2\\)  
   waar \\(\rho =\\) luchtdichtheid  
   \\(C_W =\\) weerstandscoëfficient (krijg je)  
   \\(A =\\) frontaal oppervlakte
-- **Schuifweerstandkracht**: \\(F_{w,s,max} = f \cdot F_n\\),  
+- **Schuifweerstandkracht**: \\(F\_{w,s,max} = f \cdot F_n\\),  
   waar \\(f =\\) wrijvingscoëfficient (ruwheid ondergrond)
 
 <details><summary>Maximale schuifweerstandskracht</summary><p>
@@ -264,7 +247,7 @@ De middelpuntzoekende kracht is geen losse kracht, maar een rol die een kracht k
 
 ## Snelheid en versnelling
 
-De snelheid (\\(v\\)) is de verandering van de plaats (\\(x\\)) per seconde. De versnelling  (\\(a\\)) is de verandering van de snelheid per seconde.
+De snelheid (\\(v\\)) is de verandering van de plaats (\\(x\\)) per seconde. De versnelling (\\(a\\)) is de verandering van de snelheid per seconde.
 
 Met andere woorden: de snelheid is de eerste en de versnelling de tweede afgeleide van de plaats.
 
@@ -489,7 +472,7 @@ Als een materiaal verhit wordt kan het uitzetten. Hierbij is het uitzettingscoë
 
 Radioactieve stoffen zijn isotopen waarvan de kernen instabiel zijn omdat er teveel of te weinig neutronen aanwezig zijn. Die kernen kunnen uit elkaar vallen en zenden daarbij straling uit.
 
-Omdat de kernen steeds uit elkaar vallen blijft er steeds minder van de radioactieve stof over. Na de halveringstijd (\\(t_{1/2}\\)) is de helft van de kernen vervallen.
+Omdat de kernen steeds uit elkaar vallen blijft er steeds minder van de radioactieve stof over. Na de halveringstijd (\\(t\_{1/2}\\)) is de helft van de kernen vervallen.
 
 Het aantal vervallen kernen per seconde noem je de activiteit (A) in Bq. Die kan je voor een een bepaald tijdstip uitrekenen:
 
@@ -575,7 +558,7 @@ De transmissie meten we met de intensiteit: de hoeveelheid energie die per \\(\t
 - Soort materiaal
 - Dikte van het materiaal
 
-De halveringsdikte (\\(d_{1/2}\\)) is de dikte waarop de intensiteit van de transmissie gehalveerd is (verschilt per materiaal):
+De halveringsdikte (\\(d\_{1/2}\\)) is de dikte waarop de intensiteit van de transmissie gehalveerd is (verschilt per materiaal):
 
 \\[I = I_0 \cdot (\frac{1}{2})^{d/d_{1/2}}\\]
 
@@ -698,7 +681,7 @@ Een golf heeft een aantal eigenschappen:
 - **Periode / trillingstijd** (T): de tijd waarin precies 1 trilling plaatsvindt.
 - **Amplitude** (A): de maximale uitwijking van een golf.
 - **Golflengte** (\\(\lambda\\)): de afstand die de golf in 1 trilling aflegt.
-- **Golfsnelheid** (\\(v_{golf}\\)): de snelheid waarmee de golf zich voortplant.
+- **Golfsnelheid** (\\(v\_{golf}\\)): de snelheid waarmee de golf zich voortplant.
 
 ![Grafiek met daarin een sinusgolf, waarin de amplitude en golflengte zijn ingetekend](/5VWO/TW1/ut-diagram.png)
 
@@ -712,7 +695,7 @@ Bij geluidsgolven noemen we de amplitude ookwel het volume en de frequentie die 
 
 ### u,t-diagram <small>= oscillogram</small>
 
-In een u,t-diagram zet je de uitwijking (u) uit tegen de tijd. Je krijgt dan een grafiek waarin je de uitwijking van *een punt op de lijn* door de tijd ziet veranderen.
+In een u,t-diagram zet je de uitwijking (u) uit tegen de tijd. Je krijgt dan een grafiek waarin je de uitwijking van _een punt op de lijn_ door de tijd ziet veranderen.
 
 ![Een voorbeeld van een u,t-diagram](/5VWO/TW1/ut-diagram2.png)
 
@@ -720,13 +703,13 @@ De formule voor een u,t-diagram is een sinus met amplitude A en periode T:
 
 \\[u(t) = A \cdot sin(\frac{2\pi}{T}\cdot t)\\]
 
-De maximale snelheid van het punt <small>(let op: *het punt*, niet *de golf*)</small>, is als hij door de evenwichtsstand gaat (want daar is de helling het stijlst):
+De maximale snelheid van het punt <small>(let op: _het punt_, niet _de golf_)</small>, is als hij door de evenwichtsstand gaat (want daar is de helling het stijlst):
 
 \\[v_{max} = \frac{2\pi A}{T}\\]
 
 ### u,x-diagram
 
-In een u,x-diagram zet je de uitwijking (u) af tegen een punt op de lijn (x). Je krijgt dan een soort *snapshot van de lijn op dat vaste tijdstip*, waarop je de uitwijking van elk punt (op dat tijdstip) kan aflezen.
+In een u,x-diagram zet je de uitwijking (u) af tegen een punt op de lijn (x). Je krijgt dan een soort _snapshot van de lijn op dat vaste tijdstip_, waarop je de uitwijking van elk punt (op dat tijdstip) kan aflezen.
 
 <details open>
   <summary>Haal deze concepten niet door elkaar!</summary>
@@ -753,18 +736,18 @@ De frequentie van een samengestelde toon wordt bepaald door de frequentie van de
 
 De fase (\\(\varphi\\)) van een golf is het aantal afgelegde trillingen sinds het beginpunt van de golf.
 
-De gereduceerde fase (\\(\varphi_{red}\\)) is de fase vanaf het begin van de huidige trilling. Je telt dus alle volledige trillingen niet mee:
+De gereduceerde fase (\\(\varphi\_{red}\\)) is de fase vanaf het begin van de huidige trilling. Je telt dus alle volledige trillingen niet mee:
 
 \\[\varphi_{red} < 1\\]
 
-Het faseverschil (\\(\Delta \varphi\\)) is het verschil in fase tussen twee trillingen. Het gereduceerde faseverschil (\\(\Delta \varphi_{red}\\)) is het verschil in gereduceerde fase.
+Het faseverschil (\\(\Delta \varphi\\)) is het verschil in fase tussen twee trillingen. Het gereduceerde faseverschil (\\(\Delta \varphi\_{red}\\)) is het verschil in gereduceerde fase.
 
 \\[\Delta \varphi = \frac{\Delta t}{t}\\]
 \\[\Delta \varphi = \frac{\Delta x}{\lambda}\\]
 
 ### In fase en tegenfase
 
-Als \\(\varphi_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt versterken ze elkaar. Als \\(\varphi_{red} = \frac{1}{2}\\), zijn de golven in tegenfase. Bij optellen heffen ze elkaar dan op.
+Als \\(\varphi*{red} = 0\\), zijn de golven in fase. Als je ze dan optelt versterken ze elkaar. Als \\(\varphi*{red} = \frac{1}{2}\\), zijn de golven in tegenfase. Bij optellen heffen ze elkaar dan op.
 
 ![](/5VWO/TW1/faseverschil.png)
 
@@ -802,7 +785,7 @@ Als je twee lopende golven met gelijke frequentie en amplitude tegen elkaar in l
 
 De maxima blijven nu op een vaste plaats. Daarom noemen we dit een staande golf (want hij "staat stil"). De maxima noemen we buiken, en de nulpunten noemen we knopen.
 
-De afstand tussen twee knopen (of twee buiken) is \\(\frac{1}{2} \lambda\\), dus de afstand tussen een buik en een knoop is  \\(\frac{1}{4} \lambda\\).
+De afstand tussen twee knopen (of twee buiken) is \\(\frac{1}{2} \lambda\\), dus de afstand tussen een buik en een knoop is \\(\frac{1}{4} \lambda\\).
 
 ### In buizen
 
@@ -873,9 +856,9 @@ Als je valt en de luchtweerstandskracht niet verwaarloost:
 
 - In het begin neemt je snelheid snel toe, omdat er weinig weerstand. Je versnelt dan met ongeveer de valversnelling (\\(9.81 \text{ m/s}^2\\)).
 
-- Naarmate je snelheid toeneemt neemt \\(F_{w,l}\\) ook toe, omdat \\(F_{w,l}\\) evenredig is met \\(v^2\\).
+- Naarmate je snelheid toeneemt neemt \\(F*{w,l}\\) ook toe, omdat \\(F*{w,l}\\) evenredig is met \\(v^2\\).
 
-- Op den duur bereik je een evenwicht waar \\(F_z = F_{w,l}\\). Daarmee kan je de maximale snelheid in een val berekenen.
+- Op den duur bereik je een evenwicht waar \\(F*z = F*{w,l}\\). Daarmee kan je de maximale snelheid in een val berekenen.
 
 \\[F_z = F_{w,l}\\]
 \\[mg = kv_{\text{max}}^2\\]
@@ -889,22 +872,22 @@ Als je iets omhoog gooit zonder luchtweerstand en daar v,t- en h,t-diagrammen va
 
 ## Vloeistofmanometer
 
-Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(p_{\text{gas}} = p_{\text{vloeistof}} + p_{\text{buiten}}\\).
+Met een vloeistofmanometer kan je gasdruk meten. Het werkt zo: er vormt zich in de manometer een evenwicht waarin \\(p*{\text{gas}} = p*{\text{vloeistof}} + p\_{\text{buiten}}\\).
 
 ![Schematische tekening van een vloeistofmanometer waarin je het hierboven beschreven evenwicht visueel ziet](manometer.png)
 
 ## Doppler-effect
 
-Het Doppler-effect is het verschijnsel dat geluid van een bewegend voorwerp verbogen wordt. Dat komt omdat geluidsgolven *voor* het object worden *samengedrukt*, en *achter* het voorwerp worden *uitgerekt*.
+Het Doppler-effect is het verschijnsel dat geluid van een bewegend voorwerp verbogen wordt. Dat komt omdat geluidsgolven _voor_ het object worden _samengedrukt_, en _achter_ het voorwerp worden _uitgerekt_.
 
 ### Rekenen
 
-Om de golflengte van de golven *achter* het object te berekenen:
+Om de golflengte van de golven _achter_ het object te berekenen:
 
 - Bereken de afstand die het object in 1T (1 trillingstijd) heeft afgelegd.
 - Tel de berekende afstand bij de golflengte op.
 
-Om de golflengte *voor* het object te berekenen:
+Om de golflengte _voor_ het object te berekenen:
 
 - Bereken weer de afgelegde afstand in 1T.
 - Trek dat van de golflengte af.

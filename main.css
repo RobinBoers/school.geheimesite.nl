@@ -103,6 +103,28 @@ summary {
   cursor: pointer;
 }
 
+/* Table of contents */
+
+.toc {
+  max-width: 240px;
+  width: 100%;
+  background: light-dark(#ededed, #16151b);
+  padding: 18px;
+  float: right;
+  margin-left: 15px !important;
+  margin-bottom: 15px !important;
+}
+.toc h3 {
+  display: inline;
+}
+.toc + h1 {
+  margin-top: 0.65em;
+}
+.toc ul {
+  padding-left: 1em;
+  padding-inline-start: 1em;
+}
+
 /* Fix for tables */
 
 tbody tr:last-of-type,

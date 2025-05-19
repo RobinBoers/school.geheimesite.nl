@@ -2,29 +2,6 @@
 title: Scheikunde
 ---
 
-<style>
-.toc {
-  max-width: 240px;
-  width: 100%;
-  background: light-dark(#ededed, #00000033);
-  padding: 18px;
-  float: right;
-  margin-left: 15px !important;
-  margin-bottom: 15px !important;
-  margin-top: -4em !important;
-}
-.toc h3 {
-  display: inline;
-}
-.toc + h1 {
-  margin-top: 0.55em;
-}
-.toc ul {
-  padding-left: 1em;
-  padding-inline-start: 1em;
-}
-</style>
-
 <details class="toc" open>
   <summary><h3>Table of contents</h3></summary>
   <ul>
