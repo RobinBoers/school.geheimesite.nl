@@ -344,9 +344,19 @@ Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken
 
 ### Nulpunt van de gravitatie-energie
 
-Bij de meeste energiesoorten mag je zelf bepalen waar het nulpunt ligt. Bij gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt. De gravitatie-energie is dus altijd negatief, maar naarmate hij groter wordt nadert hij nul (wordt hij minder negatief).
+Bij de meeste energiesoorten mag je zelf bepalen waar het nulpunt ligt. Bij gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt.
 
-Dit is gekozen zodat je op \\(E_g = 0\\) volledig vrij bent van de aantrekking van een massa.
+Zolang iets gravitatiekracht ondervindt van een massa, kan het zich niet volledig vrij bewegen. We hebben daarom afgesproken dat het nulpunt van de gravitatie-energie ligt op het punt dat je buiten bereik van de andere massa bent, op \\(r = \infty\\).
+
+De gravitatie-energie is dus altijd negatief, maar naarmate hij groter wordt nadert hij nul (wordt minder negatief).
+
+### Nulpunt van de elektrische energie
+
+Elektrische energie volgt een vergelijkbare conventie naar gravitatie-energie.
+
+Zolang een elektron zich in een atoom bevindt, ondervindt het elektrische kracht en kan het zich dus niet vrij bewegen. Daarom hebben we, net als bij gravitatiekracht, afgesproken dat het nulpunt van de elektrische energie ligt waar het elektron geen aantrekking van de atoomkern meer heeft.
+
+De elektrische energie is dus binnen een atoom negatief, en daarbuiten positief.
 
 # Golven
 
@@ -713,6 +723,67 @@ De "golflengte" van het golfkarakter van materie wordt de **debrogiegolflengte**
 Het ontstane interferentiepatroon bij elektronen geeft de waarschijnlijkheid aan dat je een elektron aantreft (groot rond de maxima en klein rond de minima).
 
 ## Gebonden materiedeeltjes
+
+Binnen een atoom kan een elektron zich niet vrij bewegen en is de elektrische energie dus negatief. We zeggen dat het elektron 'gebonden' is; om vrij te komen moet je energie toevoeren. We spreken dan ook wel van een energieput.
+
+### Energieput van een atoom
+
+In een atoom bevinden elektronen zich in orbitalen rond de atoomkern. In het klassieke model van Bohr zijn dit cirkelvormige banen. In realiteit zijn het driedimensionale staande golven die de waarschijnlijkheid aangeven dat een elektron zich op een willekeurig tijdstip op een plaats bevindt.
+
+Op niveau \\(n\\) is de baan een staande golf van \\(n\\) golflengtes.
+
+De orbitalen van een atoom corresponderen met energieniveaus. Een elektron kan naar een hoger energiebaan springen door het absorberen van een foton. De fotonenergie moet dan wel precies gelijk zijn aan het verschil tussen de toestanden.
+
+De energie van een elektron op energieniveau \\(n\\) van een waterstofatoom bereken je zo:
+
+\\[E_n = - \frac{13.6\text{ eV}}{n^2}\\]
+
+De totale energie van een elektron binnen een atoom is de som van de elektrische en kinetische energie (\\(E_n = E\_{kin} + E\_{el}\\)). Hoe verder van de kern:
+
+- hoe groter (minder negatief) de elektrische energie.
+- hoe kleiner de kinetische energie.
+
+Omdat de kinetische energie kleiner is, is de debrogiegolflengte groter in hogere energietoestanden.
+
+### Energieput van een molecuul
+
+In een lang molecuul is er niet één kern die de elektronen aantrekt. De elektrische energie is in de lengte richting overal ongeveer even groot. Daardoor kunnen elektronen zich "vrij" bewegen in de lengte van het molecuul.
+
+Daarom gebruiken we een ander model: de **oneindig diepe ééndimensionale energieput**. We stellen de elektrische energie in het gehele molecuul gelijk aan nul. De enige energie die de elektronen hebben is dus kinetische energie.
+
+Er zijn in een ééndimensionale energieput ook energietoestanden. Die geven niet de afstand tot de kern aan, zoals in een atoom, maar het aantal plaatsen waarop je het elektron kan aantreffen in het molecuul. (Daarom is het ééndimensionaal; alle staande golven lopen door elkaar heen.)
+
+De energieniveaus zijn net als bij een waterstofatoom staande golven die de waarschijnlijkheid aangeven een elektron ergens aan te treffen. Aan de randen van het molecuul zitten knopen. Hoe hoger het energieniveau, hoe kleiner de golflengte, en hoe meer buiken er zijn. Het elektron kan dan op meer plekken in het molecuul zijn.
+
+De energie van een deeltje in energietoestand \\(n\\) bereken je als:
+
+\\[E_n = n^2 \cdot \frac{h^2}{8mL}\\]
+\\[E_n = n^2 \cdot E_1\\]
+
+Hierbij is \\(L\\) de lengte van het molecuul (in meters). In de grondtoestand is er één buik, dus \\(\lambda_1 = 2L\\). Daaruit volgt:
+
+\\[L = n \cdot \frac{1}{2} \lambda_n\\]
+
+In de ééndimensionale energieput kan elk energieniveau door maar twee elektronen (met tegengestelde spin) bezet worden. Dit noemen we het **uitsluitingsprincipe van Pauli**.
+
+> Dat betekent dat als er een foton is met een golflengte voor een overgang van A naar B, maar energieniveau B is al bezet voor twee elektronen, de foton niet geabsorbeerd wordt.
+
+### Tunneling
+
+We noemen de energieput van een molecuul oneindig diep omdat de gecombineerde elektrische kracht van alle atomen erg hoog is. Daardoor is er veel kinetische energie nodig om een elektron vrij te krijgen.
+
+In de praktijk is het natuurlijk wel mogelijk om een elektron vrij te krijgen, als je maar genoeg energie blijft toevoeren.
+
+Daarom is de waarschijnlijkheid van het aantreffen van een elektron _buiten de randen van het molecuul_ niet helemaal nul. Er is dus een hele kleine kans dat een elektron daar wel kan zijn.
+
+Als een elekron door die kans uit de energieput ontsnapt, ook al heeft het niet voldoende energie, noem je dat **tunneling**.
+
+> Een voorbeeld daarvan is alfaverval. Bij alfaverval tunnelt een heliumkern door de energiebarriëre die nodig is om de sterke kernkracht (die kerndeeltjes bij elkaar houdt) te overdrempelen. Dit is een toevalsprocess omdat het tunnelen volledig is gebaseerd op kansen (de staande golf geeft kans aan).
+
+<details open>
+<summary>Let op!</summary>
+Omdat de golf iets doordring in de wand van de energieput, is de golflengte niet langer gelijk aan \(2L\). Je kan hier dus <strong>geen formules van de oneindige energieput gebruiken</strong>.
+</details>
 
 ## Halfgeleiders
 
