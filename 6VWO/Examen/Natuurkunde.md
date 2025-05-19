@@ -39,7 +39,7 @@ h1 {
     <li><a href="#mechanica">Mechanica</a></li>
     <li><a href="#energie">Energie</a></li>
     <li><a href="#golven">Golven</a></li>
-    <li><a href="#radioactiviteit--kernreacties">Radioactiviteit</a></li>
+    <li><a href="#kernfysica">Kernfysica</a></li>
     <li><a href="#kwantummechanica">Kwantummechanica</a></li>
     <li><a href="#elektromagnetisme">Elektromagnetisme</a></li>
     <li><a href="#modeleren">Modeleren</a></li>
@@ -400,7 +400,10 @@ Superpositie (of interferentie) is het optellen van (de uitwijking van) trilling
 - **Constructieve interferentie**: de trillingen versterken elkaar.
 - **Destructieve interferentie**: de trillingen doven elkaar uit.
 
-> Stel je hebt twee geluidsgolven die elkaar kruisen met één een overdruk van 4 en de ander een onderdruk van 1, dan wordt de uiteindelijke druk dus een overdruk van 3.
+<details open>
+<summary>Voorbeeld</summary>
+Stel je hebt twee geluidsgolven die elkaar kruisen met één een overdruk van 4 en de ander een onderdruk van 1, dan wordt de uiteindelijke druk dus een overdruk van 3.
+</details>
 
 **Resonantie** is een vorm van constructieve interferentie, waarbij de **eigenfrequentie** van een voorwerp versterkt wordt.
 
@@ -536,7 +539,145 @@ Een harmonische trilling wordt ook een zuivere toon genoemd. De superpositie van
 
 De frequentie van een samengestelde toon wordt bepaald door de frequentie van de laagste toon die erin voorkomt, wat je de grondtoon noemt.
 
-# Radioactiviteit & kernreacties
+# Kernfysica
+
+## Radioactiviteit
+
+Radioactieve stoffen zijn isotopen waarvan de kernen instabiel zijn door een overschot of tekort aan neutronen. Die kernen kunnen uit elkaar vallen en zenden daarbij straling uit.
+
+> Radioactieve straling is een vorm van ioniserende straling. Deze straling is schadelijk voor mensen omdat het de atomen waaruit onze cellen bestaan kan ioniseren.
+
+Omdat de kernen uit elkaar vallen, blijft er steeds minder van de radioactieve stof over. Na de **halveringstijd** (\\(t\_{1/2}\\)) is de helft van de kernen uit elkaar gevallen.
+
+Het aantal vervallen kernen per seconde noemen we de **activiteit** (\\(A\\)) in Becquerel (Bq). Die kan je voor een bepaald tijdstip (\\(t\\)) uitrekenen:
+
+\\[A = A_0 \cdot (\frac{1}{2})^{t/t_{1/2}}\\]
+
+De activiteit neemt na verloop van tijd af, omdat er steeds minder kernen overblijven (en dus ook minder kernen tegelijk kunnen vervallen). Het aantal overgebleven kernen op tijdstip (\\(t\\)) bereken je zo:
+
+\\[N = N_0 \cdot (\frac{1}{2})^{t/t_{1/2}}\\]
+
+<details open>
+<summary>Omrekenen naar massa</summary>
+Je kan het aantal kernen omrekenen naar massa door te vermenigvuldigen met de atoommassa van het betreffende isotoop.
+</details>
+
+## Vervalkromme
+
+![](/4VWO/TW4/vervalkromme.png)
+
+Een vervalkromme is een N,t-diagram, waarin het aantal kernen door de tijd beschreven is. De helling van de grafiek is de activiteit op dat moment. Je kan ook de gemiddelde activiteit berekenen:
+
+\\[A_{gem} = \frac{\Delta N}{\Delta t}\\]
+
+Uit deze grafiek volgt de volgende formule, waarmee de activiteit van een stof kan worden bepaald gegeven de halveringstijd en het aantal kernen op een specifiek moment:
+
+\\[A = \frac{N \cdot \ln(2)}{t_{1/2}}\\]
+
+## Soorten straling
+
+<table><thead>
+  <tr>
+    <th rowspan="2">Soort straling</th>
+    <th colspan="2">Deeltjes</th>
+    <th colspan="2">Elektromagnetisch<br /></th>
+  </tr>
+  <tr>
+    <th>α</th>
+    <th>β</th>
+    <th>𝛾<br /></th>
+    <th>röntgen</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Soort deeltje</td>
+    <td>\(\ce{^4_2He}\)</td>
+    <td>\(\ce{e^-}\) of \(\ce{e^+}\)</td>
+    <td>foton</td>
+    <td>foton</td>
+  </tr>
+  <tr>
+    <td>Doordringend vermogen</td>
+    <td>klein<br /></td>
+    <td>matig<br /></td>
+    <td>groot</td>
+    <td>groot<br /></td>
+  </tr>
+  <tr>
+    <td>Ioniserend vermogen</td>
+    <td>groot</td>
+    <td>matig</td>
+    <td>klein</td>
+    <td>klein</td>
+  </tr>
+</tbody>
+</table>
+
+### Deeltjesstraling
+
+- Deeltjes worden op hoge snelheid uitgezonden
+- Als ze botsen met andere deeltjes dragen ze hun (kinetische) energie over.
+- Daardoor remmen ze af en worden de deeltjes waarmee ze botsen geioniseerd.
+- Hoe ver de deeltjes komen totdat ze tot stilstand komen noemen we **dracht**.
+
+### EM-straling
+
+Elektromagnetische straling bestaat uit energiepakketjes genaamd **fotonen** die met de lichtsnelheid (\\(c\\)) bewegen. De energie van een foton hangt af van de frequentie (\\(f\\)) van de straling:
+
+\\[E_f = hf\\]
+
+Als fotonen door een stof gaan kunnen ze hun energie afgeven en daarmee deeltjes ioniseren. Daarbij verdwijnt het foton. We noemen dit **absorptie**. Als fotonen door een stof gaan zonder geabsorbeerd te worden noemen we dat **transmissie**.
+
+De transmissie meten we aan de hand van de **intensiteit** (\\(I\\)): de hoeveelheid energie die per m<sup>2</sup> wordt doorgelaten. Deze hangt af van de dikte van de stof en het soort materiaal.
+
+De **halveringsdikte** (\\(d\_{1/2}\\)) is de dikte waarop de intensiteit van de transmissie halveert:
+
+\\[I = I_0 \cdot (\frac{1}{2})^{d/d_{1/2}}\\]
+
+## Bestraling & besmetting
+
+Bij **bestraling** wordt je blootgesteld aan radioactieve straling. Je wordt er niet zelf radioactief van, maar het is wel schadelijk. Maatregelen:
+
+- afstand tot de bron vergroten
+- afschermen (bijv. door middel van lood)
+- tijd van blootstelling beperken
+
+Bij **besmetting** komt er een radioactieve stof op of in je lichaam. Daarmee verander jij zelf als het ware in een radioactieve bron. Maatregelen:
+
+- wassen
+- iosolatie
+- evacuatie (in geval van nucleaire ramp)
+
+## (Equivalente) dosis
+
+Het ioniserend vermogen van straling hangt af van:
+
+- het aantal deeltjes
+- de deeltjesgrootte
+- de energie van de deeltjes
+- de absorptiegraad
+
+De dosis (\\(D\\)) in Gray (Gy) is de hoeveelheid energie die per eenheid lichaamsgewicht wordt geabsorbeerd:
+
+\\[D = E_{abs}/m\\]
+
+Niet alle soorten zijn even schadelijk, waardoor de dosis soms een slechte indicatie van gevaar of schade kan zijn. Daarom werken we meestal met equivalente dosis (\\(H\\)) in Sievert (Sv), die corrigeert voor de schadelijkheid van de straling:
+
+\\[H = W_R D\\]
+
+Waarbij de weegfactor \\(W_R = 20\\) voor \\(\alpha\\)-straling, en \\(1\\) voor alle andere soorten straling.
+
+<details>
+<summary>Achtergrondstraling</summary>
+Soms moet je ook nog corrigeren voor achtergrondstraling uit:
+<ul>
+<li>kosmische straling</li>
+<li>radioactieve isotopen in de lucht</li>
+<li>bouwmaterialen</li>
+<li>ons eigen lichaam</li>
+<li>de bodem</li>
+</ul>
+</details>
 
 # Kwantummechanica
 
