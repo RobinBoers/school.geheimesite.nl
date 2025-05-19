@@ -94,6 +94,11 @@ details:not(.li) {
   }
 }
 
+li:has(details.li) {
+  list-style: none;
+  margin-left: -2em;
+}
+
 /* Fix for tables */
 
 tbody tr:last-of-type,

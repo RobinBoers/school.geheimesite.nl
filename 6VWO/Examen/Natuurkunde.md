@@ -180,6 +180,133 @@ In een parallelschakelijk is sprake van **stroomdeling**; de spanning is door al
 
 # Mechanica
 
+## Krachten
+
+**Krachten** (\\(F\\)) zijn een vector-eenheid. Dat betekent dat ze precies werken zoals vectoren bij wiskunde. Elke kracht heeft drie eigenschappen:
+
+- Grootte (in \\(\text{N}\\))
+- Richting
+- Aangrijpingspunt
+
+<details open>
+<summary>Aangrijpingspunt</summary>
+Bij wiskunde mag je het aangrijpingspunt van een vector vrij bewegen. Bij krachten mag je het aangrijpingspunt alleen verschuiven langs de lijn van de richting waarin de kracht werkt.
+</details>
+
+De resulterende (of netto) kracht (\\(F\_{res}\\)) is de som van alle krachten die op een voorwerp werken.
+
+### Wetten van Newton
+
+1. Als de resulterende kracht op een voorwerp nul is, is het in rust of beweegt het met een constante snelheid langs een rechte lijn.
+
+2. \\(F\_{res} = ma\\)
+
+3. Krachten zijn een wisselwerking. Als een voorwerp een actiekracht uitoefenent op een ander voorwerp, zal dat voorwerp reageren met een reactiekracht die even groot en tegengesteld is.
+
+### Soorten
+
+- **Zwaartekracht**: \\(F_z = mg\\)
+- **Gravitatiekracht**: \\(F_g = G \frac{m_1m_2}{r^2}\\)
+- **Elektrische kracht**: \\(F\_{el} = f\frac{q_1q_2}{r^2}\\)
+- <details class="li">
+    <summary><strong>Veerkracht</strong>: \(F_v = Cu\)</summary>
+    \(C\) = veerconstante; \(u\) = uitzetting
+  </details>
+- **Spankracht** (\\(F\_{\text{span}}\\)): kracht in een gespannen touw, ketting of elastiek.
+- **Normaalkracht** (\\(F_n\\)): reactiekracht loodrecht op een oppervlakte.
+- **Gewicht** (\\(G\\)): kracht op de ondergrond; in de meeste gevallen geldt \\(\text{G} = F_z\\).
+- <details class="li">
+    <summary><strong>Luchtweerstandskracht</strong>: \(F_{w,l} = \frac{1}{2} \rho C_W A v^2\)</summary>
+    \(\rho\) = luchtdichtheid;
+    \(C_W\) = weerstandcoëfficient;
+    \(A\) = frontaal oppervlakte
+  </details>
+- <details class="li">
+    <summary><strong>Schuifweerstandskracht</strong>: \(F_{w,s,max} = f F_n\)</summary>
+    \(f\) = (schuif)wrijvingscoëfficient (ruwheid ondergrond)
+  </details>
+
+<details>
+<summary>Maximale schuifwrijvingskracht</summary>
+<p>De schuifweerstandskracht is een reactiekracht op de actiekracht die een voorwerp verschuift. Tot op de maximumwaarde (\(F_{w,s,max}\)) is deze gelijk en tegengesteld aan de actiekracht. Vanaf de maximumwaarde blijft hij constant:</p>
+<p>\[F_{w,s} = F_{\text{actie}} \text{ mits } F_{\text{actie}} < F_{w,s,max}\]</p>
+<p>Dat is waarom een boek niet verschuif als je er maar een beetje tegen duwt, maar het wel verschuift als je harder duwt.</p>
+</details>
+
+<details>
+<summary>Middelpuntzoekende kracht</summary>
+<p>De middelpuntzoekende kracht \(F_{mpz}\) is geen losse kracht, maar een rol die één of meer krachten kunnen vervullen, net als hoe de resulterende kracht geen echte kracht is, maar een rol die door verschillende krachten samen vervuld wordt.</p>
+<p>De middelpuntzoekende kracht is een kracht die loodrecht op de bewegingsrichting staat:</p>
+<p>\[F_{mpz} = \frac{mv^2}{r}\]</p>
+<p>Door de middelpuntzoekende kracht is er een versnelling loodrecht op de snelheid. Daardoor verandert de grootte van de snelheid niet, maar de bewegingsrichting wel.</p>
+</details>
+
+## Bewegingen
+
+**Afstand** (\\(s\\)) is de totale afstand die een object heeft afgelegd. **Plaats** (\\(x\\)) is de netto afgelegde afstand. In veel situaties zijn ze uitwisselbaar.
+
+**Snelheid** (\\(v\\)) is verandering van plaats (\\(x'\\)) en **versnelling** (\\(a\\)) is verandering van snelheid (\\(x''\\)).
+
+- **Eenparig**: \\(v\\) is constant \\(\implies\\) \\(a = 0 \land F\_{res} = 0\\).
+- **Eenparig versneld**: \\(a\\) is constant, \\(v\\) neemt gelijkmatig toe.
+- **Eenparige cirkelbeweging**: \\(v\\) is constant \\(\land\\) \\(F\_{res} = F\_{mpz}\\)
+- **Vrije val**: \\(F\_{res} = F_z \implies a = g = 9.81 \text{ m/s}\\)
+
+De momentale snelheid of versnelling (aka op een bepaald tijdstip) bepaal je aan de hand van een raaklijn. De gemiddelde snelheid (\\(v\_{gem}\\)) en gemiddelde versnelling (\\(a\_{gem}\\)) bereken je met:
+
+\\[v_{gem} = \frac{\Delta x}{\Delta t} \text{ } \text{ en } \text{ } a_{gem} = \frac{\Delta v}{\Delta t}\\]
+
+> In een eenparige beweging is de snelheid constant, dus is de gemiddelde snelheid gelijk aan de momentale snelheid op elk tijdstip.
+
+### Cirkelbewegingen
+
+In een (eenparige) cirkelbeweging kan je aan de hand van de straal (\\(r\\)) en omlooptijd (\\(T\\)) de snelheid bepalen:
+
+\\[v = \frac{\Delta x}{\Delta t} = \frac{2\pi r}{T}\\]
+
+<center style="margin-top: -1.5em; margin-bottom: 1.5em"><small>De omlooptijd is de tijd die nodig is voor één rondje.</small></center>
+
+## Zonnestelsel
+
+### Gravitatiekracht
+
+Gravitatiekracht is een wisselwerking tussen twee massa's. De gravitatiekracht werkt op afstand en is omgekeerd evenredig met de straal tussen de massa's. Het aangrijpingspunt van de kracht is het zwaartepunt van de massa; bij een bol is dat het middenpunt.
+
+### Wetten van Kepler
+
+1. Planeten beschrijven een ellipsbaan met de ster in één van de brandpunten.
+2. Planeten hebben een grotere snelheid als ze dichter bij de ster zijn.
+3. \\(\frac{r^3}{T^2} = \frac{GM}{4\pi^2}\\)
+
+> \\(M\\) is de som van de massa van de ster en planeet. In veel gevallen is de massa van de planeet verwaarloosbaar klein tenopzichte van de massa van de ster.
+
+### Ontsnappingssnelheid
+
+De ontsnappingssnelheid is de minimaal benodigde snelheid om volledig aan de gravitatiekracht van een hemellichaam te ontsnappen. De formule is herleidt aan de hand van de gravitatie-energie:
+
+\\[E_{kin,0} + E_{g,0} = E_{kin,\infty} + E_{g,\infty}\\]
+\\[E_{kin,0} + E_{g,0} = 0 \implies v_0 = \sqrt{\frac{2GM}{r^2}}\\]
+
+### Geostationaire baan
+
+Een geostationaire baan is een satellietbaan waarbij de satelliet op één vast punt boven het aardvlak meebeweegt. Dan:
+
+- is de omlooptijd gelijk aan die van de aarde (\\(T = \text{23h56m}\\)).
+- is middenpunt van de baan het zwaartepunt van de aarde.
+- moet de baan loodrecht op as van de aarde staan.
+
+Vanwege deze voorwaarden is een geostationaire baan alleen mogelijk op één hele specifieke hoogte en snelheid, boven de evenaar.
+
+<details>
+<summary>Derde wet van Kepler</summary>
+<p>De derde wet van Kepler geldt ook voor satellietbanen rond de aarde. Hiermee kan je de hoogte en baansnelheid berekenen:</p>
+<p>\[r = \sqrt[3]{\frac{GM_{aarde} \cdot T^2}{4\pi^2}} = 42 \cdot 10^6 \text{ m}\]\[h = r - R_{aarde} = 35.7 \cdot 10^3 \text{ km}\]\[v = \frac{2\pi r}{T} = 3.1 \text{ m/s}\]</p>
+</details>
+
+### Polaire baan
+
+Een polaire baan is een relatief lage satellietbaan waarbij een satelliet in 1 à 2 uur over beide polen vliegt. Omdat de aarde zelf ook draait "ziet" de satelliet op den duur dus elk stukje aarde.
+
 # Energie
 
 # Golven
