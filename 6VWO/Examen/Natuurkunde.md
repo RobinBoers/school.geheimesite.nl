@@ -659,4 +659,61 @@ Soms moet je ook nog corrigeren voor achtergrondstraling uit:
 
 # Quantummechanica
 
+**Materie** heeft massa, lading, energie (\\(E\_{kin}\\) en \\(E\_{el}\\)), en ondervindt krachten.
+
+**Straling** heeft _geen_ massa, _geen_ lading, _wel_ een **ondeelbare** hoeveelheid energie, en een constante snelheid (\\(c\\)). Het ondervindt _geen_ krachten.
+
+In het standaardmodel wordt materie beschouwd als deeltjes en straling als golven. Echter zijn er kenmerken van materie waaruit blijkt dat het ook een golfkarakter vertoont, en andersom ook kenmerken van straling waaruit een deeltjeskarakter volgt.
+
+Quantumdeeltjes vertonen dus zowel golf- als deeltjesgedrag, maar nooit tegelijk. Standaard vertonen deeltjes golfgedrag, maar bij detectie of interactie met andere deeltjes komt het deeltjesgedrag naar voren. Dit verschijnsel noemen we de **golf-deeltjesdualiteit**.
+
+> Dat volgt ook uit het **dubbelspleetsexperiment**. Daarbij vormen elektronen een interferentiepatroon. Als je een detector plaatst naast één van de spleten, verdwijnt het interferentiepatroon.
+
+## Deeltjesgedrag
+
+Kenmerken van deeltjesgedrag zijn:
+
+- Het ondervinden en uitoefenen van krachten
+- Richting- en snelheidsverandering (aka uitwisseling van \\(E\_{kin}\\)) bij botsingen.
+
+### Deeltjesgedrag van straling
+
+Straling kan worden gezien als een verzameling 'deeltjes' of 'energiepakketjes', genaamd fotonen. De fotonen dragen de stralingsenergie, die afhangt van de golflengte:
+
+\\[E_f = hf = h\frac{c}{\lambda}\\]
+
+Bij absorptie of reflectie van fotonen oefenen zij een hele kleine kracht uit. Daarnaast is reflectie een vorm van richtingsverandering. Dit zijn beide kenmerken van deeltjesgedrag.
+
+### Foto-elektrisch effect
+
+Fotonen kunnen elektronen vrijmaken uit een metaal. Dat noem je het **foto-elektrisch effect**. De elektronen komen alleen vrij als de fotonenergie groter dan een minimale drempelwaarde is. Alle overige fotonenergie wordt omgezet in kinetische energie van het elektron.
+
+\\[E_f > E_{\text{uittreed}}\\]
+\\[E_kin = E_f - E_{\text{uittreed}}\\]
+
+Dit experiment bewijst dat straling bestaat uit energiepakketjes. Je zou verwachten dat bij een hogere intensiteit de stralingsenergie wél hoog genoeg zou zijn om elektronen vrij te maken. Echter is de energie verdeeld over _meer_ fotonen, waardoor een individueel foton nog steeds onvoldoende energie heeft om een elektron vrij te maken.
+
+## Golfgedrag
+
+Kenmerken van golfgedrag zijn:
+
+- Buiging (aka diffractie) bij spleten, waarbij een kleinere spleet tot grotere buiging leidt.
+- Interferentie als coherente (gelijke frequentie en constant faseverschil) puntbronnen door elkaar lopen.
+
+### Golfgedrag van materie
+
+Als je elektronen door een dubbelspleet schiet ontstaat, net als bij fotonen, een interferentiepatroon. Dit patroon ontstaat ook als de elektronen één voor één afgeschoten worden; het wordt dus niet veroorzaakt door onderlinge botsingen.
+
+De elektronen interfereren dus _niet met elkaar_, maar _met zichzelf_. Hieruit volgt dat een individueel elektron door _beide spleten tegelijk_ gaat; het elektron vertoont golfgedrag.
+
+De "golflengte" van het golfkarakter van materie wordt de **debrogiegolflengte** genoemd, en hangt af van de massa en snelheid van het betreffende deeltje:
+
+\\[\lambda = \frac{h}{mv}\\]
+
+Het ontstane interferentiepatroon bij elektronen geeft de waarschijnlijkheid aan dat je een elektron aantreft (groot rond de maxima en klein rond de minima).
+
+## Gebonden materiedeeltjes
+
+## Halfgeleiders
+
 # Elektromagnetisme
