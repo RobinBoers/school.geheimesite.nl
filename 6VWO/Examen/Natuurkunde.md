@@ -347,6 +347,36 @@ Als de stralingsintensiteit op aarde (\\(I\\)) bekend is, kan je ook de afstand 
 
 \\[r = \sqrt{\frac{4 \pi \cdot I}{P}}\\]
 
+## Spectraalanalyse
+
+Een spectrum (zoals stralingskrommen) laat zien welke golflengtes er in straling voorkomen.
+
+- **Continuespectrum**: alle golflengtes komen voor.
+- **Absorptiespectrum**: er ontbreken enkele golflengtes.
+- **Emissiespectrum**: er alleen zijn banden van golflengtes.
+
+<br>
+
+<img src="/6VWO/TW2/continu.jpg" alt="" style="aspect-ratio: unset">
+
+Een gloeidraad of ster zend normaliter een continuspectrum uit, waarin alle kleuren (golflengtes) voorkomen.
+
+<br>
+
+<img src="/6VWO/TW2/absorptie.jpg" alt="" style="aspect-ratio: unset">
+
+In een koud gas bevinden de elektronen zich in een lage energietoestand. Door het absorberen van fotonen 'springen' ze naar een hoger energieniveau. Dit gebeurt alleen als \\(E_f = \Delta E\\); daardoor worden maar enkele golflengtes fotonen geabsorbeerd.
+
+<br>
+
+<img src="/6VWO/TW2/emissie.jpg" alt="" style="aspect-ratio: unset">
+
+In een heet gas bevinden elektronen zich in een verhogde energietoestand. Sporadisch zullen elektronen terugvallen naar een lager energieniveau. Daarbij wordt een foton uitgezonden waarbij weer geldt \\(E_f = \Delta E\\). Dit veroorzaakt de emissielijnen in het emissiespectrum.
+
+De energieniveaus verschillen per atoomsoort, dus de golflengtes die worden uitgezonden hangen af van de samenstelling van het gasmengsel.
+
+## Radiale snelheid en Doppler-verschuiving
+
 # Energie
 
 ## Basisbegrippen
