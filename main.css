@@ -99,6 +99,10 @@ li:has(details.li) {
   margin-left: -2em;
 }
 
+summary {
+  cursor: pointer;
+}
+
 /* Fix for tables */
 
 tbody tr:last-of-type,
