@@ -16,6 +16,7 @@ h1 {
   <ul>
     <li><a href="#elektriciteit">Elektriciteit</a></li>
     <li><a href="#mechanica">Mechanica</a></li>
+    <li><a href="#astrofysica">Astrofysica</a></li>
     <li><a href="#energie">Energie</a></li>
     <li><a href="#golven">Golven</a></li>
     <li><a href="#kernfysica">Kernfysica</a></li>
@@ -244,11 +245,9 @@ In een (eenparige) cirkelbeweging kan je aan de hand van de straal (\\(r\\)) en 
 
 <center style="margin-top: -1.5em; margin-bottom: 1.5em"><small>De omlooptijd is de tijd die nodig is voor één rondje.</small></center>
 
+# Astrofysica
+
 ## Zonnestelsel
-
-### Gravitatiekracht
-
-Gravitatiekracht is een wisselwerking tussen twee massa's. De gravitatiekracht werkt op afstand en is omgekeerd evenredig met de straal tussen de massa's. Het aangrijpingspunt van de kracht is het zwaartepunt van de massa; bij een bol is dat het middenpunt.
 
 ### Wetten van Kepler
 
@@ -258,12 +257,18 @@ Gravitatiekracht is een wisselwerking tussen twee massa's. De gravitatiekracht w
 
 > \\(M\\) is de som van de massa van de ster en planeet. In veel gevallen is de massa van de planeet verwaarloosbaar klein tenopzichte van de massa van de ster.
 
+### Gravitatiekracht
+
+Gravitatiekracht is een wisselwerking tussen twee massa's. De gravitatiekracht werkt op afstand en is omgekeerd evenredig met de straal tussen de massa's. Het aangrijpingspunt van de kracht is het zwaartepunt van de massa; bij een bol is dat het middenpunt.
+
 ### Ontsnappingssnelheid
 
 De ontsnappingssnelheid is de minimaal benodigde snelheid om volledig aan de gravitatiekracht van een hemellichaam te ontsnappen. De formule is herleidt aan de hand van de gravitatie-energie:
 
 \\[E_{kin,0} + E_{g,0} = E_{kin,\infty} + E_{g,\infty}\\]
 \\[E_{kin,0} + E_{g,0} = 0 \implies v_0 = \sqrt{\frac{2GM}{r^2}}\\]
+
+## Satellietbanen
 
 ### Geostationaire baan
 
@@ -284,6 +289,63 @@ Vanwege deze voorwaarden is een geostationaire baan alleen mogelijk op één hel
 ### Polaire baan
 
 Een polaire baan is een relatief lage satellietbaan waarbij een satelliet in 1 à 2 uur over beide polen vliegt. Omdat de aarde zelf ook draait "ziet" de satelliet op den duur dus elk stukje aarde.
+
+## Stralings- & planckkrommen
+
+De fotosfeer (buitenste laag van een ster) zendt EM-straling uit. Niet van elke frequentie wordt evenveel straling uitgezonden. In een **stralingskromme** kan je voor elke golflengte (\\(\lambda\\)) de stralingsintensiteit (\\(I\\)) zien:
+
+![](/6VWO/TW2/stralingskromme.jpg)
+
+De oppervlakte onder de grafiek is de totale stralingsintensiteit.
+
+De **oppervlaktetemperatuur** (aka effectieve temperatuur) kan je vinden aan de hand van de kleur van een ster. De kleur wordt bepaald door het stralingsmaximum (de piek in de grafiek). Hoe warmer de ster, hoe meer blauw licht hij uitzendt, hoe verder de piek naar links ligt.
+
+De exacte temperatuur bepaal je door een planckkromme te vinden die past bij je stralingskromme. Een planckkromme is de stralingskromme die een ster met een bepaalde oppervlaktetemperatuur theoretisch gezien zou moeten hebben.
+
+> Dus: stel dat de piek van de experimenteel bepaalde stralingskromme ligt op ~500 nm, zoek je een planckkromme in Binas 22A met een piek op ook ~500nm, en lees je de temperatuur af (in dit geval ~5700K).
+
+Voor de planckkrommen geldt de wet van Wien:  
+<small>(Hoe warmer, hoe lager de \\(\lambda\_{max}\\), hoe blauwer, hoe verder de piek naar links.)</small>
+
+\\[\lambda_{max} = \frac{K_W}{T_{eff}}\\]
+
+<center style="margin-top: -2em"><small>\(k_W\) staat in Binas 7A</small></center>
+
+## Sterren
+
+### Vermogen & intensiteit
+
+Het **stralingsvermogen** (\\(P\\)) is de hoeveelheid stralingsenergie die een ster per seconde uitzendt. Dit hangt af van de oppervlakte en temperatuur van de ster:
+
+\\[P = \sigma A T_{eff}^4\\]
+
+De **stralingsintensiteit** (\\(I\\)) is de ontvangen stralingsenergie die wij per vierkante meter kunnen waarnemen op het aardoppervlak. Deze neemt kwadratisch af met de afstand tot de ster (\\(r\\)):
+
+\\[I = \frac{P_{\text{bron}}}{4\pi r^2}\\]
+
+### HDR
+
+In een HDR-diagram word de lichtkracht (\\(L\\)) van een ster uitgezet tegen zijn effectieve temperatuur (\\(T\_{eff}\\)). De lichtkracht is het vermogen van een ster tenopzicht van de zon:
+
+\\[L = \frac{P}{P_{\text{zon}}}\\]
+
+In het HDR liggen de sterren op verticale assen ('reeksen'), die de straal van tenopzicht van de zon (\\(R\\)) aangeven.
+
+- **Hoofdreeks** (\\(1R\\)): stabiele sterren zoals de zon
+- **Rode reuzen** (\\(\text{10-100}R\\)): gigantisch en relatief koud
+- **Witte dwergen** (\\(0.01R\\)): grote dichtheid en extreem warm
+
+![](/6VWO/TW2/hdr.png)
+
+Aan de hand van de oppervlaktetemperatuur en reeks (er mag uitgegaan worden van de hoofdreeks als dit niet expliciet gespecificeerd wordt), kan het stralingsvermogen van de ster bepaald worden:
+
+\\[P = P_{\text{zon}} \cdot 10^n\\]
+
+<center style="margin-top: -1.5em; margin-bottom: 2em"><small>waarbij \(n\) de afgelezen waarde is op \(\log(T_{eff})\)</small></center>
+
+Als de stralingsintensiteit op aarde (\\(I\\)) bekend is, kan je ook de afstand tot de ster (\\(r\\)) bepalen:
+
+\\[r = \sqrt{\frac{4 \pi \cdot I}{P}}\\]
 
 # Energie
 
