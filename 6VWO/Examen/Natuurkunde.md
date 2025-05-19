@@ -54,7 +54,7 @@ h1 {
 
 Elektriciteit bestaat uit positief en negatief geladen deeltjes die bewegen. Positief-positief en negatief-negatief stoten elkaar af, positief-negatief trekken elkaar aan.
 
-Lading wordt aangegeven met de letter Q en meten we in Coulomb (C).
+Lading (\\(Q\\)) meten we in Coulomb (C).
 
 ### Stroomkring
 
@@ -64,7 +64,7 @@ Als er een gesloten stroomkring met spanningsbron is, lopen er elektronen van de
 
 ### Stroomsterkte
 
-De stroomsterkte (I) is een maat voor de hoeveelheid lading die per tijdseenheid door een punt in de stroomkring loopt. Eigenlijk gewoon het aantal elektronen dat langskomt.
+De stroomsterkte (\\(I\\)) is een maat voor de hoeveelheid lading die per tijdseenheid door een punt in de stroomkring loopt. Eigenlijk gewoon het aantal elektronen dat langskomt.
 
 We meten dit in Ampère (A), gelijk aan Coulomb per seconde (C/s).
 
@@ -83,7 +83,7 @@ Een stroommeter plaats je altijd in de stroomkring, tussen de andere componenten
 
 ### Spanning
 
-De spanning (U) is de hoeveelheid energie die de lading (in dit geval elektronen) meedraagt. Je meet dit door het energieverschil tussen twee punten te vergelijken.
+De spanning (\\(U\\)) is de hoeveelheid energie die de lading (in dit geval elektronen) meedraagt. Je meet dit door het energieverschil tussen twee punten te vergelijken.
 
 We meten spanning in Volt (V), wat gelijk is aan Joule per Coulomb (J/C).
 
@@ -95,7 +95,7 @@ Een spanningsmeter staat daarom altijd buiten de stroomkring. Je meet hiermee de
 
 ### Vermogen
 
-Elektrische schakelingen zetten elektrische energie om in andere soorten energie. De hoeveelheid energie die per seconde wordt omgezet (aka het energieverbruik) noemen we het vermogen (P).
+Elektrische schakelingen zetten elektrische energie om in andere soorten energie. De hoeveelheid energie die per seconde wordt omgezet (aka het energieverbruik) noemen we het vermogen (\\(P\\)).
 
 We meten het vermogen in Watt (W), wat gelijk is aan Joule per seconde (J/s).
 
@@ -107,7 +107,7 @@ Je kan het vermogen ook berekenen door de stroomsterkte en spanning te vermenigv
 
 ## Weerstand
 
-De weerstand (R) van een stof geeft aan hoe goed deze stroom geleidt; een hoge weerstand zorgt voor een lage stroomsterkte. We meten weerstand in Ohm (\\(\Omega\\)).
+De weerstand (\\(R\\)) van een stof geeft aan hoe goed deze stroom geleidt; een hoge weerstand zorgt voor een lage stroomsterkte. We meten weerstand in Ohm (\\(\Omega\\)).
 
 De weerstand van een materiaal wordt voornamelijk bepaald door het soort stof (de soortelijke weerstand, \\(\rho\\)). Ook temperatuur speelt een rol: sommige materialen geleiden bij verhitting beter (NTCs), andere juist slechter (PTCs).
 
@@ -184,7 +184,7 @@ In een parallelschakelijk is sprake van **stroomdeling**; de spanning is door al
 
 **Krachten** (\\(F\\)) zijn een vector-eenheid. Dat betekent dat ze precies werken zoals vectoren bij wiskunde. Elke kracht heeft drie eigenschappen:
 
-- Grootte (in \\(\text{N}\\))
+- Grootte (in N)
 - Richting
 - Aangrijpingspunt
 
@@ -308,6 +308,67 @@ Vanwege deze voorwaarden is een geostationaire baan alleen mogelijk op één hel
 Een polaire baan is een relatief lage satellietbaan waarbij een satelliet in 1 à 2 uur over beide polen vliegt. Omdat de aarde zelf ook draait "ziet" de satelliet op den duur dus elk stukje aarde.
 
 # Energie
+
+## Basisbegrippen
+
+### Arbeid
+
+Arbeid (\\(W\\)) is de energie die verbruikt wordt bij het uitoefenen van een kracht over afstand. We meten dit in Newtonmeter (Nm), wat gelijk is aan Joule (J).
+
+\\[W = Fs\\]
+
+### Mechanische energie
+
+Mechanische energie (\\(E_m\\)) is de som van de kinetische energie en zwaarte-energie:
+
+\\[E_m = E_{kin} + E_z\\]
+
+### Vermogen
+
+Vermogen (\\(P\\)) is de hoeveelheid arbeid die verricht wordt per seconde:
+
+\\[P = W/t = Fs/t = Fv\\]
+
+### Verbrandingswarmte
+
+De verbrandingswarmte (\\(r_v\\)) is de hoeveelheid (chemische) energie die vrijkomt bij het verbranden van een volume van een brandstof.
+
+We meten verbrandingswarmte in J/kg (voor vaste stoffen), J/m<sup>3</sup> (voor gassen) of J/L (voor vloeistoffen).
+
+\\[E\_{chem} = r_v V \text{ of } E\_{chem} = r_v m\\]
+
+## Energievergelijkingen
+
+### Wet van behoud van energie
+
+Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
+
+\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
+
+<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
+
+### Soorten
+
+- **Warmte**: \\(Q = cm\Delta T\\)
+- **Kinetische energie**: \\(E\_{kin} = \frac{1}{2} mv^2\\)
+- **Zwaarte-energie**: \\(E_z = mg\Delta h\\)
+- **Gravitatie-energie**: \\(E_g = -G \frac{m_1m_2}{r}\\)
+- **Elektrische energie**: \\(E\_{el} = f \frac{q_1q_2}{r}\\)
+- **Chemische energie**: \\(E\_{chem} = r_v V\\)
+- **Veerenergie**: \\(E_v = \frac{1}{2}Cu^2\\)
+- **Kernenergie**: \\(E = \Delta mc^2\\)
+- **Stralingsenergie**: \\(E_f = hf\\)
+
+<details open>
+  <summary>Let op!</summary>
+  De bovenstaande formule voor veerenergie geldt alleen bij een ideale veer.
+</details>
+
+### Nulpunt van de gravitatie-energie
+
+Bij de meeste energiesoorten mag je zelf bepalen waar het nulpunt ligt. Bij gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt. De gravitatie-energie is dus altijd negatief, maar naarmate hij groter wordt nadert hij nul (wordt hij minder negatief).
+
+Dit is gekozen zodat je op \\(E_g = 0\\) volledig vrij bent van de aantrekking van een massa.
 
 # Golven
 
