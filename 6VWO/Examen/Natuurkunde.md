@@ -890,4 +890,33 @@ Omdat de golf iets doordring in de wand van de energieput, is de golflengte niet
 
 ## Halfgeleiders
 
+In een metaal delen de atomen hun elektronen. Je kan dit zien als een gigantische energieput met heel veel elektronen; daardoor zijn er heel veel energieniveaus die heel dicht op elkaar liggen.
+
+Omdat de energieniveaus zo dicht op elkaar liggen vormen ze eigenlijk een **aaneengesloten energieband**, waarbij de elektronenergie niet langer gequantiseerd is. De elektronen kunnen elke mogelijke energie (binnen de band) hebben en ook elke mogelijke energie absorberen of afgeven.
+
+Er zijn twee energiebanden:
+
+- **Geleidingsband**: de elektronen kunnen zich vrij bewegen.
+- **Valentieband**: de elektronen zitten nog gebonden aan atomen.
+
+Elektronen in de geleidingsband kunnen vrij bewegen en daardoor kan er stroom lopen. De elektronen in de valentieband kunnen dat niet. Om de stof goed te laten geleiden moeten elektronen dus van de valentieband naar de geleidingsband kunnen.
+
+Bij stoffen die goed geleiden overlappen de valentieband en geleidingsband en kunnen elektronen makkelijk overspringen. Daardoor kunnen ze zich afwisselend gedragen als een vrij of gebonden deeltje.
+
+Bij isolatoren is er een **band gap** ('verboden gebied') tussen de twee banden, die zo groot is dat overspringen onmogelijk is. Er kunnen geen elektronen in de geleidingsband komen; er kan geen stroom lopen.
+
+Bij halfgeleiders is de bandgap zo klein (meestal \\(\lt1.0\text{ keV}\\)). Elektronen kunnen dan uit zichzelf niet overspringen, maar als er extra energie wordt toegevoerd wel. Bijvoorbeeld door:
+
+- **NTC**: verhogen van de temperatuur
+- **LDR**: absorptie van fotonen
+- **LED**: elektrische spanning
+
+Als er meer energie wordt toegevoerd kunnen elektronen makkelijker overspringen naar de geleidingsband, en wordt de weerstand van de stof lager (want er gaat makkelijker stroom lopen).
+
+<details open>
+<summary>LED</summary>
+<p>Een LED gaat stroom geleiden als de spanning die je er over zet een minimale drempelwaarde overschrijdt.</p>
+<p>Bij het terugvallen van de geleidingsband naar de valentieband wordt er licht uitgezonden. De kleur hangt af van de grootte van het bandgap.</p>
+</details>
+
 # Elektromagnetisme
