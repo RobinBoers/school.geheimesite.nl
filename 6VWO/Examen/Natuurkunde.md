@@ -17,7 +17,6 @@ h1 {
     <li><a href="#elektriciteit">Elektriciteit</a></li>
     <li><a href="#mechanica">Mechanica</a></li>
     <li><a href="#astrofysica">Astrofysica</a></li>
-    <li><a href="#energie">Energie</a></li>
     <li><a href="#golven">Golven</a></li>
     <li><a href="#kernfysica">Kernfysica</a></li>
     <li><a href="#quantummechanica">Quantummechanica</a></li>
@@ -159,6 +158,34 @@ In een parallelschakelijk is sprake van **stroomdeling**; de spanning is door al
 
 # Mechanica
 
+## Basisbegrippen
+
+### Arbeid
+
+Arbeid (\\(W\\)) is de energie die verbruikt wordt bij het uitoefenen van een kracht over afstand. We meten dit in Newtonmeter (Nm), wat gelijk is aan Joule (J).
+
+\\[W = Fs\\]
+
+### Mechanische energie
+
+Mechanische energie (\\(E_m\\)) is de som van de kinetische energie en zwaarte-energie:
+
+\\[E_m = E_{kin} + E_z\\]
+
+### Vermogen
+
+Vermogen (\\(P\\)) is de hoeveelheid arbeid die verricht wordt per seconde:
+
+\\[P = W/t = Fs/t = Fv\\]
+
+### Verbrandingswarmte
+
+De verbrandingswarmte (\\(r_v\\)) is de hoeveelheid (chemische) energie die vrijkomt bij het verbranden van een volume van een brandstof.
+
+We meten verbrandingswarmte in J/kg (voor vaste stoffen), J/m<sup>3</sup> (voor gassen) of J/L (voor vloeistoffen).
+
+\\[E\_{chem} = r_v V \text{ of } E\_{chem} = r_v m\\]
+
 ## Krachten
 
 **Krachten** (\\(F\\)) zijn een vector-eenheid. Dat betekent dat ze precies werken zoals vectoren bij wiskunde. Elke kracht heeft drie eigenschappen:
@@ -187,6 +214,7 @@ De resulterende (of netto) kracht (\\(F\_{res}\\)) is de som van alle krachten d
 - **Zwaartekracht**: \\(F_z = mg\\)
 - **Gravitatiekracht**: \\(F_g = G \frac{m_1m_2}{r^2}\\)
 - **Elektrische kracht**: \\(F\_{el} = f\frac{q_1q_2}{r^2}\\)
+- **Lorentzkracht**: (\\(F_l = BIl\\))
 - <details class="li">
     <summary><strong>Veerkracht</strong>: \(F_v = Cu\)</summary>
     \(C\) = veerconstante; \(u\) = uitzetting
@@ -219,6 +247,49 @@ De resulterende (of netto) kracht (\\(F\_{res}\\)) is de som van alle krachten d
 <p>\[F_{mpz} = \frac{mv^2}{r}\]</p>
 <p>Door de middelpuntzoekende kracht is er een versnelling loodrecht op de snelheid. Daardoor verandert de grootte van de snelheid niet, maar de bewegingsrichting wel.</p>
 </details>
+
+## Energie
+
+### Wet van behoud van energie
+
+Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
+
+\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
+
+<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
+
+### Soorten
+
+- **Warmte**: \\(Q = cm\Delta T\\)
+- **Kinetische energie**: \\(E\_{kin} = \frac{1}{2} mv^2\\)
+- **Zwaarte-energie**: \\(E_z = mg\Delta h\\)
+- **Gravitatie-energie**: \\(E_g = -G \frac{m_1m_2}{r}\\)
+- **Elektrische energie**: \\(E\_{el} = f \frac{q_1q_2}{r}\\)
+- **Chemische energie**: \\(E\_{chem} = r_v V\\)
+- **Veerenergie**: \\(E_v = \frac{1}{2}Cu^2\\)
+- **Kernenergie**: \\(E = \Delta mc^2\\)
+- **Stralingsenergie**: \\(E_f = hf\\)
+
+<details open>
+  <summary>Let op!</summary>
+  De bovenstaande formule voor veerenergie geldt alleen bij een ideale veer.
+</details>
+
+### Nulpunt van de gravitatie-energie
+
+Bij de meeste energiesoorten mag je zelf bepalen waar het nulpunt ligt. Bij gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt.
+
+Zolang iets gravitatiekracht ondervindt van een massa, kan het zich niet volledig vrij bewegen. We hebben daarom afgesproken dat het nulpunt van de gravitatie-energie ligt op het punt dat je buiten bereik van de andere massa bent, op \\(r = \infty\\).
+
+De gravitatie-energie is dus altijd negatief, maar naarmate hij groter wordt nadert hij nul (wordt minder negatief).
+
+### Nulpunt van de elektrische energie
+
+Elektrische energie volgt een vergelijkbare conventie naar gravitatie-energie.
+
+Zolang een elektron zich in een atoom bevindt, ondervindt het elektrische kracht en kan het zich dus niet vrij bewegen. Daarom hebben we, net als bij gravitatiekracht, afgesproken dat het nulpunt van de elektrische energie ligt waar het elektron geen aantrekking van de atoomkern meer heeft.
+
+De elektrische energie is dus binnen een atoom negatief, en daarbuiten positief.
 
 ## Bewegingen
 
@@ -387,79 +458,6 @@ Sterren draaien om hun as. De snelheid waarmee ze dit doen noem je de radiale sn
 Het verschil tussen de hoogste en laagste golflengte van een balk in het spectrum is \\(\Delta \lambda\\). Hiermee kan je de radiale snelheid berekenen:
 
 \\[v_r = c \cdot \frac{\Delta \lambda}{\lambda}\\]
-
-# Energie
-
-## Basisbegrippen
-
-### Arbeid
-
-Arbeid (\\(W\\)) is de energie die verbruikt wordt bij het uitoefenen van een kracht over afstand. We meten dit in Newtonmeter (Nm), wat gelijk is aan Joule (J).
-
-\\[W = Fs\\]
-
-### Mechanische energie
-
-Mechanische energie (\\(E_m\\)) is de som van de kinetische energie en zwaarte-energie:
-
-\\[E_m = E_{kin} + E_z\\]
-
-### Vermogen
-
-Vermogen (\\(P\\)) is de hoeveelheid arbeid die verricht wordt per seconde:
-
-\\[P = W/t = Fs/t = Fv\\]
-
-### Verbrandingswarmte
-
-De verbrandingswarmte (\\(r_v\\)) is de hoeveelheid (chemische) energie die vrijkomt bij het verbranden van een volume van een brandstof.
-
-We meten verbrandingswarmte in J/kg (voor vaste stoffen), J/m<sup>3</sup> (voor gassen) of J/L (voor vloeistoffen).
-
-\\[E\_{chem} = r_v V \text{ of } E\_{chem} = r_v m\\]
-
-## Energievergelijkingen
-
-### Wet van behoud van energie
-
-Volgens de wet van behoud van energie kan er geen energie ontstaan of afgebroken worden; het kan alleen van vorm veranderen. De som van alle energie aan het begin is dus gelijk aan de som van de energie op het eind:
-
-\\[\Sigma E_{\text{begin}} = \Sigma E_{\text{eind}}\\]
-
-<small>De hoofdletter sigma (\\(\Sigma\\)) is een opsommingsteken. Hier staat dus: alle energie aan het begin is gelijk aan alle energie aan het eind.</small>
-
-### Soorten
-
-- **Warmte**: \\(Q = cm\Delta T\\)
-- **Kinetische energie**: \\(E\_{kin} = \frac{1}{2} mv^2\\)
-- **Zwaarte-energie**: \\(E_z = mg\Delta h\\)
-- **Gravitatie-energie**: \\(E_g = -G \frac{m_1m_2}{r}\\)
-- **Elektrische energie**: \\(E\_{el} = f \frac{q_1q_2}{r}\\)
-- **Chemische energie**: \\(E\_{chem} = r_v V\\)
-- **Veerenergie**: \\(E_v = \frac{1}{2}Cu^2\\)
-- **Kernenergie**: \\(E = \Delta mc^2\\)
-- **Stralingsenergie**: \\(E_f = hf\\)
-
-<details open>
-  <summary>Let op!</summary>
-  De bovenstaande formule voor veerenergie geldt alleen bij een ideale veer.
-</details>
-
-### Nulpunt van de gravitatie-energie
-
-Bij de meeste energiesoorten mag je zelf bepalen waar het nulpunt ligt. Bij gravitatie-energie hebben we afgesproken dat het nulpunt op oneindig grote afstand ligt.
-
-Zolang iets gravitatiekracht ondervindt van een massa, kan het zich niet volledig vrij bewegen. We hebben daarom afgesproken dat het nulpunt van de gravitatie-energie ligt op het punt dat je buiten bereik van de andere massa bent, op \\(r = \infty\\).
-
-De gravitatie-energie is dus altijd negatief, maar naarmate hij groter wordt nadert hij nul (wordt minder negatief).
-
-### Nulpunt van de elektrische energie
-
-Elektrische energie volgt een vergelijkbare conventie naar gravitatie-energie.
-
-Zolang een elektron zich in een atoom bevindt, ondervindt het elektrische kracht en kan het zich dus niet vrij bewegen. Daarom hebben we, net als bij gravitatiekracht, afgesproken dat het nulpunt van de elektrische energie ligt waar het elektron geen aantrekking van de atoomkern meer heeft.
-
-De elektrische energie is dus binnen een atoom negatief, en daarbuiten positief.
 
 # Golven
 
@@ -920,3 +918,134 @@ Als er meer energie wordt toegevoerd kunnen elektronen makkelijker overspringen 
 </details>
 
 # Elektromagnetisme
+
+Een voorwerp heeft heel veel kleine magnetische gebiedjes. Meestal staan die in random richtingen, waardoor ze elkaar opheffen. Als alle magnetische gebiedjes in dezelfde richting staan is er sprake van een magnetisch veld.
+
+Een magneet heeft een noord- en zuidpool. Noord-zuid trekt elkaar aan en noord-noord of zuid-zuid stoten elkaar af. De noordpool geven we doorgaans rood aan, en de zuidpool blauw.
+
+## Veldlijnen
+
+Een kompasnaald is een kleine magneet die altijd (met zijn noordpool) naar de zuidpool van een andere magneet wijst. Magnetische veldlijnen geven aan in welke richting een kompasnaald zou wijzen op bepaalde punten.
+
+![](/5VWO/TW4/veldlijnen.png)
+
+Buiten de magneet lopen de veldlijnen van noord naar zuid; binnen de magneet lopen ze van zuid naar noord.
+
+Hoe dichter de lijnen bij elkaar lopen, hoe sterker de magneet is.
+
+## Magneten
+
+Als je een magneet bij een niet-magnetische stof houdt, gaan de gebiedjes in de stof allemaal dezelfde kant op wijzen en wordt de stof (tijdelijk) ook magnetisch.
+
+> Dit geldt alleen voor metalen. Moleculaire stoffen hebben geen roosters en ionroosters functioneren anders. Dit is verder geen examenstof.
+
+### Soorten
+
+- Een **tijdelijke magneet**, zoals weekijzer. Een metaal dat makkelijk wordt gemagnetiseerd, maar het magnetisme ook weer snel kwijtraakt.
+
+- Een **permanente magneet**, vaak gemaakt van legeringen, zijn en blijven magnetisch. De werking kost geen energie, en de magneet staan altijd “aan”.
+
+- Een **elektromagneet** wekt een magneetveld op door het lopen van stroom in een spoel of draad. Dit kost energie, maar je kan deze magneet dus wel aan en uit zetten.
+
+## Magnetische velden
+
+De magnetische veldsterkte (\\(B\\)) bepaalt hoe hard een magneet aan een andere magneet trekt.
+
+Veldsterkte is een vectorgrootheid. Dat betekent dat als je twee magneten naast elkaar hebt, je hun veldsterktes bij elkaar optelt om de richting van het gecombineerde magneetveld te bepalen.
+
+- **Homogeen magneetveld**: de veldlijnen liggen evenwijdig aan elkaar op gelijkmatige afstand.
+- **Inhomogeen magneetveld**: de veldlijnen lopen niet evenwijdig of de afstand tussen de veldlijnen is niet consistent.
+
+<details open>
+<summary>Aardmagnetisch veld</summary>
+<p>De aarde heeft een magnetisch veld dat waarschijnlijk wordt veroorzaakt door de ijzeren kern.</p>
+<p>De magnetische zuidpool bevindt zich rond de geografische noordpool en andersom. Daarom wijst de noordpool van een kompasnaald in de richting van het geografische noorden.</p>
+</details>
+
+## Elektromagneten
+
+### Spoel
+
+Als je stroom door een spoel laat lopen wekt die een magnetisch veld op. Boven en onder de spoel liggen de veldlijnen verder uit elkaar, en is het veld dus zwakker.
+
+![](/5VWO/TW4/elektromagneet-spoel.png)
+
+Voor het magneetveld van een spoel met \\(N\\) windingen en stroomsterkte \\(I\\) geldt:
+
+\\[B = \mu_0 \cdot \frac{N I}{l_{\text{spoel}}}\\]
+
+<center style="margin-top: -1.5em"><small>De waarde van \(\mu_0\) is gegeven.</small></center>
+
+### Stroomdraad
+
+Als je stroom door een rechte stroomdraad laat lopen wekt die ook een magnetisch veld zonder noord- en zuidpool op. De lijnen lopen in oneindige cirkels op een vlak dat loodrecht op de stroomdraad staat.
+
+![](/5VWO/TW4/elektromagneet-draad.jpg)
+
+Hoe verder van de stroomdraad, hoe verder ze uit elkaar liggen, en dus hoe zwakker het magneetveld.
+
+## Lorentzkracht
+
+Een lading in een magnetisch veld ondervindt een kracht genaamd de Lorentzkracht (\\(F_l\\)). Die kracht staat loodrecht op zowel de stroomsterkte (richting waarin positieve deeltjes bewegen) als de veldlijnen.
+
+Als de stroomsterkte en magnetische veldsterkte evenwijdig zijn, is er geen Lorentzkracht.
+
+### Elektronen en positronen
+
+De grootte van de Lorentzkracht op een individueel geladen deeltje bereken je als:
+
+\\[F_l = Bqv\\]
+
+### Stroomdraad
+
+De Lorentkracht werkt ook op de stroomdraad als geheel. Je berekent hem dan als:
+
+\\[F_l = BIl\\]
+
+<details>
+<summary>Loodrechte component</summary>
+<p>Hierin is B de component van de magnetische veldsterkte die loodrecht op de stroomdraad staat. Stel je hebt dus de volgende situatie:</p>
+<img src="/5VWO/TW4/magneetveld-schuin.png" alt="">
+<p>Je moet dan alleen de loodrechte component van de magnetische veldsterkte nemen. Dit doe je door hem te ontleden, net als een kracht (want het is een vectorgrootheid):</p>
+<img src="/5VWO/TW4/magneetveld-ontleed.png" alt="">
+</details>
+
+### Spoel
+
+In het geval van een spoel met \\(N\\) bindingen kan je ook de volgende formule gebruiken:
+
+\\[F_l = N \cdot BIl\\]
+
+Op elke winding oefent zich namelijk een Lorentzkracht uit. Je moet daarom de Lorentzkracht keer het aantal windingen van de spoel doen, om de totale Lorentzkracht op de spoel te berekenen.
+
+## Inductie
+
+Inductie is het tegenovergestelde van een elektromagneet. Een elektromagneet wekt een magneetveld op door het laten lopen van stroom. Inductie is andersom: het opwekken van stroom in een spoel met behulp van een magneetveld.
+
+Er gaat stroom lopen bij het veranderen van een magneetveld. We drukken dit uit met de flux. De magnetische flux (\\(\phi\\)) in Weber (Wb) is het aantal veldlijnen door een oppervlakte:
+
+\\[\phi = B_{\bot} A\\]
+
+![](/5VWO/TW4/flux.png)
+
+Als de flux groter of kleiner wordt veranderd het magneetveld, en vindt er inductie plaats. De inductiespanning (\\(U\_{ind}\\)) is evenredig met de verandering (aka afgeleide) van de flux. Daaruit volgt de formule:
+
+\\[U_{ind} \propto N \cdot \frac{d\phi}{dt}\\]
+
+### Wet van Lenz
+
+Als je een magneet beweegt en daarmee de flux verandert, reageert de spoel door het opwekken van een _meeflux_ of _tegenflux_. De spoel wordt dus tijdelijk ook een magneet.
+
+Of het een mee- of tegenflux wordt kan je bepalen aan de hand van de _Wet van Lenz_:
+
+1. Bepaal de richting van het uitwendig magneetveld (het magneetveld van de veranderende flux) door de spoel.
+
+2. Kijk of er een toe- of afname van de flux is. (Beweegt de magneet van de spoel af of er naartoe?)
+
+3. Bij een toename wordt een tegenflux opgewekt. Het opgewekte magneetveld is dus tegengesteld aan de richting van het uitwendige magneetveld.
+
+4. Bij een afname wordt een meeflux opgewekt. Het opgewekte magneetveld heeft dus dezelfde richting als het uitwendig magneetveld.
+
+Doordat de spoel een magneet wordt gaat er stroom lopen. De spoel wordt dus een spanningsbron. De richting van de stroom kan je bepalen aan de hand van de rechterhandregel voor spoelen.
+
+Je kan vervolgens bepalen welke kant van de spoel de plus- en minpool wordt. In een spanningsbron loopt de stroom altijd van min naar plus.
