@@ -30,7 +30,7 @@ h1 {
 
 ### Lading
 
-Elektriciteit bestaat uit positief en negatief geladen deeltjes die bewegen. Positief-positief en negatief-negatief stoten elkaar af, positief-negatief trekken elkaar aan.
+Elektriciteit bestaat uit positief en negatief geladen deeltjes die bewegen. Geladen deeltjes met tegengestelde ladingen trekken elkaar aan. Deeltjes met gelijke ladingen stoten elkaar af.
 
 Lading (\\(Q\\)) meten we in Coulomb (C).
 
@@ -869,6 +869,14 @@ In de ééndimensionale energieput kan elk energieniveau door maar twee elektron
 
 > Dat betekent dat als er een foton is met een golflengte voor een overgang van A naar B, maar energieniveau B is al bezet voor twee elektronen, de foton niet geabsorbeerd wordt.
 
+<details open>
+<summary>Verschillen tussen de energieput-modellen</summary>
+<ul>
+<li>In het atoommodel zijn alle energieniveaus negatief. In het molecuulmodel ligt het nulpunt van \(E\) in de grondtoestand; de energieniveaus zijn dus allemaal positief.</li>
+<li>In het atoommodel is de kinetische energie in hogere energieniveaus kleiner, waardoor de debrogiegolflengte er groter is. In het molecuulmodel wordt de golflengte juist kleiner in hogere energietoestanden.</li>
+</ul>
+</details>
+
 ### Tunneling
 
 We noemen de energieput van een molecuul oneindig diep omdat de gecombineerde elektrische kracht van alle atomen erg hoog is. Daardoor is er veel kinetische energie nodig om een elektron vrij te krijgen.
@@ -923,16 +931,6 @@ Een voorwerp heeft heel veel kleine magnetische gebiedjes. Meestal staan die in 
 
 Een magneet heeft een noord- en zuidpool. Noord-zuid trekt elkaar aan en noord-noord of zuid-zuid stoten elkaar af. De noordpool geven we doorgaans rood aan, en de zuidpool blauw.
 
-## Veldlijnen
-
-Een kompasnaald is een kleine magneet die altijd (met zijn noordpool) naar de zuidpool van een andere magneet wijst. Magnetische veldlijnen geven aan in welke richting een kompasnaald zou wijzen op bepaalde punten.
-
-![](/5VWO/TW4/veldlijnen.png)
-
-Buiten de magneet lopen de veldlijnen van noord naar zuid; binnen de magneet lopen ze van zuid naar noord.
-
-Hoe dichter de lijnen bij elkaar lopen, hoe sterker de magneet is.
-
 ## Magneten
 
 Als je een magneet bij een niet-magnetische stof houdt, gaan de gebiedjes in de stof allemaal dezelfde kant op wijzen en wordt de stof (tijdelijk) ook magnetisch.
@@ -949,7 +947,15 @@ Als je een magneet bij een niet-magnetische stof houdt, gaan de gebiedjes in de 
 
 ## Magnetische velden
 
-De magnetische veldsterkte (\\(B\\)) bepaalt hoe hard een magneet aan een andere magneet trekt.
+Magnetische velden visualiseren de aantrekkende en afstotende werking van magneten aan de hand van veldlijnen.
+
+Een kompasnaald is een kleine magneet die altijd (met zijn noordpool) naar de zuidpool van een andere magneet wijst. Magnetische veldlijnen geven aan in welke richting een kompasnaald zou wijzen op bepaalde punten.
+
+![](/5VWO/TW4/veldlijnen.png)
+
+Buiten de magneet lopen de veldlijnen van noord naar zuid; binnen de magneet lopen ze van zuid naar noord.
+
+Hoe dichter de lijnen bij elkaar lopen, hoe sterker de magneet is. De **magnetische veldsterkte** (\\(B\\)) bepaalt hoe sterk een magneet aan een andere magneet trekt.
 
 Veldsterkte is een vectorgrootheid. Dat betekent dat als je twee magneten naast elkaar hebt, je hun veldsterktes bij elkaar optelt om de richting van het gecombineerde magneetveld te bepalen.
 
@@ -960,6 +966,37 @@ Veldsterkte is een vectorgrootheid. Dat betekent dat als je twee magneten naast 
 <summary>Aardmagnetisch veld</summary>
 <p>De aarde heeft een magnetisch veld dat waarschijnlijk wordt veroorzaakt door de ijzeren kern.</p>
 <p>De magnetische zuidpool bevindt zich rond de geografische noordpool en andersom. Daarom wijst de noordpool van een kompasnaald in de richting van het geografische noorden.</p>
+</details>
+
+## Elektrische velden
+
+Elektrische velden visualiseren de aantrekkende en afstotende werking van geladen deeltjes, vergelijkbaar met magneetvelden.
+
+De veldlijnen geven aan welke kant een positief geladen deeltje zich op zou bewegen. Je kan ook onthouden dat de veldlijnen van + naar - lopen. In een elektrisch veld hoeven de veldlijnen niet gesloten te zijn. Een elektrisch veld kan dus een **monopool** hebben:
+
+![](/6VWO/TW1/elektrische-velden-deeltjes.png)
+
+Als een elektrisch veld geconcentreerd is in een punt (zoals hierboven), noemen we het **radiaal**. Als de veldlijnen evenwijdig lopen (aka tussen twee platen), noemen we het **homogeen**.
+
+Hoe dichter de veldlijnen bij elkaar lopen, hoe sterker het elektrisch veld. De **elektrische veldsterkte** (\\(\vec{E}\\)) in N/C geeft aan hoe groot de elektrische kracht op een geladen deeltje op dat punt in het veld zou zijn:
+
+\\[\vec{E} = F_{el}/q\\]
+
+<details>
+<summary>Elektrische kracht & energie</summary>
+<p>Door de formules voor de elektrische kracht en veldsterkte te combineren kan je de veldsterkte in een punt berekenen, gegeven de afstand \\(r\\) tot het midden van een radiaal elektrisch veld:</p>
+<p>\[\vec{E} q = f \frac{q_1q_2}{r^2} \implies \vec{E} = f \frac{q_{\text{veld}}}{r^2}\]</p>
+<p>Tot slot is de elektrische energie de arbeid van de elektrische kracht:</p>
+<p>\[E_{el} = F_{el} \cdot r = f \frac{q_1q_2}{r} = \vec{E}qr\]</p>
+</details>
+
+<details open>
+<summary>Verschillen tussen magnetische (\(B\)) en elektrische (\(\vec{E}\)) velden</summary>
+<ul>
+<li>Een elektrisch veld kan een monopool hebben, een magnetisch veld niet.</li>
+<li>\(F_l\) werkt alleen op bewegende lading, \(F\_{el}\) werkt op alle lading.</li>
+<li>\(F\_{el}\) werkt in de richting van de snelheid, \(F\_{l}\) loodrecht daarop. Daardoor kan een elektrisch veld deeltjes versnellen, maar een magnetisch veld alleen deeltjes afbuigen.</li>
+</ul>
 </details>
 
 ## Elektromagneten
@@ -995,6 +1032,13 @@ Als de stroomsterkte en magnetische veldsterkte evenwijdig zijn, is er geen Lore
 De grootte van de Lorentzkracht op een individueel geladen deeltje bereken je als:
 
 \\[F_l = Bqv\\]
+
+De Lorentzkracht werkt alleen op _bewegende_ deeltjes en staat loodrecht op de snelheid van het deeltje. Daardoor maakt het deeltje een eenparige cirkelbeweging, waarbij geldt:
+
+\\[F_l = F_{mpz}\\]
+\\[Bqv = \frac{mv^2}{r} \implies Bqr = mv\\]
+
+De \\(r\\) van de cirkelbeweging noemen we de Larmorstraal.
 
 ### Stroomdraad
 
