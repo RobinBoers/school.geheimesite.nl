@@ -3,24 +3,13 @@
 required ruby
 
 DIST=_site
-REMOTE=s11
-DOMAIN=school.geheimesite.nl
 
 FORMAT="prettier --log-level warn --write"
 JEKYLL="bundle exec jekyll"
-DEPLOY="rsync -ciavuP --delete"
 
 setup() {
   gem install bundler
   bundle install
-}
-
-deploy() {
-  if [ -d $DIST ]; then
-    $DEPLOY $DIST/ $REMOTE:domains/$DOMAIN/public_html
-  else
-    err "'$DIST' does not exist."
-  fi
 }
 
 format() {
