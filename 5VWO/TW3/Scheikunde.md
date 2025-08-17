@@ -98,16 +98,16 @@ Stel je hebt een oplossing met \\(\ce{[HF]}\\) en \\(\ce{[F-]}\\) met een pH van
 
 Je wil de verhouding \\(\ce{[HF]:[F-]}\\) weten. Stel eerst de \\(K_Z\\) op:
 
-\\[K_B = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}} = 6.3 \cdot 10^{-4}\\]
+\\[K_Z = \frac{\ce{[H3O+][F-]}}{\ce{[HF]}} = 6.3 \cdot 10^{-4}\\]
 
 Als je nu beide kanten door \\(\ce{[H3O+]}\\) deelt en de breuk omdraait:
 
-\\[\frac{K_B}{\ce{[H3O+]}} = \frac{\ce{[F-]}}{\ce{[HF]}}\\]
-\\[\frac{\ce{[H3O+]}}{K_B} = \frac{\ce{[HF]}}{\ce{[F-]}}\\]
+\\[\frac{K_Z}{\ce{[H3O+]}} = \frac{\ce{[F-]}}{\ce{[HF]}}\\]
+\\[\frac{\ce{[H3O+]}}{K_Z} = \frac{\ce{[HF]}}{\ce{[F-]}}\\]
 
-Je weet \\(\ce{[H3O+]}\\) en de \\(K_B\\), dus je kan nu de verhouding berekenen door die in te vullen:
+Je weet \\(\ce{[H3O+]}\\) en de \\(K_Z\\), dus je kan nu de verhouding berekenen door die in te vullen:
 
-\\[\frac{\ce{[H3O+]}}{K_B} = \frac{0.01}{6.3 \cdot 10^{-4}} = 15.873 : 1\\]
+\\[\frac{\ce{[H3O+]}}{K_Z} = \frac{0.01}{6.3 \cdot 10^{-4}} = 15.873 : 1\\]
 
 ## Omzettingspercentage
 

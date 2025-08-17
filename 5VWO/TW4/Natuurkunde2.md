@@ -747,7 +747,7 @@ Het faseverschil (\\(\Delta \varphi\\)) is het verschil in fase tussen twee tril
 
 ### In fase en tegenfase
 
-Als \\(\varphi*{red} = 0\\), zijn de golven in fase. Als je ze dan optelt versterken ze elkaar. Als \\(\varphi*{red} = \frac{1}{2}\\), zijn de golven in tegenfase. Bij optellen heffen ze elkaar dan op.
+Als \\(\varphi\_{red} = 0\\), zijn de golven in fase. Als je ze dan optelt versterken ze elkaar. Als \\(\varphi\_{red} = \frac{1}{2}\\), zijn de golven in tegenfase. Bij optellen heffen ze elkaar dan op.
 
 ![](/5VWO/TW1/faseverschil.png)
 
@@ -840,7 +840,7 @@ De frequentie is omgekeerd evenredig met de golflengte (\\(f = v / \lambda\\)), 
 
 # Magnetisme
 
-Zie voor nu [de vorige samenvatting](/5VWO/TW4/Natuurkunde.md).
+Zie voor nu [de vorige samenvatting](Natuurkunde.md).
 
 # Toepassingen
 
