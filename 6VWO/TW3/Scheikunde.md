@@ -92,7 +92,7 @@ Er zijn twee soorten analysemethoden:
 
 ### Titratie (<small>kwantitatief</small>)
 
-Zie [zuur-base](http://localhost:4000/5VWO/TW3/Scheikunde.html#titraties) :). Om eerlijk te zijn betwijfel ik dat we hier toetsvragen over gaan krijgen trouwens.
+Zie [zuur-base](/5VWO/TW3/Scheikunde.html#titraties) :). Om eerlijk te zijn betwijfel ik dat we hier toetsvragen over gaan krijgen trouwens.
 
 ### Colorimetrie (<small>kwantitatief</small>)
 
