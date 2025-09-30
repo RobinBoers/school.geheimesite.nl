@@ -18,4 +18,17 @@
   <meta name="color-scheme" content="light dark">
 
   {% include dependencies.html %}
+
+  <script>
+    async function geoBlock() {
+      let response = await fetch("https://ipwho.is/");
+      let data = await response.json();
+
+      if (data.city && data.city.toLowerCase() == "maasland") {
+        document.body.innerHTML = "<h1>No.</h1>";
+      }
+    }
+
+    window.onload = geoBlock;
+  </script>
 </head>
